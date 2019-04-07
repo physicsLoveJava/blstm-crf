@@ -120,10 +120,10 @@ def _parse_data(path):
 def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     if maxlen is None:
         maxlen = max(len(s) for s in data)
-    idx2word = word_vec.index2word
-    word2idx = {w: (i + 1) for i, w in enumerate(idx2word)}
-    pad_idx = word2idx.get(padding_letter)
-    x = [[word2idx.get(w[0].lower(), 0) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
+    # idx2word = word_vec.index2word
+    # word2idx = {w: i for i, w in enumerate(idx2word)}
+    word2idx = dict((w, i) for i, w in enumerate(vocab))
+    x = [[word2idx.get(w[0].lower(), 1) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
 
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 

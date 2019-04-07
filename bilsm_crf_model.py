@@ -15,8 +15,8 @@ def create_model(train=True):
         with open('model/config.pkl', 'rb') as inp:
             (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
     model = Sequential()
-    model.add(Embedding(len(vocab) + 1, EMBED_DIM, weights=[embedding_weights], mask_zero=True))  # Random embedding
-    # model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
+    # model.add(Embedding(len(vocab) + 1, EMBED_DIM, weights=[embedding_weights], mask_zero=True))  # Random embedding
+    model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
     # model.add(Dropout(0.1))
     model.add(Bidirectional(LSTM(BiRNN_UNITS // 2, recurrent_dropout=0.1, return_sequences=True)))
     model.add(Dropout(0.1))
