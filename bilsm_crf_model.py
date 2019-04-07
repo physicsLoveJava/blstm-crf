@@ -4,8 +4,8 @@ from keras_contrib.layers import CRF
 import process_data
 import pickle
 
-EMBED_DIM = 300
-BiRNN_UNITS = 300
+EMBED_DIM = 200
+BiRNN_UNITS = 200
 
 
 def create_model(train=True):

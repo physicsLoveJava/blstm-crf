@@ -12,7 +12,7 @@ test_path = 'data/test'
 dev_path = 'data/dev'
 sentences_path = 'data/sentences/'
 padding_letter = '<pad>'
-embedding_size = 300
+embedding_size = 200
 
 
 def transform_only_sentences(path, name):
@@ -105,9 +105,14 @@ def _parse_data(path):
     for f in file_list:
         with open(f, encoding='utf-8') as fd:
             lines = fd.readlines()
-            first = [lines[i].split() for i in range(0, len(lines), 2)]
-            second = [lines[i].split() for i in range(1, len(lines), 2)]
-            data.append([[p, q] for i in first for j in second for (p, q) in zip(i, j)])
+            idx = 0
+            for line in lines:
+                if idx % 2 == 0:
+                    first = line.split()
+                else:
+                    second = line.split()
+                    data.append([[first[i], second[i]] for i, w in enumerate(second)])
+                idx = idx + 1
             fd.close()
     return data
 
@@ -140,5 +145,6 @@ def process_data(data, vocab, maxlen=100):
     x = pad_sequences([x], maxlen)  # left padding
     return x, length
 
+
 # if __name__ == '__main__':
-#     load_data()
+#     train = _parse_data(train_path)
