@@ -16,8 +16,10 @@ def create_model(train=True):
             (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
     model = Sequential()
     model.add(Embedding(len(vocab) + 1, EMBED_DIM, weights=[embedding_weights], mask_zero=True))  # Random embedding
-    model.add(Dropout(0.1))
+    # model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
+    # model.add(Dropout(0.1))
     model.add(Bidirectional(LSTM(BiRNN_UNITS // 2, return_sequences=True)))
+    model.add(Dropout(0.1))
     crf = CRF(len(chunk_tags), sparse_target=True)
     model.add(crf)
     model.summary()

@@ -127,9 +127,9 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
 
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 
-    x = pad_sequences(x, maxlen, padding='post', value=pad_idx)  # left padding
+    x = pad_sequences(x, maxlen)  # left padding
 
-    y_chunk = pad_sequences(y_chunk, maxlen, padding='post', value=-1)
+    y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
 
     if onehot:
         y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
