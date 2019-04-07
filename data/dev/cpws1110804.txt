@@ -1,0 +1,12 @@
+原告 杨＊＊诉称 原 被告 2005年 1月 人 介绍 相识 恋爱 同年 11月 9日 登记 结婚
+O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+2006年 3月 6日 生育 女孩 取名 晏丽芸
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 不久 被告 脾气 暴躁 喜欢 打牌 玩耍 不良 习性 逐渐 显现 原告 哺养 小孩 期间 家中 无 经济 来源 原 被告 常 家庭 琐事 产生 纠纷
+O O B_Person O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2009年 4月 双方 琐事 发生 争吵 被告 竟 殴打 原告 致 处 青肿 后 医院 门诊 治疗
+B_Time I_Time O O O B_FamilyConflict B_Person O O B_Person O I_DomesticViolence I_DomesticViolence O O O O
+原告 外出 打工 原告 打工 以来 被告 从未 探望 关心 双方 分居 已 三 年 夫妻 感情 已经 破裂
+O O O O O O O O O O O B_Separation O B_Duration I_Duration O O O O
+被告晏 辩称 原告 诉 婚姻 基础 不好 被告 原告 实施 家庭 暴力 征地款 占 已 均 不 属实
+O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O B_Negated I_Negated

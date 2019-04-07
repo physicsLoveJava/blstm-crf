@@ -1,0 +1,14 @@
+原被告 1996年 2月 1日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 女 刘畅 现 21 岁 上 大学
+O B_Bear B_Gender B_Name O B_Age I_Age O O
+婚后 感情 生活 琐事 发生 口角
+O O O O B_FamilyConflict I_FamilyConflict
+被告 脾气 暴躁
+B_Person B_BadHabit I_BadHabit
+家庭 暴力 写 家庭 暴力 协议书 原告 怕 孩子 受到 伤害 忍
+B_DomesticViolence I_DomesticViolence O O O O B_Person O O O O O
+2011年 11月 25日 原告 忍无可忍 情况 下 带 孩子 回 娘家 寄 住 娘家
+B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation I_Separation O O O
+期间 被告 曾 手机 短信 里 辱骂 原告 原告 孩子 考 大学 忍让
+O B_Person O O O O B_DomesticViolence B_Person O O O O O

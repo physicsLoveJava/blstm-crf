@@ -1,0 +1,6 @@
+原告 王某 甲诉 称 原 被告 2006年 媒人 吴 某甲 介绍 相识 后 原告 被告 去 衡阳 打工 2006年 7月 27日 风俗 举行 婚礼 2009年 2月 2日 补办 结婚证
+O O O O O O B_Time O O O O B_Know O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O
+2006年 12月 2日 生育 女 取名 廖某乙 2009年 2月 8日 生育 子 取名 廖某丙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 性格 不合 生活 琐事 吵闹 去 打工 聚 少 被告 沉迷 玩 手机 游戏 导致 夫妻 间 吵闹 夫妻 感情 产生 裂痕
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O

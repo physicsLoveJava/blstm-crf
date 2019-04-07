@@ -1,0 +1,8 @@
+原告 被告 均 系 再婚 经人介绍 相识 2016年 8月 19日 宁河区 民政局 登记 结婚
+O O O O B_Remarry O B_Know B_Time I_Time I_Time O O O B_BeInLove
+双方 婚前 缺少 了解
+O O B_FamilyConflict I_FamilyConflict
+生活 习惯 脾气 性格 不合 难以 沟通 无法 达成 一致 意见
+O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O
+被告 挣 钱 都 保存 原告 花 分 都 找 被告 去 无法 感受 夫妻 间 感情 长 时间 生活 原告 实在 难以忍受 时至今日 双方 分居 已 年 余 间 无 联系 无 夫妻 义务 综上 结束 名存实亡 婚姻 特诉 贵院
+O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O B_Separation O I_Duration I_Duration O O O O O O O O O O O O

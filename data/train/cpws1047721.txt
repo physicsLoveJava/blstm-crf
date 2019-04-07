@@ -1,0 +1,8 @@
+原告 起诉 称 原 被告 经人介绍 1999年 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 儿子 戴 某乙
+O O O O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+儿子 出生 后 双方 夫妻 生活 不 和谐
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 原告 隐瞒 肝脏 方面 疾病 直到 婚后 久 才 告知 原告 原告 造成 大 心理 压力 现 双方 已 分 居七 八 年 夫妻 感情 已 彻底 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O
+被告 答辩 称 原 被告 认识 结婚 年 时间 婚后 不 存在 夫妻 生活 不 和谐 情况
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

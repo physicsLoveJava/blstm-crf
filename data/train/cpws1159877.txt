@@ -1,0 +1,10 @@
+原告 李某 甲诉 称 经人介绍 原 被告 2007年 9月 举行 结婚 仪式 2008年 5月 补办 结婚证
+O O O O O O O O O O O O B_Time I_Time O B_Marry
+婚后 双方 性格 不 合常 生气
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 女儿 半 岁 后 2011年 初 分居 今
+O O O O O B_Time O B_Separation I_Time
+原告 要求 被告 离婚 原告 抚养 男孩 被告 抚养 女孩 依法 分割 财产
+B_Person B_DivorceLawsuit O O O O O O O O O O O
+原告 2013年 4月 离开 双方 共同 经营 蔬菜 柜 郑州市 上街区 思达 超市 被告 分居 今
+O B_Time I_Time O O O O O O O O O O O B_Separation I_Time

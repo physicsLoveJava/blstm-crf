@@ -1,0 +1,10 @@
+原 被告 系 夫妻 关系 原 被告 2010年 经人介绍 相互 认识 2011年 八月 初六 举行 结婚 仪式 后 2012年 3月 12日 补办 婚姻 登记 手续
+O O O O O O O B_Time O O B_Know O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原 被告 婚后 2012年 12月 19日 生育 女孩 名叫 赵梦蕊
+O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+现年 5 周岁
+O B_Age I_Age
+结婚 以来 被告 不务正业 家庭 琐事 原告 生气 吵架
+O O O O O O O B_FamilyConflict I_FamilyConflict
+有时 被告 父亲 找茬 殴打 原告 致使 原告 无法 正常 生活
+O B_Person I_Person O B_DomesticViolence B_Person O O O O O

@@ -1,0 +1,6 @@
+原告 李 某某 诉称 原 被告 1997年 云南 临沧 打工 认识 恋爱 1997年 4月 16日 合川区 三庙镇 人民政府 登记 结婚 1998年 3月 13日 生育 子 刘某甲
+O O O O O O B_Time O O O O B_BeInLove B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 恋爱 时间 短 未 恋爱 时间 对方 不够 了解 婚后 被告 性格 粗暴 动手 人 原 被告 生活 琐事 吵架 打架
+O B_Person O O O O O O O O O O O O O I_DomesticViolence I_DomesticViolence O O O O B_FamilyConflict I_FamilyConflict
+被告 不 原告 子女 生活费 导致 原告 2009年 12月 外出 打工 今 分居 生活 被告 威胁 原告 全家 弄 死 致使 原告 不 敢 被告 见面 现 夫妻 感情 彻底 破裂 起诉 要求 1 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O

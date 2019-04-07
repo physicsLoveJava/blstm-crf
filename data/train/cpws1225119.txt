@@ -1,0 +1,4 @@
+原告 刘 某某 诉称 原 被告 系 自由 恋爱 2010年 6月 7日 登记 结婚 婚后 双方 未 生育 子女
+O O O O O O O O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O
+婚后 共同 生活 中 被告 父母 嫌弃 原告 被告 常 生活 琐事 原告 争吵 打架 原告 无奈 2012年 4月 离家 出走 双方 自此 再 无 联系 夫妻 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict B_DomesticViolence O O B_Time I_Time B_Separation I_Separation O O O O O O O O O

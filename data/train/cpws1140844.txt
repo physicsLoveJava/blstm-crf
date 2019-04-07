@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2005年 10月 相识 2006年 7月 14日 登记 结婚 2007年 9月 5日 生育 共同 长 女 彭紫娟 2011年 9月 18日 生育 共同 次 女 彭 煕谊
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear O B_Gender I_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender I_Gender B_Name I_Name
+原 被告 感情 不和 2012年 10月 分居 今
+O O O O B_Time I_Time B_Separation I_Time
+2013年 5月 平江县 人民法院 判决 不准 许 双方 离婚 后 双方 感情 进一步 恶化 没有 联系 夫妻 感情 已经 彻底 破裂 现特 法院 提起 离婚 诉讼 请求 判决 准许 原 被告 离婚 两 共同 女儿 每人 抚养 依法 分割 共同 财产
+B_Time I_Time B_Court I_Court O B_Judgment I_Judgment O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

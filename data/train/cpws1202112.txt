@@ -1,0 +1,6 @@
+原告 程某 诉称 2001年 原告 被告 经人介绍 认识 后 双方 居 2003年 农历 2月 13日 生育 儿子 相甲 2005年 农历 11月 6日 生育 女儿 相乙
+O O O B_Time O O O B_Know O O O B_Time I_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender I_Name
+2009年 5月 26日 原 被告 苍山县 民政局 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry O O
+原、被告 认识 时 原告 刚 成年 原告 感情 问题 认识 不 深 被告 原告 大八 岁 双方 没有 深入 了解 情况 下 盲目 结合 原 被告 共同 生活 期间 双方 无 共同语言 被告 行为 不 检点 导致 原 被告 脆弱 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O

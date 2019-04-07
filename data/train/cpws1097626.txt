@@ -1,0 +1,2 @@
+原告 马某 诉称 被告 经人介绍 相识 2009年 办理 结婚 登记 手续 已 生育 女孩 双方 性格 不合 被告 父母 暴力 行为 现 夫妻 感情 确 已 破裂 请求 法院 判决 被告 离婚
+O O O O O B_Know B_Time B_Marry I_Marry I_Marry I_Marry O B_Bear B_Gender O O O B_Person I_Person B_DomesticViolence I_DomesticViolence O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

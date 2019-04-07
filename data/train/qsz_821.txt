@@ -1,0 +1,4 @@
+原被告 经人介绍 2001年 相 j 寸 2002年 4月 9日 登记 结婚 2002年 8月 12日 生 女孩 李鑫 璃 2007年 11月 30日 生 女孩 李梓硕
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 不务 E 业 生气 吵架 原被告 之间 没有 共同语 T2015 年 6月份 左右 原被告 生气 原告 回 娘家 居住 至今 原被告 乙 受 联系
+O O O O O B_FamilyConflict I_FamilyConflict O O O O B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation B_Time O O O O

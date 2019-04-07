@@ -1,0 +1,2 @@
+原被告系 夫妻 关系 2008年 8月 双方 自由 恋爱 后 建立 恋爱 关系 2010年 3月 12日 登记 结婚 婚后生 女 张俪萱 原被告 结婚 初期 感情 尚 被告 生育 孩子 后 双方 常 家庭 琐事 发生 争吵 被告 性格 比较 强势 有时 被告 原告 争吵 时 动手 原告 原告 看到 孩子 小 亲属 劝说 原告 都 忍让 时间 推移 被告 认为 原告 忍让 当做 原告 软弱 欺 行为 不 加 节制
+O O O B_Time I_Time O B_BeInLove I_BeInLove O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Bear I_Gender B_Name O O O O O O O O O B_Person O O O B_FamilyConflict I_FamilyConflict O O O O O B_Person O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O

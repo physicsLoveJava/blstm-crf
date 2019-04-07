@@ -1,0 +1,4 @@
+原被告 双方 广 2015年 6月 相识 建立 恋爱 关系 2015年 10月 26H 办理 结婚 登记 手续 双方 均 系 丙婚 婚后 未 生育 子女
+O O O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O
+丁 双方 均 系 再婚 仅 相识 3 月 使 登记 结婚 婚后 未能 建立 真挚 夫妻 感情 常 生活 琐事 争吵 打架 特别 被告 带 子 石伟豪 始终 原告 关系 不 和睦 造成 造成 双方 矛盾 升级 致 双方 感情 彻底 破
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O

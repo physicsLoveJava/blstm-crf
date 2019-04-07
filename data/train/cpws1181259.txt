@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2007年 自行 相识 2009年 7月 10日 登记 结婚 于×××× 年×× 月×× 日 生育 儿子 张某乙
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender
+2012年 10月 原 被告 发生 争吵 后 搬 回 娘家 居住
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

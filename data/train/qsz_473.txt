@@ -1,0 +1,2 @@
+2011年 原 被告 经人介绍 确立 恋爱 关系 2012年 1月 1日 办理 结婚 登记 手续 2013年 3月 17日 生 女儿 冯 静怡 婚后 双方 感情 近 三 年 被告 无端 怀疑 原告 外边 有人 采用 暴力 相 威胁 原告 一再 忍让 被告 不 改 变本加厉
+B_Time O O O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O B_Person O O O O O B_DomesticViolence I_DomesticViolence O B_FamilyConflict B_Person O O O O O O

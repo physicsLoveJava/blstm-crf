@@ -1,0 +1,12 @@
+原告 冯 某某 诉称 原 被告 系 经人介绍 2009年 夏天 相识 2009年 夏天 订婚
+O O O O O O O O B_Time I_Time B_Know O O O
+2010年 农历 11月 18日 举行 婚礼
+B_Time I_Time I_Time I_Time O B_Marry
+婚后 共同 生活 期间 发现 脾气 性格 志向 存在 诸多 不同 家庭 琐事 吵闹
+O O O O O O O O O O O O O B_FamilyConflict
+2012年 12月 26日 被告 家庭 琐事 殴打 原告 原告 回 娘家 居住 今
+B_Time I_Time I_Time O O O O O O B_Separation I_Separation I_Separation I_Time
+期间 有人 说 合 事 原告 已 心灰意冷
+O O O O O B_Person O O
+请求 人民法院 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

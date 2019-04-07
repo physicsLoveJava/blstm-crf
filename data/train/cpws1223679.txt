@@ -1,0 +1,10 @@
+原告 欧某 诉称 原 被告 2003年 被告 姐姐 介绍 认识 2004年 同居 生活 2005年 9月 6日 登记 结婚 2006年 3月 3日 生育 女 欧 某某 2010年 4月 13日 生育 子 欧 小某
+O O O O O B_Time O O O B_Know O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 双方 性格 差异 太 大 夫妻 感情 不 融洽 被告 子女 缺乏 应有 关爱 照顾 子女 关系 冷漠 子女 出生 后 都 原告 父母 带 养 承担 生活费 被告 收入 从未 用于 家庭 为此 原 被告 吵闹 不 休 夫妻 关系 逐渐 恶化 后 双方 2013年 正月 分别 外出 打工 夫妻 自此 分居 偶 电话 联系 都 吵 夫妻 感情 已 完全 破裂
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Time I_Time O O O O O B_Separation O O O O B_FamilyConflict O O O O O
+请求 法院 判决 1 准予 原 被告 离婚
+O O O O O O O B_DivorceLawsuit
+3 答辩 人 原告 婚后 从未 家庭 琐事 发生 争吵 2013年 正月 夫妻 分别 外出 打工 后 原告 婚外情 怕 答辩 人 发现 先是 答辩 人 假 地址 后 更改 手机 号 答辩 人 找 不
+O O O O O O O O O O O O O O O O O B_Person B_Derailed O O O O O O O O O O O O O O O O O
+4 答辩 人 原告 厂 打工 所有 收入 全部 交 原告 转存 父亲 欧光斌 账户 2009年 原告 父亲 欧光斌 名义 县城 九疑南路 购买 门 面 答辩 人 原告 夫妻 共同 财产 变成 家庭 财产
+O O O O O O O O O O O O O O O O O O O O O O O I_Wealth I_Wealth O O O O B_CommonProperty I_CommonProperty O O O

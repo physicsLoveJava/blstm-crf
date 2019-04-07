@@ -1,0 +1,6 @@
+原告 严某 诉称 被告 2010年 6月 经人介绍 认识 2011年 3月 24日 登记 结婚 婚后 生育 男孩
+O O O O B_Time I_Time B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender
+婚前 感情 婚后 二 人 性格 脾气 不 被告 脾气 暴躁 常 琐事 吵闹 还 动手
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit O O O O B_DomesticViolence
+婚后 没有 大 矛盾 冲突 原告 诉称 脾气 暴躁 琐事 动手 根本 不 事实
+O B_Negated O O O O O O O O O O O O

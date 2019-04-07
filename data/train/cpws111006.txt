@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 认识 2007年 2月 14日 婚姻 机关 登记 结婚
+O O O O O O B_Know O O O O O B_Marry I_Marry
+原告 二婚 原告 杨 某某 被告 李 某某 结婚 后 被告 去 新疆 打工 不 回来 原告 不管 不 问 原告 打电话 商量 此事 被告 拒 不 理睬 原告 认为 夫妻 感情 已 破裂
+B_Person B_Remarry O O O O O O B_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2012年 2月 3日 贵院 提起 诉讼 一审 判决 不 准 离婚
+B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

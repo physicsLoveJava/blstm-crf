@@ -1,0 +1,6 @@
+原告 赵 某某 诉称 原 被告 1998年 自由 恋爱 认识 2002年 12月 27日 郯城县 民政局 办理 结婚 登记 手续 2003年 12月 5日 举行 婚礼 仪式 2005年 8月 22日 生育 女孩 李某
+O O O O O O B_Time B_BeInLove I_BeInLove B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O O O O O B_Time I_Time I_Time B_Bear I_Gender B_Name
+双方 性格 不和 常 家庭 琐事 发生 吵闹 导致 夫妻 感情 破裂 原 被告 双方 原告 2008年 5月 生 完 孩子 分居 生活 今
+B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O B_Time I_Time O O O B_Separation O I_Time
+原告 提起 诉讼 请求 人民法院 判 令 原 被告 离婚 婚生 女孩 李某 原告 抚养 被告 支付 抚养费 夫妻 财产 依法 分割 本案 诉讼 费用 被告 承担
+B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O

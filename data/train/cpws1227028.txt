@@ -1,0 +1,8 @@
+原告 刘梅诉 称 原 被告 2004年 农历 8月份 相识 2006年 9月 22日 订婚 同年 10月 24日 举行 结婚 仪式 2007年 4月 25日 生育 男孩 卢锦江 2011年 4月 13日 补办 结婚 登记
+O O O O O B_Time I_Time I_Time B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry
+婚后 夫妻 感情 尚 2008年 被告 赌博 夫妻 感情 逐渐 恶化 被告 无端 打骂 原告 夜 不 宿 名 女子 厮混 2012年 11月 原告 被告 分居 后 被告 春节 现在 数次 去 原告 娘家 原告 亲属 发生 纠纷
+O O O O O B_Person B_BadHabit O O O O O O B_DomesticViolence O O O O I_Derailed I_Derailed I_Derailed B_Time I_Time O O B_Separation O O O O O O O O O O O O
+现 请求 准予 原 被告 离婚 孩子 原告 抚养 返还 原告 陪嫁物
+O O O O O B_DivorceLawsuit O O O O O O
+被告 卢建华 辩称 被告 2008年 麻将 未 参与 赌博 未 女人 厮混
+O O O O O O B_Negated I_Negated I_Negated B_Negated I_Negated I_Negated

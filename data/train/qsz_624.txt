@@ -1,0 +1,2 @@
+协原告 被告 经人介绍 相识 1992年 8月 13日 登记 结婚 婚生 4 子 已 成年
+O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear O B_Gender B_Age I_Age

@@ -1,0 +1,2 @@
+原告 被告 2017年 2月 28日 登记 结婚 双方 结婚 后 未 生育 子女
+O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Negated B_Bear O

@@ -1,0 +1,4 @@
+原告纪 某某 诉称 原 被告 2006年 经人介绍 相识 建立 恋爱 关系
+O O O O O B_Time O B_Know O B_BeInLove O
+2009年 5月 4日 登记 结婚 2011年 元月 10日 生育 子
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender

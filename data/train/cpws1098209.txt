@@ -1,0 +1,2 @@
+原告 单 某某 诉称 双方 婚后 家庭 琐事 争吵 被告 原告 实施 冷 暴力 2013年 9月 15日 原告 赶出 家门 双方 分居 今 现 夫妻 感情 已 破裂 起诉 要求 被告 离婚
+O O O O O O O O B_FamilyConflict B_Person B_Person O B_DomesticViolence I_DomesticViolence B_Time I_Time I_Time O O O O B_Separation O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,8 @@
+原告 张某 乙诉 称 被告 2005年 10月 确认 恋爱 关系 2006年 4月 26日 北京 海淀区 双榆树 街道 办事处 领取 结婚证
+O O O O O B_Time I_Time O B_BeInLove O B_Time I_Time I_Time O O O O O B_Marry I_Marry
+2006年 7月 贵阳 工作 后 双方 争吵 次 吵架 中 原告 还 割 伤 手腕 严重 影响 夫妻 感情
+O O O O O O B_FamilyConflict O O O O O O O O O O O O
+2008年 11月 原告 曾 提出 协议 离婚 2009年 7月 夫妻 感情 不和 原告 回到 老家 河北省 廊坊市 被告 继续 留 贵阳 双方 无 联系
+O O O O O O O B_Time I_Time O O O O B_Separation I_Separation O O O O O O O O O
+婚前 双方 缺乏 了解 感情 基础 薄弱 领取 结婚证 时 未经 双方 父母 同意 至今 未 得到 双方 父母 认可 正式 完婚 分居 没有 正常 夫妻 生活 无 共同 财产 无 孩子 夫妻 感情 已 完全 破裂 诉至法院 请求 判 令 1 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

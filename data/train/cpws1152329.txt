@@ -1,0 +1,4 @@
+原告 严某 甲诉 称 原 被告 介绍 相识 婚后 生育 子
+O O O O O O O B_Know O B_Bear B_Gender
+婚前 原告 被告 缺乏 了解 婚后 双方 性格 不合 发生 吵 致 夫妻 感情 破裂
+O O O O O O O O O O B_FamilyConflict O O O O

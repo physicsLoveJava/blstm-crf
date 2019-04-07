@@ -1,0 +1,4 @@
+原告 冯 某某 诉称 被告 2000年 经人介绍 相识 2005年 10月 26日 登记 结婚 2007年 2月 15日 生 女儿 赵某甲
+O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 发现 双方 性格 差异 大 无 共同语言 双方 琐事 发生 矛盾 产生 争执
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

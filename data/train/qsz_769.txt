@@ -1,0 +1,4 @@
+原被告系 夫妻 关系 2010年 10月 26日 天津市 南开区 民政局 依法 登记 结婚 婚后 2011年 6月 16日 生 女 李雅君
+O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚姻 初期 感情 良好 被告 2016年 11月 本单位 天津市 郁美净 集团 有限公司 袋露 车间 同组 同事 李英丽 搞 暖昧 关系 发送 暖 昧 露骨 短信 暴露 照片
+O O O O O B_Person B_Time I_Time O O O O O O O O O O B_Derailed I_Derailed I_Derailed O O O O O O O

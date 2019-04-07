@@ -1,0 +1,12 @@
+原告 俞某 甲 起诉 称 原 被告 经人介绍 相识 于×××× 年×× 月××日 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 子 俞某乙
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 夫妻 感情 两 人 性格 不合 被告 未 父亲 丈夫 责任 殴打 原告 双方 争执 不 断 原告 曾 2012年 1月 提起 离婚 诉讼 法庭 主持 下达 成 调解 协议 被告 未 履行 调解书 约定 保证 事项
+O O O O O O O B_Person O O O O B_DomesticViolence B_Person O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O
+2012年 7月 原告 提起 离婚 诉讼 法院 判决 不予 准许
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court B_Judgment I_Judgment I_Judgment
+现原 被告 分居 二 年 第三 次 起诉 请求 1 判 令 解除 原 被告 间 婚姻 关系
+O O B_Separation B_Duration I_Duration O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O
+证明 原 被告 ×××× 年×× 月×× 日 登记 结婚 事实
+O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O
+证明 原告 曾 2012年 7月 30日 提起 离婚 诉讼 法院 判决 不予 准许 离婚 事实
+O O O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court B_Judgment I_Judgment I_Judgment O

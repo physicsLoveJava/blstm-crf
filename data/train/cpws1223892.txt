@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1987年 农历 2月 人 介绍 相识 恋爱 1987年 农历 9月 结婚 婚后 生育 二 子女 均 已 工作 独立 生活
+O O O O O B_Time I_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry O B_Bear O B_Gender O O O O O
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 发生 吵架 闹 离婚
+O O O O O O O O O B_FamilyConflict O O
+1996年 农历 3月 双方 吵架 后 分居 生活 今
+B_Time I_Time I_Time O B_FamilyConflict O B_Separation O I_Time

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 双方 见 次 面 后 便于 2002年 1月 22日 登记 结婚 2002年 11月 20日 生育 女 取名 董 X1
+O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2009年 7月 23日 生 子 取名 董 X2
+B_Time I_Time I_Time O B_Gender O B_Name I_Name
+双方 婚前 了解 少 感情 基础 差 婚后 被告 不务正业 不 履行 家庭 义务 被告 还 酗酒 无端 猜忌 原告 实施 家庭 暴力 原告 看 儿女 面子 上 忍气吞声 双方 夫妻 感情 已 彻底 破裂 现 请求 1 依法 判 令 原 被告 离婚
+O O O O O O O O B_Person O O O O O O O B_BadHabit O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2004年 相识 2006年 xx 月 xx 日 登记 结婚 婚后 2006年 xx 月 xx 日 生 女孩 取名 孙某甲 现 原告 生活
+O O O O O O B_Time B_Know B_Time I_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O
+婚后 原告 发现 双方 性格 不和 家庭 琐事 争吵 2010年 xx 月份 双方 争吵 时 被告 菜刀 原告 肩部 砍 伤 之后 双方 感情 继续 恶化
+O O O O O O O O B_FamilyConflict O O O O O O B_Person O B_Person O B_DomesticViolence I_DomesticViolence O O O O O
+2013年 xx 月份 原 被告 分居 生活 2013年 xx 月底 原告 回 娘家 居住
+B_Time I_Time I_Time O O B_Separation O O O O O O O O

@@ -1,0 +1,8 @@
+原告 高某 诉称 原告 被告 经人介绍 2006年 底 相识 相识 之后 两 月 便 当地 习俗 举行 婚礼
+O O O O O O O O B_Know O O O O O O O O O
+2007年 9月 21日 永顺县 民政局 登记 结婚
+B_Time I_Time I_Time O O O B_Marry
+2008年 冬月 28日 生育 子
+B_Time I_Time I_Time B_Bear I_Gender
+2008年 12月 生育 子 孩子 出生 后 原 被告 感情 越发 深厚
+B_Time I_Time B_Bear I_Gender O O O O O O O O

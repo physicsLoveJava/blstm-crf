@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 认识 2011年 2月 10日 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 育 女 名 刘某 甲 现 2 岁
+O B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+婚后 原被告 双方 矛盾 不 断 被告 性格 偏执 不顾 家庭
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原 被告 结婚 时间 长 生育 女孩 婚后 和睦相处 少 闹 矛盾
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

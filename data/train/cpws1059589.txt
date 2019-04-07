@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 婚后 共同 生活 中 性格 不 家庭 琐事 产生 矛盾 被告 殴打 原告 致 夫妻 感情 不和
+O O O O O O O O O O O O O O O B_Person B_DomesticViolence B_Person O O O O
+2000年 11月 原告 起诉 要求 被告 离婚 审理 中 原告 申请 撤诉
+B_Time I_Time O B_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+2003年 3月 原告 先后 外出 乐山 江苏 务工 被告 分居 生活 双方 互不 履行 夫妻 义务 夫妻 感情 确 已 破裂 现 起诉 要求 被告 离婚
+B_Time I_Time O O O O O O O B_Separation O O O O O O O O O O O O O O O O
+被告 辩称 原 被告 共同 生活 中 原告 不 忠实 夫妻 感情 致 夫妻 感情 破裂
+O O O O O O O B_Person B_Derailed I_Derailed O O O O O O

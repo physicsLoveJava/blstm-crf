@@ -1,0 +1,14 @@
+原告 肖 某某 诉称 被告 2008年 经人介绍 认识 同年 农历 十二月 二十六 农村 习俗 举行 婚礼 后 同居 生活 2009年 10月 22日 补办 结婚 登记 手续
+O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+2009年 12月 8日 生育 大 女儿 朱某甲 2010年 12月 31日 生育 二 女儿 朱某乙 2012年 11月 6日 生育 儿子 朱某丙
+B_Time I_Time I_Time B_Bear O B_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 双方 年龄 差距 大 婚后 发现 被告 酗酒 赌博 不良 习惯 长期 夜 不 宿 酒后 孩子 进行 殴打 辱骂
+O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O I_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2013年 8月 20日 发生 水灾 时 家里 停水 停电 胞妹 想 两 孩子 一起 带 回 娘家 遭到 被告 家人 围殴
+O O O O O O O O O B_Person O O O O O O O O B_Person I_Person B_DomesticViolence
+请求 法院 1 判准 被告 离婚
+B_DivorceLawsuit B_Court O O O O
+被告 朱 某某 辩称 原 告诉 称 双方 认识 举行 婚礼 登记 结婚 生育 子女 情况 属实 不 属实
+O O O O O O O O O O O O B_Marry B_Bear O O B_Negated O O
+不 同意 离婚 原告 称 酗酒 赌博 不良 习惯 酒后 打骂 原告 孩子 都 企图 达到 离婚 目的 编造 家人 围殴 原告 胞妹 更 无中生有 原告 孩子 回 娘家 后 亲戚 上门 劝说 原告 回家 都 遭 拒绝 期间 关心 原告 孩子 认为 夫妻 感情 尚 好 共同 生活 中 家庭 琐事 发生 争吵 不足以 导致 夫妻 感情 破裂
+O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+原 告诉 称 原告 1987年 经人介绍 相识 1988年 登记 结婚
+O O O O B_Time O B_Know B_Time O B_Marry
+1990年 9月 13日 生育 女儿 李
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+1995年 1月 23日 生育 男孩 李
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚后 性格 不合 家庭 琐事 发生 争吵
+O O O O O O O O B_FamilyConflict
+2011年 8月 4日 原告 法院 提起 离婚 诉讼 法院 判决 不准 许原 被告 离婚
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment
+判决 后 原 被告 分居 生活 联系 少 双方 无 好 夫妻 感情 已 破裂 法院 起诉 请求 被告 离婚
+O O O O B_Separation O O O O O O O O O O O O O O O

@@ -1,0 +1,16 @@
+原 被告 双方 2011年 2月 人 介绍 相识 后 建 J 恋爱 义系
+O O O B_Time I_Time O O O O O O B_BeInLove O
+201210月 6日 举行 结婚 仪式 后 同居 生活 2013年 8月 29日 补办 登记 结婚 丁续
+O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+婚后 牛 女 取名 王蕊 现年 3 周 半
+O B_Bear B_Gender O B_Name O B_Age I_Age I_Age
+原告 被告 结婚 初 感情 双方 琐事 争吵
+O O O O O O O B_FamilyConflict
+被告 脾气 暴燥 一点 小事 原告 大吵大闹
+O O O O O O B_FamilyConflict
+被告 却 变本加利 双方 2016年 6月 4日 发生 争吵 后 开 分居
+O O O O B_Time I_Time I_Time O B_FamilyConflict O O B_Separation
+被告 2016年 8月 22日 起诉 离婚
+B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+当时 原告 挽救 双方 婚姻 未 同意 离婚
+O O O O O B_Judgment I_Judgment I_Judgment

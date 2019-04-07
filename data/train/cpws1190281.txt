@@ -1,0 +1,4 @@
+原告 杨 某某 诉称 被告 2008年 3月 登记 结婚 婚后 2009年 正月 生育 男孩 第某 乙
+B_Person O O O O B_Time I_Time O B_Marry O B_Time I_Time B_Bear B_Gender B_Name I_Name
+二 人 婚姻 基础 差 婚后 二 人 性格 不和 被告 长期 使用 家庭 暴力 特别 被告 父亲 毒打 使 原告 彻底 绝望
+O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O B_DomesticViolence I_DomesticViolence O B_Person I_Person O O O O O

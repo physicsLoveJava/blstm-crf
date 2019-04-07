@@ -1,0 +1,8 @@
+原告 田 某某 诉称 原 被告 1993年 4月 人 介绍 相识 1995年 9月 4日 登记 结婚 1997年 4月 26日 生 子 吴 某某
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原 被告 感情 不 睦 被告 酗酒 打骂 原告 致 原告 报警 妇联 救助
+O O O O O O B_Person B_BadHabit B_DomesticViolence B_Person O O O O O
+原告 曾 1996年 法院 起诉 要求 离婚 法院 调解 好
+O O B_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_Judgment I_Judgment I_Judgment
+原告 维护 合法 权益 法院 起诉 请求 判决 调解 准予 原 被告 离婚 一并 处理 婚生子 抚养 事宜
+O O O O O B_DivorceLawsuit O O O O O O O O O O O O

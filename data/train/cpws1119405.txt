@@ -1,0 +1,8 @@
+原告 任某 诉称 被告 自由 恋爱 相识 半 年 后 ×××× 年×× 月×× 日经丰润区 民政局 登记 结婚
+O O O O O O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry
+婚生 儿子 杨某乙 现年 15 岁
+B_Bear B_Gender B_Name O B_Age I_Age
+结婚 初 双方 感情 发现 被告 非常 小心眼 脾气 暴躁 恶语 伤 人 琐事 打架 酗酒 后 无端 怀疑
+O O O O O O O O O O O O O O O B_BadHabit O O O
+2010年 原告 不能 忍受 被告 无端 殴打 曾 起诉 法院 立 调解 案件 后 人 说 撤诉
+O B_Person O O B_Person B_DomesticViolence I_DomesticViolence O B_DivorceLawsuit O O O O O O O B_Judgment

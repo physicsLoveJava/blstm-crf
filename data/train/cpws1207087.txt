@@ -1,0 +1,4 @@
+原告 时 某某 诉称 被告 经人介绍 相识 婚前 缺乏 了解 婚后 发现 被告 隐瞒 年龄 双方 脾气 性格 差异 大 生气 吵架 发生 矛盾 产生 纠葛
+O O O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 4月 2012年 4月 曾 二 次 提起 离婚 诉讼 判决 不 准 离婚 之后 双方 仍 分居 生活 夫妻 关系 未 得到 改善 互不尽 夫妻 义务 夫妻 感情 彻底 破裂 起诉 要求 被告 离婚
+O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O

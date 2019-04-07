@@ -1,0 +1,16 @@
+原 告诉 称 被告 自由 恋爱 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 感情 于×××× 年×× 月×× 日 生育 女 徐某乙
+O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 平时 疑心 重 总是 无端 怀疑 双方 生气 2009年 春天 分居 今
+O O O O O O B_FamilyConflict O O B_Time O B_Separation O
+依法 分割 夫妻 共同 财产
+O O O B_Wealth I_Wealth
+被告 辩称 原告 无 原则性 矛盾
+O O O O O B_FamilyConflict
+共同 生活 中 生气 吵架 亦 在所难免 未 分居
+O O O O O O O O B_Separation
+查明 原被告 1998年 夏天 自由 恋爱 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_BeInLove O O O O B_Marry I_Marry
+婚后 夫妻 感情 尚 于×××× 年×× 月×× 日 生育 女 徐某乙
+O O O O O O O O B_Bear O O

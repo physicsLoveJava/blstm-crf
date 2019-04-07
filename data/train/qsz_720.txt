@@ -1,0 +1,4 @@
+原被告 经人介绍 相识 双方 2009年 4月 27日 登记 结婚 婚后 生育 二子 女
+O O B_Know O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Gender
+近 年 以来 原被告 遇 事 不 沟通 被告 家庭 生活 子女 教育 不闻不问 双方 家庭 琐事 发生 争吵
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

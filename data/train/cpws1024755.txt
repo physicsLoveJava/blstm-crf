@@ -1,0 +1,6 @@
+原告 毛某 起诉 称 原 被告 1993年 民间 风俗 举行 结婚 仪式 于×××× 年×× 月××日补办 结婚 登记 1995年 5月 1日 生育 子 徐某乙 现 已 成年
+O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Bear B_Gender I_Name O O
+婚后 被告 家庭 无 责任心 无故 殴打 原告 原告 身心 造成 伤害 现 已 无 和好 起诉 要求 判 令 原 被告 离婚
+O O I_Person O O O O B_DomesticViolence I_Person O O O O O O O O O O O O O O
+依法 分割 座 落 平阳县 ×× 某某 庄 某某 342 号 房屋 间
+O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

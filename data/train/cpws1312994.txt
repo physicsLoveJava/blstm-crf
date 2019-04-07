@@ -1,0 +1,4 @@
+原告 徐某 诉称 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女孩 取名 某乙
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O I_Name
+共同 生活 期间 常 家庭 琐事 争吵 打闹 夫妻 感情 确 已 破裂 请求 法院 判决 被告 离婚
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O I_DivorceLawsuit I_DivorceLawsuit

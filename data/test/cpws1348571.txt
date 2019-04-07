@@ -1,0 +1,12 @@
+原告 何×× 诉称 原 被告 1991年 结婚 1992年 2月 4日 生育 大儿子 张× 已 成年 2003年 生育 二 儿子 张培×
+O O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Age I_Age B_Time O O B_Gender B_Name
+2005年 被告 患 上 帕金森 综合症 每年 医疗费 开支 几万 元 家庭 开支 均 原告 人 负担 2008年 原告 银行 贷款 凭祥市 丽景 花园 购买 套 房子 至今 还 欠 银行 贷款 约 100000 元 家 人 生活 支付 被告 巨额 医疗费 原告 起早贪黑 做 生意 被告 不 体谅 原告 辛苦 辱骂 原告 外面 男人 被告 纠集 亲戚 殴打 辱骂 原告
+O O O O O O O O O O O O O O O O O O B_Person O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Debt B_Person O O B_Price I_Price O O O O O O O O O O O O O O O O O B_Person O O B_Person O O B_DomesticViolence O O
+鉴 被告 原告 态度 行为 原告 被告 已 不 存 丝 夫妻 感情 更 丧失 被告 共同 生活 信心 勇气
+O O B_Person O O O O O O O O O O O O O O O O O
+认为 夫妻 感情 已 破裂 恳请 法院 判决 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+崇左市 华侨 农场 40 亩 承包费 20000 元／年 原被告 平分 人 10000 元
+B_Credit I_Credit I_Credit I_Credit I_Credit I_Credit B_Price I_Price O O O O O
+农场 土地 经营权 被告 所有 租金 原告 无关
+B_Wealth I_Wealth I_Wealth B_PersonalProperty O O O O

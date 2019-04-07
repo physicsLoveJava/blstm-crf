@@ -1,0 +1,6 @@
+原告 王 某某 诉称 被告 自由 恋爱 2008年 同居 同年 11月 25日 生育 女 马某甲
+B_Person O O O O O B_BeInLove O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2011年 5月 18日 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+婚前 婚后 年 内 被告 好 女儿 出生 后 被告 总 找茬 生气 还 无端 殴打 无法 忍受 被告 家庭 暴力 维护 合法 权益 特 起诉 法院 要求 被告 离婚 婚生 女儿 马某甲 生活 被告 承担 孩子 抚育费 依法 分割 夫妻 共同 财产 带 回 娘家 陪 送 冰箱 台 饮水机 台 行李 四套
+O O O O O O O O O B_Person O O B_FamilyConflict O O B_DomesticViolence O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O

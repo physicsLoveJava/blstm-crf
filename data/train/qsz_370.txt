@@ -1,0 +1,6 @@
+2009年 3月份 原、被告 经人介绍 相识 确立 恋爱 关系 同年 举行 结婚 仪式 共同 生活
+B_Time I_Time O O B_Know O B_BeInLove O O O O O O O
+2010年 3月 3日 生育 儿子 靳浩天 2011年 11月 18日 进行 婚姻 登记
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry
+原 被告 夫妻 感情 尚 吵架 很快 好 生 儿子 之后 被告 脾气 见长 不仅 看 原告 不 顺眼 看见 原告 父母 更 没 好 脸色 2015年 5月份 原告 父母 原 被告 闲聊 住房 问题 被告 不顾 礼节 原告 父母 争吵 还 一怒之下 回到 娘家 原告 父母 原告 寻找 被告 理由 推脱 避 不见 三 年 置 家庭 孩子 不顾
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O

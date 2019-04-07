@@ -1,0 +1,6 @@
+原告 张某 甲诉 称 原 被告 2007年 经人介绍 相识 2008年 8月 29日 登记 结婚 2009年 8月 14日 生育 子 取名 张某耀
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O O B_Name
+婚后 夫妻 感情 不和 导致 夫妻 感情 已 彻底 破裂 无 好
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 诉至法院 要求 判 令 原 被告 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

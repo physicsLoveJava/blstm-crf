@@ -1,0 +1,2 @@
+原告 王某 甲诉 称 原 被告 经人介绍 结 夫妻 婚前 双方 了解 甚 少 性格 大 差异 致婚 后 生活 矛盾 大
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

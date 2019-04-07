@@ -1,0 +1,2 @@
+原 被告 2016年 经人介绍 相识 确立 恋爱 关系 2016年 8月 2日 登记 结婚 2016年 11月 举办 结婚 仪式 后 双方 家庭 琐事 争吵 现 已 分居 年 导致 夫妻 感情 破裂 无 和好 可能性
+O O B_Time O B_Know O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O I_FamilyConflict O O B_Separation I_Duration O O O O O O O

@@ -1,0 +1,6 @@
+原 被告 系同村 村民 2018年 1月 2日 媒人 周泽 介绍 发展 成 恋人 关系 2018年 1月 10日 媒人 手 付 被告 订婚 钱 6600 元 当天 原告 给付 被告 白金 戒指 枚 价值 4800 元 两 耳钉 价值 480 元
+O O O O B_Time I_Time I_Time O O O O O B_BeInLove O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2018年 1月 29日 双方 办理 结婚 登记 手续 当日 中午 媒人 手 付 被告 彩礼款 30000 元
+B_Time I_Time I_Time O O B_Marry O O O O O O O O O O O
+双方 性格 不和 婚后 琐事 发生 争吵 未 建立 真挚 夫妻 感情 2018年 5月 17日 被告 原告家 搬走 回 娘家 居住 今
+O O O O O O B_FamilyConflict O O O O O B_Time I_Time I_Time O O O O O B_Separation I_Time

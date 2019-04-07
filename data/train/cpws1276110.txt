@@ -1,0 +1,6 @@
+原 告诉 称 2011年 农历 正月份 原 被告 经人介绍 认识 没有 交往 2012年 4月 26日 登记 结婚 同年 7月 12日 举行 婚礼 婚后 未 生育 子女
+O O O B_Time I_Time I_Time O O O B_Know O O B_Time I_Time I_Time O B_Marry O O O O O O O O O
+婚前 认识 时间 长 未 交往 缺乏 了解 婚后 没有 建立 夫妻 感情 吵闹 被告 原告 不管 不 问 不 原告 共同 生活 虐待 原告 原告 母亲 亦 嫌弃 原告
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 夫妻 感情 确 已 破裂 请求 判 令 原 被告 离婚
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

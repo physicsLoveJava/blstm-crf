@@ -1,0 +1,14 @@
+原告 苏 某某 诉称 原 被告 经人介绍 建立 恋爱 关系 2002年 9月 登记 结婚
+O O O O O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time B_Marry I_Marry
+双方 恋爱 阶段 感情 尚 好 共同 生活 之后 发现 双方 性格 不合 发生 矛盾
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2004年 7月 婚生子 符某 诞生 双方 感情 未 得到 改善 孩子 成长 家务 琐事 更 吵闹 不 断 大打出手
+O O B_Gender B_Name B_Bear O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict
+双方 闹 年 半 载互 不 理睬 2009年 6月 双方 无法 忍受 对方 分居 至今 已 两 年 有余
+O O O O O O O B_Time I_Time O O O O B_Separation O O B_Duration I_Duration I_Duration
+2011年 原告 曾 法院 起诉 离婚 被告 不 同意 离婚 后 原告 撤诉 撤诉 后 双方 关系 无 改善
+B_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O
+被告 符 某某 辩称 原告 陈述 事实 不符 自由 恋爱 相识 婚后 感情 好
+O O O O O O I_Negated I_Negated O O O O O O
+居住 被告 娘家 孩子 出生 成长 家庭 带来 不少 快乐 哺育 孩子 不易 家庭 生活 不 富裕 没有 家庭 琐事 吵闹 大打出手 情况
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O

@@ -1,0 +1,10 @@
+原告 周某 起诉 称 原 被告 2010年 下半年 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time I_Time O B_Marry
+婚后 双方 未 生育 子女
+O O B_Bear I_Bear O
+原告 见 被告 无法 沟通 双方 便 分居 生活
+O O O O O O O B_Separation O
+原告 被告 姐姐 取得 联系 姐姐 劝慰 下 被告 保证 不再 酗酒 不再 QQ 短信 联系 不再 犯错
+O O O O O O O O O O O B_BadHabit O O O O O O
+2013年 农历 正月初二 初三 原告 瑞安市 农村 合作 银行 贷款 300000 元 用于 还 债 剩余 80000 元 现金 价值 15000 元 白金 项链 条 价值 13000 元 白金 戒指 价值 3000 元 黄金 戒指 三 枚 黄金 手链 二 条 项链 三 条 合计 50000 元 不翼而飞 原告 鲍田 派出所 报案 派出所 认为 不 偷盗 家人
+O O O O O O O O O B_Debt B_Price I_Price O O O O O O O O B_Price I_Price B_Wealth I_Wealth O O B_Price I_Price B_Wealth I_Wealth O B_Price I_Price B_Wealth I_Wealth O O B_Wealth I_Wealth O O B_Wealth O O O O O O O O O O O O O O O

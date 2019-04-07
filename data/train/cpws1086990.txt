@@ -1,0 +1,4 @@
+原 告诉 称 2010年 10月 原被告 经人介绍 订婚 同年 10月 26日 政府 登记 结婚 双方 均 系 再婚 未 生育 子女
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Person O O B_Remarry O O O
+婚前 双方 了解 甚 少 没有 感情 基础 婚后 二 人 性格 差异 大 发生 争执 被告 暴力 倾向 导致 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

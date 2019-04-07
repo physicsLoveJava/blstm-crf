@@ -1,0 +1,14 @@
+原告 陈×× 诉称 原 被告 1968年 偶然 机会 相识 后 亲朋竭力 撮合 1973年 2月 20日 双方 惠来县 东陇镇 民政部门 办理 结婚 登记
+O O O O O B_Time O O B_Know O O O B_Time I_Time I_Time O O O O O B_Marry O
+婚后 原告 1974年 4月 10日 生育 长 男 吴×锋
+O O B_Time I_Time I_Time B_Bear O O B_Name
+1976年 7月 11日 生育 女孩 吴×萍
+B_Time I_Time I_Time B_Bear O B_Name
+当时 原 被告 租 住 惠城镇 被告 不但 不 照顾 刚 生 完 孩子 需要 照顾 妻子 寄陇 夜间 载 姓 蔡 女人 惠 看 电影 当时 被告 担任 东陇 供销社 采购员 被告 出轨 创造 机会 条件 造成 生活 作风 散漫
+O O O O O O O O O O O O O O O O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O
+被告 2002年 2005年 期间 外 结识 贵州 铜仁 汕头 打工 离婚 女人 刘×兰 真情 全 倾注 女人 身上 对待 原告 冷言冷语 还 偷偷 汇款 刘×兰 女儿 刘×扬 件 事 原告 发现 后 被告 2006年 4月 10日 原告 写 下 道歉书 保证 今后 类 事情 不再 发生 原告 一起 享受 幸福 晚年
+O O O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012年 大 媳妇 生 孩子 出现 大 出血 休克 抢救 期间 出现 人命关天 时刻 被告 仍 包 住 惠城 情妇 鬼混
+O O O O O O O O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+宗 感情 早已 完全 破裂 名存实亡 死亡 婚姻 已 解除
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

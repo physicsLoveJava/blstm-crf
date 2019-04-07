@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2002年 经人介绍 相识 恋爱 当年 登记 结婚 2003年 原被告 婚生 女 2006年 原被告 婚生 子
+O O O O O B_Time O O B_BeInLove O O B_Marry B_Time O B_Bear B_Gender B_Time O B_Bear B_Gender
+原 被告 婚后 不久 常 家庭 琐事 扯筋 吵闹 打架
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 双方 纠纷 过程 中 还 伤 原告 母亲 原告 忍耐 劝解 未果 原 被告 夫妻 关系 已 名存实亡 请求 法院 判决 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚生 子女 抚养 问题 法院 判决 请求 法院 分割 共同 财产 共同 债务
+O O O O O O O O O B_Wealth I_Wealth B_Debt I_Debt

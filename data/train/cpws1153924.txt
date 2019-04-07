@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 2002年 7 8月 相识 订婚 12月 25日 进行 结婚 登记 男 女 家 招赘 结婚 农历 腊月 18日 举行 婚礼 共同 生活
+O O O O O O O O O B_Know O B_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O
+婚前 原告 被告 不 了解 仓促 结婚 婚后 发现 两 人 性格 不和 没有 共同语言 关系 不好
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 脾气 暴躁 殴打 原告 孩子 原告 勉强 被告 生活
+O O O B_FamilyConflict O O O O O O
+2012年 8月 22日 被告 琐事 原告 大打出手 致 原告 头部 严重 受伤 数 月 神情 恍惚 被告 毫不 理会 威胁 原告 2012年 8月 22日 分居 今
+O O O B_Person O O B_DomesticViolence O B_Person O O O O O O O O O O O O B_Time I_Time I_Time B_Separation I_Time

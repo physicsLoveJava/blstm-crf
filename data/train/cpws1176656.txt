@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2004年 10月 相识 不久 同居 2005年 4月 原告 怀孕 双方 ×××× 年×× 月×× 日 登记 结婚 婚后 2×××× 年×× 月×× 日 生育 女儿 周某乙
+O O O O O B_Time I_Time B_Know O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender
+原告 被告 相识 时 年纪 尚 轻 原告 家庭 急于 招 入赘 女婿 双方 婚前 缺乏 了解 婚后 少 沟通 双方 爱好 兴趣 性格 相差 甚 大 被告 上网 聊天 游戏 家庭 缺乏 责任性 为此 双方 吵架 被告 有时 还 原告 动手
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O B_FamilyConflict I_FamilyConflict O I_Person O
+2012年 5月 被告 离家 租 房 居住 双方 分居 今
+B_DomesticViolence B_Time I_Time I_Time I_Time I_Time O O O O
+现原 被告 夫妻 感情 已 彻底 破裂 无 好 原告 诉至法院 请求 判 令 原 被告 离婚
+B_Separation I_Time O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O

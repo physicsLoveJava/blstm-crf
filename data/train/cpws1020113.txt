@@ -1,0 +1,4 @@
+原告 陈某 起诉 称 原 被告 介绍 认识 2011年 4月 27日 办理 结婚 登记 手续 于×××× 年×× 月×× 日 生育 子 取名 金文韬
+O O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time I_Time B_Bear O O B_Name
+原告 曾 2012年 10月 法院 提起 离婚 诉讼 之后 原告 撤诉 双方 仍 无 和好 夫妻 感情 已 彻底 破裂 为此 原告 诉至法院 请求 判 令 1． 原 被告 离婚
+O O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O

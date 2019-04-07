@@ -1,0 +1,4 @@
+原告 桑某 诉称 原告 被告 1997年 10月 人 介绍 相识 2000年 3月 20日 登记 结婚 婚后 育 女儿 王桑菲 现年 13 岁 儿子 王栋宸 现年 8 岁
+B_Person I_Person B_DivorceLawsuit O O O O O O B_Know O O O O B_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+双方 住房 1 套 依法 分割
+O B_Wealth O O O O

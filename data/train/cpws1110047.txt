@@ -1,0 +1,10 @@
+原告 李某 诉称 原被告 2003年 相识 系 自由 恋爱 于×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time B_Know O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 长女 汤某 乙 ×××× 年×× 月×× 日 生育 次 女 汤某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name
+2011年 原告 被告 感情 不合 被告 家庭 暴力 双方 分居
+B_Time B_Person O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence O B_Separation
+被告 汤某 甲 辩称 原告 说 被告 家庭 暴力 被告 不 认可
+O O O O O O O B_DomesticViolence I_DomesticViolence O B_Negated I_Negated
+原被告 确实 架 原告 开支 工资 别人 花
+O B_Negated I_DomesticViolence O O O O O

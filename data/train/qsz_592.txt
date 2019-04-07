@@ -1,0 +1,4 @@
+2010年 原告 被告 介绍 相识 后 生活 一起
+B_Time O O O B_Know O O O
+双方 2014年 11月 15日 办理 结婚 登记 2018年 5月 双方 感情 不 发生 矛盾 分居 今 期间 原告 住院
+O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time O B_FamilyConflict I_FamilyConflict O O B_Separation O O O O

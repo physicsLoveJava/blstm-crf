@@ -1,0 +1,6 @@
+原被告 双方 2012年 相识 确立 恋爱 关系 2013年 农历 11月 13日 民间 习俗 举行 结婚 仪式 2014年 2月 10日 天津市 蓟州区 民政局 登记 结婚
+O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+2014年 9月 7日 育 女 取名 邵 芯蕊
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原被告 双方 系 自由 恋爱 相处 时间 短 年龄 尚 小 婚前 原被告 双方 感情 尚 婚后 原被告 双方 性格 不合 被告 长期 外出 工作 双方 感情 破裂 原被告 双方 感情 不 2016年 年底 分居 今
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation I_Time

@@ -1,0 +1,4 @@
+原告 黄 某某 诉称 原 被告 经人介绍 1982年 1月 登记 结婚 婚后 生育 2 儿子 均 已 成年
+O O O O O O O B_Time I_Time O B_Marry O B_Bear O B_Gender O O O
+双方 性格 不合 被告 总是 怀疑 原告 外遇 家务 琐事 相骂 打架 2007年 分居 今 夫妻 感情 完全 破裂 坚决 要求 离婚
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Time B_Separation I_Time O O O O O O O

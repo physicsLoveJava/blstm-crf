@@ -1,0 +1,2 @@
+原告 戴某 甲 起诉 称 原 被告 2007年 初 认识 确立 恋爱 关系 于×××× 年×× 月××日 宁海县 民政局 依法 登记 结婚 于×××× 年×× 月×× 日 生育 女 取名 戴 乙 现年 五 周岁 就读 西店 中心 幼儿园
+O O O O O O O B_Time O B_Know O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time I_Time I_Time I_Bear B_Gender O B_Name I_Name O B_Age I_Age O O O

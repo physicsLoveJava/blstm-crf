@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 双方 系 经人介绍 认识 2003年 12月 15日 登记 结婚 2004年 8月 14日 生育 儿子 仇某丙
+O O O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 缺乏 婚前 了解 婚后 感情 发生 矛盾
+O O O O O O B_FamilyConflict I_FamilyConflict
+无法 继续 共同 生活 被告 已 2011年 11月 离家 分居 原告 2012年 12月 起诉 法院 离婚 法院 撤诉 处理 之后 双方 关系 未 和好 双方 感情 确 已 破裂 无 好
+O O O O O O O O O B_Separation O B_Time I_Time B_DivorceLawsuit O O O I_Judgment I_Judgment O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+维护 原告 合法 权益 特诉 贵院 请求 法院 依法 判决
+O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O
+被告 辩称 事实上 被告 原告 夫妻 感情 好
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

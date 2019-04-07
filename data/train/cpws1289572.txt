@@ -1,0 +1,8 @@
+原告 单某 诉称 被告 经人介绍 认识 2009年 9月 24日 登记 结婚
+O O O O B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry
+2010年 5月 22日 生 男孩
+B_Time I_Time I_Time B_Bear B_Gender
+二 人 婚前 缺乏 了解 婚后 性格 不合 家庭 琐事 发生 吵闹 未能 建立 良好 夫妻 感情
+O O O O O O O O O O O B_FamilyConflict O O O O O
+2013年 2月份 分居 今
+B_Time I_Time B_Separation I_Time

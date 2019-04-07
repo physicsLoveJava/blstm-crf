@@ -1,0 +1,8 @@
+原告 鲍某 甲诉 称 原 被告 网络 认识 2005年 被告 回国 后 正式 交往 恋爱 初期 感情 尚
+O O O O O O O O B_Time O O O B_BeInLove I_BeInLove O O O O
+双方 ×××× 年×× 月×× 日 结婚 婚后 生 子
+O B_Time I_Time I_Time I_Time B_Marry O B_Bear I_Gender
+共同 生活 期间 双方 性格 差异 太 大 生活 琐事 吵闹
+O O O O O O O O O O B_FamilyConflict
+2013年 11月 25日 被告 无故 带 孩子 离家 至今 已 10 月 原告 无法 联系 上 被告 无法 探视 孩子
+B_Time I_Time I_Time O O O O B_Separation O O B_Duration I_Duration O O O O O O O O

@@ -1,0 +1,6 @@
+原告 折 某某 诉称 原 被告 自由 恋爱 后 举行 结婚 仪式 2008年 11月 28日 补办 结婚 登记 刚 夫妻 感情 还 2009年 5月 20日 生 女孩 取名 马 某某 甲 现 被告 生活
+O O O O O O O O O O B_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name I_Name O O O
+生 下 小孩 后 被告 思想 发生 变化 认为 原告 年龄 被告 大 双方 生活 交流 上 发生 纠纷 刚 争吵 后 发展 拳打脚踢 次 原告 软禁 家中 没有 人身自由
+O O O O O O O O O B_Person O B_Person O O O O O O O O O O O B_DomesticViolence O O O O O O
+原告 曾 2011年 12月 14日 法院 起诉 离婚 后撤诉
+B_Person O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Judgment

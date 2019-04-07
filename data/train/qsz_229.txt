@@ -1,0 +1,8 @@
+原 被告 丁 2014年 小 感情 合 离婚 后 朋友 劝 2014年 8月 16口 经式 清区 民政部门 J 复婚 双方 婚生子 见 已 I 岗 岁 直 原告 抚养
+O O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry O B_Bear O O B_Age I_Age I_Age O O O
+原告 2017年 8月 24日 起诉 离婚
+B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+被告 没有 意 原告 无奈 撤诉 后 半 年
+O O O O O B_Judgment O O O
+被告 找 原告 麻烦 动手 打架 致使 感情 史加 仇恨
+O O O O B_FamilyConflict I_FamilyConflict O O O O

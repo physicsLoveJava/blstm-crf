@@ -1,0 +1,4 @@
+原告 被告 2013年 4月 24日 结婚 被告 属 再婚 结婚 后 色 原告 婚前 房屋 居住 被告 无 车 无 房 无 财产
+O O B_Time I_Time I_Time B_Marry B_Person O B_Remarry O O O O O O O O O O O O O O
+婚后 夫妻 感情 育有子
+O O O B_Bear

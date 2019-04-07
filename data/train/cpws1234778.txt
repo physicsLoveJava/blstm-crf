@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2004年 4月 人 介绍 相识 恋爱 2004年 11月 登记 结婚 原告 系 再婚 婚后 双方 未 生育 子女 原 被告 婚后 性格 不合 未能 建立 夫妻 感情
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time O O B_Know O B_Time I_Time B_Marry I_Marry B_Person O B_Remarry O O O O O O O O O O O O O O
+被告 长期 赌钱 家庭 不 负责 原告 不 关心 原 被告 夫妻 感情 确 已 破裂 现 原告 请求 判决 1． 原 被告 离婚
+B_Person O B_BadHabit O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原被告 2014年 底 恋爱 关系 2016年 8月 24日 登记 结婚 2017年 2月 3日 生育 女孩 取名 白 涵
+O B_Time I_Time B_BeInLove O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原被告 结婚 后 家庭 琐事 争吵 打架 感情 不和
+O O O O O B_FamilyConflict B_FamilyConflict O O
+2018年 9月 21日 原被告 发生 争吵 后 被告 竟 轰 原告 声称 原告 离婚
+O O O O O B_FamilyConflict O O O B_FamilyConflict O O O O

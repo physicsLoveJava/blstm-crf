@@ -1,0 +1,8 @@
+原告 马某 起诉 称 原 被告 2011年 5月 人 介绍 相识 同年 11月 订婚 2012年 1月 29日 登记 结婚 同年 9月 18日 生育 子 名 沈晨怿
+O O O O O O O O O O O O O B_Marry B_Time I_Time I_Time O B_Marry O B_Time I_Time B_Bear B_Gender O B_Name
+婚后 被告 原告 缺乏 包容 心 家庭 琐事 原告 争吵
+O O O O O O O O O B_FamilyConflict
+2013年 10月 5日 还 动手 殴打 原告 父亲
+B_Time I_Time I_Time O O B_DomesticViolence O B_Person
+3．10月 5日 晚上 事 被告 行为 有所 过激 殴打 事 不 成立
+O O O O O O O O B_DomesticViolence O O O

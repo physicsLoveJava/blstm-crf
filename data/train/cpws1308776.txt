@@ -1,0 +1,4 @@
+原告 陈 某某 诉称 原 被告 2003年 10月 建立 恋爱 关系 2008年 9月 5日 登记 结婚 2009年 4月 15日 生育 子 金乙
+O O O O O O B_Time I_Time O B_BeInLove O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2013年 9月 双方 分居 今 分居 期间 无 交流 夫妻 感情 已 破裂 要求 离婚
+B_Time I_Time O B_Separation O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit

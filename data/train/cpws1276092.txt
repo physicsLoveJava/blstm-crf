@@ -1,0 +1,8 @@
+原告 孙 某某 诉称 被告 2005年 青岛 打工 相识 同居 生活 2008年 10月 16日 东明县 民政局 登记 结婚
+O O O O O B_Time O O B_Know O O B_Time I_Time I_Time O O O B_Marry
+2006年 农历 2月 27日 生育 女王 某乙 2007年 农历 9月 18日 生育 子 王某丙
+B_Time I_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time I_Time B_Bear O B_Name
+被告 婚前 缺乏 了解 婚后 夫妻 感情 不和 被告 好逸恶劳 喝酒 闹事 常常无事生非 无故 辱骂 殴打 不 外出 打工
+O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O
+被告 所作所为 性格 不合 长期 分居 导致 被告 夫妻 感情 已经 彻底 破裂 维护 原告 合法 权益 特 具状 起诉 要求 被告 离婚
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O

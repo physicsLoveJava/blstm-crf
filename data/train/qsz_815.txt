@@ -1,0 +1,6 @@
+原 被告 自有 恋爱 2010年 12月 10日 蓟州区 民政局 登记 结婚
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+2010年 2月 27日 生育 长女 孟心怡 2012年 2月 6日 生育 长子 孟子涵
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 缺乏 了解 婚后 琐事 争吵 被告 原告 单位 闹事 原告 工作 身心 产生 严重 影响 现 原 被告 双方 感情 破裂 已 无法 继续 生活 下去 原告 无奈 诉 贵院
+O O O O O O O B_FamilyConflict O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O

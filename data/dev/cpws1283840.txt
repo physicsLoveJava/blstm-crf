@@ -1,0 +1,18 @@
+原告 诸葛 起诉 称 原 被告 1995年 经人介绍 认识 夫妻 名义 同居 生活
+O O O O O O B_Time O B_Know O O O O
+双方 ×××× 年×× 月×× 日 生育 女 取名 洪某 乙
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+×××× 年×× 月×× 日 生育 子 取名 洪某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 ×××× 年×× 月××日 办理 结婚 登记 手续
+O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+婚后 原、被告 琐事 发生 争吵
+O O O O B_FamilyConflict
+2001年 被告 作风 败坏 原告 发现 批评 后 高 凳 砸 原告 致使 原告 腰部 受伤 后 回 娘家
+O B_Person O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+2012年 农历 正月初五 原 被告 发生 口角 后 原告 离家 外出 今
+B_Time I_Time I_Time O O O O O O B_Separation I_Separation I_Separation
+2012年 9月 原告 马屿 法庭 起诉 离婚 后 人民 调解 委员会 调解 好
+B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+双方 2012年 农历 正月 初五 分居 今
+O B_Time I_Time I_Time I_Time B_Separation I_Time

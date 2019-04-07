@@ -1,0 +1,4 @@
+2002年 6月 双方 经人介绍 认识 2007年 举行 婚礼
+B_Time I_Time O O B_Know B_Time O B_Marry
+婚后 双方 性格 不 家庭 琐事 吵架 特别 2010年 7月 被告 聚众 赌博 公安 红桥 分局 拘留 之后 被告 不 恩悔改 仍 沉迷 赌博
+O O O O O O B_FamilyConflict O O O O B_BadHabit I_BadHabit O O O O O O B_BadHabit I_BadHabit O O B_BadHabit

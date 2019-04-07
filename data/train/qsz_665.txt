@@ -1,0 +1,8 @@
+2009年 6月 原被告 经人介绍 相识 2010年 1月 29日 登记 结婚
+B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 原告 发现 被告 性格 反复无常
+O O O B_Person B_BadHabit I_BadHabit
+原告 吵架 次 吵架 暴力 行为 原告 致 伤
+O O O O O O B_Person B_DomesticViolence I_DomesticViolence
+原告 无法 忍耐 只能 被告 分居
+O O O O O B_Separation

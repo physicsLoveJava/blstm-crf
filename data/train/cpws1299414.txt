@@ -1,0 +1,8 @@
+原告 吴某 诉称 ×××× 年××月份 被告 经人介绍 相识 双方 相互 不 了解 情况 下 次月 登记 结婚
+O O O O O O O B_Know O O O O O O O O B_Marry
+2010年 3月 4日 生 男孩 取名 沈某乙
+B_Time I_Time I_Time B_Bear O O B_Name
+生子 后 认为 被告 改变 暴躁 脾气 酒后 殴打 使 夫妻 感情 恶化 无法 共同 生活
+O O O O O O O O B_DomesticViolence O O O O O O O
+复婚 后 被告 酒后 暴打
+O O O O B_DomesticViolence

@@ -1,0 +1,10 @@
+原告 郭某 诉称 被告 经人介绍 结婚 2011年 3月 8日 生育 男孩 取名 程 甲 2011年 12月 30 补 办 结婚 登记 手续
+B_Person O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+婚后 二 人 脾气 性格 不合 生气 吵架
+O O O O O O B_FamilyConflict I_FamilyConflict
+被告 好 喝酒 喝 醉 后 打骂
+B_Person B_BadHabit I_BadHabit O O O B_DomesticViolence
+生气 回 娘家 被告 分居 生活
+O O O O B_Separation O
+被告 夫妻 感情 已 破裂 要求 被告 离婚 抚养 孩子 娘家 陪 送 财产 归我所有
+O O O O O O O O O O O O O B_Wealth O

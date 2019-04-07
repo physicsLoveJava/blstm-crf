@@ -1,0 +1,8 @@
+登记 结婚 婚后 2008年 6月 7日 生 男孩 取名 ldquo
+B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O O
+吴 甲 rdquo
+B_Name I_Name O
+婚前 缺乏 了解 婚后 感情 性格 不合 家庭 琐事 争吵 被告 原告 娘家 闹事 原告 曾 2012年 6月份 起诉 贵院 2012 昌民 初字 第1428 号 民事 判决书 判决 不 准 离婚 夫妻 关系 未能 改善 被告 不尽 夫妻 义务 原告 娘家 闹事 伤害 夫妻 感情
+O O O O O O O O O B_FamilyConflict O O O O B_Person O B_Time I_Time B_DivorceLawsuit O B_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O B_FamilyConflict O O O
+原告 特 诉至法院 请求 法院 依法 判 令 原告 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

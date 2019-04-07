@@ -1,0 +1,4 @@
+原告 冯 某某 诉称 原 被告 2004年 12月 24日 衡阳县 民政局 登记 结婚 2005年 7月 12日 生长 女 冯某甲 2007年 生次 女 冯某乙 2013年 3月 14日 原告 法院 起诉 要求 离婚 法院 判决 不 准 离婚 后 夫妻 感情 未 得到 改善 被告 长女 冯某甲 带 回 娘家 分居 生活 今 夫妻 感情 已经 彻底 破裂 请求 法院 依法 判决 原 被告 离婚
+O O O O O O B_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O O B_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O B_Separation O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+2010年 10月 人 介绍 相识 恋爱 2011年 1月 19日 衡阳县 民政局 办理 结婚 登记 手续
+B_Time I_Time O O B_Know O B_Time I_Time I_Time O O O B_Marry O O

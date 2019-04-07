@@ -1,0 +1,10 @@
+2017年 5月 初 原 被告 网络 相识 发展 成 恋人 关系
+B_Time I_Time O O O B_Know I_Know O O O O
+2017年 7月 5日 双方 领取 结婚证 共同 生活 婚后 未 生育 子女 婚前 了解 不够
+B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O
+导致 婚后 发生 矛盾
+O O I_FamilyConflict I_FamilyConflict
+导致 双方 不能 和谐 相处
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+故原 被告 2018年 2月 10日 分居
+O O B_Time I_Time I_Time B_Separation

@@ -1,0 +1,10 @@
+2013年 1月 24日 民政 机关 办理 结婚 登记 手续 共同 生活 二 人 系 再婚
+B_Time I_Time I_Time O O O B_Marry I_Marry O O O B_Person I_Person O B_Remarry
+婚初 双方 感情 时间 推移 原告 发现 被告 性格 不合 家庭 琐事 发生 争吵 致使 二 人 感情 愈加 疏远
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O O
+原告 曾 2016年 5月 2016年 12月 2017年 6月 分别 三 次 贵院 提出 离婚 诉请
+O O B_Time I_Time B_Time I_Time B_Time I_Time O O O O O B_DivorceLawsuit I_DivorceLawsuit
+种种 原因 均 贵院 驳回
+O O O O B_Judgment
+现 二 人 已 分居 生活 2 年 时间 目前 感情 已 彻底 破裂
+O O O O B_Separation O B_Duration I_Duration O O O O O O

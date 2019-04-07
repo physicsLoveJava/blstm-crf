@@ -1,0 +1,6 @@
+原告 党 某某 诉称 原 被告 双方 2005年 冬天 经人介绍 相识 2007年 元月 4日 生 女 党 甲 2008年 9月 登记 结婚
+O O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time B_Marry I_Marry
+2009年 8月 29日 生 儿子 党 乙 双方 婚前 了解 少 被告 性格 强硬 致婚 后 双方 家庭 琐事 发生 争执
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O B_FamilyConflict I_FamilyConflict O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+要求 依法 判 令 原 被告 解除 婚姻 关系
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

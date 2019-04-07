@@ -1,0 +1,4 @@
+原告 吴某 诉称 原告 被告系 自由 恋爱 2008年 农历 正月 26日 举行 结婚 仪式 2008年 6月 23日 登记 结婚 2009年 11月 6日 婚生 女 蒋某
+O O O O O O B_BeInLove O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 性格 暴躁 不务正业 外 赌博 家庭 孩子 缺少 关心 不 承担 家庭 义务 还 时常 原告 大打出手
+O O O O O O B_BadHabit O O O O O O O O O O O B_DomesticViolence

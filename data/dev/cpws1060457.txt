@@ -1,0 +1,8 @@
+原告 黄某 诉称 被告关 某某 经人介绍 相识 婚前 相处 4 月 左右 2006年 9月 6日 登记 结婚 2007年 4月 3日 生育 女 关 小某 结婚 七 年 婚前 缺乏 了解 婚后 感情 特别 近 年 感情 越来越 冷淡 发展 厮打 辱骂 仅 2012年 年 中 腰堡 派出所 出警 三 次 调解 矛盾
+O O O O O O B_Know O O O O O B_Time I_Time I_Time B_Negated B_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 2012年 9月 14日 离家 今 离家 期间 原告 2012年 9月 25 要求 被告 离婚 起诉 法院 2013年 1月 29日 铁岭县 人民法院 下达 2013 铁县 民三 初 字 第20 号 民事 判决书 驳回 原告 诉讼 请求
+O B_Time I_Time I_Time B_Separation I_Time O O O B_Time I_Time I_Time O O O B_DivorceLawsuit B_Court B_Time I_Time I_Time B_Court I_Court O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+至今 双方 仍 未能 好 原 被告 双方 婚后 共同 财产 房屋 三 间 价值 200000 元 房屋 权证 被告 关 某某 名字 婚后 购买 宁波 拖拉机 台 价值 20000 元 婚后 盖 车库 价值 60000 元 没有 房 家用电器 仅 台 液晶 电视 婚后 购荣 光牌 汽车 台 价值 60000 元 上述 财产 平均 分割
+O O O O O O O O O O O B_Wealth O O O B_Price I_Price O O O O O O O O O B_Wealth O O B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O
+欠 幼儿园 托费 1350 元 2012年 9月 13日 -2013 年 1月 31日 托费 2400 元 2013年 3月 1日 -2013 年 8月 31日 关 小某 上学 费用 水费 校服 作业本 校讯通 共计 399 元 被告 承担
+B_Debt I_Debt I_Debt B_Price I_Price O O O O O O O O B_Price I_Price O O O O O O O O O O O O O O O O B_Price I_Price O O

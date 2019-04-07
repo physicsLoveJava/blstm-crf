@@ -1,0 +1,2 @@
+原告 李 某某 诉称 原被告 经人介绍 2010年 11月 23日 登记 结婚 婚前 缺乏 了解 婚后 两 人 感情 不和 琐事 争吵 致使 两 人 感情 完全 破裂 无 好
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O

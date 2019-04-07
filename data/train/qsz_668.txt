@@ -1,0 +1,4 @@
+原告 被告 1970年 结婚 婚后 子女 都 已 成年
+O O B_Time B_Marry O O O O O
+原告 花销 分 钱 都 找 被告 张口 还 嫌 原告 花费 大 当时 孩子 都 尚 年幼 原告 孩子 一再 忍让 想 孩子 大 被告 有所 改变 被告 我行我素 家里 钱 不 原告 花
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit O O O O O

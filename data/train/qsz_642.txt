@@ -1,0 +1,4 @@
+原告 被告 经人介绍 相识 2016年 5月 10日 登记 结婚 婚后 育 子 段 钧博 16 月 被告 系 再婚 经人介绍 原告 相识 简单 了解 一下 草率 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name B_Age I_Age B_Person O B_Remarry O O O O O O O O
+婚后 被告 无端 找 理由 原告 吵架
+O O O O O O B_FamilyConflict

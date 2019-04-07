@@ -1,0 +1,8 @@
+原告 宋某 诉称 被告 2012年 经人介绍 相识 2012年 农历 8月 18日 双方 举行 婚礼 同年 10月 31日 双方 湘阴县 民政局 补办 结婚 登记 手续
+O O O O B_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O
+婚前 双方 缺乏 了解 草率 结婚 被告 家人 缺乏 信任 婚后 家庭 生活 中 没有 自由
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 3月 17日 住 娘家 被告 分居 生活 今
+B_Time I_Time I_Time O O O B_Separation O O
+二 被告 母亲 尽力 帮助 小家庭 原告 关爱 有加 原告 误解 被告 家人 好意
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,10 @@
+原告 穆某 诉称 2003年 11月 原 被告 经人介绍 相识 建立 恋爱 关系 ×××× 年×× 月××日 原告 父母 催促 下 被告 登记 结婚 之后 原告 外出 打工 被告 2005年 2月 27日 婚生 子 取名 穆某甲
+O O O B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O B_Time I_Time I_Time B_Bear I_Gender O B_Name
+原告 曾 2009年 9月 具状 院 请求 判 令 准予 原 被告 离婚
+B_Person O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+案经 院 判决 不 准 离婚
+O O B_Judgment I_Judgment I_Judgment I_Judgment
+具状 院 请求 判 令 准予 原 被告 离婚 认为
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O
+被告 许某甲 法定 代理人 许某 乙辩 称 原 被告 2002年 舒城县 城关镇 服装厂 打工 时 相识 恋爱 后 结婚
+O O O O O O O O O B_Time O O O O O B_Know B_BeInLove O B_Marry

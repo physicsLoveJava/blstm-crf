@@ -1,0 +1,8 @@
+原告 罗 某某 诉称 原 被告 自由 恋爱 后 2006年 6月 13日 登记 结婚
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2006年 11月 6日 生育 子 取名 王甲
+O B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚前 双方 了解 不够 婚后 被告 家庭 孩子 极 不 负责 原告 使用 家庭 暴力
+O O O O O B_Person O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+原告 被告 彻底 失望 夫妻 感情 彻底 破裂 没有 和好 原告 诉至法院 要求 被告 离婚 婚生子王 甲 原告 抚养 教育
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O

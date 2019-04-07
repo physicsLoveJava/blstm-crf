@@ -1,0 +1,14 @@
+原告 张 XX 诉称 2009年 12月 中旬 原 被告 经人介绍 相识 同年 12月 31日 登记 结婚
+O O O O B_Time I_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 缺乏 了解 婚后 发现 原、被告 性格 差异 大 被告 常 琐事 挑起 争吵 原告 离家
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+2011年 3月 生育 女孩 张 X 原告 母亲 医院 照顾 被告 被告 打骂 原告 母亲 致 原告 彻底 失去 被告 共同 生活 信心
+B_Time I_Time B_Bear I_Gender B_Name I_Name O O O O O O O O O O O O O O O O O
+2011年 3月 28日 原告 离开 医院 后 双方 分居 今
+B_Time I_Time I_Time O O O O O B_Separation I_Time
+2012年 5月 9日 原告 曾 诉至法院 要求 离婚 后 因故 撤诉
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 夏 XX 辩称 2009年 11月 16日 原 被告 经人介绍 相识 同年 12月 31日 登记 结婚
+O O O O B_Time I_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+被告 女儿 取名 夏 XX1 户口 落 被告 户 内 双方 矛盾 加剧 双方 2012年 3月 之后 分居 分居 时间 不 长
+O O O O O O O O O O O O O O B_Time I_Time O B_Separation O O O O

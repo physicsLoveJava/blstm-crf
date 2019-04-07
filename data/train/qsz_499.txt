@@ -1,0 +1,8 @@
+2002年 原被告 经人介绍 相识 确立 恋爱 关系 2002年 8月份 双方 共同 生活 2003年 4月 29日 双方 婚生子 白秦 出生
+B_Time O O B_Know O B_BeInLove O O O O O O B_Time I_Time I_Time O B_Bear B_Name O
+2010年 9月 16日 双方 补办 结婚证
+B_Time I_Time I_Time O B_Marry I_Marry
+2015年 9月 双方 发生 矛盾 分居 今
+B_Time I_Time O O O B_Separation I_Time
+2017年 10月份 原告 贵院 提起 离婚 诉讼 被告 不 同意 离婚 贵院 下发 2017 津0115 民 初 8653 号 民事 判决书 判决 驳回 原告 离婚 诉请
+B_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment

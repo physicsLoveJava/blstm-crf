@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1997年 婚姻 介绍所 相识 1998年 8月 登记 结婚 婚后 生育 子 李
+O O O O O B_Time O O B_Know B_Time I_Time O B_Marry O B_Bear O B_Name
+婚后 不久 被告 生活 琐事 父亲 闹 矛盾 后 回 娘家 劝 说 回来 自始 我家人 产生 怨恨 逢年过节 回去 父母 家 吃饭 嫌弃 饭菜 做 不好 吵架
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O
+不久 带 母亲 过来 我家 人 吵架 双方 发生 肢体 冲突 惊动 警察
+O O O O O O O O O B_DomesticViolence I_DomesticViolence O O

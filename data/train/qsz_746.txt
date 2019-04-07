@@ -1,0 +1,6 @@
+原 被告 双方 系 大学 同学 2006年 双方 自由 恋爱 2011年 4月 18日 生育 女儿 刘一诺
+O O O O O O B_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 2016年 2月 5日 办理 婚姻 登记 手续
+O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+近 年 以来 双方 生活 观念 不 一致 生活 琐事 吵架 生气
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict

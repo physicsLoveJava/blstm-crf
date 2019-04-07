@@ -1,0 +1,8 @@
+2009年 被告 相识 ×××× 年×× 月××日 鲁山县 民政局 登记 结婚
+B_Time O B_Know B_Time I_Time I_Time O O O B_Marry
+2012年 11月 25日 退伍 之后 被告 有时 句 话 大 吵 大 闹 吵 后 走 根本 不 正常 生活
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+上 性格 不合 草率 结婚 婚后 未 建立 真正 夫妻 感情 现 夫妻 感情 已 彻底 破裂 实在 无法 共同 生活 下去 请求 法院 依法 判 令 被告 离婚
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+理由 1 2006年 电台 交友 短信 认识 2007年 4月 见面 后 自由 恋爱 当时 原告 容城 部队 服役 高庄村 打工 之间 往来 频繁 接触 了解 扎实 婚姻 基础
+O O B_Time O O O B_Know O O O O O O O O O O O O O O O O O O O O O

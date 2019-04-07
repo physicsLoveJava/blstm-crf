@@ -1,0 +1,4 @@
+原告 唐某 诉称 原 被告 双方 1992年 经人介绍 相识 恋爱 1994年 12月 29日 生子 唐 佛某 1995年 登记 结婚 婚后 2003年 7月 3日 生 女 唐 慧某 原 被告 婚后 性格 不合 感情 不好 双方 吵架 致使 双方 夫妻 感情 逐惭 破裂 双方 2009年 年底 分居
+O O O O O O B_Time O B_Know B_BeInLove B_Time I_Time I_Time B_Bear B_Name I_Name B_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_Time I_Time B_Separation
+原告 2012年 11月 祁阳县 人民法院 起诉 离婚 法院 判决 不 准 离婚 后 双方 夫妻 关系 不 改善
+B_Person B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O

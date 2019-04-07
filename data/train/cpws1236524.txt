@@ -1,0 +1,6 @@
+原告 王某 甲 起诉 称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+B_Person I_Person I_Person B_DivorceLawsuit I_DivorceLawsuit O O O O B_Time I_Time I_Time I_Time O B_Marry
+婚后 于×××× 年×× 月×× 日 生育 子 取名 王某 乙 现年 16 岁
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+婚后 性格 不合 原 告 之间 吵架 致使 夫妻 感情 破裂
+O O O O O O B_FamilyConflict O O O O

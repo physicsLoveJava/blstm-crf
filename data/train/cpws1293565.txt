@@ -1,0 +1,6 @@
+原告 韦某 诉称 1997年 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 2004年 生育 女
+O O O O O O O B_Know O O O O O B_Marry B_Time B_Bear B_Gender
+刚 两 人 感情 还 不错 经济 方面 被告 殴打 原告 邓 原因 吵架 产生 矛盾 导致 夫妻 感情 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+被告 诸某 甲 辩称 三 年 中 只 三 次 都 轻 没有 原告 说 严重
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

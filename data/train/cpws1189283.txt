@@ -1,0 +1,2 @@
+原告 姚某 诉称 原 被告 婚后 被告 好逸恶劳 家庭 不尽 职尽责 现 双方 分居 四 年 造成 夫妻 感情 破裂 请求 人民法院 判决 原 被告 离婚
+B_Person O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation B_Duration I_Duration O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

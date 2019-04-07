@@ -1,0 +1,4 @@
+原被告 2014年 春天 经人介绍 相识 确立 恋爱 关系 2014年 7月 2日 登记 结婚
+O B_Time I_Time O B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+原被告 均 系 再婚
+B_Person O O B_Remarry

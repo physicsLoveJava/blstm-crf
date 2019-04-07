@@ -1,0 +1,4 @@
+原告 被告 均 系 再婚 2004年 4月 9日 民政部门 登记 结婚 婚后 育 子 薄永康 现年 14 岁
+B_Person I_Person O O B_Remarry B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict

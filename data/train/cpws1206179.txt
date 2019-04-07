@@ -1,0 +1,2 @@
+原告 杨某 诉称 原 被告 经人介绍 认识 农村 习俗 结婚 于×××× 年×× 月××日 办理 登记 结婚 婚后 生育 三 小孩 婚后 生活 重负 双方 感情 不和 原告 杨某 2009年 5月 外出 务工 再 未 被告 刘某 甲 一起 共同 生活 长期 分居 夫妻 感情 已 完全 彻底 破裂 现 已 无 和好
+O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O B_Bear O O O O O O O O O O O O O O O O O O O O O O B_Duration B_Separation O O O O O O O O O O

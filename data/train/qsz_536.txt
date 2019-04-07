@@ -1,0 +1,8 @@
+原 被告 经人介绍 1988年 8月 16日 蓟州区 蓟县 民政部门 办理 结婚 登记 手续 共同 生活 婚后 生育 二子 现 均 已 成年
+O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O O B_Bear B_Gender O O O O
+婚后 感情 尚 时间 推移 原告 发现 被告 脾气 暴躁 双方 常常 家庭 琐事 生气 吵架 严重 被告 酗酒 醉 酒 后 更 原告 使 家暴 原告 拳打脚踢
+O O O O O O O B_Person B_BadHabit I_BadHabit O O O O O O O B_Person B_BadHabit O O O O O O O B_Person B_DomesticViolence
+原告 2016年 1月 4日 起诉 蓟州区 人民法院 贵院 调解 原告 撤诉
+O B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court O O B_Judgment I_Judgment
+原告 撤诉 后 被告 没有 悔改 时常 原告 张口 骂 伸手 时至今日 夫妻 感情 已 彻底 破裂 再 无 合好
+O O O B_Person O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O

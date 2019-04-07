@@ -1,0 +1,2 @@
+原被告系 夫妻 关系 2017年 8月 29日 登记 结婚 原被告 婚前 认识 时间 短 互 柑 缺少 了解 婚后 感情 原被告 琐事 争吵 现 已 分居 时至今日 原告 认为 夫妻 感情 已 彻底 破裂 没有 好 结束 痛苦 婚姻 特 依据 相关 法律 规定 起诉 贵院
+O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O B_FamilyConflict O O B_Separation O O O O O O O O O O O O O O O O O O O O

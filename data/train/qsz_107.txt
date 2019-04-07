@@ -1,0 +1,4 @@
+双方 2018年 4月 8日 登记 结婚 6月 3日 举行 婚礼
+O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Marry I_Marry
+当天 夜里 被告 看病 为由 离家 至今 未 回
+B_Time I_Time O O O B_Separation I_Separation I_Separation I_Separation

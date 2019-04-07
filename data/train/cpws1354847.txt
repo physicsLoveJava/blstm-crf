@@ -1,0 +1,4 @@
+原告 潘某 诉称 被告 婚前 了解 少 草率 结婚
+B_Person I_Person O O O O O O B_Marry
+婚后 性格 不合 观念 差异 大 无法 沟通 使 夫妻 感情 彻底 破裂 要求 离婚
+O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit

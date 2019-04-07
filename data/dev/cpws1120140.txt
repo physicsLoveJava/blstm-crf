@@ -1,0 +1,8 @@
+原告 王 某某 诉称 原 被告 2000年 经人介绍 相识 后 同居 生活 2001年 9月 19日 生育 其子 张某甲 2002年 被告 犯罪 判处 有期徒刑 12 年 6 月 服刑 后 2012年 出狱 被告 服刑 期间 原告 购买 房屋 套 2009年 1月 9日 取得 房屋 产权 证书
+B_Person O O O O O B_Time O B_Know O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O O O O O O
+被告 胁迫 下 双方 2012年 12月 5日 补 办 结婚 登记
+O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原 被告 双方 居 后 没有 建立 夫妻 感情 被告 性格 暴躁 常 生活 琐事 实施 家庭 暴力 现 夫妻 感情 已经 破裂 特 诉至法院 要求 被告 离婚
+O O O O O O O O O B_Person B_BadHabit I_BadHabit O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O
+位于 奉节县 永安镇 英才街 144 号 4-4 房屋 套 原告 所有
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O

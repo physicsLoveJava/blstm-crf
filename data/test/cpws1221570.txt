@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2011年 6月份 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+双方 婚前 缺乏 了解 婚后 常 家庭 琐事 吵架 生气 未能 建立 真正 夫妻 感情
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+现原 被告 已 分居 五 月 久 夫妻 关系 名存实亡 无 好
+O O O B_Separation B_Duration I_Duration O O O O O O
+为此 诉至法院 请求 依法 判 令 准予 原 被告 离婚 婚前 财产 所有 婚后 财产 依法 分割 诉讼 费用 被告 承担
+O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O O
+1 原 被告 经人介绍 后 自由 恋爱 ×××× 年×× 月××日 举办 结婚 仪式 同居 后 补办 结婚 登记 足以 看出 婚前 存在 感情 基础 婚后 建立 一定 夫妻 感情
+O O O O O O O B_Time I_Time I_Time O B_Marry O O O O B_Marry I_Marry O O O O O O O O O O O
+2 双方 产生 矛盾 主要 原因 在于 原告 挪用 被告 所有 一万 元 彩礼 钱 5000 元 改口费 村委会 分发 补助款 由此 引发 矛盾
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+原 被告 分居 被告 原告 生气 患 精神 疾病 需 长期 就医 治疗 原告 遗弃 被告 产生 分居
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

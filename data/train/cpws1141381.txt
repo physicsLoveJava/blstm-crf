@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 2010年 4月 29日 衡水市 桃城区 民政局 登记 结婚 双方 均 系 再婚 婚前 感情 基础 弱 婚后 未 建立 深厚 夫妻 感情 常 家庭 琐事 发生 争执
+O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Person O O B_Remarry O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

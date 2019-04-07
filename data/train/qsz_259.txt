@@ -1,0 +1,4 @@
+2016年 8月 3日 原 被告 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 被告系 再婚
+B_Time I_Time I_Time O O O O O B_Marry O O O O B_Person B_Remarry
+婚后 无 生育 子女 婚后 初期 夫妻 感情 尚 时间 推移 原 被告 发现 夫妻 感情 渐渐 不合 常常 家庭 琐事 生气 打架 争吵 不 休 致使 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O O O O O O

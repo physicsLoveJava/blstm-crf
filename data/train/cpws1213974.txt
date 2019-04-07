@@ -1,0 +1,4 @@
+原告 朱某 诉称 原 被告 2008年 4月 2日 登记 结婚 2009年 9月 3日 生育 女 曹馨雅
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚后 常 琐事 争吵 致 夫妻 感情 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

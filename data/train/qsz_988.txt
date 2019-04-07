@@ -1,0 +1,10 @@
+原告 被告 以前 素不相识 2009年 次 偶然 机会 原告 被告 原告 大姐 柴春红 家 吃饭 时 相遇
+O O O O B_Time O O O O O O O O O O O B_Know
+原告 被告 均 属 离异 单身 当时 原告 蓟县 城内 奥豹 专卖店 上班
+B_Person B_Person O O B_Remarry I_Remarry O O O O O O O
+被告 约 原告 吃饭 交往 同居 生活
+O O O O I_BeInLove O O
+2013年 1月 8日 原告 被告 蓟州区 民政局 办理 结婚 登记 手续 2013年 6月 7日 生育长 女王 子宜
+B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 均 属 再婚 原被告 同居 结婚 现在 家里 生活 开支 全 原告 打工 收入 用以 维持 生活 被告 不务正业 更 不 外出 打工 挣钱
+B_Person O O B_Remarry O O O O O O O O O O O O O O B_Person B_BadHabit O O O O O

@@ -1,0 +1,4 @@
+原 经人介绍 2009年 12月 29日 登记 结婚 婚后 生育 女 名 黄欣悦 现年 6 周岁 婚后 双方 性格 不合 无 共同语言 被告 不尽 家庭 义务 近 近 年 久 未 回家 导致 双方 发生 矛盾 逐渐 激化 现 双方 夫妻 感情 完全 破裂 无法 共同 生活 下去
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O B_Name O B_Age I_Age O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 特具状 起诉 离婚 婚生 女儿 黄欣悦 6 周岁 原告 生活 被告 支付 抚养 费用
+O O B_DivorceLawsuit I_DivorceLawsuit B_Bear B_Gender B_Name B_Age I_Age O O O O O O

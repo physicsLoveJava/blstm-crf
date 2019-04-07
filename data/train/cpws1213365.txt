@@ -1,0 +1,6 @@
+原告 蔡某 诉称 原 被告 2003年 经人介绍 相识 2004年 1月 12日 登记 结婚 2005年 9月 13日 生育 女 取名 李 某某
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原 被告 双方 婚前 缺乏 了解 婚前 感情 婚后 双方 生活 琐事 发生 争吵 被告 不顾 家庭 赌博 致 夫妻 感情 彻底 破裂 故原 告诉 本院 请求 判 令 原 被告 离婚
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O I_BadHabit O O O O O O O O O O O O O O
+被告 李某 辩称 原告 诉状 中 陈述 相互 认识 登记 结婚 生育 子女 情况 属实 婚后 双方 日常 生活 中 争吵 夫妻 生活 中 难免 被告 没有 赌博 行为
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_Negated I_Negated I_Negated

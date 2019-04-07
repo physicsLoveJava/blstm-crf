@@ -1,0 +1,6 @@
+原被告 1998年 2月 人 介绍 相 确立 恋爱 关系 1998年 11月 19日 登记 结婚 1999年 12月 20日 生育 长子 张澳 现 部队 服兵役 原被告 结婚 后 性格 不同 没有 共同语言 之间 争 打架
+O B_Time I_Time O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O B_FamilyConflict
+近 年 被告 时常 酗酒 酒后 无端 原告 争吵
+O O B_Person O B_BadHabit O O O B_FamilyConflict
+现 原被告 之间 矛盾 越来越 深 双方 日常 生活 中 没有 沟通 感情 已经 彻底 破裂 昏姻 关系 禾法 维持 系 告 曾 2017 年 前 武清区 人民法院 提起 诉讼 该院 2017年 7月 7日 2017 津0114 民 初 6991号 民事 判决 驳回 原告 诉 贵求 双方 仍 分居 生活 不 好
+O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O O O O B_DivorceLawsuit O B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment O O O O O O O O

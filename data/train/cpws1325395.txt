@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2009年 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 男孩 取名 陈某乙
+O B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 发现 双方 性格 不合 常 家庭 琐事 发生 争执 双方 长期 分居 导致 夫妻 感情 已经 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 原告 诉至法院 请求 依法 判 令 原 被告 离婚
+O B_Person B_DivorceLawsuit O O O O O O O
+被告 辩称 原告 所述 事实 不符
+O O O O B_Negated I_Negated

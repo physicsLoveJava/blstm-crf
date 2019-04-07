@@ -1,0 +1,8 @@
+原告 王×1 诉 称 1998年 原告 被告 经人介绍 相识 1999年 4月 15日 登记 结婚 婚后 2000年 1月 4日 生 子 王 x
+O O O O B_Time O O O B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+结婚 生子 后 原被告 逐渐 产生 矛盾 孩子 两 岁 后 经常性 争吵 双方 之间 沟通 渐 少 夫妻 感情 淡薄 现 夫妻 感情 已 完全 破裂
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O
+被告 公婆 争吵 打架 使 家庭 气氛 充满 火药味
+O O O B_DomesticViolence O O O O O
+被告 王×2 辩称 1998年 原告 经人介绍 相识 1999年 5月 8日 结婚 2000年 1月 4日 孩子王 x 出生
+O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2001年 9月 认识 相爱 2002年 1月 24日 登记 结婚 2002年 6月 19日 生育 女
+O O O O O B_Time I_Time O B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O
+原 被告 婚前 感情 基础 未 予 了解 婚后 未 建立 深厚 夫妻 感情 琐事 争吵
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict
+2012年 4月 17日 原告 提起 离婚 诉讼 法院 审理 未 准予 离婚
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O O O

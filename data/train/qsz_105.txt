@@ -1,0 +1,16 @@
+原 被告 本村 村民 丁 1990年 确定 恋爱 关系 1991年 9月 4H 登记 结婚 婚后 感情 不 睦
+O O O O O B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O
+1992年 9月 5Fl 生长子 孙振
+B_Time I_Time I_Time B_Bear B_Name
+2003年 3月 6日 生次 子孙鑫
+B_Time I_Time I_Time B_Bear B_Gender
+双方 婚后山 性格 不合 发生 争执
+B_Person O O O B_FamilyConflict I_FamilyConflict
+被告 1995年 经营 修车 业务 期间 人 发生 婚外情
+B_Person B_Time O O O O I_Derailed I_Derailed I_Derailed
+持续 时间 达_. 年 久 原告 为此 起诉 离婚 调解 撤诉
+O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment
+后 亲属 劝说 下 双方 继续 共同 生活 夫妻 关系 未 改善 始终 分居 生活
+O O O O O O O O O O O O O B_Separation O
+近 半 年 被告 开设 赌场 为此 双方 发生 争执
+O O O O O O O B_Person B_FamilyConflict I_FamilyConflict

@@ -1,0 +1,4 @@
+原告 贺某 甲诉 称 ×××× 年××月份 原被告 经人介绍 相识 ×××× 年×× 月×× 日 二 人 东阿县 民政局 办理 结婚 登记 手续
+O O O O O O O O B_Know O O O O O O O O O O O O
+婚后 被告 酒后 毒打 原告 原告 提出 离婚 原告 想 被告 生活 下去 被告 屡教不改 染 上 赌博 恶习
+O O O B_DomesticViolence O O O O O O O O O O O O O B_BadHabit O

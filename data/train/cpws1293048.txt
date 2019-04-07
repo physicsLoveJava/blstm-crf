@@ -1,0 +1,4 @@
+原告 羌某 诉称 原 被告 1999年 2月 18日 相识 恋爱 2001年 9月 3日 生育 女 李淼 现在 郑陆 中心 小学 就读 六 年级 生活
+O O O O O B_Time I_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O
+婚前 接触 少 婚后 被告 打骂 原告 毫无 家庭 责任感 现 夫妻 感情 彻底 破裂 请求 判决 原 被告 离婚
+O O O O O B_DomesticViolence O O O O O O O O O O O O O B_DivorceLawsuit

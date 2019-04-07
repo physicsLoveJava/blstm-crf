@@ -1,0 +1,4 @@
+原告 刘某 诉称 原告 1999年 认识 2008年 5月 12日 登记 结婚 工作 发生 口角 有时 过激 行为
+O O O O B_Time B_Know B_Time I_Time I_Time O B_Marry O O O O O O
+被告 2012年 7月 原告 父亲 家 搬 平房 居住 双方 正式 分居 期间 原 被告 协商 次 都 无功而返 被告 打电话 骚扰 威胁 原告 还 辱骂 原告 原告 实在 无法 忍受 起诉 院 要求 离婚 双方 未 生育 子女 无 共同 财产
+O B_Time I_Time O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

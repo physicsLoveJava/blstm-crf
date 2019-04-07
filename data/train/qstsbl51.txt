@@ -1,0 +1,32 @@
+原 被告 2002年 3月 人 介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2002年 8月 11 民政部门 登记 结婚 同年 9月 8日 举行 结婚 仪式 2004年 4月 15日 生育 男孩 取名 圣琳 现 初中 学生
+B_Time I_Time I_Time O B_Marry I_Marry O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O I_Name O O O
+原被告 婚后 感情 双方 生活 琐事 发生 矛盾
+O O O O O O O B_FamilyConflict
+原告 出狱 后 双方 未 共同 居住 生活 没有 信任 基础 夫妻 感情 已 彻底 破裂
+O O O O B_Separation I_Separation I_Separation O O O O O O O O O
+不 同意 离婚 尊重 孩子 意见 孩子 希望 中考 后 再 离婚 2001年 相识 不 原告 诉状 中 述 2002年 原告 诉状 中 述 理由 事实 不符 原告 说 服刑 期间 不 探望 原告 父亲 原告 律师 重新 签订 份 委托 合同 说 原告 案子 无关 前期 原告 律师 聘请 交纳 代理费 原告 父亲 原告 案件 无关 原告 无关 每月 去 探视 原告 直到 原告 父亲 发生 纠纷 后 才 不 去 探望 寒暑假 都 孩子 去 看 原告 原告 服刑 期间 原告 父亲 每天 都 家 还 翻动 物品 信息 都 抄录 走 原告 父亲 我家 钥匙 每次 不 敲门 开门 进 次 刚 洗 完 澡 还 没 穿 衣服 原告 父亲 原告 父亲 发生 口角 原告 父亲 动手 去 派出所 之后 才 不 去 看 原告 原告 出狱 后 没 见 原告 原告 母亲 打电话 拒绝 原告 接 电话 原告 出狱 后 原告 没有 沟通 十 年 问题 说 清楚 离婚 不 同意
+O O O O O O O O O O O O B_Time B_Know O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person I_Person B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+问 被告 答辩 中 讲 2001年 3月 人 介绍 相识
+O O O O O B_Time I_Time O O B_Know
+应该 2002年 年初 认识 认识 月 以后 登记 结婚
+O B_Time I_Time B_Know O O O B_Marry I_Marry
+联系 次 孩子 孩子 见 面 被告 父亲 打架 家里 门锁 换 找 孩子 钥匙 不
+O O O O O O O O B_FamilyConflict O O O O O O O
+问 婚后 共同 财产
+O O B_CommonProperty I_CommonProperty
+家电 包括 电冰箱 洗衣机 微波炉 照相机 家具 包括 二 套 组合 家具 4 瓶 茅台酒 辆 津 QV3206 夏利 轿车 登记 被告 名下
+O O B_Wealth I_Wealth I_Wealth I_Wealth O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+问 共同 存款
+O B_Wealth I_Wealth
+没有 觉得 被告 现在 至少 10万 元
+O O O O O B_Price I_Price
+问 共同 债权 债务
+O O B_Credit B_Debt
+均 没有
+O B_Negated
+问 股票 基金 有价证券
+O B_Wealth I_Wealth I_Wealth
+均 没有
+O B_Negated

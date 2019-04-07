@@ -1,0 +1,4 @@
+原告 詹莉 某诉 称 2000年 原 被告 经人介绍 认识 恋爱 两 年 后 2002年 10月 办理 结婚 登记 2005年 生育 女 取名 蒋 欣某
+O O O O B_Time O O O B_Know B_BeInLove B_Time I_Time I_Time I_Time I_Time O B_Marry O B_Time B_Bear B_Gender O B_Name I_Name
+婚后 被告 家庭 非常 不 负 责任 沉迷 翻牌机 原告 劝告 均 无效 深深 伤害 原告 感情 特诉 院 请求 法院 依法 判 令 1 原 被告 离婚
+O O O O O O O O O O O O O O O B_Person O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

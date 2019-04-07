@@ -1,0 +1,12 @@
+原 被告 1998年 2月 8日 登记 结婚 被告 以上 门 女婿 身份 入 赘 原告 家
+O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O
+婚后 生育 长子 崔宇飞 长女 崔玲玲 均 学 次子 李昀皓 现 9 月 婚前 了解 不够 草率 成婚
+O B_Bear B_Gender B_Name B_Gender B_Name O O B_Gender B_Name O B_Age I_Age O O O O O
+导致 婚后 发生 矛盾 被告 脾气 古怪动不动 原告 生气 打架
+O O O O B_Person B_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict
+无奈 原告 只好 钱 供 孩子 上学
+O O O I_Debt O O O
+2018年 2月 20日 琐事 双方 发生 吵架
+B_Time I_Time I_Time O O O B_FamilyConflict
+被告 离家 出走 静海 打工 不 回来 至今 双方 分开 生活 近 六 月 互不来往
+O B_Separation I_Separation O O O O B_Time O O O B_Duration I_Duration I_Duration O

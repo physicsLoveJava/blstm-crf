@@ -1,0 +1,8 @@
+原告 胡某 起诉 称 1993年 原 被告 经人介绍 相识
+O O O O B_Time O O O B_Know
+后 双方 ×××× 年×× 月××日 办理 结婚 登记 手续 结 合法 夫妻
+O O B_Time I_Time I_Time O B_Marry O O O O O
+婚后 育 二 女 名 潘某乙 潘某丙 曾用名 潘丁 分别 1994年 5月 30日 ×××× 年×× 月××日 出生
+O B_Bear O B_Gender O B_Name B_Name O O O B_Time I_Time I_Time B_Time I_Time I_Time I_Time
+婚后 原告 发现 被告 赌博 恶习 原告 劝说 屡教不改
+O O O O B_BadHabit I_BadHabit O O O

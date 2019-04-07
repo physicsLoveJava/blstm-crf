@@ -1,0 +1,10 @@
+原告 张某 甲诉 称 原告 被告 经人介绍 相识 后 1999年 12月 18日 办理 结婚 登记
+O O O O O O O B_Know O B_Time I_Time I_Time O B_Marry I_Marry
+双方 2000年 11月 23日 育 女 张某丁 2007年 4月 18日 育 子 张某戊 现 两 孩子 均 原告 生活
+O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O
+婚后 双方 性格 不合 生气 吵架
+O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict
+2012年 春节 过后 原 被告 生气 原告 两 子女 回到 娘家 居住 今 期间 被告 原告 子女 不 不 问 原告 心灰意冷
+B_Time I_Time O O O O O O O B_Separation I_Separation I_Separation I_Time O O O O O O O O O
+现 原告 请求 判 令 双方 离婚 两 子女 均 原告 抚养 被告 支付 原告 子女 抚养费 18万 元 要求 被告 返还 原告 婚前 陪 送 物品 分割 家里 平房 七 间
+O O O O O O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth

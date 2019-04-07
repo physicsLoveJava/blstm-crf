@@ -1,0 +1,6 @@
+原被告 自由 恋爱 2012年 相识 2013年 7月 31日 登记 结婚 2013年 9月 5日 生 男孩 李嘉诚
+O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 双 了解 不够 婚后 原被告 没有 共同语言 生气 打架 被告 还 殴打 原告
+O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence B_Person
+2018年 2月 9日 原被告 生气 原告 带 婚生 子 被告 分居 生活
+B_Time I_Time I_Time O O O O O O O B_Separation O

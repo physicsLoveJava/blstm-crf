@@ -1,0 +1,12 @@
+2002年 原 被告 经人介绍 相识 2005年 1月 14日 天津市 蓟州区 民政局 领取 结婚证
+B_Time O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry
+婚后 育 子 范子恒
+O B_Bear B_Gender B_Name
+婚后 双方 琐事 吵架 生气
+O O O B_FamilyConflict I_FamilyConflict
+双方 2011年 分居 今 没有 正常 夫妻 生活
+O B_Time B_Separation I_Time O O O O
+原告 曾 蓟州区 人民法院 提起 离婚 诉讼
+B_Person O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵院 2017年 5月 31日 判决 不予 离婚
+O B_Time I_Time I_Time O B_Judgment I_Judgment

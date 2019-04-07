@@ -1,0 +1,4 @@
+原告 武某 诉称 原告 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 婚前 被告 不够 了解 草率 结婚
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry O O O O O O
+婚后 双方 性格 不合 吵闹 现 原告 不 愿意 继续 被告 共同 生活 特 诉至法院 要求 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

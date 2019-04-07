@@ -1,0 +1,6 @@
+原告 陈×× 诉称 2010年 1月 31日 被告 经人介绍 认识 订婚 2010年 4月 13日 汶上县 民政局 登记 结婚 2013年 1月 31日 生 女孩 取名 张×瑶 现 生活
+O O O B_Time I_Time I_Time O O B_Know O B_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O
+被告 婚前 缺乏 了解 婚后 性格 不合 生活 琐事 发生 矛盾
+O O O O O O O O O O B_FamilyConflict
+2013年 6月 双方 琐事 发生 争执 被告 胳膊 青 被告 商量 协议 离婚 2013年 11月 18日 去 被告 家 拉 嫁妆 时 双方 发生 争执
+O O O O O O B_Person I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O

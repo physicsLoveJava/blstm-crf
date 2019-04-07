@@ -1,0 +1,18 @@
+原告 朱某 甲 起诉 称 2004年 7月 15日 原 被告 双方 仙 居民 政局 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O O O O O O B_Marry I_Marry O
+2007年 5月 31日 生 儿子 朱 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原、被告 性格 不合 没有 共同语言 琐事 争吵 没有 培养 良好 夫妻 感情
+O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict O O O O O
+婚后 双方 共同 财产 别克 君威 轿车 辆 马六 轿车 辆 小 面包车 辆 位于 临海市 大洋 消防队 隔壁 废铁 收购站 处
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth O O O O O B_Wealth I_Wealth O
+共同 债权 5．5万 元 共同 债务 125．1万 元
+O B_Debt O O O B_Debt O O
+双方 矛盾 激化 无法 继续 共同 生活 夫妻 关系 已 名存实亡
+O B_FamilyConflict I_FamilyConflict O O O O O O O O
+现 原告 起诉 要求 法院 判 令 1． 准予 原 被告 离婚
+O O O O O O O O O O O B_DivorceLawsuit
+原告 要求 离婚 外面 女人 被告 希望 原告 外面 女人 断 掉 关系 一家 三 口 人 好好 过日子
+B_Person O O O I_Derailed O O O O O O O O O O O O O O
+原 被告 婚后 财产 包括 别克 君威 轿车 马六 轿车 小 面包车 辆 两 处 店 分别 位于 仙居 环城 南 路上 烧烤店 临海 大洋 消防队 隔壁 废铁 收购站
+O O O O O O O O O O O O O O O O O O O O O O B_Wealth O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 被告 经人介绍 于×××× 年×× 月×× 日 结婚 2011年 11月 22日 孩子 出生 后 生气 没有 工作 被告 孩子 放 大街 威胁 严重 闹 家里 不 生活 无奈 2013年 3月 辉县市 人民法院 起诉 离婚 没有 想到 被告 上 十 余 人 3月 17日 晚上 12点 我家 成 骨折 形成 轻伤 郭旭 判刑 至此 感情 彻底 破裂 请求 法院 判决 原被告 离婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry B_Time I_Time I_Time O B_Bear O O O O O O O O O O O O O O O B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Person O O O O B_Time I_Time I_Time I_Time O I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O
+婚生子 原告 抚养 被告 支付 抚养费
+B_Gender B_Person O O O O
+双方 婚前 婚后 感情 基础 都 好 2013年 3月 17日 双方 分居 导致 双方 分居 原因 原告 被告 兄弟 之间 误会 摩擦 原被告 感情 没有 破裂
+O O O O O O O B_Time I_Time I_Time O B_Separation O O O O O O O O O O O O O O

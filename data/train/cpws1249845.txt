@@ -1,0 +1,10 @@
+原告 刘某 诉称 原被告 ×××× 年×× 月×× 日 登记 结婚 婚后生 男孩 穆欣 现 已 成年
+O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender B_Name O O B_Age
+原被告 婚后 生活 不 幸福 特别 孩子 出生 两 月 后 被告 原告 大打出手
+O O O O O O O O O O O B_Person B_Person B_DomesticViolence
+无奈 原告 只好 2010年 被告 分居 现 分居 已 三 年 久
+O O O B_Time O B_Separation O O O O O O
+原告 诉至法院 要求 被告 离婚 共同 财产 依法 分割
+O O O O O B_Wealth I_Wealth O O
+原被告 没有 分居 总 一起 住
+O O B_Separation O O O

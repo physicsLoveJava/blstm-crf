@@ -1,0 +1,10 @@
+原 告诉 称 原告 被告 经人介绍 认识 不久 2012年 6月 18日 登记 结婚
+O O O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 以来 被告 原告 实施 家庭 暴力 曾 记 次 婚后 第三 天 被告 无故 发火 狠狠 扇 原告 三 耳光
+O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O
+曾 记 次 被告 夜 不 宿 赌博 原告 过问 却 遭到 被告 毒打 造成 原告 流产
+O O O B_Person O O O B_BadHabit O O O O O B_DomesticViolence O B_Person O
+原告 被告 感情 已 彻底 破裂 法院 起诉 请 法院 判决 原告 被告 离婚 夫妻 征地 补偿 共同 财产 143822 元 被告 应 支付 原告 征地 补偿 款 71911 元 精神损失费 30000 元
+O O O O O O O O O O O O O O O B_Wealth I_Wealth B_CommonProperty I_CommonProperty B_Price I_Price O O O O O O O O O O O O
+婚后 被告 外 打工 辛勤 持家 无 赌博 事实 生活 中 被告 原告 恩爱 有加 少 原告 吵 过架 更 未 动手 原告 原告 无理取闹 没事找事 时 被告 总是 好言相劝
+O O O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O

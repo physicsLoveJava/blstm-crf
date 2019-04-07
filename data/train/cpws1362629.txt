@@ -1,0 +1,8 @@
+原 告诉 称 被告 2009年 10月 人 介绍 相识 2011年 4月 登记 结婚 婚后 夫妻 感情 生育 女儿 石某 乙 婚前 被告 伪装 婚后 自私 小气 脾气 暴躁 变态 性格 缺陷 暴露无遗
+O O O O B_Time I_Time O O B_Know B_Time I_Time O B_Marry O O O B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O
+两 年 被告 醉酒 小事 争吵 十 余 次 怀孕 坐月子 不 顾及
+O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+2 原告 带走 财物 房子 以外 所有 共同 财产 1．5万 元 存款 被告 支付 原告 一万 元 共同 还 房 贷款
+O O O O O O O O O B_Price I_Price B_Wealth O O O B_Price I_Price O B_Wealth I_Wealth I_Wealth
+3 婚生 女 石某 乙 被告 抚养 房产 女儿 石某 乙 名下
+O B_Bear O O O O O O O O O O

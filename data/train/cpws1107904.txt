@@ -1,0 +1,6 @@
+原 告诉 称 被告 2004年 6月 人 介绍 相识 2006年 4月 18日 举行 结婚 仪式 2006年 9月 23日 生 子 张某乙
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 系 经人介绍 相识 婚后 发现 性格 差异 大 双方 无 共同语言 无法 正常 沟通 交流 导致 两 人 之间 隔阂 越来越 深 婚后 被告 先后 理由 原告 处 拿走 8万 元 用于 消费 被告 行为 导致 原告 孩子 经济 拮据 生活 毫无 保障
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+双方 2012年 3月 分居 今 原告 认为 双方 感情 已 破裂 诉至法院 请求 依法 判 令 1 原 被告 解除 婚姻 关系
+O B_Time I_Time B_Separation I_Time O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O

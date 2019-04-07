@@ -1,0 +1,6 @@
+2004年 2月 11日 育 长女 历明 靖.2006年 11月 17日 蓟州区 民局 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time O O O B_Marry O O
+2015年 育 次女 历垚鑫
+B_Time B_Bear B_Gender B_Name
+双方 性格 不合 家庭 琐事 争吵 致使 双方 感情 每况愈下 现 完全 破裂
+O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O O

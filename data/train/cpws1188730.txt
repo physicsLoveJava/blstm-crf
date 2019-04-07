@@ -1,0 +1,6 @@
+原告 郭某 起诉 称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 次年 7月 13日 生育 男孩 目前 已 参加 工作
+O O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender O O O O
+婚后 原、被告 双方 没有 建立 夫妻 感情 琐事 争吵 被告 殴打 原告 2010年 原告 离开 被告 杭州 打工 至今 双方 分居 夫妻 关系 已 名存实亡
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person B_Time O O O O O O O B_Separation O O O O
+原告 认为 双方 分居 已 达 两 年 以上 婚姻法 第三十二 条 规定 现 诉至法院 要求 离婚
+B_Person O O B_Separation O O B_Duration I_Duration I_Duration O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

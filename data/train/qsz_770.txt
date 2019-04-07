@@ -1,0 +1,6 @@
+原 被告 经人介绍 1987年 11月 22日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+生长 女 高姨英 次女 高 陈辰 均 已 成年 出嫁
+I_Bear B_Gender B_Name B_Gender B_Name I_Name O O O O
+更 不 原告 容忍 被告 天津 市内 已 家庭 女方 已经 怀孕
+O O O O B_Person O O O I_Derailed O O O

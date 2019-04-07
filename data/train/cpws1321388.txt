@@ -1,0 +1,12 @@
+原告 张丽诉 称 原 被告 2012年 6月份 经人介绍 认识 2013年 1月 21日 登记 结婚 婚前 不 了解 没有 建立 感情 基础
+B_Person I_Person O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O
+结婚 以后 原告 发现 被告 生理 缺陷 不 进行 夫妻 生活
+O O O O O B_FamilyConflict I_FamilyConflict O O O O
+原告 2013年 正月 初六 回 娘家 居住 被告 分居 今
+O B_Time I_Time I_Time O O O O B_Separation O
+请求 法院 判 令 原被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+被告程 飞龙 辩称 原告 诉状 中 所属 事实 不符
+O O O O O O O B_Negated I_Negated
+实际上 原被告 认为 双方 合适 幸福 才 结婚 婚后 吵架 正常
+O O O O O O O O O B_FamilyConflict O

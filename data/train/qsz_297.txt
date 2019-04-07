@@ -1,0 +1,8 @@
+原被告 1989年 5月 人 介绍 相识 确立 恋爱 关系 1990年 10月 举行 婚礼 同居 生活
+O B_Time I_Time O O B_Know O B_BeInLove O O O O O O O
+1992年 5月 12日 生育长 女王娜 现 已 出嫁 2005年 3月 6日 生育 长子 王易 现 上 小学 2016年 6月 3日 原被告 办理 结婚 登记
+B_Time I_Time I_Time B_Bear B_Gender O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time O O B_Marry O
+原被告 结婚 后 性格 不同 没有 共同语音 之间 时常 争吵 打架 感情 不和
+O O O O O O O O O B_FamilyConflict B_FamilyConflict O O
+原告 总是 采取 忍让 克制 态度 被告 却 丝毫 不 注重 夫妻 感情 培养 酗酒 无故 辱骂 殴打 原告
+O O O O O O B_Person O O O O O O O B_BadHabit O B_FamilyConflict B_DomesticViolence B_Person

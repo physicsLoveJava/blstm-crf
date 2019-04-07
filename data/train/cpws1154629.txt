@@ -1,0 +1,8 @@
+原告 明某 诉称 原 被告 1998年 经人介绍 认识 1999年 10月 21日 靖州 苗族 侗族 自治县 民政局 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O O O B_Marry I_Marry
+2000年 8月 10日 生育 大 女儿 明某 甲 2005年 11月 14日 生育 小 女儿 明某 乙
+B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name
+婚后 原 被告 性格 不合 被告 公婆 邻居 关系 紧张 原告 发急 病 不 不 问 原告 曾 2011年 4月 原 被告 感情 完全 破裂 为由 靖州 苗族 侗族 自治县 人民法院 提出 离婚 诉讼 法院 判决 不 准 离婚
+O O O O O O O O O O O O O O O O B_Person O B_Time I_Time O O O O O O B_Court I_Court I_Court I_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+夫妻 感情 没有 得到 改善 至今 仍 分居 生活
+O O O O O B_Time O B_Separation O

@@ -1,0 +1,4 @@
+原 被告 系 自由 恋爱 2009年 6月 30日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活 2009年 8月 30日 生育 女 柴境移
+O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 原、被告 双方 发现 夫妻 感情 不合 常常 家庭 琐事 争吵 不 休 生气 打架 时至今日 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

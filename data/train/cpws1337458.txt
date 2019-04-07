@@ -1,0 +1,4 @@
+原告 叶某 起诉 称 原 被告 2009年 1月 14日 富阳市 民政局 登记 结婚 婚后 2009年 4月 21日 生育 儿子 孙小某
+O O O O O O B_Time I_Time I_Time O O O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+结婚 以来 被告 存在 赌博 吸毒 恶习 存在 家暴 不管 儿子 生活 学习 情形 导致 夫妻 感情 持续 恶化
+O O B_Person O B_BadHabit I_BadHabit O O B_DomesticViolence O O O O O O O O O O

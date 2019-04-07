@@ -1,0 +1,6 @@
+原告 阮某 起诉 称 原 被告 经人介绍 认识 2002年 7月 3日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 邱某 乙 现年 10 周岁 目前 原告 共同 生活
+O O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry B_Time I_Time I_Time I_Time B_Bear O I_Gender B_Name I_Name O B_Age I_Age I_Age O O O
+2012年 8月 双方 发生 争执 后 分居 生活 今 导致 夫妻 感情 破裂
+B_Time I_Time I_Time O O O O O I_Separation B_Time I_Time O O
+被告 邱某 甲辩 称 原告 陈述 内容 不 符合 事实 原告 陈述 双方 2012年 8月 分居 生活 不对 至今 双方 没有 分居
+O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Separation O O B_Time

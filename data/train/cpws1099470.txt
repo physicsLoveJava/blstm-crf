@@ -1,0 +1,8 @@
+原 告诉 称 2004年 3月 原告 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚
+B_Person I_Person O B_Time I_Time O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日婚生 女孩 取名 刘某 乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 共同 生活 中 双方 性格 不合 家庭 琐事 吵闹 打骂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+现原 被告 已 分居 生活 年 已 无法 共同 生活 特 法院 起诉 要求 被告 离婚
+O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

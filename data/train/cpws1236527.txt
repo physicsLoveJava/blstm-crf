@@ -1,0 +1,8 @@
+原告 苟 某某 诉称 被告 1994年 相识 1995年 生育 大 女儿 宋某甲 1997年 4月 4日 生育 二 女儿 苟某甲
+B_Person I_Person I_Person B_DivorceLawsuit O B_Time B_Know B_Time B_Bear O B_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name
+1996年 裴石乡 人民政府 办理 结婚 登记 手续
+B_Time O O O B_Marry I_Marry O
+2000年 人 外出 打工 二 女儿 相依为命 至今 被告 分居 生活 不 履行 夫妻 义务 夫妻 感情 彻底 破裂 确 无 和好
+B_Time O O O O O O O O B_Separation O O O O O O O O O O O O
+被告 宋 某某 辩称 坚决 不 同意 离婚 夫妻 之间 关系 好 从未 吵 架 结婚 后 还 生育 两 孩子
+O O O O O O O O O O O O O O O O O O B_Bear O O

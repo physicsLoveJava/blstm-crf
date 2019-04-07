@@ -1,0 +1,6 @@
+原 被告 2016年 1月 人 介绍 相识
+O O B_Time I_Time O O B_Know
+后 2016年 2月 23日 办理 婚姻 登记 手续 共同 生活 婚后 2016年 11月 16日 生育 子 李 佳峻 现年 1 周岁
+O B_Time I_Time I_Time O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O B_Age I_Age
+原 被告 琐事 发生 争吵 次 争吵 后 2017年 9月份 回 娘家 居住 今
+O O O O B_FamilyConflict O O O B_Time I_Time B_Separation I_Separation I_Separation I_Time

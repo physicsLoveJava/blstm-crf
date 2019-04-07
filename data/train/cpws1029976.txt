@@ -1,0 +1,4 @@
+原告 张某 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日生 女儿 李某 乙
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+为此 原告 分娩 后 回 娘家 生活 今 分居 生活 已 年 被告 期间 不 原告 沟通 不 看望 女儿 支付 抚养 费用 夫妻 感情 已 完全 破裂
+O O O O B_Separation I_Separation O O O O O I_Duration O O O O O O O O O O O O O O O O

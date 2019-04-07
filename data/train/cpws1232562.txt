@@ -1,0 +1,8 @@
+原 告诉 称 1990年 原被告 经人介绍 建立 恋爱 关系 1991年 11月 8日 莱州市 朱桥 政府 登记 结婚 婚后 生 女儿 现 已 成年
+O O O B_Time O O O B_BeInLove O B_Time I_Time I_Time O O O B_Marry I_Marry O B_Bear B_Gender O O B_Age
+原被告 婚前 感情 婚后 常 家务 琐事 争吵 动手 殴打 原告 致 夫妻 感情 破裂 无 好
+B_Person O O O O O O B_FamilyConflict B_DomesticViolence I_DomesticViolence B_Person O O O O O O
+现 原告 要求 被告 离婚 财产 依法 分割 诉讼费 被告 负担
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+被告 辩称 不 同意 离婚 原告 1989年 自由 恋爱 建立 恋爱 关系 没有 经人介绍
+O O O O O O B_Time B_BeInLove I_BeInLove O O O O O

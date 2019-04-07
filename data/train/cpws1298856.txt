@@ -1,0 +1,4 @@
+原告 戴 某某 诉称 被告 2003年 2月 人 介绍 相识 2003年 5月 7日 办理 结婚 登记 手续 婚后生 女孩 戴某 婚前 无 感情 基础 婚后 未 建立 真正 夫妻 感情 双方 家庭 琐事 发生 争吵 导致 夫妻 感情 不和 2012年 6月 曾 法院 起诉 要求 被告 离婚 后 法院 调解 维持 婚姻 现状
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+双方 名存实亡 生活 2010年 7月份 分居 生活 夫妻 感情 彻底 破裂
+O O O O O B_Separation O O O O O

@@ -1,0 +1,6 @@
+原告 张某 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 余 乙 现 就读 余姚市 东风 小学
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O
+2012年 4月 18日 原告 余姚 城区 租房 居住 后 回 娘家 居住 今
+B_Time I_Time I_Time O O O B_Separation I_Separation O B_Separation I_Separation I_Separation O
+被告 余 某甲 答辩 称 不 同意 离婚 原告 诉称 不 符合 客观 事实 原 被告 2003年 经人介绍 相识 婚后 相处 和谐
+O O O O O O O O O O O O O O O O I_Time O B_Know O O O

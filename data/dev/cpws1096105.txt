@@ -1,0 +1,12 @@
+原告 陈 某某 诉称 原 被告 经人介绍 相 认识 1988年 11月 16日 举行 结婚 仪式 1991年 1月 29日 石泉县 人民政府 补办 婚姻 登记 手续
+O O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+1989年 11月 29日 生育 长女 取名 裴拥群 成人
+B_Time I_Time I_Time B_Bear O O B_Name B_Age
+1991年 10月 9日 生育 子 取名 裴拥华 成人
+B_Time I_Time I_Time B_Bear O O O O
+婚前 原 被告 缺乏 了解 婚后 家庭 琐事 发生 吵闹 被告 脾气 暴躁 动不动 原告 拳打脚踢 原告 右手 中 指 骨折
+O O O O O O O O O B_FamilyConflict B_Person O O O B_Person B_DomesticViolence O O O O O
+2002年 1月份 被告 琐事 殴打 原告 原告 伤心 离家 出走 今
+B_Time I_Time B_Person O B_DomesticViolence B_Person O O B_Separation I_Separation O
+2003年 6月 原告 起诉 请求 被告 离婚 2003年 8月 8日 石泉县 人民法院 判决 不 准 离婚
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time B_Court I_Court O B_Judgment I_Judgment I_Judgment

@@ -1,0 +1,12 @@
+原告 苏某 诉称 原 被告 经人介绍 认识 后 1998年 1月 1日 登记 结婚 2000年 3月 3日生 男孩 苏某甲
+O B_Person B_DivorceLawsuit O O B_Know I_Know O B_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name
+原、被告 双方 婚前 未 了解 婚后 发现 双方 性格 脾气 严重 不和 生活 琐事 生气 吵架 导致 2011年 春天 分居 今
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O B_Time I_Time B_Separation O
+现 双方 感情 确 已 破裂 特 提起 离婚 诉讼 请求 人民法院 依法 判决 原 被告 离婚 要求 抚养 婚生 男孩 要求 被告 支付 抚养费
+O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O B_Court O O O O O O O O O O O O O
+被告 黄某 辩称 原告 诉 事实 不符
+O O O O O I_Negated I_Negated
+原告 1997年 经人介绍 相识 半 年 了解 双方 产生 好感 1998年 初 订立 婚约 确定 自由 恋爱 关系 月 深入 了解 1998年 12月 28日 办理 结婚 登记 手续 良好 婚姻 基础
+O B_Time B_Know I_Know O O O O O O B_Time I_Time O O O O B_BeInLove O O O O B_Time I_Time I_Time O B_Marry O O O O O
+2000年 3月 3日 生育 男孩 孩子 出生 增加 更 乐趣 生活 上 相互 依赖 每天 开开心心 共同 生活 建立 深厚 夫妻 感情 没有 生活 琐事 生气 吵架 原告 至今 没有 分居
+B_Time I_Time I_Time B_Bear B_Gender O O O O O O O O O O O O O O O O O O O O O O O O O O

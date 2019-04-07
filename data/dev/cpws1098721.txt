@@ -1,0 +1,12 @@
+原告 蔡某 起诉 称 原 被告 ×××× 年×× 月×× 日 结婚 于×××× 年×× 月×× 日 生育 女 取名 夏 乙 女儿 原告 母亲 抚养
+O O O O O O B_Time I_Time I_Time I_Time B_Marry B_Time I_Time I_Time I_Time B_Bear O O O I_Name O O O O
+被告 好吃懒做 不 肯 担负 家庭 责任 长期 没有 固定 收入 不 关心 女儿 成长 导致 双方 分居 多年
+O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O B_Separation
+原告 曾 2012年 12月 24日 法院 起诉 要求 离婚 法院 2013年 1月 24日 作出 2013 温 某某 民初字 第16 号 民事 判决 驳回 原告 离婚 请求
+O O B_Time I_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment
+判决 后 双方 继续 分居 生活 现 夫妻 感情 已 彻底 破裂 无 好
+I_Judgment I_Judgment O O O O O O O O O O O O
+被告 夏 某甲 答辩 称 原 告诉 称 双方 结婚 时间 婚生 女儿 出生 时间 都 事实
+O O O O O O O O O O O O O I_Marry O O O
+经济 困难 致 无法 再 娶 妻子 不 同意 离婚
+B_Negated I_Negated O O O O O O O O

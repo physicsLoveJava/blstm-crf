@@ -1,0 +1,10 @@
+原告 刘某 诉称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女孩 取名 亓某 乙
+O O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 两 人 了解 少 婚后 被告 变 婚前 判若两人 性格 暴躁 酗酒 两 人 三 天 两头 吵架
+O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 12月 25日 原 被告 吵架 原告 提出 离婚 要求 被告 说 条件 合适 愿意 离婚
+B_Time I_Time I_Time O O O O O O O O O O O O O
+原告 感觉 无法 被告 一起 共同 生活 带 孩子 回 娘家 居住 被告 分居 今
+O O O O O O O O O O O O O B_Separation I_Time
+被告 亓某 甲 辩称 原告 诉 事实 不符 ×× ×× 年××月份 认识 恋爱 年 后 结婚 结婚 后 感情 非常 好 吵架 两口子 不 吵架 不 天天 吵架 家 钱 不 生活 只 年 家 少 点 年 买卖 不 干 好 外面 账 挣 点 还 账
+O O O O O O O O B_Time I_Time I_Time B_Know B_BeInLove I_Time I_Time B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

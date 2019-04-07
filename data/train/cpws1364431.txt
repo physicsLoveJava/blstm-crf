@@ -1,0 +1,6 @@
+原告 孙 某某 诉称 2013年 5月 10日 原被告 经人介绍 登记 结婚 被告 自始 拒绝 原告 同居 生活
+O O O O I_Time I_Time I_Time O O O B_Marry O O O O O O
+被告 行为 严重 伤害 原告 感情 维护 合法 权益 特 诉至法院 请求 法院 判 令 解除 原被告 之间 婚姻 关系
+O O O O B_Person O O O O O B_DivorceLawsuit O B_Court O O O O O O O
+依法 判决 被告 返还 原告 彩礼 钱 81260 元 财产 损失 4100 元
+O O O O B_Person B_Wealth I_Wealth B_Price I_Price B_Wealth I_Wealth B_Price I_Price

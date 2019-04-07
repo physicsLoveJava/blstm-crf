@@ -1,0 +1,8 @@
+原告 饶某 诉称 被告 汪某 经人介绍 相识 1998年 12月 30日 登记 结婚 婚后 生育 二子 汪 甲 1999年 10月 30日 出生 汪 乙 2005年 9月 25日 出生
+O O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear O B_Name I_Name B_Time I_Time I_Time O B_Name I_Name B_Time I_Time I_Time O
+被告 汪某 婚前 缺乏 相互 了解 感情 基础 差 尤其 被告 汪某 存在 大 男子 主义 家庭 琐事 进行 打骂 致使 根本 体会 不 夫妻 之间 关爱 家庭 幸福
+O O O O O O O O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O
+离婚 后 被告 汪某 要求 复婚 双方 2012年 12月 28日 办理 复婚 登记 手续 财产 进行 重新 约定 办理 复婚 手续 后 双方 2012年 2月 17日 签订 离婚 协议书 中 夫妻 共同 财产 处理 约定 自动 无效 离婚 协议 中 财产 复婚 前 被告 汪某 武汉 地铁 站口 购买 营业 门面 1 均 原 被告 共有
+O O O O O O O O O O O B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013年 5月 俩 发生 争吵 后 分居 生活 今
+B_Time I_Time O O O O B_Separation O O

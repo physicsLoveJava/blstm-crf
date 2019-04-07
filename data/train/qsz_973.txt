@@ -1,0 +1,8 @@
+1994年 原 被告 相识 2000年 12月 18日 办理 结婚 登记 手续 生育 女 周晴 现 已 成年 生育 子 周天 现年 17 周岁 现 已 独立 生活 经济 收入
+B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Bear B_Gender B_Name O O O B_Bear B_Gender B_Name O B_Age I_Age O O O O O O
+后 双方 琐事 发生 争吵 还 殴打 原告 家庭 生活 不 太 照顾 J 不 回家
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DomesticViolence B_Person O O O O O O O O
+被告 原告 家庭 生活 不 太 照顾
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+还 动手 殴打 原告 现 吸毒 屡教不改 导致 双方 夫妻 感情 确 已 破裂 再 无 和好
+O O B_DomesticViolence B_Person O O O O O O O O O O O O O

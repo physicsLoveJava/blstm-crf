@@ -1,0 +1,10 @@
+原被告 1985年 10月 结婚 婚后 生育 女 郑娱卿/划 @/ w 遇 慕知 A 现 已 结婚
+O B_Time I_Time B_Marry O B_Bear I_Gender B_Name O O O O O O O O
+原被告 生活 琐事 发生 矛盾 间 互不 履行 夫妻 义务 原告 认为 双方 已 感情 破裂
+O O O O B_FamilyConflict O O O O O O O O O O O
+原 被告 1985年 经人介绍 相识 系 自由 恋爱 1985年 10月 30日 登记 结婚 双方 均 系 初婚 婚后 1988年 12月 8日 育 女 郑慕知 现 已 成年 独立 生活 第一 次 起诉 离婚
+O O B_Time O B_Know O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry O B_Time I_Time I_Time B_Bear I_Gender B_Name O O O O O O O O O
+双方 婚前 感情 尚 双方 婚后 生活 琐事 发生 争吵 问题 观点 不 一致 双方 夫妻 感情 已经 破裂 没有 和好 起诉 离婚
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O
+2018年 4月 25日 被告 发生 争吵 后 共同 住所 离开 双方 分居 今
+B_Time I_Time I_Time O O O O O O O O B_Separation O

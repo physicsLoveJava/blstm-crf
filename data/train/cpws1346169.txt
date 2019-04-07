@@ -1,0 +1,10 @@
+原 告诉 称 被告 1998年 3月 18日 登记 结婚 1999年 3月 15日 生育 儿子 段 某乙
+B_Person I_Person O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 双方 生活 琐事 发生 争吵 被告 实施 家庭 暴力
+O O O O O B_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence
+2004年 被告 分居 儿子 跟随 生活 被告 孩子 不 不 问 丝毫 未 丈夫 父亲 责任 义务
+B_Time O B_Separation O O O O O O O O O O O O O O
+被告 现在 外 已 第三者 导致 夫妻 感情 彻底 破裂
+B_Person O O O B_Derailed O O O O O
+请求 法院 依法 判决 被告 离婚
+B_DivorceLawsuit O O O O O

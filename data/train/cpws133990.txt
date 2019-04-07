@@ -1,0 +1,8 @@
+原告 黄某 诉称 原 被告 经人介绍 相识 后 于×××× 年××月 3登记 结婚
+O O O O O O B_Know O O O B_Marry I_Marry
+婚前 双方 缺乏 了解 没有 感情 基础 婚后 性格 不合 争吵
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+次 发生 争吵 时 被告 持 刀 威胁
+O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+去年 三月 原告 曾 提起 离婚 诉讼 法院 判决 不 准 离婚
+B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

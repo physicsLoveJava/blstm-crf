@@ -1,0 +1,4 @@
+原告 甲诉 称 原 被告 2010年 农历 12月 20日 经人介绍 农村 风俗 举行 结婚 仪式 后 2013年 1月 22日 补办 结婚 登记 手续
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+原 被告 2012年 2月 29日 生育 子 某某 婚后 二 人 生气 导致 双方 感情 彻底 破裂
+O O B_Time I_Time I_Time B_Bear O I_Name O O O O O O O O O

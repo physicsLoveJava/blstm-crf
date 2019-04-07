@@ -1,0 +1,4 @@
+原告 胡某 玲诉 称 原被告 1995年 5月 人 介绍 相识 1996年 7月 1日 生育子 刘某 均 1997年 3月 18日 双方 办理 结婚 登记
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 被告 李强 好逸恶劳 背叛 原告 双方 发生 争吵 原告 胡某玲 诉至法院 要求 被告 刘某 离婚
+O O O O O O O O B_FamilyConflict O O O O O O O

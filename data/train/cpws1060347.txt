@@ -1,0 +1,6 @@
+原告 吴鹏诉 称 原 被告 双方 经人介绍 相识 2001年 12月 20日 办理 结婚 登记 手续
+O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+2004年 4月 生育 子
+B_Time I_Time B_Bear I_Gender
+原 被告 婚后 性格 不合 原告 已 2010年 4月 9日 起诉 离婚 未 判 准
+O O O B_FamilyConflict I_FamilyConflict O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment

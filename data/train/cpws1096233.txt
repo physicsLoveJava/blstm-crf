@@ -1,0 +1,10 @@
+原告 郭某 诉称 2013年 7月 25日 被告方 媒人 闫某 原告 方媒人 仲某 周某 共同 介绍 原 被告 相识 宋庄镇 任庄 饭店 农村 习俗 定亲 当时 被告 媒人 闫某 索要 定亲 礼 现金 15000 元 后 原告 带 被告 县城 八 喜 珠宝店 花费 12100 元 购买 四 金
+O O O B_Time I_Time I_Time O O O O O O O O O O O B_Know O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8月 26日 双方 登记 结婚
+B_Time I_Time O B_Marry I_Marry
+2月 5日 双方 举行 婚礼 当天 被告 原告 家 亲友 斟酒 钱 10000 余 元
+B_Time I_Time O B_Marry I_Marry O O O O O O O O O O
+原告 了解 被告 实际 骗婚 索取 彩礼 原告 真心 共同 生活
+B_Person O O O O O O O O O O
+请求 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

@@ -1,0 +1,8 @@
+原被告 2005年 11月 人 介绍 恋爱 关系 2006年 6月 25日 登记 结婚
+O B_Time I_Time O O B_BeInLove O B_Time I_Time I_Time O B_Marry
+2007年 6月 30日 生育
+B_Time I_Time I_Time B_Bear
+秀孩 取名 李宣成
+O O B_Name
+原被告 结婚 初期 感情 般 近 年束 原被告 之间 产生 矛盾 争吵 打架 感渚 不 2017年 10月 18日 原被告 分居 生活
+O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O B_Time I_Time I_Time O B_Separation O

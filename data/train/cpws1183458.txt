@@ -1,0 +1,4 @@
+原告 黎 XX 诉称 原 被告 2005年 11月 人 介绍 相识 确定 恋爱 关系 2006年 登记 结婚 2008年 1月 26日 生育 女儿 黎 YY
+O O O O O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 双方 缺乏 了解 感情 基础 薄弱 结婚 后 才 发现 被告 根本 无法 沟通 长期 处于 无理取闹 状态 双方 无法 培养 夫妻 感情 现原 被告 夫妻 感情 已 彻底 破裂 已 无 好 必要 请求 人民法院 依法 判决 1 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

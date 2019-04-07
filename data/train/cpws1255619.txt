@@ -1,0 +1,8 @@
+原告 鞠某 诉称 原告 被告 2007年 11月 人 介绍 相识 2008年 4月 17日 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚初 感情 好 2009年 2月 19日 生育 女孩
+O O O B_Time I_Time I_Time B_Bear B_Gender
+现原 被告 感情 不和 无 共同语言 吵 现 已 分居 3 月
+O O O O O O B_FamilyConflict O O B_Separation O O
+原告 曾 起诉 离婚 双方 协商 原告 撤诉
+B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment

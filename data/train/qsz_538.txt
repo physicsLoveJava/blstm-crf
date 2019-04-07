@@ -1,0 +1,6 @@
+原 被告 1996年 经人介绍 相识 确立 恋爱 关系
+O O B_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+2012年 12月 4日 办理 结婚 登记 手续 原 被告 结婚 后 发现 双方 性格 不合 原 被告 琐事 发生 激烈 争吵 无 休止 争吵 导致 原、被告 夫妻 关系 紧张
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict O O B_FamilyConflict O O O O O
+矛盾 越来越 大 原 被告 感情 长期 不 2014年 年初 开 | 始 分开 居住
+O O O O O O O O B_Time I_Time O O O B_Separation I_Separation

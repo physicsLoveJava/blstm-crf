@@ -1,0 +1,8 @@
+原 告诉 称 被告 经人介绍 2002年 12月 相识 2003年 7月 22日 北京市 朝阳区 登记 结婚 2004年 6月 16日 双方 生 子 陈 X1 出生
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name O
+婚后 发现 被告 脾气 暴躁 性格 偏激
+O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit
+被告 琐事 吵架 无端 指责 恐吓 严重 伤害 夫妻 感情
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 性格 差异 大 被告 打骂 儿子
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

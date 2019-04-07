@@ -1,0 +1,8 @@
+原告 张 某某 诉称 1985年 1月 4日 原告 被告 结婚 婚后 生育 两 女儿 均 已 成年
+O O O O B_Time I_Time I_Time O O B_Marry O B_Bear O B_Gender O O O
+2012年 8月份 原告 发现 被告 婚外情 2012年 10月份 被告 不 回 家 公开 人 同居
+B_Time I_Time O O B_Person B_Derailed I_Time I_Time O B_Separation I_Separation I_Separation O O O
+原告 被告 夫妻 感情 已经 彻底 破裂 为此 原告 提起 诉讼 请求 依法 判 令 1 原告 被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+原告 母女 承包 被告 分开 家庭 共有 承包地 13 亩
+O O O O O B_CommonProperty O B_Wealth I_Wealth I_Wealth

@@ -1,0 +1,8 @@
+原告 瞿 某某 诉称 原 被告 经人介绍 相识 后 1997年 元月 沅陵县 民政局 登记 结婚 1997年 9月 27日 2007年 8月 28日 分别 生育 儿子 瞿世雄 女儿 瞿芸娣
+O O O O O O O B_Know O B_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Gender B_Name
+原 被告 婚前 缺乏 了解 婚后 性格 不合 儿子 尚未 满月 时 被告 夫妻 感情 不合 为由 原告 提出 离婚 原告 考虑 被告 怀 身孕 没有 同意 夫妻 感情 逐渐 淡薄 家庭 关系 勉强 维持
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+2011年 正月 原告 实在 无法 被告 共同 生活 下云 离开 被告 外出 至今 未 被告 共同 生活 一起 现 原告 维持 合法 权益 起诉 法院 要求 判决 原 被告 离婚
+B_Time I_Time O O O O O O O O O B_Separation B_Time O O O O O O O O O O O O O O O O O
+儿子 瞿世雄 出生 后 双方 家庭 小事 吵嘴 不足以 影响 夫妻 之间 感情 被告 外出 不 感情 不和 原因 子女 出生 加重 家庭 经济 负担 被告 在家 带 小孩 原告 外出 务工 赚钱 原告 每年 春节 都 回来 都 正常 夫妻 生活
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

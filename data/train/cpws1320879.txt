@@ -1,0 +1,8 @@
+原 告诉 称 2003年 5月 原 被告 经人介绍 相识 建立 恋爱 关系 2004年 3月 24日 举行 结婚 仪式 2005年 8月 26日 登记 结婚
+O O O B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2005年 11月 30日 生育 子 取名 肖某甲
+O B_Time I_Time I_Time B_Bear B_Gender O O
+原 被告 性格 差异 大 婚后 常 家务 琐事 发生 纠纷 原 被告 长期 处于 分居 状态 夫妻 之间 缺乏 沟通 导致 夫妻 感情 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_Separation O O O O O O O O O
+原告 诉至法院 要求 被告 离婚
+B_Person B_DivorceLawsuit O O O

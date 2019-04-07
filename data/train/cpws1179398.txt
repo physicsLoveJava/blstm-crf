@@ -1,0 +1,6 @@
+原告 杜某 诉称 原 被告 媒人 介绍 认识 2006年 1月 20日 登记 结婚 2006年 10月 17日生 男孩
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear I_Gender
+婚后 原告 被告 性格 不和 被告 原告 进行 殴打 亦 未能 建立 真正 夫妻 感情 原 被告 已 无法 继续 维持 名存实亡 夫妻 关系
+O O O B_FamilyConflict I_FamilyConflict B_Person B_Person O B_DomesticViolence O O O O O O O O O O O O O O O
+2012年 12月份 分居 今 诉至法院 要求 判决 二 人 离婚 婚前 财产 所有 婚后 共同 财产 依法 分割 婚生 男孩 原告 抚养 被告 支付 抚养费
+B_Time I_Time B_Separation I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O

@@ -1,0 +1,18 @@
+2012年 7月 原 被告 经人介绍 相识 确立 恋爱 关系 2012年 9月 5日 双方 民政部门 办理 结婚 登记 手续
+B_Time I_Time O O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2014年 3月 2日 双方 生育 子 肖佳宁 现 被告 一起 生活
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O
+被告 父母 掌握 经济 大权 家庭 关系 处理 困难
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+结婚 以后 被告 从未 付 原告 钱 花 为此 双方 发生 吵架
+O O O O O O O O O O O B_FamilyConflict
+再 原 被告 性格 各异 被告 脾气 急躁 沟通 困难 生活 琐事 发生 争吵 有时 被告 还 殴打 原告
+O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O B_FamilyConflict O B_Person O B_DomesticViolence B_Person
+2018年 2月 被告 洗澡 意外 受伤 被告 埋怨 原告 双方 发生 打架
+B_Time I_Time O O O O O O O O O B_FamilyConflict
+被告 便 回 娘家 居住 今
+O O B_Separation I_Separation I_Separation I_Time
+原 被告 婚姻 基础 差 婚后 未 培养 真挚 夫妻 感情 婚后 年 双方 交流 困难
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+无法 沟通
+B_FamilyConflict I_FamilyConflict

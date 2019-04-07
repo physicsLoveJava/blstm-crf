@@ -1,0 +1,4 @@
+原告 高×1 诉 称 原 被告 1997年 9月 9日 登记 结婚 婚后 感情
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O
+原 被告 婚后 无 共同语言 常 家庭 琐事 吵架 双方 性格 脾气 合 不
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,6 @@
+原告 刘某 诉称 原 被告 2007年 8月 9日 登记 结婚 2008年 12月 15日 生育 儿子 游某
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+3 年 前 双方 回 桂林 探亲 时 发生 争执 被告 人 回 台湾 后 现在 双方 未曾 来往 见面 原告 主动 被告 打电话 谈 离婚 相关 事宜 无法 达成 一致 意见
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O
+综 上 原告 请求 人民法院 判 令 1 依法 解除 原 被告 婚姻 关系
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

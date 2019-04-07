@@ -1,0 +1,6 @@
+原告 刘某 诉称 原被告 经人介绍 订婚 2004年 12月 27日 政府 登记 结婚 2006年 3月 31日 生 男孩 葛某 乙
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+儿子 两 月 大 时 被告 酗酒 导致 生活 不 自理 儿子 托付 姐姐 抚养 原告 无奈 回 娘家 居住 已经 两 年
+O O O O O B_Person B_BadHabit O O O O O O O O O O B_Separation I_Separation I_Separation O B_Duration I_Duration
+现在 原被告 夫妻 感情 彻底 破裂 原告 要求 被告 离婚 原告 抚养 男孩 被告 支付 抚养费 夫妻 财产 依法 分割
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O

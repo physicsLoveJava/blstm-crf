@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 2005年 经人介绍 认识 2006年 1月 18 登记 结婚 婚后 未 生育
+O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry O O O
+常 家庭 琐事 吵闹 导致 夫妻 感情 破裂
+O O O B_FamilyConflict O O O O
+原告 2013年 3月份 提起 离婚 诉讼 法院 判决 不 准 离婚
+B_Person B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O O
+现 已 分居 二 年 有余 没有 好 为此 提起 离婚 诉讼 请求 依法 判 令 原 被告 离婚 婚前 财产 各人所有
+O O B_Separation B_Time I_Time O O O O O O O O O O O O O O O O O

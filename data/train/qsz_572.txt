@@ -1,0 +1,16 @@
+原 被告 2016年 12月 8日 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time I_Time O B_Know O O O
+2016年 12月 30日 办理 结婚 登记 手续 2017年 1月 18日 举行 结婚 仪式 后 共同 生活
+B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O
+原告 系 初婚 被告系 再婚
+O O O B_Person B_Remarry
+导致 原告 被告 结婚 后 不 月 时常 吵架 有时候 被告 还 器物 原告
+O O O O O O O B_FamilyConflict I_FamilyConflict O B_Person O I_DomesticViolence B_Person
+茶壶 凳子 被告 患 精神 焦虑症 原告 结婚 前 不 知道
+O O B_Person O B_BadHabit I_BadHabit O O O O O
+2017年 4月 5日 晚上 被告 找茬 原告 吵架
+O O O O B_Person O O O
+凳子 追 原告
+O B_DomesticViolence B_Person
+2017年 4月 6日 早上 想 原告 离婚 借口 回到 娘家 原告 打电话 去 被告 娘家 接 均 没 看到 被告
+B_Time I_Time I_Time O O O O O B_Separation I_Separation O O O O O O O O O O

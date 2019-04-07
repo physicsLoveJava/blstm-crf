@@ -1,0 +1,6 @@
+原告 被告 微信 网络 相识 仅 月 时间 双方 确定 结婚 2015年 10月 18日 双方 正式 举行 婚礼 共同 生活 2016年 5月 12日 双方 补办 结婚证
+O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry
+婚后 双方 感情 刚 尚 婚前 缺乏 了解 草率 结婚 逐渐 感情 不和 矛盾 越 演 越 裂 被告 原告 给付 彩礼 钱 光 后 原告 钱 要求 原告 母亲 钱 供 消费 被告 结婚 没有 工作 整日 晚 晚 睡 玩 手机 裸聊 不务正业 家庭 生活 不 不顾 原告 被告 容忍
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+结婚 今 被告 三 翻 四 次 原告 不 回 娘家 不 最近 次 原告 找到 娱 家 至今 不 双方 分居 已 达 半 年 时间 久
+O O O O O O O O B_FamilyConflict O O O O O O O O O O O O B_Separation O O B_Time I_Time I_Time O

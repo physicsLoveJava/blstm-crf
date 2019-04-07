@@ -1,0 +1,4 @@
+卓 某某 诉称 原 被告 2011年 9月 底 媒人 介绍 相识 2012年 1月 28日 举行 结婚 仪式 同年 2月 2日 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原 被告 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 长期 分居 现 夫妻 感情 确 已 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Separation O O O O O O

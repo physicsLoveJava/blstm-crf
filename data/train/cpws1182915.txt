@@ -1,0 +1,4 @@
+原告 姚 某某 诉称 被告 经人介绍 2012年 8月 6日 登记 结婚 2012年 农历 12月 14日 生育 男孩 刘某甲
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 感情 不和 常 家庭 琐事 发生 争吵 被告 实施 家庭 暴力 夫妻 感情 破裂 请求 离婚 抚养 婚生 男孩 依法 分割 财产
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O

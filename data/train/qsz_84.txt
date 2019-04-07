@@ -1,0 +1,10 @@
+2015 5 川 份 原 被告 经人介绍 相识 建立 恋爱 -X 系
+B_Time I_Time I_Time I_Time O O O B_Know O B_BeInLove O O
+2016年 12J 16I 登记 结婚 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry O O
+山于 双力婚 j 缺乏 了解 感情 基础 溥 弱 婚后 缺少 共同语言 家庭 琐事 发牛 争吵
+O O O O O O O O O O O O O O O B_FamilyConflict
+2017年 10月 8H 原、被告 冉次 发生 争吵 原告 被迫 搬 山 居什 被告 分居 罕 今
+B_Time I_Time I_Time O O O O O O O O O O B_Separation B_Duration I_Duration
+2017年 12月 原告 曾 诉 人民法院 要求 离婚 被告 孙 不 庭 原告 无奈 撤诉 。
+B_Time I_Time O O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment O

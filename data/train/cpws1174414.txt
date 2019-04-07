@@ -1,0 +1,6 @@
+原告 程某 起诉 称 原告 原籍 贵州省 1990年 下半年 人 骗 慈溪 ×××× 年×× 月×× 日 原 被告 登记 结婚 同年 7月 14日 生育 子 沈某乙
+O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time O B_Marry I_Marry O O O O I_Bear B_Gender
+原 被告 系 包办 婚姻 婚前 无 感情 基础 不 了解 婚后 不久 双方 性格 不合 出现 矛盾 被告 总是 原告 争吵 最近 年 原 被告 双方 关系 恶化 夫妻 关系 早已 名存实亡
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict O O O O O O O O O O
+2． 婚后 共有 两 间 二 层 楼房 间 平房 半 分割
+O O O O O O B_CommonProperty I_CommonProperty I_Wealth I_Wealth I_Wealth I_Wealth

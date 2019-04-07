@@ -1,0 +1,6 @@
+原告康 某某 诉称 1990年 10月 9日 原告 康 某某 被告 邵 某某 登记 结婚 1992年 3月 10日 生育 婚生 女儿 邵 某某
+O O O O O O O O O O O O O B_Marry B_Time I_Time I_Time B_Bear O B_Gender B_Name I_Name
+被告 邵 某某 性格 内向 性情 粗暴 酗酒 嗜好 打骂 原告 不 尊重 原告 父母 时常 电话 骂 原告 父母 扬言 杀害 原告 父母 为此 双方 父母 朋友 调解 无效 不 改 严重 伤害 夫妻 感情 致使 夫妻 感情 破裂 无 好 请求 人民法院 依法 判 令 1 原告康 某某 被告 邵 某某 离婚
+O O O O O O O B_BadHabit I_BadHabit O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit
+原告 诉状 中 称 双方 性格 不和 无 共同语言 不 事实
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

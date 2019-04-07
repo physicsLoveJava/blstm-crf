@@ -1,0 +1,6 @@
+原告 钟 娟友 诉 称 原告 被告 2009年 11月 相识 恋爱 2010年 7月 28日 生育 儿子 李 XX 2010年 农历 12月 初八 举行 婚礼 后 2011年 1月 13日 补办 结婚 登记 手续
+O O O O O O O B_Time I_Time O B_BeInLove B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O B_Time I_Time I_Time O B_Marry O O
+双方 认识 时间 短 根本 没有 真正 认识 了解 对方 更 未 建立 真正 夫妻 感情 婚后 才 发现 性格 不合 常 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 李秋强 答辩 称 原告 称 双方 2009年 11月 相识 2010年 7月 28日 生育 儿子 李 XX 同年 12月 举行 婚礼 事实
+O O O O O O O O O O O O O B_Bear O O O O O O B_Marry I_Negated

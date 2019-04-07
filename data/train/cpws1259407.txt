@@ -1,0 +1,10 @@
+原告 高 某某 诉称 被告 经人介绍 相识 2009年 5月 26日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2010年 2月 14日 婚生 女孩 取名 马某 甲 现 被告 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+2013年 8月 23日 婚生 男孩 取名 马某 乙 现 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O
+婚后 性格 不同 被告 脾气 暴躁 琐事 发生 争吵 儿女 出生 没有 使 被告 有所 改变
+O O O O O O O O B_FamilyConflict O O O O O O O
+夫妻 共同 财产 共同 分割
+O B_Wealth I_Wealth O O

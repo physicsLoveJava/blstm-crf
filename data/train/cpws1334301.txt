@@ -1,0 +1,4 @@
+原告 郭某 诉称 被告 1999年 9月 23日 登记 结婚 婚后 没有 培养 出 真正 夫妻 感情 二 人 家务 琐事 生气 打架
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O
+被告 早出晚归 搞 婚外情 孩子 不 不 问
+B_Person O B_Derailed I_Derailed O O O O

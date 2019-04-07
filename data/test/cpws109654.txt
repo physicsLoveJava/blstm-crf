@@ -1,0 +1,14 @@
+原告 张某 甲诉 称 被告 自由 恋爱 年 后 ×××× 年×× 月×× 日 登记 结婚
+B_Person O O O O B_BeInLove I_BeInLove O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+双方 婚后 育 女 张某乙 现年 二十 周岁 正在 上 大学
+O O B_Bear B_Gender B_Name O B_Age I_Age O O O
+婚姻 初始 双方 没有 矛盾 日子 比较 平谈 2009年 被告 唐山 恒通 精密 薄板 有限公司 下岗 后 从事 直销 经营 业务 忙 为由 夜 不 宿 长期 长网 聊天 婚外 异议 保持 不 正当 交往
+O O O O O O O O O B_Person O O O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+为此 被告 此事 发生 矛盾
+O O O B_FamilyConflict I_FamilyConflict
+现在 实在 无法 容忍 被告 行为 言谈 认为 双方 已经 无 夫妻 感情 可言 法院 起诉 要求 离婚
+O O O O O O O O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚初 双方 没有 矛盾 日子 比较 平谈 事实
+O O B_FamilyConflict I_FamilyConflict O O O O
+2 2009年 唐山 恒通 精密 薄板 有限公司 下岗 后 从事 直销 经营 便 业务 忙 为由 夜 不 宿 长期 上网 聊天 婚外 异性 保持 不 正当 交往 不 事实
+O O O O O O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit B_Negated I_Negated

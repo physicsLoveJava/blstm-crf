@@ -1,0 +1,4 @@
+原 被告 熟人 介绍 建立 恋爱 关系 2017年 6月 武清区 民政部门 批准 登记 结婚 婚后 无 子女
+O O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time O O O B_Marry I_Marry O O O
+婚后 被告 找 原告 争吵 发展 动手 原告 两 次 致使 原告 精神 上 身体 上 受到 伤害 造成 双方 感情 不和 原告 2018年 2月 15 | 被告 赶回 娘家 居住 伞 今 X 系 无法 好 原告 请求 离婚
+O O O O B_FamilyConflict O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Separation I_Separation I_Separation O B_Time O O O O O O O

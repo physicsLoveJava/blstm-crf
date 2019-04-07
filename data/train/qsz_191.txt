@@ -1,0 +1,8 @@
+原 被告 2009年 人 介绍 相识 确立 恋爱 关系 2010年 9月 28日 登记 结婚
+O O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+原 被告 均 系 再婚 婚后 未 生育 子女
+B_Person B_Person O O B_Remarry O O O O
+二 人 家庭 琐事 争吵
+O O O O B_FamilyConflict
+时间 推移 夫妻 矛盾 日趋 尖锐 夫妻 关系 已经 名存实亡 原告 曾 2017 贵院 起诉 要求 被告 离婚 贵院 做出 2017 津0114 民 初 4585 号 民事 判决书 判决 不 准 离婚
+O O O O O O O O O O B_Person O B_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment

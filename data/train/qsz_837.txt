@@ -1,0 +1,6 @@
+原 被告 双方 经人介绍 相识 1985年 11月 20日 蓟州区 民政局 登记 结婚
+O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+原 被告 婚前 缺乏 了解 婚后 琐事 争吵 被告 整天 无所事事 麻将 恶习
+O O O O O O O B_FamilyConflict B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit
+现原 被告 双方 感情 破裂 无法 继续 生活 下去 原告 无奈 诉 贵院
+O O O O O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit

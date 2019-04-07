@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2006年 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月××日生 女孩 刘某 乙
+O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 感情 婚后 性格 不合 常 琐事 发生 争吵 被告 原告 非 骂 未 建立 真正 夫妻 感情 孩子 出生 后 孩子 不 不 问 不 经济 上 照顾 原告 父母 进行 照料 被告 德 报怨 无理取闹 原告 父母 进行 打骂
+O O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,16 @@
+原告 李 某某 诉称 2004年 10月 原 被告 相识 恋爱
+O O O O B_Time I_Time O O B_BeInLove I_BeInLove
+2005年 7月 双方 同居 生活 性格 不合 原因 时 吵 纠纷 发生
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2007年 12月 19日 双方 自愿 华蓥市 民政 机关 婚姻 登记 部门 办理 结婚 登记
+B_Time I_Time I_Time O O O O O O O O O B_Marry O
+2008年 7月 28日 双方 生育 子 刘某乙
+B_Time I_Time I_Time O B_Bear O B_Name
+婚后 双方 性格 不合 被告 原告 家人 产生 矛盾 冲突 导致 原、被告 夫妻 感情 恶化
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2009年 8月 31日 原告 起诉 要求 判 令 原 被告 离婚
+B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原告 患 宫颈癌 后 双方 性格 不合 经济 原因 导致 双方 矛盾 加剧 夫妻 感情 进一步 恶化 现 双方 已 毫无 感情 可言 夫妻 关系 已 名存实亡 夫妻 感情 确 已 完全 破裂
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 特 起诉 坚决 要求 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

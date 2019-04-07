@@ -1,0 +1,4 @@
+原告 张 某某 诉称 1995年 10月份 原、被告 经人介绍 相识 后 1996年 10月 4日 登记 结婚 2001年 6月 1日 生 男孩 取名 张丰毅
+O O O O B_Time I_Time O O B_Know O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚初 关系 尚 后 家庭 琐事 分居 原 被告 结婚 17 年 分居 12年 夫妻 感情 确 已 破裂 诉至法院 请求 被告 离婚 婚生子 被告 抚养 每月 支付 孩子 抚养费 300 元
+O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O

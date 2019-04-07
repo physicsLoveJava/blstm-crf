@@ -1,0 +1,4 @@
+原告 郭某 诉称 2006年 12月 12日 原被告 登记 结婚 婚后生 女儿 取名 赵 某乙 现年 3 周岁
+O O O B_Time I_Time I_Time O B_Marry I_Marry B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+想 被告 上 车间 主任 后 一反常态 不但 百般 挑剔 动手 精神 上 造成 创伤 导致 双方 分居 双方 已 无 感情 可言 夫妻 感情 彻底 破裂 特诉 贵院 请求 依法 判决 原被告 离婚
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O

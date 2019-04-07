@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 2017年 2月 14日 蓟州区 民政局 办理 结婚 登记 手续 领取 结婚证 共同 生活
+O O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry O O
+2017年 12月 27日 生育 女 李诗诗
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 少 婚后 双方 发现 感情 不 投 生气 吵架 被告 性格 怪异 原告 孩子 漠不关心 不闻不问
+O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O O O O O
+原告 张口 骂 动手 原告 实施 家庭 暴力
+O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence

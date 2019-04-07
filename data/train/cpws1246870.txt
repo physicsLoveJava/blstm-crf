@@ -1,0 +1,10 @@
+原告 李某 甲诉 称 2003年 原告 永新县 打工 时 被告 相识 后 同居 生活
+O O O O B_Time O O O O O B_Know O O O
+2006年 9月 23日 生育 女孩 李某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2007年 11月 2日 原告 被告 湖南省 攸县 民政局 办理 结婚 登记
+B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry
+2009年 端午节 那天 被告 擅自 离家 出走 至今 未 期间 没有 负担 小孩 生活 费用
+B_Time I_Time O O O O O O O O O O O O O
+原告 认为 双方 分居 今 夫妻 感情 已经 完全 破裂 为此 原告 分别 2012年 2月 9月 法院 提起 离婚 诉讼 未 达到 目的
+O O O B_Separation O O O O O O O O O B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原告 自由 恋爱 双方 2002年 3月 1日 某某 民政局 登记 结婚 婚后 育 一婚生子 王某 现年 11 周岁
+O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+婚后 初期 原被告 感情 尚 好 2011年 被告 涉毒 上瘾 屡教不改 吸毒 频率 高 吸毒 问题 原告 发生 争执 时常 原告 动以 拳脚
+O O O O O O O B_Person B_BadHabit I_BadHabit O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence
+被告 吸毒 恶习 导致 原 被告 感情 确 已 破裂 已 无 和好 被告 父母 亲属 劝诫 无效 无奈 诉诸贵院 请求 依法 判 令 解除 原 被告 夫妻 关系 婚生子 王某 原告 生活 被告 每月 支付 抚养费 1000 元 依法 分割 夫妻 共同 财产 本案 诉讼费 被告 承担
+B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 邢 某某 诉称 2012年 8月份 经人介绍 被告 定亲 2012年 10月 30 登记 结婚
+B_Person I_Person I_Person O O O O O O B_Time I_Time I_Time O B_Marry
+2013年 5月 分居 今
+B_Time I_Time B_Separation I_Time
+请求 法院 依法 判 令 被告 离婚 被告 返还 陪嫁 财产 承担 本案 诉讼 费用
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

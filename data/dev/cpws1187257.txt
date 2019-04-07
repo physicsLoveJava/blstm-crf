@@ -1,0 +1,14 @@
+原 告诉 称 双方 2000年 马畈 水泥厂 工作 时 相识 确立 恋爱 关系
+O O O O B_Time O O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2001年 2月 21日 农村 习俗 举行 婚礼 同年 3月 13日 政府 补办 结婚 登记 手续
+O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+婚后 2001年 9月 22日 生长 女 李某 乙
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2006年 2月 17日 生长子 李丙
+B_Time I_Time I_Time B_Bear B_Name
+婚后 共同 生活 期间 脾气 性格 不和 日常 生活 琐事 时常 发生 吵 夫妻 感情 逐渐 破裂
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+现 被告 夫妻 感情 已 完全 破裂 无法 共同 生活 中华人民共和国 婚姻法 第32 条 规定 请求 法院 依法 判决 1 被告 离婚
+O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+3 婚后 共同 财产 二 间 两 层 楼房 依法 分割
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O

@@ -1,0 +1,6 @@
+2008年 10月 24日 双方 利津县 民政局 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry
+婚后 尤其 女儿 出生 后 原 被告 性格 不合 家庭 琐事 发生 争吵 被告 脾气 暴躁 大 男子 主义
+O O O O O O O O O O O O B_FamilyConflict O O O O O O
+原告 曾 2011年 5月份 提起 离婚 诉讼 法院 判决 不准 原 被告 离婚 后 夫妻 关系 没有 改善
+B_Person O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O

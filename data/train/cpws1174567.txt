@@ -1,0 +1,8 @@
+原告 侯 某某 诉称 原 被告 2011年 3月 人 介绍 相识 2011年 底 被告 做 生意 为由 原告 借款 160000 元
+O O O O O O O O O O B_Know O O O O O O O O O O
+2012年 8月 24日 原 被告 办理 结婚 登记 双方 系 再婚 婚后 双方 生气 吵架 夫妻 感情 已经 彻底 破裂 请求 依法 判 令 准予 原 被告 离婚
+B_Time I_Time I_Time O O O B_Marry I_Marry B_Person O B_Remarry O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 偿还 原告 借款 160000 元 夫妻 共同 财产 塔吊 台 平均 分割
+O B_Person I_Person B_Wealth B_Price I_Price B_CommonProperty I_CommonProperty I_CommonProperty B_Wealth I_Wealth O O
+原 被告 夫妻 感情 破裂 无 异议
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O

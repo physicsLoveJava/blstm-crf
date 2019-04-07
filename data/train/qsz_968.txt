@@ -1,0 +1,8 @@
+原 被告 2017年 经人介绍 相识 相识 时间 短 相识 月 后 2017年 6月 2日 婚姻 登记 部门 办理 结婚 登记 手续
+O O B_Time O B_Know O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+婚后 生育 女 取名 范 雨霏 出生 2018年 2月 26日 现年 3 月
+O B_Bear B_Gender O B_Name I_Name O B_Time I_Time I_Time O B_Age I_Age
+婚后 双方 琐事 发生 争吵 现 双方 性格 不合 无法 共同 生活 夫妻 感情 完全 破裂 原告 实在 无法 忍受 现 双方 毫无 夫妻 感情 可言
+O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+原 被告 双方 草率 结婚 婚前 缺乏 了解 婚后 琐事 发生 争吵 现 夫妻 感情 确 已 破裂 再 无 和好
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 陈 某某 诉称 原告 陈 某某 被告 张某 甲 2009年 厦门 打工 认识 后 恋爱 同居 生活
+O O O O O O O O O O B_Time O O B_Know O B_BeInLove O O
+2010年 1月 9日 二 人 生育 女 取名 张某乙
+B_Time I_Time I_Time O O B_Bear I_Gender O B_Name
+2010年 5月 1日 举行 结婚 仪式 同年 8月 10日 依法 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+2011年 8月 原 被告 孩子 买 奶粉 发生 争执 后 被告 外出 居住 原告 分居 今
+B_Time I_Time O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_Separation I_Time
+被告 张 某某 未 提供 书面 答辩 意见 辩称 原告 陈 某某 被告 张某 甲 经人介绍 认识 登记 结婚 时间 子女 出生 时间 原告 所述 一致
+O O O O O O O O O O O O O O O O O B_Marry I_Marry I_Marry B_Bear I_Bear I_Bear O O B_Negated

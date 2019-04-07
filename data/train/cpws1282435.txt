@@ -1,0 +1,10 @@
+原告 吴某 甲诉 称 原 被告 1988年 经人介绍 相识 1992年 9月 8日 农历 农村 习俗 举行 婚礼 同年 8月 6日 领取 结婚证 1991年 生子 吴某丙 1999年 建房 两 间
+O O O O O O O O B_Know B_Time I_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear B_Name O O O O
+婚后 夫妻 感情 2010年 被告 染上 赌博 恶习 不顾 家庭 导致 夫妻 感情 破裂
+O O O O B_Person O B_BadHabit O O O O O O O
+被告 还 实施 家庭 暴力 两 人 被迫 分居 已 无 和好
+B_Person O O B_DomesticViolence I_DomesticViolence O O O B_Separation O O O
+2012年 5月 原告 曾 提起 诉讼 后 提出 协议 离婚 撤诉 双方 未 达成 一致 意见 原告 涉诉 院 要求 1 判决 原 被告 离婚
+B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O
+不 赌博 成习 没有 家庭 暴力
+B_BadHabit I_BadHabit I_BadHabit B_DomesticViolence I_DomesticViolence I_DomesticViolence

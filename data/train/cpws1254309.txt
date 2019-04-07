@@ -1,0 +1,4 @@
+原告 曾某 诉称 被告 恋爱 期间 结婚 初期 双方 感情 好 2011年 9月 生 下 小孩 后 双方 家庭 琐事 发生 矛盾 被告 使用 家庭 暴力
+O O O O B_BeInLove O B_Marry O O O O B_Time I_Time B_Bear O O O O O O O B_FamilyConflict O O B_DomesticViolence I_DomesticViolence
+2013年 春节 今 双方 单 处
+B_Time I_Time O O B_Separation I_Separation

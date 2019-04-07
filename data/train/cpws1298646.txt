@@ -1,0 +1,4 @@
+后 张 某某 找茬 吵架 未 建立 夫妻 感情
+O O O O B_FamilyConflict O O O O
+2013年 9月 1日 被告 张 某某 生气 写 下 心里 没有 孩子 伤心 字条 后 离开 深圳市 宝安区 福永镇 分居 今
+O O O O O O O O O O O O O O O O O O O B_Separation O

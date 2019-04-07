@@ -1,0 +1,18 @@
+原 被告 2013 年度 别人 介绍 相识
+O O B_Time I_Time O O B_Know
+2014年 1月 6日 双方 宝坻区 民政部门 登记 结婚
+B_Time I_Time I_Time O O O B_Marry I_Marry
+原告 系 再婚
+B_Person O B_Remarry
+长子 已 成年
+B_Bear O O
+被告 初婚
+B_Person B_Remarry
+造成 双方 婚后 家庭 琐事 没有 共同语言 原因
+O B_Person O O O O O O
+原告 2017年 3月 10日 宝坻区 人民法院 起诉 要求 离婚 法院 审理 2017年 5月 24日 下达 2017 津0115 民 初 2837 号 民事 判决书
+B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document
+驳回 原告 起诉 请求
+B_Judgment I_Judgment I_Judgment I_Judgment
+分居 今
+B_Separation I_Time

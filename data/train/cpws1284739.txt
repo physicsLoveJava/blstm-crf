@@ -1,0 +1,8 @@
+婚后 共同 生活 中 发现 双方 性格 差异 大 家庭 琐事 发生 争吵
+O O O O O O O O O O O O B_FamilyConflict
+2012年 腊月 27日 双方 发生 争吵 被告 物品 带走 原告 劝说 无效
+B_Time I_Time I_Time O O O B_Separation I_Separation I_Separation O O O
+双方 夫妻 感情 确 已 破裂 起诉 要求 被告 离婚
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 韩 某某 辩称 原 被告 婚后 感情 好 相继 2010年 2011年 生 女儿 儿子
+O O O O O O O O O O B_Time B_Time B_Bear B_Gender B_Gender

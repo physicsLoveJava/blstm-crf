@@ -1,0 +1,8 @@
+原告 范 某某 诉称 原 被告 1992年 农历 12月 28日 举行 典礼 仪式 1998年 4月 21日 补办 结婚证 1993年 12月 29日 生育 长女 范培培 2000年 5月 1日 生育 双胞胎 次女 范玲丽 儿子 范鑫鑫
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name B_Gender B_Name
+原 被告 婚后 生活 被告 1995年 以来 不断 乱 搞 男女 关系 最 令 原告 不 容忍 2013年 5月 23日 凌晨 被告 家中 同居 原告 捉奸 床
+O O O O B_Person O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O B_Time I_Time I_Time I_Time B_Person I_Derailed I_Derailed O O O
+为此 诉请 法院 判决 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+共同 债权 16000 元 依法 分割 共同 债务 6000 元 共同 承担
+O B_Credit I_Credit I_Credit O O O B_Debt I_Debt I_Debt O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 ×××× 年××月份 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女孩 苏某 乙
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear O B_Name I_Name
+原 被告 婚后 琐事 吵架 家庭 暴力 双方 感情 已 破裂
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 依法 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

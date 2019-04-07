@@ -1,0 +1,2 @@
+原告 谢 某某 诉称 原告 被告 张 某某 婚后 感情 常 琐事 发生 争吵 被告 性格 暴躁 现 已 分居 夫妻 感情 彻底 破裂 请求 判决 离婚 被告 承担 本案 诉讼 费用
+O O O O O O O O O O O O O B_FamilyConflict B_Person B_BadHabit I_BadHabit O O B_Separation O O O O O O O O O O O O

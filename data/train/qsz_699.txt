@@ -1,0 +1,12 @@
+2010年 12月 原告 被告 相识 2011年 11月 1日 办理 结婚 登记 手续
+B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚前 原 被告 感情 婚后 原、被告 吵架 被告 猜疑 原告
+O O O O O O I_FamilyConflict O B_FamilyConflict O
+原 被告 婚后生 男孩 刘明博
+O O B_Bear B_Gender B_Name
+5 周岁
+B_Age I_Age
+2013年 2月 被告 哥哥 接 走
+B_Time I_Time O I_Separation I_Separation I_Separation
+综 上 原告 认为 双方 婚前 缺乏 了解 感情 基础 薄弱 婚后 感情 不 睦 被告 离家 出走 五 年 双方 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O B_Separation I_Separation B_Duration I_Duration O O O O O O

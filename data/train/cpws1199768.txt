@@ -1,0 +1,6 @@
+原告 陈 某某 诉称 原 被告 1993年 3月 人 介绍 相识 同年 6月 20日 邵东县 斫曹乡 政府 办理 结婚 登记
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O O B_Marry O
+婚后 生 女孩 王某乙 王某丙 男孩 王某丁 王某戊
+O B_Bear B_Gender B_Name B_Name B_Gender B_Name B_Name
+原 被告 婚后 感情 不和 被告 家庭 不 负 责任 双方 常 家庭 琐事 发生 争吵 原告 2013年 1月 邵东县 人民法院 提起 离婚 诉讼 法院 判 不 离婚 后 夫妻 感情 未 好转
+O O O O O O O O O O O O O O O O B_Person B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O O O

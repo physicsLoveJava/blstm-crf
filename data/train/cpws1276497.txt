@@ -1,0 +1,8 @@
+原 被告 1980年 生育 子 现 已经 结婚 成家
+O O B_Time B_Bear O O O O O
+婚前 缺乏 了解 感情 基础 差 婚后 性格 不合 未 建立 夫妻 感情 生活 琐事 吵架
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+多年 争吵 双方 感情 淡薄 相互 没有 经济 来往 2009年 分居 生活 今
+O O O O O O O O O B_Time B_Separation O O
+原 告 之间 无法 共同 生活 依法 起诉 请求 判 令 原 被告 离婚 双方 无 共同 财产 债务
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

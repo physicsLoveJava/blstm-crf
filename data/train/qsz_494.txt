@@ -1,0 +1,10 @@
+原被告 经人介绍 2004年 相识 2004年 10月 25日 双方 领取 结婚证 双方 举行 婚礼 共同 生活
+O O B_Time B_Know B_Time I_Time I_Time O B_Marry I_Marry O O O O O
+2005年 9月 30日 原被告 婚生 女王 宝晶 出生
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O
+时间 推移 原告 发现 性格 不和 双方 家庭 琐事 发生 矛盾
+O O O O B_FamilyConflict I_FamilyConflict O O O O O
+2010年 左右 双方 发生 矛盾 原告 离家 回 娘家 居住 今
+B_Time I_Time O O O O B_Separation I_Separation I_Separation O I_Time
+双方 分居 至今 已 八 年 久 间 夫妻 关系 早已 明名存实亡
+O B_Separation O O B_Duration I_Duration O O O O O O

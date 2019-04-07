@@ -1,0 +1,20 @@
+原被告 均 系 再婚 双方 婚后 无 子女
+B_Person O O B_Remarry O O O O
+2012年 12月份 原被告 经人介绍 相识 2013年 1月 29日 双方 领取 结婚 证 共同 生活
+B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O
+时间 推移 原告 发现 间 性格 不和 双方 家庭 琐事 发生 矛盾
+O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict
+婚后 原告 打工 维持 家庭 日常 开支 被告 不尽 家庭 义务 不 原告 共同 生活
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+长期 外租房 居住
+B_Duration I_Separation I_Separation
+2014年 2月份 原告 贵院 提起 诉讼 贵院 受理 后 被告 找 出 中间人 原告 调解
+B_Time I_Time B_Person O O B_DivorceLawsuit O O O O O O O O O
+这种 情况 下 原告 撤回 起诉
+O O O O B_Judgment I_Judgment
+被告 不尽 家庭 义务 双方 感情 没有 好转
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2017年 5月 4日 原告 贵院 提起 诉讼 贵院 审理 后 被告 没有 庭 参加 诉讼 贵院 下发 2017 津0115 民 初 4007号 民事 判决书 判决 驳回 原告 离婚 诉请
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit O O O O O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+婚后 家庭 琐事 被告 长期 不尽 家庭 义务 间 矛盾 不 断
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

@@ -1,0 +1,2 @@
+原 告诉 称 原告 被告 1994年 10月份 经人介绍 定亲 1994年 11月 25日 办理 结婚 登记 手续 原告 系 再婚 带 两 男孩 女孩 被告 组成 家庭
+O O O O O O O B_Know O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Person O B_Remarry O O O O O O O

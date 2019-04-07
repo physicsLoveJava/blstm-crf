@@ -1,0 +1,8 @@
+原 被告 2009年 下半年 相识 自由 恋爱 2013年 1月 4日 办理 结婚 登记 手续
+O O B_Time I_Time B_Know O O B_Time I_Time I_Time O B_Marry O O
+2016年 6月 8日 生育 子 谢昊然
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原、被告 琐事 发生 激烈 争吵
+O O O O O B_FamilyConflict
+被告 2016年 7月 6日 便 原告 分居 分居 期间 被告 没有 工作 原告 孩子 没有 照顾
+O B_Time I_Time I_Time O O B_Separation O O O O O O O O O

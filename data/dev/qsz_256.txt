@@ -1,0 +1,24 @@
+原告 被告 1980年 经人介绍 相识 确立 恋爱 关系
+O O B_Time O B_Know O O O
+双方 1981年 11月 28日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+双方 婚后 生育 二 女 女儿 均 早 成年 已婚
+O O B_Bear O B_Gender O O O B_Age O
+生活 琐事 发生 争吵 被告 原告 总是 无理 指责
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+无 共同语言 导致 夫妻 关系 越发 紧张
+B_FamilyConflict I_FamilyConflict O O O O O
+夫妻 早已 分居 生活
+O O B_Separation I_Separation
+夫妻 关系 越发 紧张 原告 曾 先后 两 次 起诉 被告 离婚
+O O O O B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+最终 未 离婚
+B_Judgment I_Judgment I_Judgment
+夫妻 分居 生活 已 二 年 久 夫妻 间 根本 无法 再 继续 共同 生活 下去
+O B_Separation O O B_Duration I_Duration I_Duration O O O O O O O O O
+至今 未 建立 真挚 夫妻 感情 夫妻 间 矛盾 冲突 不 断
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 合法 有效 解除 被告 名存实亡 婚姻 关系
+B_Person O O O O O O O
+提起 离婚 诉讼
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

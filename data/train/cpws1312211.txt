@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 相识 登记 结婚 婚后 感情 不合 吵架 生气 被告 外出 打工 期间 犯罪 判刑 入狱 导致 原、被告 之间 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 自愿 放弃 婚后 共同 财产
+O O O O B_Wealth I_Wealth

@@ -1,0 +1,4 @@
+同居 后 生育 子 女 非婚生子 刘亚男 2000年 3月 18日 出生 女 刘某丙 2002年年 1月 19日 出生 二 子女 现 均 刘某乙 一起 生活
+O O O O O B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear O O O O O O O
+原告 刘某 甲 被告 刘某 乙 同居 前 缺乏 了解 没有 感情 基础 同居 后 被告 刘某 乙 好 赌成性 不 家 二 人 性格 不合 关系 渐 行 渐 远 已 无法 继续 生活
+O O O O O O O O O O O O O O O B_Person O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O

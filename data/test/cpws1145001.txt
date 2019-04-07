@@ -1,0 +1,10 @@
+张某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚 1993年 生育 女 取名 宁某 乙 于×××× 年×× 月×× 日 生育 子 取名 宁某丙
+O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 2000年 3月 14日 成立 马鞍山市 康乐 老年 休养 中心 中心 原告 经营
+B_Person O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+婚后 尤其 子女 出生 后 被告 家庭 不 负 责任 子女 不闻不问 不仅 不 承担 家庭 费用 还 原告 处 索要 财物
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2012年 2月 本市 花山区 法院 起诉 要求 离婚 法院 判决 不准 予 离婚 现 双方 仍 无 和好 感情 已 彻底 破裂 婚姻 名存实亡 请求 法院 判 令 准予 原 被告 离婚
+B_Person B_Time I_Time B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O
+经营 马鞍山市 康乐 老年 休养 中心 欠 债务 723734．92 元 双方 共同 承担
+O O O O O O O B_Debt B_Price I_Price O O O

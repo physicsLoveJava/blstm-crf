@@ -1,0 +1,4 @@
+原 被告 2015年 1月份 经人介绍 相识 2015年 10月 30日 天津市 武清区 民政局 办理 结婚 登记 相识 时间 短 感情 基础 薄弱 婚姻 认识 不 强 婚后 被告 总是 种种 理由 找 借口 争吵 双方 未 建立 真正 夫妻 感情 不仅 未 夫妻 义务 孩子 不闻不问 未 作 父亲 责任
+O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O B_Marry O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O
+使 夫妻 关系 紧张 目前 原告 已 搬 娱家 居住 原告 认为 被告 种种 行为 伤害 原告 感情 致使 原本 脱弱 夫妻 感情 完全 破裂 没有 好
+O O O B_FamilyConflict O O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O

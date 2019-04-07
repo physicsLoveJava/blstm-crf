@@ -1,0 +1,10 @@
+原告 杨某 甲诉 称 原 被告 2006年 11月 29日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time O B_Marry O O
+最 使 原告 失望 被告 无法 接受 原告 父母
+O O B_Person O O O O O O
+出现 辱骂 原告 父母 现象 严重 破坏 家庭 和睦 幸福
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+诉至法院 请求 判决 原告 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O
+婚生 儿子 原告 抚养 被告 每月 支付 抚养费 1000 元 依法 分割 共同 财产 本案 诉讼费 被告 承担
+B_Bear B_Gender O O O O O O O O O O O O O O O O

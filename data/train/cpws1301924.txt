@@ -1,0 +1,6 @@
+原告 赵 某某 诉称 2011年 3月 底 原、被告 双方 经人介绍 认识 2011年 11月 2日 登记 结婚
+O O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time O B_Marry
+婚后 被告 原告 关心 少 麻将 不 正当 关系 致 双方 感情 破裂 原告 诉至法院 要求 离婚
+O O O O O I_BadHabit I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+婚后 感情 好 家庭 生活 和睦
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

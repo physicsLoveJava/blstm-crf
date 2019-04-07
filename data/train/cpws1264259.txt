@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2008年 1月 16日 登记 结婚 2009年 11月 12日 育 女 吴某乙
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+双方 婚前 缺乏 了解 婚后 被告 酗酒 殴打 原告 夫妻 感情 已经 破裂
+O O O O B_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2012年 起诉 离婚 法院 判决 不 准 离婚
+B_Person O B_DivorceLawsuit O O O O O O
+现 双方 已 无 和好 请求 依法 判 令 原 被告 离婚 婚生 女 被告 抚养 诉讼费 被告 承担
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

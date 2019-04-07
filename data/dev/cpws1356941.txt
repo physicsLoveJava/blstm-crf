@@ -1,0 +1,12 @@
+原告 孙 某某 诉称 被告 周某 甲 2007年 经人介绍 相识 2009年 10月 16日 登记 结婚 2010年 12月 28日 生育 女 取名 周某乙
+O O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚前 感情 尚 婚后 家庭 琐事 产生 矛盾 发生 争执
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+尤其 孩子 出生 后 被告 周某 甲 无 责任心 沉迷 网络 孩子 不管 不 问 导致 双方 感情 破裂
+O O O O O O O O O B_BadHabit I_BadHabit O O O O O O O O
+离婚 后 被告 周某 甲 承诺 真心 悔改 考虑 孩子 尚 小 2012年 6月 4日 被告 周某 甲 办理 复婚 手续
+O O O O O O O O O O O O O O O O O O O B_Remarry O
+复婚 后 被告 周某 甲 不思悔改 不 工作 游手好闲 家务事 不 不 问 心灰意冷
+O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O
+现 双方 已 无 和好 夫妻 感情 已经 彻底 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

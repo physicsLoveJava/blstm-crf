@@ -1,0 +1,4 @@
+原告 周某 甲诉 称 原告 被告 ×××× 年×× 月×× 日 结婚 结婚 后 五 年 被告 没有 妻子 职责 照顾 家庭 照顾 原告 父母 原告 无法 再 忍受 包容 被告 自私自利 行为 性格 双方 已 无法 继续 共同 生活 感情 已 到达 完全 破裂 无法 修复 地步
+O O O O O O B_Time I_Time I_Time I_Time B_Marry O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+试图 被告 协商 离婚 无 果 情况 下 原告 提起 诉讼 请求 法院 判决 原 被告 离婚
+O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O

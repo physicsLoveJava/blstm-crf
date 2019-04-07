@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 2002年 12月 6日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后生 子 刘富兴 15 岁 女 刘恬 11 岁 双方 婚前 认识 时间 短 无 共同语言 发生 矛盾
+B_Bear B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 双方 分居 已 半 年 久 间 互不 履行 夫妻 义务 夫妻 感情 荡然无存
+O O B_Separation O B_Duration I_Duration O O O O O O O O O

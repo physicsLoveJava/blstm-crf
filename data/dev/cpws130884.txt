@@ -1,0 +1,10 @@
+原告 赵 某某 诉称 原 被告 经人介绍 相识 仅 十 天 后 1993年 12月 24日 登记 结婚 原 被告 婚后 沟通 少 夫妻 感情 基础 差 生活 琐事 吵架
+O O O O O O O B_Know O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+1994年 10月 1日 生育 子 傅某 傅某 患 先天性 精神 类 疾病 现年 20 周岁 至今 生活 不 完全 自理
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O
+2012年 4月 原 被告 村 整体 拆迁 被告 动迁 款 21万 余 元 全部 带走 外 非法 同居 今 家庭 毫不 关心 原告 被告 所作所为 实属 无法 忍受 夫妻 感情 确 已 破裂 没有 好
+O O O O O O O B_Person O O O O O O O O B_Derailed I_Derailed O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+现 原告 起诉 要求 离婚 要求 婚生子 被告 抚养 原告 260 元／月 付 抚养费 痊愈 时 止
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O
+夫妻 关系 存续 期间 共同 财产 拆迁 补偿 款 依法 原告 所有
+O O O O B_Wealth I_Wealth B_CommonProperty I_CommonProperty O O O O

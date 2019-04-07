@@ -1,0 +1,4 @@
+原告 付某 诉称 被告 经人介绍 相识 1984年 12月 16日 黑龙江省 望奎县 婚姻 登记处 登记 结婚 婚后 分别 1985年 12月 27日 1988年 1月 26日 生育 两 男孩 现 已 成人 都 稳定 工作
+O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O B_Time I_Time I_Time B_Time I_Time I_Time B_Bear O B_Gender O O O O O O
+被告 2005年 分居 生活 今 分居 期间 经济 完全 独立 没有 夫妻 生活 没有 共同 资产 没有 债权 债务 感情 已 完全 破裂 诉至法院 要求 被告 离婚
+O B_Time B_Separation O I_Time O O O O O O O O O O O O O O O O O O O O O O

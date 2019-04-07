@@ -1,0 +1,6 @@
+原 告诉 称 被告 王某 2010年 9月份 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 婚后 于×××× 年×× 月××日生 女孩 取名 温某甲
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time B_Bear B_Gender O B_Name
+被告 婚前 缺乏 了解 婚后 性格 不合 咽 家庭 琐事 争吵 导致 夫妻 感情 彻底 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+维护 原告 合法 权益 特 贵院 提起 诉讼 请 法院 依法 判决 原 被告 离婚
+O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2007年 自由 恋爱 相识 2008年 5月 27日 登记 结婚 婚后 2010年 3月 1日 生育 子 名 苏×1 现年 3 岁
+O O O O O B_Time B_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Age I_Age I_Age
+被告 脾气 暴躁 欺骗 原告 婚后 没有 夫妻 生活 为此 发生 争执 被告 原告 实施 家庭 暴力
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O B_DomesticViolence I_DomesticViolence
+双方 已 最终 导致 夫妻 感情 彻底 破裂 现 起诉 要求 1 离婚
+O O O O O O O O O B_DivorceLawsuit O O O
+被告 辩称 双方 2008年 5月 27日 登记 结婚 2010年 3月 1日 生 子
+O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender

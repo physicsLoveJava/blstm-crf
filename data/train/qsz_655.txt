@@ -1,0 +1,4 @@
+原告 被告 2016年 6月 举行 结婚 仪式 2017年 9月 30日 登记 结婚 婚后 育 子 李腾宇 现 1 岁 三 月
+O O B_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age I_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见 长此以往 导致 夫妻 感情 破裂 已经 无法 一起 继续 生活 。
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

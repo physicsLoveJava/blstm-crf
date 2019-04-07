@@ -1,0 +1,4 @@
+原被告 双方 1985年 相识 88年 4月 日 领取 结婚证 1988年 2月 16日 生育 长女 孙立伟 已婚 1990年 6月 16日 生长 子孙 立涛 28 岁 原被告 双方 婚前 缺乏 了解
+O O B_Time B_Know B_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O
+没有 感情 基础 原告 孩子 完整 家 隐忍 被告 却 不 珍情 双方 发 一生 口角 时 被告 动手 殴打 原告 2018年 10月 17日 原被告 琐事 发生 口角
+O O O O O O O O O O O O O O O O O B_Person O B_DomesticViolence B_Person O O O O O B_FamilyConflict I_FamilyConflict

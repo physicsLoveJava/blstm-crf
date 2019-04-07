@@ -1,0 +1,10 @@
+原告 刘某 诉称 2010年 7 8月份 左右 原告 经人介绍 被告 认识
+O O O O O O O O O O B_Know
+2010年 1月 13日 原 被告 登记 结婚
+B_Time I_Time I_Time O O O B_Marry
+2010年 11月 28日 原 被告 生育 女孩 取名 王 某某
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name I_Name
+原 被告 婚前 相识 不久 草率 结婚 双方 相互 了解 不够 夫妻 感情 基础 薄弱 婚后 双方 缺乏 沟通 被告 脾气 暴躁 原告 拳脚 相向 被告 分别 2011年 4月 7日 2013年 7月 2日 原告 进行 暴力 殴打 被告 原告 出具 悔改 承诺 被告 未 悔改 继续 原告 施暴 变本加厉 势 为此 原 被告 双方 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O O O O B_Person O O B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 法院 判 令 1 判决 原 被告 离婚
+O B_Court O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,10 @@
+原告 史某 甲诉 称 原 被告 1999年 8月 双方 相识 1999年 11月 16日 举行 结婚 仪式 2008年 2月 20日 登记 结婚 2003年 9月 12日 生育 女史 某丙 2006年 12月 16日 生于 男孩史 某丁
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Name I_Name
+双方 婚后 感情 尚 后期 被告 家庭 琐事 进行 殴打 致使 双方 感情 破裂
+O O O O O B_Person O O B_DomesticViolence I_DomesticViolence O O O O
+2009年 6月 双方 分居 2013年 3月 原告 向本院 提起 诉讼 请求 被告 离婚
+B_Time I_Time O B_Separation O O O O O O O O O
+2 婚生 女史 某丙 婚生子史 丁 原告 抚养 被告 承担 孩子 抚养费
+O B_Bear I_Bear I_Bear B_Bear I_Bear O O O O O O
+被告 承认 以前 确实 家庭 琐事 殴打 原告 两 孩子 完整 家 不 同意 离婚
+O O O O O O B_DomesticViolence O O O O O O O O

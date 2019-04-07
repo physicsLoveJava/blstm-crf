@@ -1,0 +1,6 @@
+原告 孙某 诉称 原 被告 双方 2012年 2月 人 介绍 相识 恋爱 2012年 8月 23日 登记 结婚
+O O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+婚后 夫妻 感情 被告 少言寡语 不 干 家务 原告 漠不关心 未 妻子 义务 双方 性格 不合 未 建立 夫妻 感情
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+被告 返还 原告 彩礼 65000 元 金 项链 1 条 金耳钉 银 手镯 1 副
+B_Person O O B_Credit B_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price

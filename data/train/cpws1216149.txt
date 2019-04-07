@@ -1,0 +1,2 @@
+原 告诉 称 2010年 经人介绍 被告 结婚 2012年 婚生 女儿 焦某 乙 现在 原告 处 生活 婚前 缺乏 了解 婚后 琐事 发生 争吵 被告 原告 打骂 生活 上 不闻不问 女儿 不 父亲 义务 人 劝说 不 思 悔改 原告 实在 无法 生活 下去 为此 起诉 法院 要求 被告 离婚 婚生 女儿 焦某 乙 原告 抚养 被告 承担 抚养费 婚前 财产 原告 所有 婚后 财产 依法 分割 分担 夫妻 共同 债务 1000 元 诉讼 费用 被告 承担
+O O O B_Time O O B_Marry B_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O B_Person I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Debt I_Debt O O O O O O

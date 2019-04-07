@@ -1,0 +1,12 @@
+原 被告 2008年 末 农村 习俗 举行 婚礼 同居 生活
+O O B_Time I_Time O O B_Marry I_Marry O O
+2009年 10月 29日 生育 女孩 张璇澜 2012年 2月 8日 办理 结婚 登记 手续
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+无奈 原告 2016年 5月 躲 娘家
+O O B_Time I_Time B_Separation I_Separation
+2017年 6月 12日 原告 贵院 提起 离婚 诉讼
+B_Time I_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2017年 7月 21日 贵院 2017 津0119 民 初69109 号 民事 判决书 驳回 原告 离婚 诉讼 请求
+B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+六 月 时间 内 被告 原告 电话 都 未曾 沟通 双方 形成 不 相 往来 势 更 进一步 加深 感情 破裂
+B_Duration I_Duration O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O

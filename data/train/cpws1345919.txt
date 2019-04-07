@@ -1,0 +1,8 @@
+原告 陆桂娟 诉 称 原 被告 2007年 经人介绍 相识 后 建立 恋爱 关系 被告 隐瞒 已婚 事实 导致 双方 2007年 5月份 登记 结婚 后 被告 法院 犯重 婚罪 追究 刑事 责任 双方 婚姻 关系 亦 依法 解除
+O O O O O O B_Time O B_Know O O B_BeInLove O O O O O O O B_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O
+原 被告 2009年 3月 27日 重新 办理 结婚 登记 手续
+O B_Person O O O O O B_Remarry O O
+婚后 原 被告 性格 不合 曾 家庭 琐事 发生 争执 被告 还 原告 实施 家庭 暴力
+O O O O O O O O O B_FamilyConflict B_Person O B_Person O B_DomesticViolence I_DomesticViolence
+原告 认为 段 婚姻 使 原告 身心 遭受 巨大 痛苦 夫妻 感情 已 彻底 破裂 诉至法院 请求 法院 依法 判决 准予 原告 被告 离婚
+B_Person O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

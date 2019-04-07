@@ -1,0 +1,10 @@
+原告 蒋某 起诉 称 原 被告 均 系 再婚 于×××× 年×× 月 左右 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O B_Remarry O O O O O B_Know O O O O O O
+性格 不和 了解 不 深 未能 建立 深 夫妻 感情 双方 2011年 上半年 后 分居 2012 年 后 视 陌路人 少 沟通
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_Separation O O O O O O O
+被告 曾 2012年 8月 7日 提起 离婚 诉讼 贵院 判决 驳回 被告 离婚 诉请 夫妻 关系 未 得到 改善
+B_Person O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O
+请求 判决 准予 原 被告 离婚 依法 分割 夫妻 共同 财产 价值 约 40万 元 人民币
+O O O O O O O O O B_Wealth I_Wealth O O B_Price I_Price O
+二 原 被告 没有 置办 夫妻 共同 财产 被告 前妻 签订 离婚 协议 约定 涉案 房屋 被告 两 女儿 共同 所有 后 被告 2006年 完成 涉案 房屋 装修 原 被告 登记 结婚 时间 ×××× 年×× 月××日 涉案 房屋 属 被告 前妻 生育 两 女儿 共有 财产 不 属于 原、被告 夫妻 共同 财产 原 被告 婚后 未 置办 夫妻 共同 财产
+O O O O O O O O O O O O O O B_Wealth I_Wealth B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

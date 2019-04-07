@@ -1,0 +1,10 @@
+原告 李 某某 诉称 原 被告 2002年 12月 相识 自由 恋爱 2009年 8月 19日 登记 结婚
+O O O O O O B_Time I_Time B_Know B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+张 嘴 吵架 导致 感情 彻底 破裂
+O O B_FamilyConflict O O O O
+近 三 年 被告 不 在家 吃饭 2010年 9月 外出 约 10 余 日 不 回家
+O O O O O O O B_Time I_Time O O B_Duration I_Duration I_Duration B_Separation I_Separation
+被告 李某 辩称 被告 丧偶 2002年 6月 5日 原告 再婚 婚前 女儿 张某 被告 再婚 女儿 改随夫 姓 两 人 婚后 无子嗣
+B_Person O O O O O O O B_Person B_Remarry O O O O O O O O O O O O
+原告 说 张 嘴 吵架 导致 感情 破裂
+O O O O B_FamilyConflict O O O

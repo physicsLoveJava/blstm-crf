@@ -1,0 +1,2 @@
+原告 李雪利 诉称 原 被告 婚后 关系 家庭 琐事 发生 吵闹 打架 原告 2012年 7月 彬县 法院 起诉 要求 被告 离婚 法院 判决 驳回 离婚 诉讼 请求 之后 双方 未 好
+O O O O O O O O O O B_FamilyConflict B_DomesticViolence O O O O O O O O O O O O O O O O O O O

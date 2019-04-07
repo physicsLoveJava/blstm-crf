@@ -1,0 +1,4 @@
+原告 林某 起诉 称 2003年 2月 原告 丧偶 被告 离异 后 介绍 认识 双方 未 了解 情况 下 2003年 7月 25日 办理 结婚 登记
+O O O O B_Time I_Time O O O O O O B_Know O O O O O B_Time I_Time I_Time O B_Marry O
+法院 判决 原 被告 离婚 夫妻 关系 存续 期间 以下 家庭 共同 财产 原告 名义 购买 坐落 苍南县 龙港镇 沿江路 505 号 房屋 间 苍南县 龙港镇 锦秀 名园 127 幢 401 室 商品房 套 苍南县 龙港镇 永盛路 101-111 五 间 陶瓷店 店面 应 予以 分割
+O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O

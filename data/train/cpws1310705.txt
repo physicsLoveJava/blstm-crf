@@ -1,0 +1,8 @@
+原告 吕某 起诉 称 双方 1994年 自由 恋爱 认识 同年 月 某日 新昌县 东茗乡 人民政府 登记 结婚
+O O O O O B_Time O B_BeInLove O B_Time I_Time I_Time O O O O B_Marry
+婚前 缺乏 了解 婚后 双方 感情 被告 外出 赌博 不务正业 有时 酒后 家庭 琐事 争吵 殴打 原告
+O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence B_Person
+原告 曾 2012年 12月 27日 法院 提起 离婚 诉讼 调解 后 撤回 起诉
+O O B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+后 原 被告 分居 夫妻 感情 确 已 破裂 无 好
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

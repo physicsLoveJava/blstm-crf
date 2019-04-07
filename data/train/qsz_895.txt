@@ -1,0 +1,6 @@
+2014年 2月 18日 天津市 宝坻区 民政局 婚姻 登记科 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry O
+婚后 2014年 10月 19日 育 长女 刘梦璐 2016年 12月 30日 育 次 女 刘梦平
+O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name
+婚前 缺乏 了解 结婚 草率 婚后 原被告 双方 发现 性格 不合 家庭 琐事 生气 吵架 致使 感情 每况愈下 现 夫妻 感情 已 彻底 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O O O O

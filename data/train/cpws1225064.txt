@@ -1,0 +1,8 @@
+原告 王某 甲诉 称 原 被告 经人介绍 2011年 12月 27日 登记 结婚
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+双方 感情 基础 婚后 时常 琐事 争吵 被告 不 履行 家庭 义务 夫妻 之间 无 起码 信任
+O O O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+日常 生活 中 被告 原告 时常 实施 家庭 暴力 原 被告 感情 确 已 破裂 无法 共同 生活
+O O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O
+为此 要求 法院 判 令 解除 原 被告 婚姻 关系
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

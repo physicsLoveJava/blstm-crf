@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 1997年 11月 20日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 育 子 已经 成年
+O B_Bear B_Gender O O
+双方 无 共同语言
+O B_FamilyConflict I_FamilyConflict
+P 常 小事 发生 争吵 导致 矛盾 不 断 孩子 原告 始终 忍耐 现 孩子 已经 成年 双方 矛盾 加深 已经 分居 原告 2017年 9月 25日 感情 不 贵院 起诉 离婚 未 判离 后 双方 仍 分居 近 两 年 久 互不 履行 夫妻 义务 原告 认为 双方 没有 感情 存在 不必 伤害 之间 没有 必要 相互 纠缠 为此 呈诉 贵院 请求 判如所请
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O B_Separation O B_Time I_Time I_Time O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Separation O B_Duration I_Duration I_Duration O O O O B_Person O O O O O O O O O O O O O B_DivorceLawsuit B_Court O O

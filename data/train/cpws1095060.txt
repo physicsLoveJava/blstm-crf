@@ -1,0 +1,10 @@
+原 告诉 称 原被告 ×××× 年×× 月×× 日 登记 结婚 于×××× 年×× 月×× 日 生育 女儿 张某丙 ×××× 年×× 月×× 日 生育 儿子 张某丁
+B_Person I_Person O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 琐事 发生 矛盾 被告 2012年 8月 20日 无故 离家 出走 至今 未
+O O O B_FamilyConflict I_FamilyConflict O B_Time I_Time I_Time O B_Separation I_Separation O O
+诉请 法院 要求 离婚 女儿 儿子 原告 抚养 抚养费 自行 承担
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+现 原告 家人 住 房屋 系 婚前 建 婚后 原被告 偿还 房屋 欠款 8万 元 左右 房子 应 被告 一半
+O O O O O O O O O O O O B_Debt B_Price I_Price I_Price O O O O
+原告 婚后 还 被告 18500 元 应 归还 被告
+O O O B_Person B_Price I_Price O O O

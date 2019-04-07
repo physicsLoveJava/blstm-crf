@@ -1,0 +1,6 @@
+原被告 经人介绍 相识 相处 2010年 3月 26日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+O O B_Know O B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry I_Marry
+原被告 均 系 二婚
+B_Person O O B_Remarry
+婚后 原被告 双方 性格 不合 家庭 琐事 争吵 被告 殴打 原告 被告 此举 严重 侵害 原告 合法 权益 更 伤害 原告 感情
+O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict B_Person B_DomesticViolence B_Person O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1991年 1月 16日 结婚 1993年 9月 28日 生育 长女 唐 某某 1995年 1月 9日 生育 次 女唐 某某 1997年 1月 10日 生育 长子 唐 某某
+O O O O O B_Time I_Time I_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 感情 基础 差 婚后 没有 培养 出 夫妻 感情 生气 吵架
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

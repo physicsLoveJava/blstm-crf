@@ -1,0 +1,14 @@
+原告 刘某 甲诉 称 原 被告 1995年 3月 外务工 期间 相识 恋爱 不久 便 同居 生活
+O O O O O O B_Time I_Time O O B_Know O O O O O
+1996年 5月 24日 生育 长子 取名 彭 某乙 双方 1996年 10月 10日 江安县 原铁清乡 人民政府 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+1997年 12月 15日 生育 次 女 取名 刘某 乙 后 女 抱养 现名 杜某 现在 云南省 水富县 读 高一 原告 一起 生活
+B_Time I_Time I_Time B_Bear B_Gender I_Gender O B_Name I_Name O O O O O O O O O O O O O
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 性格 不合 常 家庭 琐事 产生 矛盾 亲友 所在 村组 调解 双方 关系 仍 无 改善
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O
+原 被告 双方 感情 不合 分居 生活 至今 已 达 13 年 互 无 联系 互不 履行 夫妻 义务 夫妻 关系 早已 名存实亡 夫妻 感情 确 已 破裂 已 无 和好
+O O O O O B_Separation O O O O B_Duration I_Duration O O O O O O O O O O O O O O O O O O O
+解除 婚姻 关系 原 告诉 人民法院 请求 判决 准予 原 被告 离婚
+O O O B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O
+原 被告 分居 生活 13 年 不 事实 双方 2012年 正月 仍 共同 生活
+O O B_Separation O O O B_Negated I_Negated O O O O O O

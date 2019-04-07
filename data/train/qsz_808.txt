@@ -1,0 +1,4 @@
+原被告 经人介绍 2004年 4月份 相识 2004年 5月 27日 登记 结婚 2005年 8月 13日 生 女孩 朱宇鑫
+O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 相识 时间 太 短 双方 了解 甚 少 婚后 原被告 没有 共同语言 家务 琐事 生气 吵架 2017年 7月份 家务 琐事 原被告 生气 吵架 原被告 分居 生活 今
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Time I_Time O O O B_FamilyConflict I_FamilyConflict O I_Separation I_Separation I_Time

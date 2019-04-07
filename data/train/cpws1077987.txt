@@ -1,0 +1,10 @@
+原告 瞿某 诉称 瞿某 张某 2011年 3月 经人介绍 认识 2012年 1月 10日 登记 结婚
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+之后 双方 生育 子 瞿 某某
+O O B_Bear B_Gender B_Name I_Name
+张某 父亲 无故 辱骂 殴打 瞿某
+B_Person I_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person
+2013年 4月 双方 分居 生活
+B_Time I_Time O B_Separation O
+瞿某 认为 双方 感情 已 彻底 破裂 诉至法院 要求 判 令 解除 双方 之间 婚姻 关系
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

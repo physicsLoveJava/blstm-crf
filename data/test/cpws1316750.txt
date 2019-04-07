@@ -1,0 +1,10 @@
+原告 王 某某 诉称 2007年 12月 21日 原被告 登记 结婚 婚前 原告 年龄 小 社会 阅历 浅 被告 了解 不够 婚后 被告 不 注重 夫妻 感情 培养 原被告 年龄 差距 大 性格 脾气 不 投 双方 发生 争吵
+O O O B_DivorceLawsuit B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict
+2010年 春天 原告 离家 被告 分居 生活 今
+B_Time I_Time O O O B_Separation O O
+2006年 10月 被告 青州市 水泥厂 附近 开 饭店 认识 原告 双方 系 自由 恋爱 婚前 感情 婚后 感情 都 好
+B_Time I_Time O O O O O O B_Know O O O B_BeInLove I_BeInLove O O O O O O
+结婚 五 年 以来 被告 挣 工资 都 原告 持有 结婚 前 原告 索要 彩礼5 6万 元 结婚 后 五 年 玉米 小麦 都 原告 带 回 娘家
+B_Marry O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth O O O O B_Wealth I_Wealth O O O O O
+原告 不 正当 男女 关系 曾 被告 捉住 曾 派出所 报案
+B_Person B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O

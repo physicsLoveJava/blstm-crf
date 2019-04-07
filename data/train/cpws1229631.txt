@@ -1,0 +1,4 @@
+原告 孙×× 诉称 原 被告 1978年 经人介绍 相识 恋爱 1980年 7月 2日 登记 结婚 同年 10月 4日 共同 生活 1981年 7月 25日 婚生 子 周二× 已 成家 自立
+O O O O O B_Time O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+尤其 原 被告 常 生活 琐事 发生 矛盾 被告 原告 进行 打骂 实施 家庭 暴力 导致 原告 身体 处 器官 受损 疾病 缠身 身体 健康 每况愈下 原告 无法 继续 被告 共同 生活 夫妻 感情 已 荡然无存 起诉 要求 被告 离婚
+O O O O O O O B_FamilyConflict B_Person O O B_DomesticViolence O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O

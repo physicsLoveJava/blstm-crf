@@ -1,0 +1,6 @@
+原告 朱 某某 诉称 原 被告 2013年 3月 人 介绍 相识 2013年 5月 13日 农村 习俗 举行 结婚 仪式 2013年 5月 17日 如东县 婚姻 登记处 登记 结婚
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry O B_Time I_Time I_Time O O O O B_Marry
+原 被告 婚前 缺乏 了解 草率 结合 婚后 不久 发生 矛盾
+O O O O O O O O O O B_FamilyConflict
+原告 认为 原 被告 婚前 缺乏 了解 婚姻 基础 不 牢 结婚 时间 不 长 发生 矛盾 原 告 之间 根本 没有 建立 夫妻 感情 原告 不 再 被告 一起 生活 下去
+O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O

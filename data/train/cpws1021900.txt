@@ -1,0 +1,4 @@
+原告 张某 诉称 被告 2007年 4月 4日 办理 结婚 登记 手续 2008年 农历 1月 17日 婚生 女儿 柳 某某
+O O O O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+后 被告 外 喝酒 双方 生气 吵架 无法 共同 生活
+O O I_BadHabit I_BadHabit O O B_FamilyConflict O O O

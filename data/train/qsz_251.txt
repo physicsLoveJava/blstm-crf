@@ -1,0 +1,2 @@
+原被告 双方 1987年 2月 15日 武清区 民政局 登记 结婚 婚后 1987年 6月 23日 生育 子 取名 王磊 现年 31 周岁
+O O B_Marry I_Marry I_Marry O O B_Time I_Time O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O

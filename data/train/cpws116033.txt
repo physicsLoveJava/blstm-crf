@@ -1,0 +1,6 @@
+原告 吕某 诉称 原告 被告 1995年 结婚 同年 生育 女 刘金梅 1999年 生育 子 朱某甲
+O O O O O B_Time B_Marry O B_Bear I_Gender B_Name B_Time B_Bear I_Gender B_Name
+婚后 双方 性格 脾气 生活 习惯 差异 常 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict
+现 诉至法院 要求 判 令 准予 原被告 离婚 婚生子 原告 抚养 被告 承担 每月 500 元 抚养费 依法 分割 共同 财产 被告 承担 诉讼 费用
+O O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 郭某 起诉 称 原 被告 自由 恋爱 于×××× 年×× 月××日 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 子 陈某乙
+O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 发现 双方 性格 不合 家庭 琐事 吵架 被告 原告 家庭 暴力 行为
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 患病 被告 没有 给予 照顾 经济 上 帮助 2009年 双方 分居 现 夫妻 感情 已 完全 破裂 起诉 要求 判 令 原 被告 离婚
+O O O O O O O O O B_Time O B_Separation O O O O O O O O O O O O O

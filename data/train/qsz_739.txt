@@ -1,0 +1,4 @@
+原被告 1985年 10月 13日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 李义 现 成年
+O B_Bear B_Gender B_Name O I_Age

@@ -1,0 +1,4 @@
+原告 李某 诉称 2010年 12月 被告 同居 生活 XXXX 年 XX 月 XX 日 生 女儿 夏某甲
+O O O B_Time I_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time I_Time I_Time B_Bear I_Gender B_Name
+XXXX 年 XX 月 XX 日 被告 登记 结婚
+B_Time I_Time I_Time I_Time I_Time I_Time O B_Marry I_Marry

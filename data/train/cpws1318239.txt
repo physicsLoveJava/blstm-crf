@@ -1,0 +1,6 @@
+原告 王青诉 称 原 被告 2013年 初 经人介绍 相识 2013年 3月 29日 登记 结婚 未 生育 子女
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O
+婚后 原告 发现 被告 性格 不合 双方 常 家庭 琐事 发生 争吵 婚后 不久 分床 睡
+O O O O O O O O O O O B_FamilyConflict O O O O
+原告 起诉书 中 陈述 离婚 理由 不 事实
+O O O O O O B_Negated I_Negated

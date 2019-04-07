@@ -1,0 +1,6 @@
+许某 甲诉 称 原 被告 2002年 3月 人 介绍 相识 恋爱 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time I_Time O B_Marry
+婚后 生育 女 许某乙
+O B_Bear B_Gender B_Name
+婚后 双方 家庭 生活 琐事 争吵 矛盾 加深
+O O O O O B_FamilyConflict O O

@@ -1,0 +1,10 @@
+双方 短暂 交往 后 于×××× 年 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 金某 乙
+O O O O O O O B_Marry B_Time I_Time I_Time I_Time B_Bear O O B_Name I_Name
+原告 被告 性格 不 合 缺乏 了解 婚后 琐事 发生 争吵 被告 不 履行 家庭 义务 原告 漠不关心
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 初 双方 琐事 发生 纠纷 后 分居 至今 互 无 联系 互 未 履行 夫妻 义务
+B_Time I_Time O O O O O B_Separation O O O O O O O O O
+夫妻 感情 彻底 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 法院 提起 诉讼 请求 判 令 原告 被告 离婚
+B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O

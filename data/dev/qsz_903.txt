@@ -1,0 +1,10 @@
+原 被告 1999年 人 介绍 相识 2000年 9月 双方 登记 结婚 2001年 11月 30日 生育 女 名 韩驰
+O O B_Time O O B_Know B_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+后 2013年 8月 18日 复婚
+O B_Time I_Time I_Time B_Marry
+复婚 后 双方 发生 争吵 未 建立 真正 夫妻 感情 2015年 双方 分居 生活
+O O O O B_FamilyConflict O O O O O B_Time O B_Separation O
+2016年 被告 起诉 原告 离婚 武清区 人民法院 2016 津 0114 民 初 7157 号 民事 判决书 判决 不 准 离婚 后 原告 2017年 4月 21日 起诉 被告 要求 离婚 考虑 孩子 备战 中 考 原告 撤诉 双方 分居 至今 没有 和好 夫妻 感情 彻底 破裂
+B_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment O B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment O B_Separation B_Time O O O O O O
+原告 诉至法院
+B_Person B_DivorceLawsuit

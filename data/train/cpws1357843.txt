@@ -1,0 +1,10 @@
+原告 曹 某某 诉称 原 被告 2010年 6月份 亲戚 介绍 相识 2011年 11月 30日 登记 结婚 XXXX 年 X 月 XX 日 生 女儿 取名 曹某甲
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 双方 性格 不合 相互 缺乏 信任 生活 琐事 发生 争吵
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 2012年 8月份 分居 今 夫妻 关系 名存实亡 夫妻 感情 彻底 破裂 无 好
+O B_Time I_Time B_Separation I_Time O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+诉请 判 令 原 被告 离婚 同意 婚生 女 曹某甲 被告 生活 小孩 抚养费 法院 判决
+O O O O O O O B_Bear I_Bear I_Bear O O O O O O
+原告 处 40000 元 存款 应 出 36000 元 小孩 前 三 年 生活费 期间 小孩 医疗费 教育费 票据 原 被告 半 负担
+B_Person O B_Price I_Price B_Wealth O O O O O O O O O O O O O O O O O O

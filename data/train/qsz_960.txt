@@ -1,0 +1,4 @@
+2009年 9月 7日 双方 民政局 补办 结婚 手续 共同 生活 长子 张渠辰 2014年 12月 21日 出生
+B_Time I_Time I_Time O O O B_Marry I_Marry O O B_Gender B_Name B_Time I_Time I_Time B_Bear
+婚前 双方 缺少 了解 婚后 发现 夫妻 感情 不合 双方 常常 家庭 琐事 生气 吵架 被告 原告 张口 骂 伸手 被告 还 赌博成性
+O O O O O O O O O O O O O O B_FamilyConflict B_Person B_Person O O B_DomesticViolence B_Person O B_BadHabit

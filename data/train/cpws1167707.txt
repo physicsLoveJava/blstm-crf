@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 ×× ×× 年×× 月××日 禹州市 民政局 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time O O O B_Marry
+原 被告 矛盾 日积月累 最终 无法 解决 导致 双方 感情 彻底 破裂 无法 好
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 5月份 至今 双方 都 分居 直到 现在
+B_Time I_Time O O O B_Separation O B_Time
+诉至法院 请求 依法 判 令 原 被告 离婚
+B_DivorceLawsuit O O O O O O O
+被告 辩称 原 被告 以后 还 好好过 夫妻 感情 没有 破裂 不 同意 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

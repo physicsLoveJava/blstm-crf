@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1990年 6月 人 介绍 相识 恋爱 1990年 11月 15日 原 益阳县 兰溪镇 人民政府 登记 结婚 1991年 3月 3日 婚生 女孩 邓丽娜 名 邓娜 2001年 11月 14日 婚生 男孩 邓震宇
+O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 2010年 11月 2012年 12月 两 次 法院 起诉 被告 离婚 法院 判决 驳回 原告 诉讼 请求 后 原 被告 夫妻 关系 仍 未 得到 改善 现 原告 认为 原 被告 已经 分居 生活 达 七 年 久 夫妻 感情 已 彻底 破裂 诉至法院 要求 被告 离婚 要求 婚生 男孩 邓振宇 原告 抚养 成年 被告 承担 相应 抚养 费用
+B_Person B_Time I_Time B_Time I_Time O O B_Court B_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O B_Separation O O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O
+被告 未 庭 提交 书面 答 辩状 辩称 原告 执意 离婚 要求 婚生 男孩 邓 震宇 原告 抚养 监护权 被告
+O O O O O O O O O O O O B_Bear O O O O O O O

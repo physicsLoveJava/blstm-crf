@@ -1,0 +1,12 @@
+原告 吴某 起诉 称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 双方 属于 不 进 不 出 婚约
+O O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O O
+×××× 年×× 月××日 双方 生育 女 取名 钟某 乙 婚生 女 生活 原告 家
+B_Time I_Time I_Time O B_Bear I_Gender O B_Name I_Name O O O O O
+双方 婚前 缺乏 了解 感情 基础 薄弱
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+婚后 被告 只顾 喝酒 赌博 从未 负担 女儿 费用 原告 被告 表现 心灰意冷
+O B_Person O B_BadHabit I_BadHabit O O O O O O O O
+原 被告 2012年 下半年 分居 生活
+O O B_Time I_Time B_Separation O
+原告 认为 夫妻 之间 已 无 和好 请求 判 令 原 被告 离婚
+B_Person O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

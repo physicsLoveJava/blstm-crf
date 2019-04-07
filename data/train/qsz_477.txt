@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 后 2016年 2月 23日 民政 机关 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+被告 家庭 琐事 原告 大 吵 大 闹 丢 下 六 月 孩子 离家 出走 原告 曾 找到 被告 亲朋好友 劝说 被告 执意 不 改 次 2017年 5月份 至今 从未 回来 期间 孩子 不闻不问
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_Separation I_Separation O O O O O O O O O O O B_Time I_Time B_Time O O O O O
+现 双方 分居 至今 已 年 时间 实 属 名存实亡
+O O O O O I_Duration O O O O

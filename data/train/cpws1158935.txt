@@ -1,0 +1,8 @@
+原告 戢 某某 诉称 原 被告 1992年 经人介绍 相识 恋爱 1993年 11月 25日 仁寿县 观寺乡 人民政府 办理 结婚 登记 手续
+O O O O O O B_Time O B_Know O B_Time I_Time I_Time O O O O B_Marry O O
+婚后 夫妻 感情 1994年 4月 27日 生育 子 现 已 独立 生活
+O O O B_Time I_Time I_Time B_Bear I_Gender O O O O
+原 被告 婚前 缺乏 了解 感情 基础 差 婚后 性格 不合 常 家庭 琐事 发生 吵 闹 被告 赌博 恶习 原告 1999年 外出 打工 被告 分居 生活 今
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_BadHabit O O B_Time O O O B_Separation O I_Time
+被告 王 某某 辩称 原告 所述 办理 结婚 登记 生育 子女 时间 属实
+O O O O O O O B_Marry O B_Bear I_Bear O O

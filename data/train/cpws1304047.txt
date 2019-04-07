@@ -1,0 +1,8 @@
+原告 陈某 甲诉 称 2008年 农历 3月份 原 被告 双方 朋友 认识 恋爱 ×××× 年××月份 农村 习俗 订立 婚约 ×××× 年×× 月××日 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 子 名叫 陈某乙
+O O O O B_Time I_Time I_Time O O O O B_Know B_BeInLove O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚初 双方 关系 尚 时间 推移 双方 性格 脾气 生活 理念 方面 不合 矛盾 逐渐 显现 家庭 琐事 发生 争吵 尤其 被告 脾气 比较 暴躁 无缘无故 原告 发脾气 捣蛋 家中 财物 上辈 非常 不 孝顺 原告 母亲 进行 打骂 特别 2011年 9月份 天 被告 儿子 发烧 就医 时 原告 母亲 迟到 拳打脚踢 致使 头部 手脚 地方 不同 程度 损伤 致使 原告 被告 双方 婚姻 失望 双方 感情 进一步 恶化
+O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O B_Time I_Time O B_Person O O O O B_Person I_Person O B_DomesticViolence O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 5月份 被告 还 逼迫 原告 母亲 原告 父亲 遗留 老 房子 登记 名下 原告 母亲 搬 出 房子 居住 行为 令 原告 家人 心寒 周边 邻居 都 看 不 下去 2012年 9月份 原 被告 孩子 抚养 问题 再 次 发生 争吵 发生 互殴 后 上望 派出所 介入 调解 才 了结 至此 原告 被告 已 彻底 失望 双方 感情 完全 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+厌倦 双方 毫无 感情 每天 吵 闹 日子 原告 2011年 10月 依然 离家 租 房子 居住 双方 分居 至今 已 逾 年
+O O O O O O O O O B_Time I_Time O O O O O O B_Separation B_Duration I_Duration I_Duration I_Duration

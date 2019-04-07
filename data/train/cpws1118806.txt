@@ -1,0 +1,4 @@
+原告林 某某 诉称 原 被告 2012年 2月 人 介绍 相识 谈婚 同年 10月 12日 登记 结婚 至今 未 举行 婚礼 没有 门 共同 生活 无 生育 子女
+O O O O O B_Time I_Time O O B_Know O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O
+婚前 了解 不够 草率 结婚 婚后 无 建立 夫妻 感情 被告 冯 某某 婚前 隐瞒 吸毒 行为 被告 2005年 5月 吸毒 2009年 9月 强制 戒毒 二 年 后 亲戚 朋友 劝说 被告 仍 不知 悔改 2013年 8月 2日 公安 机关 送 强制 戒毒 二 年 现 被告 冯 某某 广宁县 公安局 强制 戒毒 强制 戒毒
+O O O O O O O O O O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

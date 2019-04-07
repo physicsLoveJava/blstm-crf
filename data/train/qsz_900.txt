@@ -1,0 +1,4 @@
+原被告 自由 恋爱 2009年 12月 14日 登记 结婚 婚后 感情 育 子 张 雨鑫 现年 4 岁
+O O O B_Time I_Time I_Time B_Marry I_Marry O O B_Bear B_Gender B_Name I_Name O B_Age I_Age
+婚前 缺乏 了解 婚后 缺乏 进一步 沟通 被告 性情 暴躁 无事生非 C ~ 制造 矛盾 家庭 纠纷 无故 干扰 原告 工作 生活 长期 家中 打闹 原告 父母 矛盾 加剧 不 孝敬 父母 还 打骂 原告 父母 导致 夫妻 感情 逐渐 淡化 直致 彻底 破裂 原告 努力 耐心 劝说 终 被告 无理取闹 未果
+O O O O O O O B_Person B_BadHabit I_BadHabit B_BadHabit O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence B_Person I_Person O O O O O O O O O O O O O O O O

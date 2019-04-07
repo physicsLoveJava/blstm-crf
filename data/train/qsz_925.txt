@@ -1,0 +1,12 @@
+原 被告 2015年 午气 经人介绍 相识 确立 恋爱 关系
+O O B_Time O O B_Know O B_BeInLove O
+2016年 5月 25日 武清区 民政局 办理 结婚 记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2016年 8月 28日 举行 婚礼
+B_Time I_Time I_Time B_Marry I_Marry
+2017年 1月 15日 生育 子 刘嘉越
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 发现 被告性 栏 芳异 无 共同语言 被告 生性 好玩 家庭 孩子 漠不关心
+O O O O O B_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2017年 6月 双方 发生 争吵 被告 争吵 中 原告 进行 殴打 原什 伤心 回 娘家 居住 今
+B_Time I_Time O O O B_Person O O B_Person O B_DomesticViolence O O O B_Separation I_Separation I_Time

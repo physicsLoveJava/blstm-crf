@@ -1,0 +1,8 @@
+原 被告 系 经人介绍 认识 2006年 11月 28日 举行 结婚 仪式 2012年 2月 28日 注册 登记 结婚
+O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry
+2007 年 7月 12日 生育 儿子 王宜民 现年 11 岁 2012年 8月 25日 生育 女儿 王宜平 现年 6 岁
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+原 被告 结婚 以来 被告 长期 赌博 不务正业 家庭 日常 生活 不闻不问 双方 家长 亲友 劝告 无效
+O O O O B_Person O B_BadHabit O O O O O O O O O O
+被告 无故 动手 殴打 原告 恐吓 孩子 王宜平 原告 长期 精神 压抑 紧张 患有 严重 甲亢 无法 正常 生活
+B_Person O O B_DomesticViolence B_Person O O O O O O O O O O O O O O

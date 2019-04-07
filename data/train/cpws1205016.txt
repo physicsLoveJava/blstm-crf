@@ -1,0 +1,14 @@
+原告 秦某 诉称 被告 1989年 认识 住 村 被告 去 我家 歇 比较 熟悉
+O O O O B_Time B_Know O O O O O O O O
+×××× 年×× 月×× 日 鸡泽县 婚姻 登记处 办理 结婚 登记
+B_Time I_Time I_Time I_Time O O O O B_Marry I_Marry
+×××× 年×× 月××日 生育 女儿 位 照晓 现在 已经 成年
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O B_Age
+×××× 年×× 月××日 生育 儿子 位彪 儿子 现在 一起 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+2011年 腊月 21日 被告 吵架 生气 自此 分居 生活
+B_Time I_Time I_Time O O O O B_Separation O
+被告 夫妻 感情 已经 彻底 破裂 没有 婚前 财产 没有 夫妻 共同 财产 要求 抚养 孩子 要求 被告 支付 孩子 抚养费
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+原告 2011年 腊月 带 两 孩子 当时 感情 挺 好 没有 吵架
+O O O O O O O O O O B_Negated B_FamilyConflict

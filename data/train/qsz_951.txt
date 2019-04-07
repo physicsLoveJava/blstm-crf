@@ -1,0 +1,4 @@
+2010年 介绍 相识 本年 11月 26日 登记 结婚 原告 残疾人 聋哑 婚后 完全 被告 被告 家人 原告 进行 扶养 2013年 3月 14日 生 原 被告 子 王浩泳 原、被告 女王 浩妍
+B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O B_Time I_Time I_Time B_Bear O O B_Gender B_Name O B_Gender B_Name
+原告 生 两 子 后 被告 被告 家人 常 无力 抚养 为由 原 被告 子 王浩泳 送 原告 娘家 抚养 长期 原告 不理不睬 精神 上 长期 虐待 原告 使 原告 生活 烦恼 痛苦 之中
+O O O O O B_Person I_Person I_Person O O O O O O O O O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O

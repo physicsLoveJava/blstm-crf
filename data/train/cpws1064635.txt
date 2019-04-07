@@ -1,0 +1,4 @@
+原 告诉 称 被告 经人介绍 相识 2010年 10月 13日 登记 结婚 2011年 5月 14日 婚生 女 周 某某
+O O O O O O B_Time I_Time I_Time B_Negated B_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+婚前 被告 了解 不够 婚后 才 发现 被告 脾气 暴躁 家庭 琐事 发生 争吵 打架 认为 夫妻 感情 已经 彻底 破裂 无法 再 继续 共同 生活 现 诉至法院 要求 判 令 被告 离婚 婚生 女 抚养 被告 每月 付 500 元 抚养费
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O

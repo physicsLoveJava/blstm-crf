@@ -1,0 +1,8 @@
+原 被告 原 2014年 12月 26日 办理 结婚 登记 2015年 12月 10日 生育 长女 张恒一 被告 打骂 原告 导致 感情 不和 双方 2016年 12月 12日 协议 离婚
+O O O O O O O B_Marry O O O O B_Bear O O B_Person B_DomesticViolence B_Person O O O O O O O O O
+后 被告 找到 原告 原告 父母 面前 表示 悔改 原告 原谅 被告 2017年 2月 4日 双方 办理 复婚 登记
+O O O O O O O O O O O O O O O O O B_Remarry O
+婚后 双方 发生 争吵 被告 原告 进行 打骂 辱骂 原告 父母
+O O O B_FamilyConflict B_Person B_Person O B_DomesticViolence B_BadHabit O O
+还 扬言 骚扰 原告 家庭
+O O B_BadHabit O O

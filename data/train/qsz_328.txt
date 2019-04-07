@@ -1,0 +1,8 @@
+被告系 再婚
+B_Person B_Remarry
+原 被告 2017年 8月 15日 经人介绍 相识 确立 恋爱 关系 2018年 1月 3门 办理 结婚 登记 手续 同年 4月 11日 举行 结婚 仪式 共同 生活
+O O B_Time I_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry O O
+婚后 原告 发现 被告 不务正业 婚前 存在 大量 债务 隐瞒 原告 结婚 时 原告 彩礼款 原告 钱款 被告 都 拿走 用于 偿还 债务
+O O O B_Person B_BadHabit O O O B_Debt O O O O O O O O B_Person O O O O I_Debt
+2018年 5月 16 口 原被告 发生 争吵 被告 离家 开 走 原告 轿车 双方 分居 今
+B_Time I_Time I_Time I_Time O O B_FamilyConflict O O O O O O O B_Separation I_Time

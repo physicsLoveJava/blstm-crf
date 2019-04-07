@@ -1,0 +1,2 @@
+原告 靳×诉 称 双方 2009年 6月份 相识 2009年 8月 26日 登记 结婚 婚后 二 人 家庭 琐事 发生 争吵 被告 争吵 中 原告 进行 打骂 扣 住 原告 所有 收入 不 原告 现 原告 认为 双方 感情 破裂 无法 共同 生活 原告 诉至法院
+O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_DivorceLawsuit

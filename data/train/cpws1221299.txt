@@ -1,0 +1,8 @@
+原告 雷鸣 诉称 被告 金鑫 1994年 相识 1996年 10月 16日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 育 子 雷某 1998年 12月 8日 出生
+O B_Bear B_Gender B_Name B_Time I_Time I_Time O
+婚后 夫妻 感情 一度 尚 家庭 琐事 发生 吵
+O O O O O O O O B_FamilyConflict
+现 夫妻 感情 确 已 破裂 请求 判决 准予 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

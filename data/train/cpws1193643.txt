@@ -1,0 +1,4 @@
+原告 黄某 甲诉 称 被告 2000年 12月 14日 原 庆城县 冰淋岔乡 人民政府 办 领 结婚证 2000年 11月 14日 生 女孩 黄某 乙 2002年 10月 22日 生 男孩 黄某丙
+O O O O O B_Time I_Time I_Time O O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 发生 矛盾 2010年 农历 5月 11日 分居 生活
+O O I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time I_Time B_Separation O

@@ -1,0 +1,22 @@
+原 告诉 称 原 被告 经人介绍 2008年 3月 订婚 同年 12月 3日 登记 结婚 2008年 农历 11月 12日 举行 婚礼 共同 生活
+O O O O O O B_Time I_Time I_Time I_Time I_Time I_Time O B_Marry O O O O O O O O
+2009年 农历 7月 14日 生 女孩 沈 某某
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 了解 少 被告 性格 粗暴 家庭 观念 淡漠 酗酒 原因 婚后 被告 别人 打架 斗殴 动 不 动 原告 大打出手 醉酒 后 无故 打骂 原告 更 家常便饭 事
+O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O B_DomesticViolence I_DomesticViolence B_Person O O O
+尤其 今年 5月 17日 晚上 被告 无故 原告 顿 毒打 使 原告 昏迷 达 半 小时 左右 原告 无奈 天 回 娘家
+O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+原告 受伤 事实 被告 不仅 不 认识 错误 5月 27日 晚上 10时 左右 纠集 社会 闲散 人员 原告 娘家 闹事 动手 伤 原告 父亲 头部
+O O O B_Person O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 家庭 暴力 行为 使 原告 生命 健康 受到 严重 威胁 原 被告 无法 共同 生活 夫妻 感情 已 彻底 破裂
+O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O
+被告 辩称 原告 诉 婚姻 缔结 过程 生育 孩子 情况 属实
+O O O O B_Marry O O B_Bear O O B_Negated
+原告 起诉 事实 理由 大部分 不 事实 1 原 告诉 称 被告 缺乏 了解 不 符合 事实 原 被告 邻村 相互 比较 了解 别人 介绍 认识 后 两 年 来往 双方 感情 性格 上 家庭 接受 对方 原 被告 婚姻 基础 后 才 结婚
+O O O O O B_Negated I_Negated O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 原 告诉 称 被告 家庭 观念 淡漠 酗酒 不 符合 事实 结婚 后 被告 还 清 家庭 债务 外 打工 原告 孩子 丈夫 父亲 责任 被告 有时 朋友 喝酒 别人 打架 斗殴 事 没有
+O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O
+3 2013年 5月 17日 晚 原 被告 家庭 生活 琐事 发生 纠纷 打架 属实 被告 没有 原告 进行 毒打 没有 造成 原告 昏迷 5月 27日 晚 被告 未 纠集 社会 闲散 人员 原告 娘家 闹事 被告 当晚 本意 请求 原告 回家 原告 赔情 道歉 认 错 言语 不 合 发生 争执 被告 没有 殴打 原告 父亲
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+原 告诉 称 被告 实施 家庭 暴力 使 原告 生命 健康 受到 严重 威胁 言过其实 被告 生活 琐事 原告 被告 保证 以后 不 再 发生 打架 事 。
+O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O

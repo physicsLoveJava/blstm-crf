@@ -1,0 +1,12 @@
+原告 某某 诉称 原告 被告 1989年 3月 人 介绍 相识 同年 9月 某某 乡 人民政府 登记 结婚
+O O O O O B_Time I_Time O O B_Know O B_Time O O O O B_Marry
+1990年 6月 生育 长女 甲 现在 南京 中石化 上班
+B_Time I_Time B_Bear B_Gender I_Name O O O O
+2000年 11月 生育 次女 某乙 现 就读 于宁县 马坪 小学
+B_Time I_Time B_Bear B_Gender I_Name O O O O O
+婚前 被告 缺乏 了解 仓促 结婚 婚后 被告 生性 疑 性格 孤僻 动 辄 恶语 伤 人 无事生非 常 家庭 琐事 打闹
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+2005年 11月 被告 原告 单位 滋事 打闹 原告 便 被告 分居 生活 夫妻 感情 现 已 彻底 破裂
+B_Time I_Time O O O O O O O O B_Separation O O O O O O O
+原告 曾 法院 起诉 离婚 法院 均 判决 不 准 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment

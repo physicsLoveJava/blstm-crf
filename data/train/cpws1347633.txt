@@ -1,0 +1,10 @@
+原告 贺 某某 诉称 原 被告 2012年 2月 相识 双方 自由 恋爱 2012年 11月 6日 登记 结婚
+O O O O O O B_Time I_Time B_Know O O O B_Time I_Time I_Time B_Marry I_Marry
+婚前 原告 被告 了解 不够 草率 结婚 婚后 原告 发现 被告 参与 赌博 酗酒 原告 苦心 规劝 被告 仍 劣性 不 改
+O O O O O O O O O O B_Person O B_BadHabit I_BadHabit O O O O O O O O
+被告 原告 实施 家庭 暴力 原告 父母 家 刀具 威胁 被告 所作所为 家庭 亲人 不 负 责任 已 严重 伤害 夫妻 感情 双方 性格 不合 2013年 5月 分居
+B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation
+原告 请求 依法 解除 原 被告 婚姻 关系
+B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 酗酒 赌博 行为 属实 被告 不 认为 夫妻 之间 争吵 斗殴 属于 家庭 暴力 原 被告 和好
+O B_BadHabit I_BadHabit O B_Negated O O O O O O O O O O O O O

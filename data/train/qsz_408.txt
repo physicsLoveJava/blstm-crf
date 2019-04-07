@@ -1,0 +1,6 @@
+2009年 10月份
+B_Time I_Time
+原 被告 经人介绍 相识 确立 恋爱 关系 2010年 2月 4日 双方 办理 结婚 登记 手续
+O O O B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry O
+婚后 双方 感情 尚 2011年 11月 4日 生子 张俊昊
+O O O O B_Time I_Time I_Time B_Bear B_Name

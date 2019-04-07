@@ -1,0 +1,4 @@
+原 告诉 称 被告 2001年 7月 31日 人 介绍 登记 结婚 婚后生 男孩 李某 甲
+O O O O B_Time I_Time I_Time O O O B_Marry B_Bear B_Gender B_Name I_Name
+家庭 琐事 打架 生气 夫妻 感情 处于 紧张 状态 2012年 2月 31日 起诉 离婚 没有 准予 离婚
+O O B_FamilyConflict I_FamilyConflict O O O O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment

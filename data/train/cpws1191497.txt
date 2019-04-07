@@ -1,0 +1,12 @@
+原告 汪某 诉称 2000年 经人介绍 被告 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 儿子 刘某乙
+O O O B_Time O O B_Know O O O O O O O O O O B_Bear B_Gender B_Name
+双方 婚前 缺乏 了解 婚后 发现 被告 脾气 暴躁 性格 完全 不同 常 琐事 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 结婚 九年 期间 被告 家庭 经济 帮助 甚微
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 性格 不合 长期 分居
+O O O B_Duration B_Separation
+目前 杭州 工作 被告 合肥 工作 自09年 分开 今 春节 期间 在家 十 天 左右
+O O O O O O B_Time O B_Time O O O O O O
+二 原告 诉称 被告 家庭 经济 帮助 甚微 夫妻 吵架 严重 不 事实
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Negated O

@@ -1,0 +1,8 @@
+原被告 2011年 初 双方 介绍 相识 后 双方 居住 远 接触 少 相互 不 了解
+O B_Time I_Time O O B_Know O O O O O O O O O
+2012年 4月 5日 原被告 天津市 宝坻区 民政局 婚姻 登记 机关 办理 结婚 登记额 手续 同年 5月 举行 婚礼 片 同居 生活
+B_Time I_Time I_Time O O O O O O O B_Marry I_Marry I_Marry O O O O O O O O
+原被告 收入 全部 交给 被告 掌管 2013年 3月 14日 婚生子 李嘉祥 出生
+O O O O O O B_Time I_Time I_Time B_Bear B_Name O
+段 时间 后 告 母 接 走 拒绝 回家 原告 家人 曾 接 回家 未 回 后 原告 发现 被告 已 服装厂 上班 不 回家 双方 不再 往来 2016年 今 原被告 分居 生活
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O B_Separation O

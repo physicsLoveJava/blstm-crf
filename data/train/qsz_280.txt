@@ -1,0 +1,4 @@
+原被告丁 2009年 I2 月经 人 介纠 相识 建立 恋爱 关系 2010年 4月 20日 双方 登记 结婚 原被告 婚前 相识 时间 短
+O B_Time I_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry O O O O O
+结婚 以后 家务 琐事 发/ l 矛盾 尤其 被告 尤端 怀疑 原告 原告 身心 造成 极 人 伤害 被告 还 无事生非尤故 辱骂 殴打 原告 原告 无法 忍受 2017年 8月 起诉 离婚 法院 开庭 审理 判决 不 准 离婚 判决 后 双方 仍 无法 好 分居 生活 今 造成 从方 感情 彻底 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence B_Person O O O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment O O O O O O B_Separation O I_Duration O O O O O

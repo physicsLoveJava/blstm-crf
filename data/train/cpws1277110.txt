@@ -1,0 +1,10 @@
+原 告诉 称 1997年 秋 原 被告 双方 经人介绍 相识 1999年 9月 21日 登记 结婚 婚后 感情
+O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time O B_Marry O O
+婚生 女孩 现年 11 周岁 婚生 男孩 现年 5 周岁
+B_Bear B_Gender O B_Age I_Age B_Bear B_Gender O B_Age I_Age
+平时 双方 感情 不和 家庭 琐事 吵架 被告 平时 还 殴打 原告
+O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 所作所为 严重 伤害 夫妻 感情 夫妻 感情 确 已 破裂 已 无 和好
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+维护 原告 合法 权益 请求 法院 依法 判 令 原 被告 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

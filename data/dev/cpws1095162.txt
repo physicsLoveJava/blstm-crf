@@ -1,0 +1,12 @@
+原告 刘某 诉称 原告 经人介绍 母亲 包办 ×××× 年×× 月××日 被告 登记 结婚 ×× ×× 年×× 月×× 日 女儿 出生 取名 某乙
+B_Person O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time I_Time I_Time B_Gender B_Bear O I_Name
+发儿 出生 28 天 时 双方 孩子 取名 日常 生活 开支 问题 发生 争执
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 二 次 手 卡住 原告 脖子 造成 原告 窒息
+B_Person O O O O B_Person O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+后 原告 东躲西藏 2012年 4月 始 原告 居住 母亲 老家 2012年 7月 前 被告 曾 探望 女儿 数次 不尽 父亲 责 从不 负担 母女 生活费
+O O O B_Time I_Time O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O
+请求 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+双方 感情 不 分开 被告 没有 想 离婚 希望 好好 经营 家庭 共同 抚养 孩子 长大
+O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

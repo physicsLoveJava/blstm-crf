@@ -1,0 +1,8 @@
+原告 陈某 甲诉 称 ×××× 年×× 月×× 日 原 被告 登记 结婚 2005年 11月 11日 生 女 陈某乙
+O O O O B_Time I_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 了解 不 够 草率 结婚 婚姻 基础 差 两 人 性格 不合 家庭 琐事 争吵
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+亲戚 劝解 仍 不见 好转 双方 2012年 底 分居 今
+O O O O O O B_Time O B_Separation O
+被告 辩称 1 原 被告 平时 争吵 陈某 甲 不 忠实 夫妻 感情 夫妻 感情 尚未 破裂 双方 女儿 八 岁 女儿 健康 成长 被告 不 同意 离婚
+O O O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O

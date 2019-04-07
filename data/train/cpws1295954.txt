@@ -1,0 +1,10 @@
+原告 峁 某某 诉称 2011年 4月份 原、被告 经人介绍 认识 当时 原告 并未 看上 被告 不 同意 被告 继续 相处 下去
+O O O O B_Time I_Time O O B_Know O O O O O O O O O O O
+被告 赌博 恶习 赌博 输 钱 人 追 债
+O B_BadHabit O O O O O O O
+还 外面 人 打架 斗殴 2013年 11月 初 被告 打架 斗殴 公安 机关 拘留
+O O O O B_BadHabit O O O O O O O O O
+2011年 11月 23日 儿子 白 xx 出生 儿子 出生 未 能够 改变 被告 恶习
+O O O B_Gender O O B_Bear O O O O O O O
+被告 白 某某 辩称 原告 所述 事实 不符 原告 称 未 看上 被告 不 事实 原 被告 结婚 双方 自愿 原告 现 达到 离婚 目的 才 说
+O O O O B_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know I_Know O O O O O O O

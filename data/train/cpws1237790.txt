@@ -1,0 +1,4 @@
+原告 张 某某 诉称 原 被告 1994年 经人介绍 相识 1995年 4月 17日 登记 结婚 1999年 7月 3日生 男孩 取名 郭乙
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender O B_Name
+婚后 双方 性格 不合 生活 琐事 吵架 现 双方 感情 已 完全 破裂 诉至法院 要求 被告 离婚 婚生子 郭乙 原告 抚养 被告 每月 支付 抚养费 1500 元
+O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O

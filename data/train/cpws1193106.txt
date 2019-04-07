@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 被告 2013年 4月 网络 认识 被告 离异 带有 女孩
+O O O O O B_Time I_Time O B_Know B_Person B_Remarry O O
+彩礼 给付 后 被告 2013年 5月 17日 办理 结婚 登记 同年 6月 18日 举行 结婚 仪式
+O O O O B_Time I_Time I_Time O B_Marry O O O O O O O
+婚后 夫妻 感情 被告 别人 说 原告 不要 女儿 双方 常 此事 争吵
+O O O O O O O O O O O O B_FamilyConflict
+2013年 5月 16 原告 举行 结婚 仪式 同年 7月 5日 办理 结婚 登记
+O O O O O B_Marry O B_Time I_Time I_Time O O O

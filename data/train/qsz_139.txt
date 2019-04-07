@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2004年 9月 3甘 武清区 民政局 办理 结婚 登记 手续 原告 2005年 6月 29门 生卜 子 取名 李鸿锦
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原告 被告 婚后 家庭 琐事 发生 争吵 双方 提出 离婚
+O O O O O B_FamilyConflict I_FamilyConflict O O O
+2018年 8月 被告 突然 告知 原告 2017年 8月 17I 没有 告知 原告 情况 下 名下 房产 抵押 此笔 债务 被告 婚内 债务 被告 自以 偿还
+O O O O O O O O O O O O O O B_Wealth I_Wealth B_Credit O O O O O O O O
+被告 种种 行为 造成 双方 感情 已经 彻底 破裂 匕无 和好
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

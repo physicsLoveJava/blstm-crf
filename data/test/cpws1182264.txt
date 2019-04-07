@@ -1,0 +1,10 @@
+原告 刘 某某 诉称 原 被告 经人介绍 认识 2009年 12月 10日 宝塔区 民政部门 办理 结婚 登记 手续 2009年 农历 11月 8日 当地 风俗 举行 结婚 仪式
+O O O O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O O O O O O O O
+婚后 原 被告 夫妻 感情 尚 好 生育 女 取名 李 A
+B_Time O O O O O O B_Bear I_Gender O B_Name I_Name
+好景不长 之后 生活 中 原 被告 琐事 发生 争吵 被告 大打出手
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence
+原告 孩子 忍 再 忍 被告 仍 不知 悔改 现 原告 诉至法院 请求 判 令 解除 原 被告 婚姻 关系
+O O O O O O O O O B_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 李某 辩称 原告 所述 事实 不符 原 被告 间 没有 矛盾 被告 没有 原告 实施 家庭 暴力 被告 勤劳 务实 农村 青年 汽车 驾驶 执照 近 年 每年 都 几万 元 收入 完全 维持 家庭 生活
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O

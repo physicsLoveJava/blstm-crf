@@ -1,0 +1,6 @@
+原告华 某某 诉称 被告 2002年 经人介绍 相识 2005年 11月 11日 登记 结婚 双方 都 再婚 婚后 没有 子女
+O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O
+被告 感情 被告 脾气 暴躁 平时 赌博成性 女儿 感情 冷漠 根本 不 知道 关心 人 出门
+O O O O O O B_BadHabit O O O O O O O O O
+原告 说 不好 赌博 闺女 不好 都 不 属实
+O O O I_BadHabit O O O O O

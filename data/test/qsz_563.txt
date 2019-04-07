@@ -1,0 +1,10 @@
+原 被告 2018年 2月 6日 经人介绍 相识 确立 恋爱 关系 2018年 5月 11日 办理 结婚 登记 手续 2018年 5月 20日 举行 结婚 仪式 后 共同 生活
+O O B_Time I_Time I_Time O B_Know O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O
+定亲 时时 原告 风俗 习惯 付 被告 订婚 礼金 6600 元 举行 仪式 结婚 前 付 彩礼 人民币 66000 元 合计 72600 元
+O O B_Person O O O O B_Wealth I_Wealth B_Price O O O O O O B_Wealth O B_Price O O O O
+被告系 再婚 原告 系 初婚 原 被告 相处 时间 太 短 草率 结婚 没有 感情 基础 婚后 原告 被告 一起 居住 被告 婚前 租 住 宝境 栖园 小区 27 号 楼 4 单元 402 2018年 7月 20日 被告 租 住 房屋 到期 房屋 到期 之前 被告 原告 出资 20000 元 房屋 续租 租金 原告 母亲 被告 母亲 面 20000 元 交给 被告 被告 续租 房屋 不 720 天 房屋 房 主要 房屋 卖 掉 房主 被告 解除 房屋 租赁 合同 房租 退还 被告
+B_Person B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+事后 被告 没有 房租 20000 元 返还 原告
+O B_Person O B_Debt O O O O
+原告 电话 里 规劝 被告 原告 好好 过日子 被告 接通 电话 之后 原告 进行 辱骂
+O O O O O O O O O O O O O O B_FamilyConflict

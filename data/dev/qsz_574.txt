@@ -1,0 +1,14 @@
+2011年 3月 原 被告 经人介绍 相识 确立 恋爱 关系
+B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2011年 11月 1日 双方 民政部门 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O
+原被告 均 系 再婚 婚后 双方 未 生育 子女
+B_Person O O B_Remarry O O O O O
+原告 子 史鑫 旺 2006年 9月 5日 出生 现在 原告 一起 生活
+O B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear O O O O
+原 被告 婚前 缺乏 了解 婚后 感情 2015年 1月 被告 户口 山东 原籍 迁 原告 处 后 被告 感情 发生 变化 2016年 10月 被告 上班 后 逐渐 不 回家 居住 回家 被告 无取闹 找 原告 打架 工资 收入 掌握
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O
+2018年 1月 孩子 生病 被告 拒绝 支付 医疗费 为此 双方 发生 争执 被告 原告 分居
+B_Time I_Time O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_Separation
+2018年 2月 26日 原告 法院 提起 离婚 诉讼 法院 2018年 3月 判决 不 准 离婚
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment

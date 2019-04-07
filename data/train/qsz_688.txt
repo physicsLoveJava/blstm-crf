@@ -1,0 +1,4 @@
+原被告 经人介绍 相识 1995年 11 27日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 杨健 1997年 3月 15日 出生 现 已 成年
+O B_Bear B_Gender B_Name O O O O O O O

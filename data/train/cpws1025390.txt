@@ -1,0 +1,8 @@
+原告 雷某 甲 起诉 称 原 被告 父母 包办 订立 婚约 2000年 1月 10日 登记 结婚
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry
+×××× 年×× 月×× 日 生育 女儿 雷某 乙 2007年 11月 29日 生育 儿子 雷某丙
+B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender
+原 被告 婚前 缺乏 了解 婚后 性格 不合 双方 家庭 琐事 发生 纠纷 未能 培养 好 夫妻 感情
+O O O O O O O O O O O O O B_FamilyConflict O O O O
+双方 2012年 5月 分居 生活 今 现 夫妻 感情 确 已 彻底 破裂
+O B_Time I_Time I_Time O I_Separation O B_Time I_Time O O O O

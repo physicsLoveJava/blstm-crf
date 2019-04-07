@@ -1,0 +1,8 @@
+原被告 2006年 春人 经人介绍 相识 建立 必 爱 关系 婚前 感情
+O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove I_BeInLove O O
+2008年 4月 2.口 双方 登记 结婚 原被告 白 结婚 以后 家务 琐事 发生 矛盾
+B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O
+尤其 被告 无事生非 原告 争吵 打闹
+O O O O B_FamilyConflict I_FamilyConflict
+原告 骊 病 被告 不 关心 照顾 原告 不 原告 分 钱 原告 身心 造成 伤害 原告 尤法 忍受 造成 双方 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O

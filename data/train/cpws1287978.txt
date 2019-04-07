@@ -1,0 +1,10 @@
+原告 赵某 诉称 原 被告 2010年 春天 经人介绍 认识 2010年 8月 13日 登记 结婚 原 被告 均 系 再婚 原告 婚前 男孩 取名 刘 某某
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person I_Person O O B_Remarry O O O O O O
+婚前 了解 少 婚后 被告 父 打骂 原告 母子 导致 夫妻 感情 不和
+O O O O O O B_FamilyConflict O O O O O O
+原告 2012年 8月 23日 起诉 法院 判决 不准 予 离婚
+O B_Time I_Time I_Time B_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原 被告 处于 分居 状态 现 感情 已经 彻底 破裂
+O O O B_Separation O O O O O O
+诉至法院 请求 法院 判决 原 被告 离婚 刘戌海 原告 自行 抚养 夫妻 共同 财产 依法 分割 诉讼 费用 被告 承担
+B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 马某 诉称 被告 2001年 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+2009年 5月 13日 生 女儿 取名 张誉萱
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+曾 2012年 4月 起诉 要求 离婚 判决 不 准 离婚 被告 没有 改善 找 借口 不 原告 孩子 见面 现 夫妻 感情 完全 破裂 请求 判 令 被告 离婚
+O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O

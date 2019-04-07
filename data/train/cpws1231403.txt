@@ -1,0 +1,4 @@
+原告 步某 甲诉 称 2012年 5月份 双方 认识 2012年 7月 5日 办理 结婚 登记 手续 双方 均 系 再婚 婚后 无 子女
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O O O B_Remarry O O O
+婚前 缺乏 足够 了解 婚后 二 人 性格 不和 生活 琐事 吵闹 致使 夫妻 感情 破裂 原 被告 已 无 感情 可言 特 请求 人民法院 依法 支持 原告 离婚 诉讼 请求
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

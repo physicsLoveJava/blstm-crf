@@ -1,0 +1,14 @@
+原告 李某 诉称 原被告 经人介绍 1998年 认识 1999年 7月 登记 结婚 2001年 1月 19日 生 男孩 取名 李 某某
+O O O O O B_Time B_Know B_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原被告 2010年 5月份 发生 争吵 后 正式 分居 生活 今
+O B_Time I_Time O O O O B_Separation O O
+2010年 加州城 套 房子 处理 租赁 事 租房 人员 签订 租房 合同 租赁费 被告 收
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 农历 腊月二十八 被告 汽车 玻璃 砸 坏 后 汽车 开 走
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 11月 18 19 23日 被告 纠集 家人 方兴苑 家中 闹事 原告 伤 原告 被迫 报警
+O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O
+原告 草率 结婚 婚前 对方 了解 深 1998年 经人介绍 相识 1999年 登记 结婚 夫妻 共同 生活 年 以后 觉得 对方 不错 才 2000年 5月 农村 风俗 举行 结婚 仪式 对外 公开 婚姻 生活 原告 说 婚前 了解 不 草率 结婚 不 属实
+O O O O O O O B_Time O B_Know B_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 说 婚后 生活 平淡 认为 婚后 平淡 才 真正 感情 原告 共同 生活 14年 建立 深厚 夫妻 感情 原告 提出 离婚 真正 原因 原告 同事 发生 婚外情 此事 原告 发生 争执 原告 认错 态度 好 孩子 愿意 原谅 原告 继续 共同 生活
+O O O O O O O O O O O O O O O O O O O O O O O O B_Person O O B_Derailed O O O O O O O O O O O O O O O

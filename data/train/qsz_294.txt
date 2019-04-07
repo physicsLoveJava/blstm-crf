@@ -1,0 +1,4 @@
+原被告 2001年 11月 人 介绍 相识 确立 恋爱 关系 2002年 4月 25日 登记 结婚 2003年 2月 1日 生育 长女 刘旭博 现 上 初中 2017年 2月 9日 生育 长子 刘旭研
+O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 结婚 初期 感情 尚 近期 双方 家庭 琐事 争吵 打架 感情 不和 现 双方 矛盾 越来越 深 感情 已经 彻底 破裂 婚姻 关系 无法 维持
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

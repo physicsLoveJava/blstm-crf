@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2011年 5月 网上 聊天 相识 同年 12月 6日 项 城市 民政部门 办理 婚姻 登记 手续
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+婚后 原、被告 性格 不合 无 共同语言 被告动 不 动 无 理由 大 发脾气 原告 非 骂
+O O O O O O B_Person O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence
+为此 诉至法院 请求 依法 判 令 原 被告 离婚 诉讼费 被告 承担
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 赵 某某 辩称 原 被告 深思熟虑 后 双方 才 结婚 婚后 被告 原告 偿还 欠 外债 购置 部分 家具 家电
+O O O O O O O O O O O O O O O O B_Debt B_PersonalProperty O B_Wealth I_Wealth

@@ -1,0 +1,2 @@
+原告 邢某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 婚后 生育 男孩 邢 某某 双方 婚前 缺乏 了解 婚后 家庭 琐事 发生 口角 2013年 2月 1日 分居 今 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O B_Marry O B_Bear B_Gender O O O O O O O O O O B_FamilyConflict B_Time I_Time I_Time B_Separation O O O O O O

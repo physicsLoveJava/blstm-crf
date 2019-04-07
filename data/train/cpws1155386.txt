@@ -1,0 +1,10 @@
+原告 李某 起诉 称 原 被告 偶然 相识 2009年 武义县 民政局 登记 结婚
+O O O O O O O B_Know B_Time O O B_Marry I_Marry
+2010年 6月 11日 双方 育 女 取名 徐莎鹭 现年 2 周岁
+B_Time I_Time I_Time O B_Bear B_Gender O B_Name O B_Age I_Age
+被告 没有 丈夫 应 义务 女儿 抚养 漠不关心 严重 缺乏 家庭 责任感
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+染 上 赌博 恶习 原告 劝说 置之不理 频繁 来往 赌坊 殴打 原告
+O O O O O O O O O O B_FamilyConflict O
+2012年 12月 31日 原告 家中 搬 出 被告 分居
+O O O O O O O O B_Separation

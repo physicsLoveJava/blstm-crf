@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 张某 乙 ×××× 年×× 月×× 日 生育 女 张某丙
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2012年 3月 原告 怀孕 期间 被告 认识 女人 被告 至今 保持 不 正当 男女 关系
+O O O O O O O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+原告 家庭 和睦 原则 劝告 被告 珍惜 美好 家庭 第三者 刀 两 断 被告 置之不理 冷落 疏远 原告 原告 暴力
+O O O O O O O O O O O O O B_Person O O O O B_Person I_DomesticViolence
+被告 所作所为 致使 夫妻 感情 彻底 破裂 无 好 原告 诉至法院 诉讼 请求 1 判 令 原告 被告 离婚
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Court O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+3 判 令 夫妻 共同 财产 依法 分割
+O O O O B_Wealth I_Wealth O O

@@ -1,0 +1,12 @@
+原告 张某 甲诉 称 2004年 8月 15日 原 被告 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚 2008年 9月 18日 举行 婚礼
+O O O O B_Time I_Time I_Time O O O B_Know B_Time I_Time I_Time I_Time O B_Marry O O O O O
+×××× 年×× 月××日 原告 张某 甲 被告 魏某 生育 女孩 取名 张某乙
+B_Time I_Time I_Time O O O O O B_Bear B_Gender O B_Name
+婚后 双方 性格 不合 常 家庭 琐事 发生 矛盾 导致 感情 沟通 障碍
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2013年 7月 1日 被告 带 女儿 离家 回 娘家 居住 至今 未
+B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation I_Separation I_Separation
+原 被告 夫妻 感情 现 已 完全 破裂 现存 婚姻 名存实亡 诉至法院 要求 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+依法 分割 共同 财产
+O O B_Wealth I_Wealth

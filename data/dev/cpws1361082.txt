@@ -1,0 +1,6 @@
+原 告诉 称 被告 经人介绍 相识 ×××× 年×× 月××日 依法 登记 结婚 婚后 感情 尚 时间 推移 双方 家庭 琐事 生气 吵架 特别 孩子 出生 后 整天 找茬 生气 孩子 病 北京 住院 不闻不问 都 钱 孩子 治病 2013年 1月 被告 打架 回到 老家 印子峪 居住 今
+O O O O O O B_Time I_Time I_Time O O B_Marry O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+被告 脾气 不 投 没有 共同语言 夫妻 感情 已 彻底 破裂 为此 特 人民法院 提起 离婚 诉讼 要求 婚生 男孩 郭明涵 生活 被告 每月 负担 抚养费 500 元
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O B_Bear B_Gender B_Name O O O O O O O
+共同 财产 楼房 车 空调 电视 都 付 原告 相应 财产 折价款
+B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O

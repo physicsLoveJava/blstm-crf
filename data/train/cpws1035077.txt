@@ -1,0 +1,8 @@
+原告 吴某 起诉 称 原 被告 经人介绍 认识 2005年 9月 26日 办理 结婚 登记 ×××× 年×× 月×× 日 生育 女 毛某乙
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear O B_Gender
+婚前 缺乏 了解 婚后 性格 不合 被告 不 负 丈夫 责任 双方 勉强 维持 夫妻 关系 现 已 无 和好 起诉 要求 判 令 原 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+依法 分割 座 落 平阳县 鳌江镇 锦河 公寓 b4 幢 3 单元 4351 室 商品房 套
+O O O O O O O O O O O O O O O B_Wealth
+本案 诉讼费 被告 承担
+I_Wealth O O O

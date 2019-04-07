@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1996年 下半年 经人介绍 相识 短暂 相处 后 1997年 3月 25日 办理 结婚 登记 手续 某年 月 某日 生育 子 何乙
+O O O O O B_Time I_Time O B_Know O O O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 相处 短暂 原告 被告 性格 脾气 待人处事 观念 了解 少 草率 结婚 两 人 性格 严重 不合 常 家庭 琐事 争吵 婚后 双方 均 外出 务工 交流 沟通 少 夫妻 感情 矛盾 积累 过程 中 逐渐 走向 破裂
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O
+被告 提交 书面 答辩 辩称 原被告系 经人介绍 相识 亲友 见证 下 举行 结婚 仪式 婚后 五 年 生于 儿子 何乙
+O O O O O O O O O O O O B_Marry I_Marry O O O B_Bear B_Gender B_Name

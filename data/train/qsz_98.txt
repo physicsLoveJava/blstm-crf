@@ -1,0 +1,8 @@
+原 被告 2005年 上旬 经人介绍 相识 后 确定 恋爱 关系
+O O B_Time I_Time O B_Know O B_BeInLove I_BeInLove I_BeInLove
+2008年 5月 14日 登记 结婚 婚后 感情
+B_Time I_Time I_Time B_Marry I_Marry O O
+2009年 10月 29日 生 女儿 刘鋆涵
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 性格 原因 争吵
+O O O B_FamilyConflict

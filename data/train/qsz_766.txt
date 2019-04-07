@@ -1,0 +1,8 @@
+原被告 经人介绍 相识 相处
+O O B_Know O
+1990年 11月 8日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+O O O O O O O O O B_Marry O O
+1993年 2月 11日 育 长子 刘起超 2001年 2月 11日 育 长女 刘敬怡
+B_Time I_Time I_Time O B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 双方 性格 不合 家庭 琐事 争吵 致使 感情 每况愈下 现 完全 破裂
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O

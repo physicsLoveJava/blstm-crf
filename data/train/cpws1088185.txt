@@ -1,0 +1,6 @@
+原告 姚某 诉称 被告 婚前 缺乏 了解 感情 基础 薄弱
+B_Person O O O O O O O O O
+婚后 双方 交流 甚 少 无 共同语言 常 生活 琐事 发生 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 被告 殴打 起诉 离婚 后撤诉
+B_Time B_Person B_DomesticViolence B_DivorceLawsuit I_DivorceLawsuit B_Judgment

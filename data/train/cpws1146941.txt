@@ -1,0 +1,4 @@
+原告 何某 起诉 称 原 被告 ×××× 年××月 广东 打工 认识 后 确定 婚约 关系 2010年 11月 16日 登记 结婚 于×××× 年×× 月×× 日 生育 子 余 乙
+O O O O O O B_Time I_Time O O B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原、被告 性格 不合 常 琐事 争吵 被告 长期 外 务工 双方 分居 时间 长 仅 原告 人 在家 带 儿子 被告 还 常 怀疑 原告 外 有人 殴打 原告
+O O O O O O B_FamilyConflict O O O O O O O O O O O O O O B_Person O O O O O O B_DomesticViolence B_Person

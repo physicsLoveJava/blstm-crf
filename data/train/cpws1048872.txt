@@ -1,0 +1,4 @@
+原告林 某某 诉称 原 被告 经人介绍 相识 2010年 农历 8月 13日 举行 结婚 仪式 2011年 5月 31日 生育 子 刘某 甲 2012年 11月 19日 东明县 民政局 办理 结婚 登记 手续
+O O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+婚后 被告 脾气 暴躁 生活 琐事 殴打 原告 被告 父母 看见 不管
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

@@ -1,0 +1,4 @@
+婚后 生育 两 孩子 现 均 成年
+O B_Bear O O O O O
+婚前 缺乏 了解 被告 家庭 暴力 倾向 婚后 被告 殴打 原告 原告 曾 三 次 报警
+O O O B_Person O O O O O B_DomesticViolence B_Person O O O O O

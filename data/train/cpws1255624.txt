@@ -1,0 +1,4 @@
+原告 肖某 甲诉 称 肖某 甲 纪某 甲 1997年 经人介绍 认识 1998年 1月 5日 登记 结婚 婚后 生育 儿子 肖某 乙 二 人 婚前 认识 不久 结婚 感情 基础 不好 婚后 发现 双方 性格 差异 太 大 无 共同语言 纪某 甲 产后 忧郁症 患 上 精神 分裂症 久 治 不 愈 导致 夫妻 感情 破裂
+O O O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 夫妻 共同 财产 平均 分割
+O O B_Wealth I_Wealth O O

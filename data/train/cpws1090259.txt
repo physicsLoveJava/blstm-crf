@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 ×××× 年×× 月经 人 介绍 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 张某乙
+O O O O O B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+2010年 初 双方 经济 问题 发生 争吵
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 喝酒 2013年 3月 8日 晚上 喝 醉 酒 回家 后 无缘无故 殴打 原告
+B_BadHabit I_BadHabit O O O O O O O O O O B_DomesticViolence B_Person
+2013年 9月 5日 被告 双方 夫妻 感情 破裂 为由 海盐县 人民法院 起诉 要求 原告 离婚 后 撤回 起诉
+B_Time I_Time I_Time B_Person O O O O O B_Court I_Court O O I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment

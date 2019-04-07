@@ -1,0 +1,8 @@
+原告 周某 甲 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 婚后 于×××× 年×× 月×× 日 生育 儿子 周某 乙
+O O O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚姻 基础 差 婚姻 关系 存续 期间 原 被告 常 性格 不合 无故 生活 琐事 争吵 原告 精神 上 造成 伤害
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O
+为此 原告 心灰意冷 双方 夫妻 感情 已经 破裂
+O B_Person O O O O O O
+要求 判决 准予 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit O O O O

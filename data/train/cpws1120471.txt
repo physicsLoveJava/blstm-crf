@@ -1,0 +1,6 @@
+原告 季 某某 诉称 原告 被告 1995年 相识 轻信 被告 未婚 同居 1997年 生育 女 陈某甲
+O O O O O O B_Time B_Know O O O O B_Time B_Bear I_Gender B_Name
+1998年 9月 16日 原 被告 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 感情 双方 性格 不合 争吵 不 断 2009年 被告 争吵 原告 暴打 导致 夫妻 感情 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Person O B_Person B_DomesticViolence O O O O

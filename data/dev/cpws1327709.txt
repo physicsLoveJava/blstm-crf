@@ -1,0 +1,18 @@
+原告 余某 甲诉 称 原 被告 2003年 7月 经人介绍 相识 同年 登记 结婚 婚后 生育 两 女儿
+B_Person I_Person I_Person O O O B_Time I_Time O B_Know O B_Marry I_Marry O B_Bear O B_Gender
+婚后 不久 被告 粗暴 多疑 性情 显露
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O
+被告 不 孝敬 原告 父母 不 原告 孝敬 父母 原告 家人 关系 不好 曾 辱骂 菜刀 追 砍 原告 嫂子
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+被告 原告 野蛮 无理 张口 骂 抬 手 身为 村干部 怕 事情 扩大 村 中 造成 不良 影响 原告 只好 忍气吞声 不 招 惹 被告
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+被告 女儿 同样 粗暴 次 不 高兴 正在 吃 早餐 女儿 饭盒 打落 阻拦 女儿 不 上学 使 女儿 惊恐 伤心
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O
+被告 检查 原告 电话 凡是 不 熟悉 来电 都 过去 质询 对方
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 所作所为 严重 影响 原告 工作 生活 使 夫妻 感情 荡然无存 夫妻 关系 名存实亡
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+年 双方 没有 感情 语言 交流 没有 夫妻 生活 勉强 维持 婚姻 只能 增加 双方 痛苦 请求 法院 依法 判决 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+原告 称 被告 父母 不孝 嫂子 态度 粗暴 事实 不符 原告 达到 离婚 目的 捏造 事实
+O O O O O O O O B_Negated I_Negated O O O O O O

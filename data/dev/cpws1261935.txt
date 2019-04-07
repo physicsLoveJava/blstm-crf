@@ -1,0 +1,10 @@
+原告 罗 某某 诉称 2008年 原 被告 经人介绍 相识 后 恋爱 同年 3月 31日 自愿 办理 结婚 登记 手续
+O O O O B_Time O O O B_Know O B_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+婚前 缺乏 了解 婚后 未能 建立 夫妻 感情 双方 性格 不合 家庭 生活 琐事 发生 争吵 被告 前妻 假 离婚 原 被告 婚后 被告 前妻 一起 生活 原告 阻止 时 却 受到 被告 毒打 导致 原、被告 夫妻 感情 出现 裂痕
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O
+2011年 2月 原 被告 分居 生活 至今 已 2 年 造成 夫妻 感情 破裂
+B_Time I_Time O O B_Separation O O O O O O O O O
+被告 周 某某 辩称 原 被告 婚姻 基础 好 婚后 夫妻 感情 融洽 夫妻 感情 未 矛盾
+O O O O O O O O O O O O O O O O B_FamilyConflict
+原 告诉 称婚 后 被告 前 妻 黎 某某 一起 生活 不 事实 原 告诉 称 2011年 2月 原 被告 分居 生活 至今 不 事实 实际上 两 人 没有 分居 生活
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O

@@ -1,0 +1,12 @@
+原告 梁 某某 诉称 原 被告 经人介绍 1996年 11月 订婚 1997年 农历 11月 28日 举行 结婚 仪式 共同 生活 1998年 正月 补办 结婚 登记 2002年 8月 14日 生 男孩 取名 李某
+O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚前 被告 缺乏 了解 双方 性格 不合 无 共同语言 婚后 关系 不好
+O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O
+2007年 7月 生活 琐事 被告 弟弟 原告 进行 殴打 被告 不闻不问 无奈 原告 离家 外出 打工
+O O O O B_Person I_Person B_Person O B_DomesticViolence O O O O O O O
+2008年 孩子 原告 回家 被告 一起 生活 三 月 被告 原告 态度 无 改变 原告 离家 外出 被告 分居 生活 今
+B_Time O O O O O O O O O O O O O O O O O B_Separation O I_Time
+被告 李 某某 辩称 原告 述 婚姻 缔结 生育 孩子 情况 均 属实
+O O O O O O B_Marry I_Marry B_Bear I_Bear O O B_Negated
+原被告 了解 才 结婚 婚后 关系 融洽 被告 弟弟 没有 殴打 原告
+O O O O O O O B_Person I_Person B_DomesticViolence I_DomesticViolence B_Person

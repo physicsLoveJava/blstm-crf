@@ -1,0 +1,6 @@
+原告 李某 甲诉 称 原 被告 1999年 农历 11月 2日 结婚 办 结婚证 婚前 两 人 感情 不和 生气 吵架 被告 病 双方 2007年 抱养 女孩 原告 本来 想 被告 安生 过日子 被告 不 顺心 事 都 谩骂 原告 原告 不堪 忍受 年 双方 少 一起
+O O O O O O B_Time I_Time I_Time I_Time B_Marry O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O B_Person O O O O B_DomesticViolence B_Person O O O O O O O
+2013年 7月 20日 原 被告 琐事 生气 吵架 原告 遭 被告 谩骂 遂 外出 打工 躲避 被告 被告 原告 失踪 为名 打电话 威胁 辱骂 原告 母亲 近 亲属 。
+B_Time I_Time I_Time O O O B_FamilyConflict I_FamilyConflict B_Person O B_Person B_DomesticViolence O B_Separation I_Separation I_Separation I_Separation B_Person O O O O B_DomesticViolence I_DomesticViolence B_Person I_Person I_Person I_Person O
+上 原 被告 夫妻 感情 已 破裂 无法 共同 生活 提起 诉讼 请求 判决 原 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

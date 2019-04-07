@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 1998年 9月 经人介绍 认识 1999年 10月 2日 登记 结婚 2001年 12月 24日 生育 女儿 彭瑞琪
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 来往 少 婚后 感情 常 琐事 发生 矛盾
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 8月 双方 琐事 争吵 后 分居 生活 协商 离婚 未果
+B_Time I_Time O O O O B_Separation O O O O
+被告 辩称 双方 1998年 认识 感情 深厚 不 同意 离婚
+O O O B_Time B_Know O O O O O
+2013年 6月 24日 前 双方 未 分居 今年 暑期 原告 搬 居 去
+B_Time I_Time I_Time I_Time O O B_Separation B_Time I_Time O O O O

@@ -1,0 +1,8 @@
+原告 何某 甲诉 称 原 被告 1985年 相识 相恋 ×××× 年×× 月×× 日 诸暨市 安华镇 政府 登记 结婚 ×××× 年××月 生育 女儿 某丁
+O O O O O O B_Time B_Know B_BeInLove B_Time I_Time I_Time I_Time O O O O B_Marry B_Time I_Time B_Bear B_Gender I_Name
+婚后 夫妻 感情 后 双方 性格 不和 发生 争吵 夫妻 关系 逐渐 冷淡
+O O O O O O O O B_FamilyConflict O O O O
+2009年 9月 被告 离家 出走 双方 分居 今 夫妻 关系 名存实亡
+B_Time I_Time O O O O B_Separation I_Time O O O
+被告 张某 辩称 原 告诉 称 被告 2009年 离家 出走 双方 分居 至今 情况 不 事实
+O O O O O O O O O O O B_Separation O O B_Negated I_Negated

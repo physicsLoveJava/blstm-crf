@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 订婚 2010年 12月 13日 结婚 婚后 夫妻 感情 不和 原告 得病 后 被告 原告 不管 不 问 不尽 丈夫 责 导致 原告 病情 加重 神志 不 清 被告 不 治疗
+O O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 娘家 只好 治疗 花 去 医药费 数万 元 被告 不予 承担 卸 掉 包袱 被告 曾 2012年 7月 27日 提出 起诉 离婚 不 愿 承担 治疗费 后 撤诉
+O O O O O O O O O O O O O O O B_Person O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment

@@ -1,0 +1,2 @@
+原 被告 2017年 3月 15日 经人介绍 相识 2017年 3月 30日 宝坻区 婚姻 登记 部门 办理 结婚 登记 手续 原告 被告 均 系 二婚 被告 婚前 女儿 张雨晴 被告 生活 原告 2017年 3月 18号 付 被告 彩礼 31000 元
+O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry O B_Person B_Person O O B_Remarry O O O O O O O O O O O O O O O

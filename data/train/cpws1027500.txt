@@ -1,0 +1,4 @@
+原告 王 某某 诉称 原被告 2012年 1月 经人介绍 认识 2012年 11月 6日 登记 结婚 后 原告 过门 同居 生活 婚后 无 子女
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O B_Bear I_Bear
+原被告 年龄 小 婚前 没有 感情 基础 婚后 两 人 常 家庭 琐事 发生 争吵 导致 感情 破裂
+O O O O O O O O O O O O O O B_FamilyConflict O O O

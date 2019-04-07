@@ -1,0 +1,6 @@
+原告 徐某 诉称 原 被告 1994年 农历 8月 人 介绍 相识 订婚 1996年 3月 8日 领取 结婚证 1997年 4月 21日 生育 子 取名 王某甲
+O O O O O B_Time I_Time I_Time O O B_Know O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 双方 没有 建立 感情 基础 婚后 双方 性格 不合 双方 家庭 琐事 发生 争吵
+O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 农历 八月 双方 夫妻 感情 不 分居 今 夫妻 感情 已 彻底 破裂
+B_Time I_Time I_Time O O O O B_Separation O O O O O O

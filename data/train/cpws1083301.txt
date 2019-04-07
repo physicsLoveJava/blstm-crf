@@ -1,0 +1,8 @@
+原告 李 某某 诉称 被告 经人介绍 1997年 农历 11月 16日 举行 婚礼 后 补办 结婚证
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+1998年 11月 11日 生育 长子 王振 2001年 10月 1日 生育 次子 王志才
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 不务正业 家庭 孩子 不 不 问 导致 夫妻 感情 完全 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+曾 2012年 3月 15日 起诉 要求 离婚 法院 判决 不 准 离婚 后 分居 生活
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Separation O

@@ -1,0 +1,6 @@
+原 被告 1998年 12月 30日 经人介绍 结婚 2000年 10月 7日 生育 女 宋爽 2010年 6月 4日 感情 不 协议 离婚
+O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O
+2017年 2月 4日 亲属 劝说 双方 登记 结婚
+B_Time I_Time I_Time O O B_Person I_Remarry B_Marry
+共同 生活 后 发现 被告 私自 双方 共同 财产 转给 其父 原告 追问 此事 时 被告 称 迁移 户口 受到 父亲 百般 刁难 书写 放弃 财产 父亲 才 房证 使用 被告 只好 照办 原告 认为 被告 私自 处理 夫妻 双方 主要 财产 不 原告 协商 违背 夫妻 之间 诚实 信用 原则 伤害 夫妻 关系
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

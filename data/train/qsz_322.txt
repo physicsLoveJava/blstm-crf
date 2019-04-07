@@ -1,0 +1,8 @@
+h 原被告 2008年 秋天 经人介绍 相识 建立 恋爱 关系 2008年 月 日 双方 登记 结婚 原被告 婚前 柑识 时间 短
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O O O
+结婚 以后 家务 琐事 发生 矛盾 尤其 被告 尤事生非无故 辱骂 原告 原告 家庭 和睦 忍 再 忍 被告 却 不 思 悔改 2016年 12月 原告 起诉 离婚
+O O O O O B_FamilyConflict O O O B_FamilyConflict O O O O O O O O O O O O B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit
+被告 不 同意 离娇 原告 撤诉 原告 撤诉 后 双方 仍 尤法 好
+O O O O O B_Judgment O O O O O O O
+原被告 分居 牛活爷 今 造成 双方 感情 彻底 破裂
+O B_Separation O O O O O O O

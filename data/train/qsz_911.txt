@@ -1,0 +1,6 @@
+原告 被告 1996年 10月 4日 蓟州区 民政局 登记 结婚 1996年 8月 27日 被告 户口 结婚 黑龙江省 庆安市 久胜乡 久胜村 迁入 蓟州区 尤古庄镇 付家屯村
+O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O O O O O O O O
+婚后 被告 无 原告 长期 生活 打算 2008年 被告 未 通知 原告 情形 下 离家 出走 至今 长 达 10 年 久
+O O O O O O O B_Time O O O O O O B_Separation I_Separation O O O B_Duration I_Duration O
+没有 家庭 义务 致使 双方 感情 彻底 破裂 原告 无奈 贵院 提起 诉讼 望贵院 判如所请
+O O O O O O O O B_Person O B_Court B_DivorceLawsuit I_DivorceLawsuit O O

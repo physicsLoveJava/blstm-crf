@@ -1,0 +1,2 @@
+原告 起诉 称 原被告 2011年 9月 经人介绍 相识 2011年 10月 28日 登记 结婚
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry

@@ -1,0 +1,4 @@
+原 告诉 称 原被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 婚后 发现 性格 不合 无法 共同 生活 请求 离婚 原告 陪嫁 物品 原告 所有 诉讼 费用 被告 承担
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+被告 辩称 双方 感情 未 破裂 被告 不 同意 离婚
+O O O O I_Negated O O O O O

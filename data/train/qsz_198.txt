@@ -1,0 +1,8 @@
+原 被告 2008年 经人介绍 相识 建立 恋爱 关系 同年 4月 同居 2009年 11月 22日 生育 子 名叫 刘伟 今年 9 周岁 现 姥姥 生活 2014年 1月 23日 双方 补办 结婚 登记
+O O B_Time O B_Know O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age O O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+原 被告 结婚 时 感情 尚 时间 推移 发现 双方 感情 差异 大
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 不 家庭 赌博 有时 昼夜 不 嗜赌 成性 性情 强悍 原告 事实 家庭 暴力 造成 双方 感情 不和
+B_Person O O I_BadHabit O O O B_BadHabit I_BadHabit B_BadHabit I_BadHabit B_Person O B_DomesticViolence I_DomesticViolence O O O O
+2017年 8月 26日 孩子 开学 时 被告 未经 原告 同意 私自 婚生子 刘伟带 四川省 达州市 石桥镇 孩子 姥姥 家 居住 生活 上学 使 原告 儿子 不 见面 造成 双方 感情 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict

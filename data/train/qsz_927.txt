@@ -1,0 +1,12 @@
+原 被告 侯宝金 介绍 认识 1990年 9月 1日 登记 结婚 婚后 西焦庄 一起 生活
+O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O
+共同 生活 期间 双方 发现 脾气 秉性 各异 家庭 琐事 常 分歧 各行其是 不 统一 时间 延长 两 人 之间 早已 产牛 矛盾
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O O O O O O O
+特别 原告 不 接受 2015年 初
+O O O O B_Time I_Time
+原告 查出 患 宫颈癌 重病 后 被告 不但 不 关心 原告 病情 不 出 钱 不 治疗 弃 家 出走 王指挥村 居住 今
+O O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation O O I_Time
+治病 没有 钱 全 亲戚 朋友 已 欠 下 巨额 外债
+O O O O B_Person I_Person O O O B_Debt I_Debt
+被告 所作所为 夫妻 感情 原告 患病 以来 原 告 之间 已 分居 三 年 久 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O B_Separation B_Duration I_Duration O O O O O O

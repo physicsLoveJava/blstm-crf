@@ -1,0 +1,4 @@
+原 告诉 称 被告 经人介绍 相识 后 建立 恋爱 关系 2011年 2月 17日生 男孩 2011年 11月 9日 济阳县 民政局 登记 结婚
+O O O O O O O O O O B_Time I_Time B_Bear B_Gender B_Time I_Time I_Time O O O B_Marry
+被告 婚前 了解 不够 婚后 发现 两 人 性格 不合 没有 共同语言 夫妻 之间 无法 正常 沟通 两 人 吵闹 打架 被告 身体 伤 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person I_DomesticViolence I_DomesticViolence O O O O O

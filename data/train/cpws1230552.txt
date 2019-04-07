@@ -1,0 +1,4 @@
+原告 李某 诉称 2011年 10月份 原被告 认识 2012年 4月 20日 两 人 登记 结婚 门 同居 生活
+O O O I_Time I_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O O O
+两 人 婚前 缺乏 了解 婚后 才 发现 两 人 性格 不合 琐事 发生 争吵 2012年 6月份 原被告 分居 生活 至今 未能 和好 夫妻 感情 已 完全 破裂 特 贵院 提起 诉讼 请求 依法 判决 准予 原被告 离婚 财产 依法 分割 诉讼费 被告 承担
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict B_Time I_Time O B_Separation O B_Time O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O

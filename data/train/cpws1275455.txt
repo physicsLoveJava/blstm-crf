@@ -1,0 +1,8 @@
+原告 梁某 诉称 1993年 经人介绍 被告 建立 婚约 关系 婚后 生 两 儿子 1995年 11月 2日 办理 结婚 登记 手续
+O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+婚后 感情 差 被告 整日 无所事事 不 愿 劳动 没有 责任心 致使 家庭 生活 非常 困难 为此 整日 吵闹 次子 孟某 甲 出生 后 仍 不 改正
+O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O
+2012年 11月 便 回 娘家 生活 2013年 1月 依法 起诉 离婚
+B_Time I_Time O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+至此 夫妻 感情 已 彻底 破裂 起诉 要求 离婚 儿子 孟某 甲 抚养 依法 分割 家庭 财产
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

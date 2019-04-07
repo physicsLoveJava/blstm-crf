@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原 被告 双方 2008年 7月份 相识 2011年 2月 15日 临沂市 罗庄区 民政局 办理 结婚 登记 手续 后 共同 生活 2011年 4月 26日 生育 女孩 取名 杨某
+O O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry O O O O O O B_Bear O O O
+原 被告 双方 未 举行 结婚 仪式 双方 婚前 缺乏 了解 婚后 琐事 发生 吵闹 双方 无法 沟通 生活 没有 共同语言 婚后 未 建立 感情 基础 双方 感情 确 已 破裂 实 无 和好
+O O O B_Negated B_Marry I_Marry I_Marry O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+维护 原告 合法 权益 请求 法院 依法 调解 判 令 原 被告 离婚 婚生 女孩 杨某 原告 抚养 被告 支付 抚养费
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

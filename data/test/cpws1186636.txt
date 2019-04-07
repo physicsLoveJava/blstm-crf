@@ -1,0 +1,10 @@
+原告 张某 起诉 称 原 被告 2006年 月 某日 登记 结婚 2008年 月 某日 生育 大儿子 取名 孙 某某
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2012年 月 某日 生育 小儿子 取名 孙某 乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2011年 7月份 被告 曾 赌博 欠债 五十万 元
+O O O O O B_Debt B_Price I_Price
+被告 父母亲 曾 写 下 房屋 财产 赠与 书 表示 被告 仍 不 思悔改 愿意 位于 余姚市 凤山 街道 蜀山村 大河 21 号 三 层 楼房 赠 原告 两 孙子 孙 某某 孙某乙
+O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth O O O O O O O
+现 原告 发现 被告 仍 未 戒赌 原告 认为 原、被告 性格 不合 被告 缺乏 责任心 孝心 双方 夫妻 感情 已 完全 破裂 要求 法院 判 令 原 被告 离婚 婚生 儿子 孙 某某 孙某乙 被告 抚养 本案 案件 受理费 被告 负担
+O B_Person O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O

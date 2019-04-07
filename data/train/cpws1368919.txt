@@ -1,0 +1,14 @@
+原告 张某 诉称 邵 某某 2006年 10月 西安 打工 期间 认识 确定 恋爱 关系
+O O O O O B_Time I_Time O O O B_Know O B_BeInLove O
+2009年 8月 三原县 民政局 领取 结婚证
+B_Time I_Time O O O B_Marry
+双方 婚前 了解 不足 没有 建立 深厚 感情 基础 常 家庭 琐事 发生 矛盾
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+确实 无法 继续 生活 情况 下 2012年 7月 诉 三原县 人民法院 请求 邵 某某 离婚
+O O O O O O B_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O
+2013年 春节 前 邵 某某 找事 人 还 惊动 当地 派出所
+O O O B_Person I_Person I_DomesticViolence I_DomesticViolence O O O O
+长 时间 慎重 考虑 起诉 请求 人民法院 查清 事实 基础 上 予以 判决 离婚
+O O O O B_DivorceLawsuit O B_Court O O O O O O O
+双方 登记 结婚 前 谈 长 达 3 年 2007年 3月 咸阳 举行 婚礼
+O O O O O O O O O B_Time I_Time O O B_Marry

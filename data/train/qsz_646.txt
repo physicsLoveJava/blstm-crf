@@ -1,0 +1,4 @@
+原告 被告 2007年 登记 结婚 婚后 育 子 陈彦尧 现年 11 岁 双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见 为此 双方 2014年 6月 协议 离婚 后 双方 协商 考虑 孩子 2017年 12月 18日 复婚
+O O B_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+吵架 能够 好好 过日子 根本 不 原告 想像 人 还 争吵 矛盾 越来越 激化 更 谈 不 上 夫妻 感情 可言
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O

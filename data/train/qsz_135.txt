@@ -1,0 +1,10 @@
+原被告丁 2017年 冬天 人 介纠 相识 建立 恋爱 关系 双方 同居 活
+O B_Time I_Time O O B_Know O O O O O O
+原被告 均 系 再婚
+B_Person O O B_Remarry
+2018年 5月 3日 双方 登记 结婚
+B_Time I_Time I_Time O O B_Marry
+结婚 以后 齿 家务 琐事纶 牵常 发生 矛盾
+O O O B_FamilyConflict I_FamilyConflict O O O
+尤其 被告 酗酒 酗酒 后 无事生非 原告 争吵 打闹 原告 浑身 赴 伤
+O B_Person B_BadHabit O O O O O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence

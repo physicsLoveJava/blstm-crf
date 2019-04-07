@@ -1,0 +1,10 @@
+原被告 经人介绍 相识 2008年 9月 17日 举行 结婚 仪式 同居 生活
+O O B_Know B_Time I_Time I_Time O B_Marry O O O
+双方 2011年 1月 7日 登记 结婚
+O B_Time I_Time I_Time O B_Marry
+共 生育 子女 二 人 长子 冯嘉骏 2012年 8月 20日 生 长女 冯心然 2009年 2月 13日 生 原被告 结婚 后 家庭 琐事 发生 争吵 双方 婚姻 问题 协商 被告 要求 过分 双方 协议 未果
+O B_Bear O O O B_Gender B_Name B_Time I_Time I_Time O B_Gender B_Name B_Time I_Time I_Time O O O O O O O B_FamilyConflict O O O O O O B_FamilyConflict O O O
+2017年 5月
+B_Time I_Time
+被告 没有 回家
+O B_Separation I_Separation

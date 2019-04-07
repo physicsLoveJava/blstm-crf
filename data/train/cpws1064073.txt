@@ -1,0 +1,6 @@
+原告 杨某 诉称 1994年 10月 经人介绍 被告 相识 1995年 10月 22日 登记 结婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Negated B_Marry
+婚前 互不 了解 婚后 没有 建立 夫妻 感情 2001年 11月 始 分居 生活 今
+O O O O O O O O B_Time I_Time O B_Separation O I_Time
+2013年 4月 法院 提起 离婚 诉讼 后 被告 不 庭 撤回 起诉 撤诉 后 被告 关系 仍 未 改善 继续 分居 生活
+B_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment O O O O O O O O O O

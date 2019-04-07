@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 双方 登记 结婚 1994年 生育 男孩 取 名燕 某某
+O O O O O O B_Know O O B_Marry B_Time B_Bear I_Gender O B_Name I_Name
+原 被告 婚前 缺乏 了解 婚后 不久 吵架 考虑 孩子 原告 忍 再 忍 现 双方 婚姻 已经 名存实亡
+O O O O O O O B_FamilyConflict O O O O O O O O O O O
+结束 痛苦 婚姻 现 诉至法院 请求 依法 判决 原告 被告 离婚 依法 分割 夫妻 共同 财产
+O O O O B_DivorceLawsuit O O O O O O O O O O O

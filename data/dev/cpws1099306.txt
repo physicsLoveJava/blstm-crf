@@ -1,0 +1,16 @@
+原 告诉 称 原告 被告 不 彻底 了解 情况 下 2009年 4月 22日 登记 结婚
+B_Person I_Person O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2010年 5月 31日 婚生 双胞胎 女儿 分别 取名 袁某甲 袁某乙
+B_Time I_Time I_Time B_Bear O B_Gender O O B_Name B_Name
+被告 不 原告 怀孕 期间 只好 住 娘家 父母 照顾 直到 临近 产期 才 被告 母亲 接 回家
+B_Person I_BadHabit O O O O O O O O O O O O O O O O
+被告 赌博 行为 引起 双方 争吵 规劝 无 果
+O B_BadHabit I_BadHabit O O O O O O
+2011年 9月 原 被告 家庭 琐事 发生 争吵 中 被告 水果刀 原告 腿部 捅伤
+O O O O O O O O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+2012年 3月 5日 原告 脱离 恐惧 生活 离家 外出 打工 今
+B_Time I_Time I_Time O O O O O B_Separation I_Separation O
+现状 诉 法院 请求 判 令 解除 原 被告 婚姻 关系
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原告 述 不 符合 事实 被告 没有 赌博 行为 发生 争吵 双方 都 问题
+O O O O O O B_Negated B_BadHabit I_BadHabit O O O O O

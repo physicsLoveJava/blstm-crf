@@ -1,0 +1,20 @@
+原告 王某 甲 起诉 称 原 被告 经人介绍 相识 后 不久 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月××日 双方 生育 子 王某丙
+B_Time I_Time I_Time O B_Bear B_Gender B_Name
+双方 没有 深入 了解 情况 下 草率 结婚 双方 性格 脾气 上 存在 巨大 差异 婚后 双方 感情 出现 裂痕
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 考虑 子女 希望 被告 加强 沟通 培养 感情 挽回 婚姻 被告 我行我素 双方 无法 达成 共识 吵闹 双方 感情 越来越 淡
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+目前 原 被告 处于 分居 状态 已 达 二 年 久
+O O O O B_Separation O O O B_Duration I_Duration O
+2012年 6月 6日 原告 法院 提起 离婚 诉讼 法院 审理 后 判决 驳回 原告 诉讼 请求
+B_Time I_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+之后 双方 继续 处于 分居 状态 无 和好 迹象
+O O O O B_Separation O O O O
+起诉 请求 法院 判 令 准予 原 被告 离婚
+B_DivorceLawsuit O O O O O O O O
+银行 贷款 25万 元 负担
+B_Debt I_Debt I_Debt I_Debt O
+原告 外 打赌 行为 赚 钱 全部 都 输 掉 身体 不好 却 还要 赚钱 养 家
+B_Person O B_BadHabit O O O O O O O O O O O O O O

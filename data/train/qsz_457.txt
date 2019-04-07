@@ -1,0 +1,8 @@
+原 被告 2002年 自由 恋爱 同居 生活
+O O B_Time O B_BeInLove O O
+2003年 12月 9日 生育 长女 尹思蕊
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2006年 4月 29日 补办 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry O
+现 双方 已 分居 月 夫妻 感情 已 完全 破裂
+O O O B_Separation O O O O O O

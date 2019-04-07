@@ -1,0 +1,6 @@
+原告 韩 某某 诉称 2012年 8月 13日 原 被告 结婚 双方 感情 不和 性格 脾气 不适 常 琐事 生气
+O O O O B_Time I_Time I_Time O O B_Marry O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 婚后 未 培养 感情 尤其 次 生气 被告 离家 出走 至今 无 回
+O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation
+现 双方 感情 已 破裂 起诉 请求 离婚 婚前 财产 诉讼费 被告 承担
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Wealth I_Wealth O O O

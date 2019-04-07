@@ -1,0 +1,4 @@
+原 告诉 称 被告 杨清正 经人介绍 相识 年 后 1997年 2月 18日 镇安县 青铜关镇 政府 登记 结婚 1998年 3月 29日 生育 男孩 杨炉 2002年 7月 3日 生育 女孩 杨文静
+O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 性格 古怪 暴戾 大 男子 主义 非常 严重 不许 别人 说话 常 家务 琐事 争吵 动不动 殴打 遍体鳞伤 不 关心 体贴 病 不 医治 不尽 作 丈夫 责任 使 伤心 至极 便 离家 外出 打工 维持 生计 离家 期间 被告 常 打电话 威胁 死
+B_Person O O O O O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O

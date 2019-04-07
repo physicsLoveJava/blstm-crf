@@ -1,0 +1,16 @@
+经人介绍 双方 2015年 7月 相识 确定 恋爱 关系 N 年 I1 月 4日 登记 结婚
+O O B_Time I_Time B_Know O O O O O O O O O O
+2016年 6月 22 | 生育 女儿
+B_Time I_Time I_Time O B_Bear B_Gender
+原告 系 再婚
+B_Person O B_Remarry
+时间 推移 被告 好逸恶劳 本来面目 暴露
+O O B_Person B_BadHabit O O
+女儿 王迪 出生 后 九 月 双方 没有 夫妻 生活
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+期间 原告 发现 被告 身上 备 性药 发现 被告 钱包 里 格林 豪泰 大酒店 会员卡 两 次 住房 发票
+O O O B_Person O B_Derailed I_Derailed O O O O O O O O O O O O
+2017年 7月 31日 双方 发牛 纠纷 次日 原告 回到 娘家 居住 分居 今
+B_Time I_Time I_Time O O O O O B_Separation I_Separation I_Separation O I_Time
+原告 2017年 8月 25日 提起 离婚 诉讼 被告 不 同意 离婚 2017年 9月 21日 法院 作出 2017 津 01I15 民初 7645 号 民事 判决书 驳回 原告 诉讼 请求
+B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

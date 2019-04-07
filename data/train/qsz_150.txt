@@ -1,0 +1,14 @@
+原被告 1993年 秋 初 识
+O B_Time I_Time B_Know I_Know
+表面 看 人 还 老实 1994年 5月 7 口 双方 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry
+1996年 5月 19日 双方 生 子 男方 衣现 还 自私 双方 感情 尚
+B_Time I_Time I_Time O B_Bear I_Gender O O O O O O O
+女方 不 知情 情况 下 男方 面 作风 始终 不 检点 不断 周遭 女性 发牛 检点 性行为 原告
+O O O O O B_Person O O O O O O O O B_Derailed I_Derailed I_Derailed O
+双方 矛盾 时 离家 总是 说 暗指 相好 没有 钱 娶 被告 家庭 中 户 好恶 II 心 总明 指 暗指 相好 没有 钱 娶 两 人 婚姻 直 相好 阴影卜 维持
+O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+压 原告 嘴 不 气 被告 无动了衷 认为 家 容纳 一口热 朋友 小圈 相好 在内 之间 两性 行为 满址 f 原告 挣钱 还 账 养家 非常 艰辛 被告 却 有钱 玩牌 搞 女人 挣 少 抠 出 一部分 留 女人 一起 热乎 期间 被告 肖 女人 有着 不 捡 点 性行为 周然 相好 发展 通奸 H 个止 女人 发生 这种 不 正当 行为 多方 女性 不 问 断 轮流 发生 流氓 关系 米 伤害 摧残 原告 理由 原告 做 不 相互 原告 太 瘦 性感 不 新鲜 不 带来 刺激 满址 心 甜 原告 生活 上 关怀 温暖 希架 原告 辈 老妈子 挣钱 花 养 一辈子 温暖 鸟巢
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O O O B_Derailed I_Derailed O O O O O O O O O O B_Person O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O B_Derailed O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+儿子 原竹 忍气乔声 维持 支离破碎 婚姻 每天 汨洗血 牛活 直到 2017年 11月 原告 肖 无法 承受 忍受 被告 非人 待遇 彻底 被告 分开 分居 生活 直到 今天
+O O O O O O O O O O B_Time I_Time O O O O O O O O O O O B_Separation O O B_Time

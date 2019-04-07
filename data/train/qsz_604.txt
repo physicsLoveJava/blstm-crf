@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2014年 1月 8日 民政部门 登记 结婚
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+婚后 育 子 王宝岩
+O B_Bear B_Gender B_Name
+现年 5 岁 女王 雨茉 现年 3 岁
+O B_Age I_Age B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 无法 沟通 难以 达成 一致 意见
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_FamilyConflict O O O O O O

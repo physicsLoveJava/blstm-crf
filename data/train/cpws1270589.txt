@@ -1,0 +1,4 @@
+原告 钟某 诉称 2010年 初 原告 钟某 被告 卜某 相识 相恋 2010年 8月 16日 原告 钟某 被告 卜某 钦南区 民政局 登记处 办理 结婚 登记 手续
+O O O B_Time I_Time O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time O O O O O O O O B_Marry O O
+2012年 生育 女儿 钟 某某 婚后 双方 性格 不合 互不 信任 互不 谅解 家庭 琐事 发生 争吵 导致 双方 感情 不好
+B_Time B_Bear O B_Name I_Name B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

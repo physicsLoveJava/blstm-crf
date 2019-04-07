@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 双方 ×××× 年×× 月×× 日 结婚 长期 感情 不和 发生 矛盾 男方 家庭 暴力 倾向 次 原告 住院 双方 分居 已 六 年 有余 平时 家里 费用 原告 人 承担
+O O O O O O B_Time I_Time I_Time I_Time B_Marry O O O O O B_Person B_DomesticViolence I_DomesticViolence O O B_Person O O O O O O O O O O O O O

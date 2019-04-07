@@ -1,0 +1,16 @@
+原告 陈某 诉称 原 被告 1987年 人 介绍 相识 ×××× 年×× 月×× 日 登记 结婚 同年 11月 18日 生 儿子 陈学蛟 现 已 成年
+O O O O O B_Time O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_Age
+婚后 双方 性格 不 投 缺少 沟通 被告 做事 独断专行 自以为是 还 无中生有 胡乱 怀疑 原告 不 轨 行为 散布 不 实事实 双方 已 无 信任感 无法 共同 生活 长期 分居
+O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_Duration B_Separation
+为此 原告 2005年 10月 法院 起诉 离婚 法院 判决 不准 予 离婚
+O B_Person B_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+感情 恶化 原告 2006年 8月 法院 起诉 后 亲友 劝说 双方 缓和 机会 原告 撤回 起诉
+O O B_Person B_Time I_Time I_DivorceLawsuit I_DivorceLawsuit O O O O O O O B_Judgment I_Judgment
+双方 仍 未 改观 无法 再 共同 生活 原告 2013年 第三 次 法院 起诉 离婚 法院 认为 双方 好 判决 不 准 离婚
+O O O O O O O O B_Person B_Time O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment
+原 被告 双方 婚姻 期间 未能 建立 好 夫妻 感情 长期 存在 矛盾 长期 分居 夫妻 感情 确 已 破裂 无 和好 现 原告 第四 次 法院 提起 离婚 诉讼 请求 人民法院 依法 判决 原 被告 离婚 财产 依法 分割
+O O O O O O O O O O O O B_FamilyConflict O B_Separation O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Person O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+被告 张某 辩称 原告 三 次 法院 起诉 离婚 事实 双方 婚前 具备 牢固 感情 基础 婚后 共同 生活 年 使 双方 建立 深厚 感情 近 两 年 双方 还 正常 一起 共同 生活 一起 共同 处理 家庭 事务 平时 过节 原告 正常 回家
+O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+双方 产生 矛盾 根本 原因 双方 聚 少 原告 收入 增加 被告 年龄 越来越 大 原告 有所 嫌弃
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

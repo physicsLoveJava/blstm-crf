@@ -1,0 +1,8 @@
+被告 2008年 天津市 宝坻 温泉城 打工 时 相识 确立 恋爱 关系 2011年 农历 腊月 初 六 被告 举行 结婚 仪式 便 同居 生活 201 年 俩 办理 结婚 登记
+O B_Time O O O O O B_Know O B_BeInLove O O O O O O O O O O O O O B_Time I_Time O B_Marry I_Marry I_Marry
+婚后 未 生育 子女
+O O B_Bear B_Gender
+共同 生活 后 才 发现 被告 花钱 大手大脚 吃喝玩乐 不思进取 脾气 越来越 暴躁 俩 家庭 琐事 发生 吵 被告 实施 家庭 暴力 忍让 被告 不知 悔改 次 实在 忍无可忍 便 报警 求助
+O O O O O O O O O O O O O O O O O B_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O
+被告 赌博 恶习 欠 下 赌债
+B_Person B_BadHabit I_BadHabit O O O

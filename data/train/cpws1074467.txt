@@ -1,0 +1,4 @@
+原告 余某 诉称 原 被告 系 夫妻 关系 原告 2004年 1月 人 介绍 被告 相识 同居 月 后 双方 2004年 2月 23日 登记 结婚
+O O O O O O O O O B_Time I_Time O O O B_Know O O O O B_Time I_Time I_Time B_Negated B_Marry
+2008年 8月 30日 生育 女 取名 钟莫甲 现年 6 岁 上余镇 余航村 幼儿园 读书
+B_Time I_Time I_Time B_Bear I_Gender O B_Name O O O O O O O

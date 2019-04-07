@@ -1,0 +1,8 @@
+原告 杨 某某 诉称 原 被告 经人介绍 相识 1994年 12月 26日 登记 结婚 婚后 生育 两 男孩
+B_Person I_Person I_Person O O O O O B_Time I_Time I_Time O B_Marry O B_Bear O B_Gender
+婚前 缺乏 了解 婚后 常 脾气 性格 不合 生气 吵架 没有 建立 真正 夫妻 感情
+O O O O O O O O O B_FamilyConflict O O O O O
+2006年 生气 被告 分居 生活 今 夫妻 感情 已 完全 破裂
+B_Time O O B_Separation O I_Time O O O O O
+为此 法院 起诉 要求 被告 离婚 孩子 抚养 听从 法院 判决 财产 依法 分割
+O I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

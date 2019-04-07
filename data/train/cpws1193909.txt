@@ -1,0 +1,10 @@
+原 告诉 称 被告 2005年 8月 相识 确立 恋爱 关系 恋爱 期间 感情 好
+B_Person I_Person O O B_Time I_Time O O B_BeInLove O O O O O
+2006年 7月 11日 双方 登记 结婚
+B_Time I_Time I_Time O O B_Marry
+婚前 北京市 朝阳区 孙河乡 康营村 北 房 3 间 婚后 被告 建 南倒座 六 间 院内 封顶
+B_PersonalProperty O O O O B_Wealth I_Wealth I_Wealth I_Wealth B_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth O O
+被告 拆迁 后 不 回家 居住 被告 不管 不顾 现 原被告 分别 居住 两 套 房屋 内 感情 疏远 夫妻 感情 确 已 破裂 请求 法院 依法 判决 被告 离婚 判决 X 室 房屋 归我所有 X1 室 房屋 被告 所有
+O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+2012年 回迁 后 原告 态度 发生 变化 第三者 原谅 原告 愿意 维护 来之不易 幸福 生活 继续 原告 一同 生活
+O O O B_Person O O O B_Derailed O O O O O O O O O O O

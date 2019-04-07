@@ -1,0 +1,6 @@
+原被告 1992年 春大 相识 建立 恋爱 关系 婚前 感情 1993年 12月 15日 双方 登记 结婚 婚后 生育 女孩 高菲 已 成年
+O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name B_Age I_Age
+原被告 结婚 以后 家务 琐事 发生 矛盾 感情 出现 裂痕 尤其 近 年 以来 双方 矛盾 激化
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+双方 没有 共同 诉言 争吵 打闹 原告 无法 忍受 造成 双方 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O

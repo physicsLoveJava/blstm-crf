@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2011年 8月 16日 登记 结婚 婚后 2011年 10月 22日 生 男孩 取名 袁 政泽 现 原告 一起 生活
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O
+婚前 缺乏 了解 婚后 发现 性格 不合 琐事 争吵 2012年 3月 原 被告 琐事 吵架 原告 回 娘家 居住 分居 今
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O B_Separation O
+原告 曾 2012年 起诉 离婚 法院 作出 2012 晋东民 初字 第00117 号 民事 判决书 判决 原 被告 不 准 离婚 后 六 月 时间 后 双方 仍 不 好
+B_Person O B_Time B_DivorceLawsuit O B_Court O B_Time O O O O O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O

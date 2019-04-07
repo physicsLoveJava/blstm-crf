@@ -1,0 +1,6 @@
+原 被告 大学 期间 柑识 2008年 确立 恋爱 关系 2012年 12月 12日 登记 结婚
+O O B_Time I_Time B_Know B_Time O B_BeInLove O I_Time I_Time I_Time O B_Marry
+2014年 被告 回 天津 生活 二 人 处于 分居 状态 双方 联系 少
+B_Time O O O O O O O B_Separation O O O O
+双方 性格 不 电话 中 争吵
+O O O O O B_FamilyConflict

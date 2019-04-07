@@ -1,0 +1,8 @@
+原 告诉 称 被告 1998年 4月 27日 登记 结婚 婚后 无 子女
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O
+2006年 4月 被告 购买 烟台市 芝罘区 奇山 西街 69 号 内 19 号 房屋 父母 借款 30000 元 银行 贷款 70000 元 房产证 登记 被告 名下
+O O O O O O O O O O O O O O O B_Debt I_Debt I_Debt I_Debt I_Debt I_Debt I_Debt O O O O
+2011年 8月 始 被告 外地 做 生意 为由 不 住
+B_Time I_Time O O O O O O B_Separation I_Separation
+身体 至今 未 康复 生活 不 完全 自理 请求 判 令 被告 离婚 依法 分割 共同 财产 买房 借款 30000 元 治病 支付 医疗费 47428．50 元 应 双方 均 担
+O O O O O O O O O O O O O O O O O O B_Debt I_Debt I_Debt O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 黄 某某 诉称 原告 被告 2000年 3月 深圳 工厂 务工 时 相识 确立 恋爱 关系 2004年 6月 13日 生育 女儿 罗某 甲 2006年 4月 6日 新宁县 民政局 登记 结婚
+B_Person I_Person I_Person O O O B_Time I_Time O O O O B_Know O B_BeInLove O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O O B_Marry
+婚后 被告 赌博 恶习 欺骗 原告 家庭 不 负 责任 双方 无法 进行 沟通 请求 人民法院 判决 原 被告 离婚
+O B_Person B_BadHabit O B_FamilyConflict O O O O O O O O O B_DivorceLawsuit B_Court O O O O

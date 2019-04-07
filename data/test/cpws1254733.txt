@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 认识 后 确定 恋爱 关系 双方 2009年 当地 风俗 举行 婚礼 2009年 7月 17日 生育 大儿子 取名 朱世榜 2010年 12月 22日 生育 女孩 取名 朱秀香 2011年 12月 27日 生育 二 儿子 取名 朱世芳
+O O O O O B_Know O O B_BeInLove O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear O B_Gender O B_Name
+2013年 5月 7日 双方 民政部门 补办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+被告 不 懂 照顾 小孩 家庭 人 整天 都 辱骂 原告 父母 原告 父母 出 家门 不要 原告 父母 一起 生活 不 饭 原告 父母 吃 原告 父母 床 拆 掉 原告 手机 都 被告 砸烂 动不动 摔 杯子 邀 原告 去 离婚 现 被告 离家 出走 家里 全部 3万 元 都 拿走 被告 都 孩子 造成 坏 影响 被告 拒绝 抚养 小孩 赡养 父母 行为 已 严重 损害 家庭 成员 合法 权益 为此 现 夫妻 感情 已经 破裂 已 无 好 现 法院 起诉 请求 1 判决 解除 原 被告 婚姻 关系
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

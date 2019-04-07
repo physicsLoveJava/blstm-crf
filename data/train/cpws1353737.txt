@@ -1,0 +1,8 @@
+原告 陶 某某 诉称 原 被告 1997年 6月 人 介绍 相识 交往 三 年 后 2000年 7月 26日 登记 结婚
+O O O O O O B_Time I_Time O O B_Know O O O O B_Time I_Time I_Time O B_Marry
+生育 儿子 取名 汤 甲
+B_Bear B_Gender O B_Name I_Name
+生活 迫 原告 2008年 去 深圳 打工
+O O B_Person O O O O
+请求 人民法院 判 令 1 解除 原告 被告 婚姻 关系
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

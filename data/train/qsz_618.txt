@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 2000年 举行 结婚 仪式 同居 生活 2000年 12月 24日 生育 长女 张雨诺
+O O O B_Know B_Time O B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2001年 5月 8日 原 被告 办理 结婚 登记
+B_Time I_Time I_Time O O O B_Marry O
+2008年 5月 31日 生育 长子 张宇航
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚后 感情 不 睦 双方 长期 家庭 琐事 争吵 致 双方 感情 不和 现 双方 已 分房 居住
+O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O B_Separation I_Separation

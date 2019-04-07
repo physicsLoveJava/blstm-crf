@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2011年 7月 13日 登记 结婚
+O O O O O B_Time I_Time I_Time O B_Marry
+双方 性格 不合 家庭 琐事 发生 矛盾 导致 夫妻 感情 彻底 破裂 现 起诉 法院 请求 法院 判决 原被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

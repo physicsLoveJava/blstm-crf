@@ -1,0 +1,8 @@
+原告 袁某 诉称 被告 婚前 了解 不够 婚后 性格 不合常 争吵 相互 间 缺乏 信任 未能 建立 夫妻 感情
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2012年 9月 曾 诉请 离婚 后 撤回 起诉
+O O O B_DivorceLawsuit I_DivorceLawsuit O O O
+之后 仍 分居 生活 夫妻 关系 未 改善 已 无 和好
+O O B_Separation O O O O O O O O
+2012年 7月 原告 发 信息 再现 背判 家庭 婚姻 不忠 不道德 品性
+O O B_Person O O O B_Derailed I_Derailed I_Derailed I_Derailed O O

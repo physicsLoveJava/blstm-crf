@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2013年 11月 12日 民政部门 登记 结婚 婚后 育 女 杨馨怡 现年 4 岁
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+导致 婚后 矛盾 不 断 二 人 小事 发生 争吵
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 为此 商量 此事 还 钱 被告 根本 不 听 此事 二 人 争吵 感情 愈加 破裂 现 双方 已 分居 已 二 年 余 间 无 夫妻 义务 更 谈 不 上 感情 可言 综上 结束 不幸 婚姻 特诉 贵院
+O O O O O O O O O O O O O I_FamilyConflict O O O O O B_Separation I_Separation O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+原告 邓某 甲诉 称 原告 2005年 大学 毕业 后 只身一人 海南 工作 单位 结识 被告 不久 确立 恋爱 关系
+O O O O O B_Time O O O O O O O B_Know O O O B_BeInLove O
+2007年 8月 16日 缺乏 了解 基础 上 原 被告 登记 结婚 2011年 9月 29日 生育 男孩 庞某 乙
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 共同 财产 受 被告 控制 原告 目前 知悉 财产 包括 位于 海南省 洋浦 经济 开发区 港北路 南侧 普瑞华庭 第6 栋 第5 层 3 单元 XXX 房 套 银行 存款 45000 元 电动车 台 空调 台 电视机 台 洗衣机 台 冰箱 台 睡床 张
+O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+被告 婚姻 破裂 有着 重大 责任 请求 法院 照顾 女方 无 错方 原则 夫妻 共同 财产 依法 进行 分割
+O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O O O
+4 被告 喝酒 赌博 恶习 常常 醉 酒 赌博 夜 不 宿 孩子 成长 不利 原告 无 不良 嗜好 能够 保证 孩子 健康 良好 环境 之中 成长
+O B_Person O B_BadHabit O O B_BadHabit I_BadHabit O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O
+明知 婚姻 存续 期间 欠债 累累 没有 共同 财产 钱财 却 捏造 出 系列 动产 不动产 分割
+O O O O O O B_Negated B_Wealth I_Wealth O O O O O O O O

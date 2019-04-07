@@ -1,0 +1,4 @@
+原 被告 2001年 9月 12日 登记 结婚 婚后 生育 子 现 已经 成年
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O O B_Age
+原被告 婚前 了解 甚 少 婚后 感情 基础 薄弱 被告 2015年 11月 触犯 刑律 判处 有期徒刑 11 年 现 羁押 天津市 西青区 监狱 梨园 长泰 5监区 现 双方 感情 已经 彻底 破裂
+O O O O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O

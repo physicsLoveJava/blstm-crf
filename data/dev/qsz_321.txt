@@ -1,0 +1,12 @@
+原 被告 2010年 经人介绍 相识 随即 确定 恋爱 关系
+O O B_Time O B_Know O O B_BeInLove O
+2010年 9月 19日 办理 结婚 登记 11月 中旬 举办 结婚 仪式
+B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time B_Marry I_Marry I_Marry
+2012年 1月 31日 生育 女 取名 曹珈箕
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 初期 原被告 感情 尚 时间 推移 双方 琐事 发生 争吵 双方 婚前 建立 脆弱 感情 信任 长期 争吵 中 逐渐 转淡
+O O O O O O O O O O B_FamilyConflict O O O O O O B_FamilyConflict I_FamilyConflict O O O
+被告 更 胡乱 猜忌 侮辱 谩骂 原告 致使 原告 遭受 重大 伤害
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+原告 2017年 9月 起诉 贵院 要求 解除 被告 婚姻 关系 被告 不 同意 离婚 贵院 下发 民事 判决书 判决 双方 不准 离婚
+B_Person B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Court O B_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

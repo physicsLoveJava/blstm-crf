@@ -1,0 +1,14 @@
+原告 郑 某某 诉称 原 被告 2007年 农历 十二月 初 订婚 订婚 天 后 便 杞县 民政局 办理 结婚 登记 手续 2007年 农历 十二月 二十九日 农村 风俗 举行 结婚 仪式 后 同居 生活
+B_Person I_Person I_Person O O O O O O O O O O O O O O O B_Marry I_Marry I_Marry O O O O O O O O O O O O
+婚后 生育 两 子
+O B_Bear O B_Gender
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 发现 原、被告 性格 不合 被告 生性 懒散 无 家庭 观念 喝酒 赌博 屡教不改 酒后 无事生非 殴打 原告 砸 损 家中 物品
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O O O O B_BadHabit I_BadHabit O O O B_DomesticViolence B_Person O O O O
+被告 至今 仍 不思悔改 现 原 被告 已 分居 近 年 原告 已 实在 不 愿 继续 被告 生活 下去
+O O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O
+请求 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+共同 债权 15000 元 依法 分割
+O B_Debt B_Price I_Price O O
+被告 李 某某 辩称 原告 说 不 完全 属实 原 被告 平时 感情 好 被告 没有 殴打 原告 没有 侮辱 原告 被告 平常 喝 点 酒 下雨天 没 事 才 去 打会儿 牌
+O O O O O O B_Negated I_Negated I_Negated O O O O O O O O O O O O O O O O O O O O O O O O

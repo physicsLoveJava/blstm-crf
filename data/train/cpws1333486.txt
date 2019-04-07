@@ -1,0 +1,4 @@
+原告 闻某 起诉 称 原 被告 人 相识 恋爱 ×××× 年×× 月×× 日 登记 结婚 婚后 感情
+O O O O O O O B_Know B_BeInLove O O O O O B_Marry O O
+2012年 6月 天 琐事 被告 原告 母亲 发生 口角 之后 被告 回 娘家 今 期间 原告 家人 被告 娘家 请求 被告 回家 均 无 果
+B_Time I_Time O O O O O O O O O B_Separation I_Separation I_Time O O O O O O O O O O O

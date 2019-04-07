@@ -1,0 +1,12 @@
+原告 许某 起诉 称 原 被告 2004年 初 相识 后 确立 恋爱 关系
+O O O O O O B_Time I_Time B_Know O O O O
+恋爱 期间 原 被告 性格 不和 发生 争吵
+O O O O O O I_FamilyConflict I_FamilyConflict
+第三 次 怀孕 时 医生 告知 不宜 流产 原告 不得已 ×××× 年×× 月×× 日 生育 子 取名 毛某乙 双方 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time O I_Bear B_Gender B_Name O B_Time I_Time I_Time I_Time I_Time
+婚后 被告 不务正业 参与 赌博 还 时常 原告 恶言 威胁 索取 生活费
+I_Marry O B_Person I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2012年 6月 28日 晚 被告 原告 实施 家庭 暴力 致 原告 左耳 鼓膜 破裂 脸部 嘴唇 血肿 腹部 剧烈 疼痛 原告 身心 造成 严重 创伤
+I_BadHabit B_Time I_Time I_Time I_Time I_Time B_Person I_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O
+后 婚生子 毛某 乙 原告 抚养 被告 从未 支付 费用 抚育 照顾 原 被告 分期 居间 原告 不堪 被告 家人 吵扰 被迫 放弃 儿子 抚养 照顾
+O I_Separation O O O O O O O O O O O O O O O O O O O O O O O O

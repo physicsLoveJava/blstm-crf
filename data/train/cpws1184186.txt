@@ -1,0 +1,8 @@
+原告 吴某 诉称 原 被告 2003年 8月 相识 2004年 9月 22日 登记 结婚
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+2007年 4月 26日 生育 女孩 取名 刘 某某
+B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+婚后 发现 双方 性格 不合 被告 原告 不 信赖
+O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 娘家 经济 条件 不好 原告 婚前 已经 被告 说明 承担 娘家 生活 费用 被告 不 高兴 为此 发生 争吵 被告 行为 严重 上海 夫妻 感情 特 法院 起诉 要求 离婚
+B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

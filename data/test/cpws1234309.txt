@@ -1,0 +1,6 @@
+原告 何某 佳诉 称 原 被告 2011年 12月 人 介绍 相识 恋爱 不久 双方 同居 生活 怀 上 小孩 2012年 3月 15日 双方 婚姻 登记 机关 办理 结婚 登记 手续 同年 3月 27日 双方 农村 风俗 举行 结婚 典礼 结婚
+O O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time O O B_Know B_BeInLove O O O O O O O B_Time I_Time I_Time O O O O O B_Marry O O O O O O O O O O O O
+相识 时间 短 相互 了解 不够 结婚 后 被告 种种 恶习 暴露 被告 脾气 坏 从不 关心 体贴 原告 原 被告 赌气 争吵 被告 被告 母亲 同意 情况 下 原告 引产 小孩 还 坐月 期间 被告 原告 赶出 家门 致 原告 无家可归 原告 回家 换 洗 衣服 时 被告 母子 原告 遍体鳞伤 严重 伤害 原告 身心健康 致 夫妻 关系 无法 维系
+O O O O O O O O O O B_BadHabit O O O O O O O O O O O B_FamilyConflict O O O O O O O B_Bear O O O O O O O O O O O O O O O O O B_Person I_Person B_Person I_DomesticViolence O O O O O O O O O
+被告 杜某 波辩 称 原 被告 双方 感情 未 破裂 双方 婚姻 基础 好 原告 未经 被告 同意 小孩 引产 双方 才 产生 矛盾 坐 月 期间 被告 母亲 原告 关心 照料 原告 发脾气 被告 请 原告 父母亲 家 劝说 原告 不 听 没有 办法 情况 下 被告 才 原告 送 原告 二哥处
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O

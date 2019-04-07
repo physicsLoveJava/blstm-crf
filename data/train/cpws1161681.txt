@@ -1,0 +1,10 @@
+原告 王某 起诉 称 原 被告 2001年 月 某日 登记 结婚 2002年 月 某日 生育 女儿 吕 某某 现在 磕下 小学 读书
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+年 双方 发生 争吵 被告 殴打 原告
+O O B_FamilyConflict I_FamilyConflict O B_DomesticViolence I_DomesticViolence
+现 双方 矛盾 激化 夫妻 感情 彻底 破裂 已 无法 共同 生活
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+要求 依法 判决 准予 原 被告 离婚 女儿 吕 某某 被告 抚养
+B_DivorceLawsuit O O O O O O O O O O O
+原 被告 夫妻 双方 感情 好 争吵 没有 殴打 原告
+O O O O O O O O B_DomesticViolence O

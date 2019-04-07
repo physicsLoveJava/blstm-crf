@@ -1,0 +1,12 @@
+原 被告 2000年 经人介绍 柑识 随即 确定 恋爱 关系
+O O B_Time B_Know I_Know O B_BeInLove I_BeInLove I_BeInLove
+2001年 2月 26日 举行 结婚 仪式 2002年 6月 24日 办理 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry O
+2001年 11月 6日 生育 长子 取名 闫子斌 2009年 2月 29日 生育 次子 取名 闫子行
+B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 初期 原被告 感情 尚 时间 推移 原被告 双方 琐事 发生 争吵 双方 婚前 建立 脆弱 感情 信任 长期 争吵 中 逐渐 转淡
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+2016年 8月 被告 曾 起诉 原告 要求 解除 婚姻 关系 审理 过程 中 被告 撤诉
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment
+2017年 2.3月份 原告 起诉 要求 解除 双方 婚姻 关系 武清区 法院 判决 双方 不准 离婚
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court B_Judgment I_Judgment I_Judgment I_Judgment

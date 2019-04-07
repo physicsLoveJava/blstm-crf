@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2006年 6月 14日 龙江镇 登记 结婚 2007年 2月 9日 生 下 女儿 谭某甲 2012年 11月 22日 生 下 儿子 谭某乙
+O O O O O B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name
+双方 性格 不合 近 年 原被告 矛盾 不 断 小事 争吵 导致 夫妻 感情 破裂 无法 一起 共同 生活 下去 符合 婚姻法 离婚 法定 条件
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O

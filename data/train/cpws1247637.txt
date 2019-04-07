@@ -1,0 +1,2 @@
+原告 樊某 甲诉 称 婚后 双方 性格 不合 发生 吵 闹 关系 不好 2012年 10月 原告 发现 被告 不 忠实 夫妻 感情 越轨 行为 曾经 协商 离婚 双方 意见 不 统一 未能 达成 一致 协议 被告 2012年 11月 离家 外出 分居 生活 今 夫妻 感情 破裂 现 起诉 要求 被告 离婚
+O O O O O O O O O O O O O B_Time I_Time O O B_Person O O O O B_Derailed O O O O O O O O O O O O O B_Time I_Time O O B_Separation O O O O O O O O O O

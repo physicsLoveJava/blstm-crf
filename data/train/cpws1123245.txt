@@ -1,0 +1,10 @@
+原告 侯 某某 诉称 2012年 农历 8月 经人介绍 原、被告 认识
+O O O O B_Time I_Time I_Time O O B_Know
+双方 互不 了解 情况 下 2013年 1月 6日 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚后 双方 琐事 争吵 打架 自始 未能 建立 夫妻 感情
+O O O B_FamilyConflict I_FamilyConflict O O O O O
+婚前 被告 索要 彩礼 39760 元 要求 返还
+B_PersonalProperty O O B_Wealth O O O O
+婚后 夫妻 共同 财产 30000 元 要求 依法 分割
+B_CommonProperty O B_Wealth I_Wealth B_Price I_Price O O O

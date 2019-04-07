@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 相识 2007年 12月 25日 枣强县 民政局 登记 结婚 婚后 2013年 8月 生 女孩 裴 XX
+O O O O O O O B_Time I_Time I_Time O O O B_Marry O B_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 婚后 没有 建立 夫妻 感情 生活 琐事 争吵 原告 生 孩子 期间 还 原告 打架 被告 2013年 3月份 分居 今 请求 判 令 原 被告 离婚 婚生 女孩 原告 抚养 被告 每月 承担 抚养费 200 元 婚前 财产 个人所有 婚后 共同 财产 债务 依法 分割 诉讼费 被告 承担
+O O O O O O O O O O B_FamilyConflict O O O O O B_Person O O B_Time I_Time B_Separation I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+原被告 2012年 相识 2015年 6月 15日 办理 结婚 登记
+O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry
+双方 均 系 再婚 婚后 未 生育 子女
+B_Person O O B_Remarry O O O O
+婚前 缺乏 深入 了解 草率 结婚 婚后 感情 不 睦
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+琐事 发生 口角 双方 没有 共同语言 无法 正常 沟通
+I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 家庭 没有 责任感 不 赚 钱 养 家
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 曾 被告 好言相劝 希望 被告 珍惜 婚姻 双方 好好 沟通 好好 生活 被告 我行我素
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict

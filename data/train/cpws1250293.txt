@@ -1,0 +1,4 @@
+原告 李 某某 诉称 原 被告 2005年 2月 3日 历城区 民政局 登记 结婚 双方 均 系 再婚
+O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry B_Person O O B_Remarry
+婚后 双方 人生观 价值观 不同 性格 差别 大 一起 时 吵架 双方 难以 培养 感情 导致 双方 分居 已 达 三 年 久 原告 造成 精神 损害
+O O O O O O O O O O B_FamilyConflict O O O O O O B_Separation O O O O O O O O O

@@ -1,0 +1,4 @@
+双方 2011年 2月 17日 登记 结婚
+O B_Time I_Time I_Time O B_Marry
+婚前 缺乏 了解 性格 不合 感情 基础 不好 造成 感情 破裂 已经 分居 半 年 2012年 3月 1号 分居 今
+O O O O O O O O O O O O B_Separation B_Duration I_Duration B_Time I_Time I_Time O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2009年 12月 经人介绍 认识 2010年 2月 订婚 同年 3月 26日 举行 婚礼 2011年 12月 5日 补 办 结婚 登记
+O O O O O B_Time I_Time O B_Know O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+被告 辩称 原 被告 2010年 2月 订婚 同年 3月 26日 举行 婚礼 2011年 12月 5日 补 领 结婚证
+O O O O O O O O O O O O O O O B_Marry I_Marry I_Marry

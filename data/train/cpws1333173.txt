@@ -1,0 +1,8 @@
+原告 蒋某 诉称 ×××× 年×× 月××日 二人经 介绍 登记 结婚
+O O O B_Time I_Time I_Time O O B_Marry I_Marry
+2009年 11月 19日 二 人生 女儿 李某 乙
+B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name
+以下 共同 财产 6000 元 存款 被告 名下 电磁炉 台 电动 三轮车 辆
+O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth O O B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth
+原告 手里 共同 财产 儿童 电动车 辆
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth

@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 婚前 缺乏 了解 婚后 性格 不 合常 生气 吵架 婚后 未 建立 真正 夫妻 感情
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原告 被告 经人介绍 相识 ×××× 年×× 月××日 举行 结婚 仪式 ×××× 年×× 月××日 办理 结婚 登记 手续
+B_Person I_Person O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry O
+婚后 性格 不和 家庭 生活 琐事 发生 争吵 2013年 7月 30日 被告 眼部 成 黑眼圈 现 无法 共同 生活
+O O O O O O O O B_Time I_Time I_Time B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O

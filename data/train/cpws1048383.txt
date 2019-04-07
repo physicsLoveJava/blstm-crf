@@ -1,0 +1,6 @@
+原告 唐某 起诉 称 原 被告 2011年 7月 初 珍爱 网站 相识 2012年 7月 11日 登记 结婚 婚后 双方 未 共同 生活
+O O O O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O
+原 被告 登记 结婚 后 原告 全额 出资 购买 嘉兴市 好 第坊 3 幢 305室 房屋 产权 登记 被告 名下
+O O O O O O O O O I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O
+2013年 8月 15日 被告 公司 经营 需要 原告 筹借 20万 元 原告 经济 紧张 仍 朋友 借款 20万 元 满足 被告 需求 被告 立 下 字据 确保 今年 10月 底 前 归还
+O O O O O O O O O O O O O O O O B_Debt B_Price I_Price O O O O O O O O O O O O O

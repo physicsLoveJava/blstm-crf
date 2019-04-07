@@ -1,0 +1,4 @@
+原被告 系同村 村民 恋爱 后 2014年 8月 15日 办理 结婚 登记 同年 9月 21口 举行 结婚 仪式 后 生育 女王 怡迪 现年 3 周岁
+O O O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+原被告 结婚 初期 感情 尚 后 琐事 进行 争吵 被告 殴打 原告 威胁 恩吓 原告 原告 带米 极 人 身体 伤害 精神 伤害 双方 家长 被告 进行 劝导 均 无效 原被告 双方 夫妻 感情 彻底 破裂 尤 好 协商 尤果 原 告诉 贵院
+O O O O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O

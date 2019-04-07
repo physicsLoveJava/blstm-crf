@@ -1,0 +1,6 @@
+黄 某某 诉称 原 被告 1988年 经人介绍 父母 包办 农村 风俗 结婚 未 领 结婚证 婚生 女耿 某乙 耿某丙 现 已 成年 婚后 双方 性格 不合 吵 被告 单独 外 打工 常年 无 分文 回家 不顾 原告 女儿 生活
+O O O O O B_Time O O O O O B_Marry O O O B_Bear B_Gender B_Name B_Name O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+2012年 2月 始 原 被告 已 分居 生活 今
+I_Time I_Time I_Time O O O B_Separation O I_Time
+2012年 2月 始 原 被告 已 分居 生活 今
+O O O O O O B_Separation O O

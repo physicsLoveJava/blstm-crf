@@ -1,0 +1,6 @@
+原告 赵 某某 诉称 原被告系 2011年 相识 自由 恋爱 2012年 12月 12日 邹平县 民政局 登记 结婚
+O O O O O B_Time B_Know B_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry
+原被告 婚前 缺乏 了解 婚后 双方 脾气 性格 不合 被告 无故 不 上班 原告 撒谎 还 动手 原告 特别 原告 怀孕 期间 被告 不但 不 照顾 怀孕 原告 还 原告 索要 钱 花 原告 无法 理解 更 伤 透 心 已 根本 无法 被告 共同 继续 生活 下去
+O O O O O O O O O B_Person O O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+请求 人民法院 依法 判 令 原被告 离婚 诉讼费 被告 承担
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

@@ -1,0 +1,6 @@
+原告 肖某 诉称 2010年 初 原 被告 经人介绍 认识 同年 5月 25日 登记 结婚 2011年 6月 23日 生育 男孩 肖智文
+O O O B_Time I_Time O O B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 搬 回 娘家 居住 原告 去 被告 娘家 却 遭到 冷遇 口角 争 由此 双方 沟通 交流 渐 少
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 已 实际 分居 两 年
+O O O B_Separation B_Duration I_Duration

@@ -1,0 +1,10 @@
+原告 被告系 经人介绍 相互 认识 后 2013年 3月 22日 登记 结婚
+O O O B_Know I_Know O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2013年 9月 22日 生 男孩 英文 赫 现在 被告 处 生活
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+原告 被告 婚前 感情 基础 不 牢固 原告 被告 结婚 系 再婚
+O O O O O O O I_Person B_Person O O B_Remarry
+原告 被告 婚后 生活 琐事 生气 吵架 婚后 2014年 11月 16日 原告 患病 脊髓炎 住院 治疗 2015年 9月 6日 患病 住院 治疗 原告 住院 治疗 期间 被告 不 原告 出 钱 治病 不 照顾 原告 原告 回 娘家 养病 原告 母亲 四处 借债 达 10万 元 现 原告 病 依然 需要 吃 药 维持
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O B_Debt O B_Price I_Price O O O O O O O O
+原告 现状 被告 不 出 钱 不 照顾 2016年 10月 27日 起诉 原告 离婚 原告 不 同意 离婚 被告 离婚 诉 驳回
+O O B_Person O O O O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment

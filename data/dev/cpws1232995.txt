@@ -1,0 +1,16 @@
+原告 兰某 甲诉 称 1997年 原告 经人介绍 被告 陈某 相识 谈婚
+O O O O B_Time O O O O B_Know I_Know
+被告 ××××年 2月 18日 农村 风俗 原告 家 双方 ×××× 年×× 月××日 乡 民政所 办理 结婚 登记
+O O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+婚后 双方 ×××× 年×× 月×× 日 生 女孩 兰某 乙 于×××× 年×× 月×× 日生 男孩 兰某丙
+O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+2008年 后 夫妻 感情 发生 变化 家庭 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+2008年 农历 五月 初五 被告 私自 离家 出走 现有 五 年 久
+B_Time I_Time I_Time I_Time O O B_Separation I_Separation O B_Time I_Time I_Time
+综 上 原 被告 夫妻 感情 已 彻底 破裂 原告 特 法院 提起 诉讼 请求 依法 判 准 原告 被告 离婚
+O O O O O O O O O B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+答辩 人 外出 离家 出走 进 厂 务工 偿还 债务
+O O O I_Separation I_Separation O O O O O
+建房 时 原告 答辩 人 欠债 偿还 债务 答辩 人 下 广东省 务工 还债
+O O B_Person I_Person I_Person O O B_Debt O O O O O O

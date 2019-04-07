@@ -1,0 +1,6 @@
+原告 李 某某 诉称 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚前 缺乏 了解 婚后 未 建立 感情 双方 生活 琐事 发生 矛盾 冲突
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 性格 不和 夫妻 感情 确 已 破裂 请求 判 令 原 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

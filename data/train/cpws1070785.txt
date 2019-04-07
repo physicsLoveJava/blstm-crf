@@ -1,0 +1,8 @@
+原告 卿某 甲诉 称 原 被告 1992年 底 经人介绍 相识 恋爱 1995年 9月 13日 登记 结婚 1996年 9月 9日 生育 女卿 某乙
+O O O O O O B_Time O O B_Know I_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name
+婚前 双方 感情 婚后 双方 性格 不合 吵嘴 打架 夫妻 感情 已 彻底 破裂 协议 离婚 无 果
+O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O
+诉至法院 请求 依法 解除 原 被告 婚姻 关系 确定 婚生 女卿 某乙 抚养权 合理 分割 夫妻 共同 财产 小青瓦房 3 间 瓦房 120 平方米 东风 雪铁龙 小车 辆
+O O O O O O O O O O O O O O O O B_Wealth I_Wealth B_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price I_Price
+原 被告 夫妻 共同 生活 中 挣 财产 200万 元 不 只 原告 诉状 中 列出 原告 双方 共同 挣 钱 陕西 去 养鱼
+O O O O O O O B_Wealth B_Price I_Price O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原 被告 系 自由 恋爱 2014年 8月 农村 习俗 举行 结婚 仪式 共同 生活 2016年 8月 8日 补办 结婚 登记
+O O O O B_BeInLove B_Time I_Time O O B_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2015年 2月 生育 男 取名 席渤懿 现年 3 岁
+B_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age
+婚前 了解 少 婚后 双方 发现 感情 不 投 生气 吵架 被告 关系 暧味
+O O O O O O O O O I_FamilyConflict I_FamilyConflict B_Person I_Derailed I_Derailed
+2016年 年底 被告 离家 出走 至今 未
+B_Time I_Time B_Separation I_Separation I_Separation B_Time O
+原告 2017年 1月 诉 贵院 请求 判 准 离婚 贵院 天津市 蓟州区 人民法院 2017 津0119 民 初 273 号 民事 裁定书 准许 原告 撤诉
+B_Person B_Time I_Time B_DivorceLawsuit O O O O O O B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment

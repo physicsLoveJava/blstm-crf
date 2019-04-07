@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2009年 9月 3日 登记 结婚 无婚生 子女
+O O O O O B_Time I_Time I_Time O B_Marry B_Bear B_Gender
+婚后 夫妻 感情 后 家庭 琐事 发生 口角 被告 脾气 不好 一点 小事 大 发雷霆 还 动手 导致 婚姻 感情 破裂 要求 法院 判 令 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O B_DomesticViolence O O O O O O O O O O

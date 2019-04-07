@@ -1,0 +1,8 @@
+原告 钱 某某 诉称 原 被告 同学 关系 后 发展 恋爱 关系 1996年 订婚 1997年 农村 习俗 举办 婚礼 1997年 8月 25日 补 办 结婚 登记
+O O O O O O O O O O B_BeInLove O O O B_Time O O O B_Marry B_Time I_Time I_Time O O B_Marry I_Marry
+1996年 12月 12日 生育 儿子
+B_Time I_Time I_Time B_Bear B_Gender
+婚后 性格 差异 双方 常 琐事 争执 被告 还 常常 殴打 虐待 原告 影响 夫妻 感情 2010年 被告 夫妻 感情 确 已 破裂 法院 起诉 离婚 后撤诉
+O O O O O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O B_Time B_Person O O O O O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment
+2011年 原告 被迫 携子 外出 打工 双方 实际 分居 今
+B_Time O O O O O O O B_Separation I_Time

@@ -1,0 +1,6 @@
+原告 孟某 诉称 2007年 初 原被告 经人介绍 认识 2008年 3月 10日 登记 结婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry
+原被告 均 系 再婚 双方 未 建立 夫妻 感情 被告 认钱 不 认 人 原告 争 房产 挟 原告 签订 不 争 房产 租赁费 合同 原告 想 曾 段 痛苦 婚姻 千方百计 忍让 被告 种种 无理 要求 维护 好 家 被告 行为 确实 原告 痛苦 不堪
+B_Person O O B_Remarry O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012年 10月 22日 原告 法院 起诉 离婚 法院 判决 不 准 离婚
+B_Time I_Time I_Time O B_Court O B_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

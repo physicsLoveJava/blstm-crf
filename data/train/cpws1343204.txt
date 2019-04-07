@@ -1,0 +1,6 @@
+原告 陈某 诉称 原 被告 经人介绍 相识 1996年 10月 3日 登记 结婚 婚后 生育 子 女
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Gender
+被告 赌博 恶习 原告 家人 劝导 仍 不 思悔改 现 夫妻 感情 已 彻底 破裂 原告 诉至法院 请求 依法 判 令 原 被告 双方 离婚 婚生 子女 原告 抚养 教育 被告 依法 支付 抚养 教育费
+B_Person B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 施某 辩称 原告 诉状 中 陈述 登记 结婚 生育 子女 情况 属实 原 告诉 称 赌博 恶习 属于 无稽之谈 原告 家庭 关心 赌博 行为
+O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit O O O O O O O

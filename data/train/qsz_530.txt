@@ -1,0 +1,6 @@
+原被告 1998年 自由 相识 逐渐 确立 恋爱 关系 1999年 举行 婚礼 后 共同 生活 2001年 12月 30日 生育 儿子 彭帅 原被告 均 系 再婚
+O B_Time O O O O B_BeInLove O B_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Remarry
+原被告 家庭 琐事 发生 矛盾 争吵 逐渐 导致 夫妻 感情 彻底 破裂
+O O O O B_FamilyConflict B_FamilyConflict O O O O O O
+2015年 5月份 被告 主动 找到 原告 要求 复婚 2015年 5月 7日 原被告 宝坻区 民政局 办理 结婚 登记 原被告 没有 共同 生活 拆迁 事宜 办理 结束 后
+O O B_Person O O B_Person O B_Remarry B_Time I_Time I_Time O O O O B_Marry O O B_Separation I_Separation I_Separation O O O O O

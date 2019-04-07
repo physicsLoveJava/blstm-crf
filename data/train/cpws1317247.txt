@@ -1,0 +1,6 @@
+原告 吴某 甲诉 称 被告 1991年 结婚 1992年 12月 14日 生育 儿子 取名 吴 某乙 2003年 2月 23日 生育 女儿 取名 吴某丙
+B_Person I_Person I_Person B_DivorceLawsuit O B_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 不 赡养 父母 还 长期 侮辱 被告 家庭 不 负 责任 子女 不尽 义务
+O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 长期 争吵 有时候 忍耐 不 住 使用 暴力 期待 被告 有所 改变 无论是 善待 暴力 都 不 被告 改变
+B_Person O B_FamilyConflict O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O

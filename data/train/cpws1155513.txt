@@ -1,0 +1,4 @@
+原 告诉 称 2009年 12月 原 被告 经人介绍 相识 2010年 1月 12日 登记 结婚 婚后 2011年 3月 30日 生 儿子 高某甲
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 一贯 自作 主张 双方 性格 不合 争吵 矛盾 尖锐
+O O O O O O O O B_FamilyConflict O O

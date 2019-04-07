@@ -1,0 +1,6 @@
+原 告诉 称 2007年 12月 原被告 经人介绍 订婚 2009年 1月 9日 政府 登记 结婚 2011年 9月 3日 生育 女儿 李某 乙
+O O O O O O O O B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 双方 了解 甚 少 没有 感情 基础 婚后 二 人 性格 差异 大 发生 争执 2012年 春节 后 分居 生活 今 导致 夫妻 感情 彻底 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_Separation O I_Time O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 辩称 2003年 10月 原被告 鄄城 立人 学校 学生 相识 六七 年 交往 二 人 了解 深 建立 良好 婚姻 感情 基础
+O O B_Time I_Time O O O O O B_Know O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

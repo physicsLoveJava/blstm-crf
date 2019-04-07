@@ -1,0 +1,4 @@
+2017年 3月 24日 双方 西青区 民政局 登记 结婚 原告 当天 被告 陪同 下 鑫奕 地产 缴纳 房屋 中介费 2.28万 元
+B_Time I_Time I_Time O O O O B_Marry O O O O O O O O O O O O
+被告 曾经 法院 提起 离婚 诉讼 诉讼 中 达成 协议 约定 去 婚姻 登记 机关 离婚 登记 撤诉
+B_Person O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O

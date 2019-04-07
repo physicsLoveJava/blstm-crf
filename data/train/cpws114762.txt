@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 婚后 于×××× 年×× 月××日生 女孩 取名 孙某甲
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚前 缺少 了解 婚后 性格 不合 家庭 琐事 争吵 导致 夫妻 感情 彻底 破裂
+O O O O O O O O O O B_FamilyConflict O O O O O

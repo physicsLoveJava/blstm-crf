@@ -1,0 +1,4 @@
+原告 黄某 诉称 被告 刘某 系 经人介绍 恋爱 婚后 生育 小孩
+B_Person O O O O O O O O B_Bear O
+后 双方 性格 不合 家庭 琐事 吵闹 打架 导致 夫妻 感情 已 完全 破裂 请求 法院 判 令 准许 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,4 @@
+原告 张 某某 诉称 原 被告 2006年 5月 1日 登记 结婚 婚后 生育 两 子女
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear O B_Gender
+婚后 双方 感情 原 被告 常 家庭 琐事 发生 纠纷 致使 原 被告 夫妻 感情 彻底 破裂 请求 法院 判决 准予 原 被告 离婚
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit O O O O O O

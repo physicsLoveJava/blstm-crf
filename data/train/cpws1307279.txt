@@ -1,0 +1,8 @@
+原告 张 某某 诉称 原 被告 媒人 介绍 1999年 结婚 依法 办理 婚姻 登记 手续
+O O O O O O O O B_Time B_Marry O O O O O
+2000年 生 女孩 李某 男孩 李某 甲
+B_Time B_Bear B_Gender B_Name B_Gender B_Name I_Name
+婚后 双方 家庭 琐事 吵架 生气 被告 打骂 原告 导致 双方 感情 不和 原告 2003年 离家 出走 今 被告 分居 生活
+O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person O O B_FamilyConflict I_FamilyConflict O B_Time O O O O B_Separation O
+要求 1 依法 判 令 原 被告 双方 离婚
+O O O O O O O O B_DivorceLawsuit

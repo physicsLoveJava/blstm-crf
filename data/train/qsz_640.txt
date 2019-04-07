@@ -1,0 +1,6 @@
+原告 被告 2013年 8月 30日 登记 结婚 婚后 育 女 刘佳
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name
+现年 6 岁
+O B_Age I_Age
+二 人 小事 发生 争吵 被告 不尽 家庭 义务
+O O O O B_FamilyConflict B_Person B_BadHabit I_BadHabit I_BadHabit

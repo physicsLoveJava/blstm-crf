@@ -1,0 +1,4 @@
+2017年 年底 原 被告 东浦洼街 敬老院 相识 建立 恋爱 关系 2018年 2月 23日 双方 登记 结婚 双方 婚前 相识 短 双方 没有 深入 了解 未 建立 深厚 感情 基础
+B_Time I_Time O O O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O
+办理 结婚 登记 后 双方 未 办理 结婚 仪式 未 同居 生活 被告 登记 结婚 后 回 老家 生活 今 双方 没有 感情 基础 双方 登记 后 分居 生活 造成 双方 感情 彻底 破裂
+O O O O O O O O O O O O O O O O O O O B_Time O O O O O O O B_Separation O O O O O O

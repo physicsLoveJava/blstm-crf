@@ -1,0 +1,20 @@
+原 告诉 称 原 被告 1992年 6月份 经人介绍 相识 1993年 12月 26日 办理 结婚 登记 手续
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原 被告 双方 婚前 相识 时间 短 缺乏 感情 基础 婚后 双方 性格 不合 常 家庭 琐事 发生 纠纷
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+严重 被告 婚后 原告 长期 虐待 打骂 使 原告 精神 上 身体 上 受到 大 伤害 夫妻 感情 已经 破裂 原告 被告 进行 两 次 起诉
+O B_Person O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O B_Person O O O O O
+2011年 3月 10日 双方 分居 今 认为 双方 夫妻 感情 已 彻底 破裂 要求 被告 离婚
+B_Time I_Time I_Time O B_Separation O O O O O O O O O O O
+2007年 5月 14日 武邑县 法院 起诉 离婚 2007年 8月 8日 武邑县 法院 判决 不 准 离婚
+B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O O B_Judgment I_Judgment O
+桃城区 法院 起诉 离婚 时间 2011年 3月 16日 桃城区 法院 2011年 8月 25日 判决 不 准 离婚
+B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O O B_Time I_Time I_Time O B_Judgment I_Judgment O
+围绕 本案 焦点 原告 述称 婚后 1995年 2月 12日 生育 长女 周 某某 2006年 5月 3日 生育 次 女 周某 乙 次女 2010年 农历 11月 13日 死亡
+O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name O O O O O O
+周 某某 现在 秦皇岛 上 大学 年级 现 已 满 18 周岁
+O O O O O O O O O O B_Age I_Age
+围绕 本案 第三 焦点 原告 述称 存款 10万 元 日常 生活 用品 价值 2万 元 放弃 分割 夫妻 共同 财产
+O O O O O O B_Wealth B_Price I_Price B_Wealth I_Wealth I_Wealth O B_Price I_Price O O O B_CommonProperty I_CommonProperty
+夫妻 共同 债务 抑郁症 8万 元 债务 要求 原告 担负 夫妻 共同 债务 6万 元
+O O O O B_Price I_Price B_Debt O O O O O O O O

@@ -1,0 +1,4 @@
+原告 周某 诉称 2012年 8月 13日 原被告 办理 结婚 登记 手续 9月 1日 举行 结婚 仪式 婚前 缺乏 了解 婚后 没 建立 夫妻 感情 生活 琐事 闹 别扭 2013年 1月 分居 今
+O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation O
+被告 曾 提出 离婚 达 目的 强迫 原告 签 下 流产 协议
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,14 @@
+原被告 经人介绍 相识 双方 1987年 11月 10日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 生育 子 孙洪雄 现 该子 已经 独立 生活
+O O B_Bear B_Gender B_Name O O O O O
+婚后 双方 感情 尚 家庭 琐事 发生 矛盾
+O O O O O O O B_FamilyConflict
+2016年 12月份 双方 发生 矛盾 双方 分居 今
+B_Time I_Time O O O O B_Separation I_Time
+2017年 1月份 被告 法院 提出 离婚 诉讼
+B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit
+当时 原告 不 同意 离婚 贵院 审理 后 下发 2017 津0115 民 初 484 号 民事 判决书 判决 驳回 被告 离婚 诉讼 请求
+O O O O O O O O O O O O O O O O O O B_Judgment O O O O
+2018年 1月 26日 原告 贵院 提起 离婚 诉讼 被告 不 同意 离婚 贵院 下发 2018 津0115 民 初 1198 号 民事 判决书 驳回 原告 离婚 诉讼
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O B_Judgment O O O

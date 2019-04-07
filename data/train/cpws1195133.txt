@@ -1,0 +1,4 @@
+原告 高 某某 诉称 原 被告 2005年 1月 12日 办理 结婚 登记 婚后 生育 两 子女 长女 高某 甲 2005年 7月 23日 出生 长子 高某 乙 2011年 7月 16日 出生
+O O O O O O B_Time I_Time I_Time O B_Marry O O B_Bear O O B_Gender B_Name I_Name B_Time I_Time I_Time O B_Gender B_Name I_Name B_Time I_Time I_Time O
+双方 婚后 性格 不合 吵架 曾 去 民政局 办理 离婚 被告 不辞而别 便 没有 成
+O O O O I_FamilyConflict O O O O O O O O O O

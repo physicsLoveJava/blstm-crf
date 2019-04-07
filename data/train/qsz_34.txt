@@ -1,0 +1,10 @@
+双方 1988年 结婚 婚后 育 两 女儿 分别 29 岁 26 岁
+O B_Time B_Marry O B_Bear O B_Gender O B_Age I_Age B_Age I_Age
+被告 年 强势 控制 家里 生活 来源
+B_Person O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+导致 原告 病 无 钱 吃 药 没有 生活 来源 退休 前 原告 无 工作 2012年 冬季 六 年 前 原告 睡觉 舞 遭到 被告 呵斥 原告 身体 不好 不 安静 环境 养病 只得 离家 住 山西 路 184 号 院内 间 违 建 里 今
+O O O O O O O O O O O O O O O B_Time I_Time O O O O O O O O O O O O O O O O O O I_Separation O O O O O O O O O I_Time
+原告 请求 继续 承租 山西 路 184 号 住房 解决 居住 困难
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+原告 认为 双方 分居 已经 长 达 六 年 感情 确 已 破裂 双方 婚姻 早 名存实亡
+O O O B_Separation O B_Duration I_Duration I_Duration I_Duration O O O O O O O O

@@ -1,0 +1,6 @@
+原告仪 某某 诉称 原告 被告 2013年 郓城县 民政局 登记 结婚
+O O O O O B_Time O O O B_Marry
+原告 婚前 生 女孩 婚后 无 子女 均 属 再婚
+O O O O O O O O O B_Remarry
+婚后 发现 双方 性格 脾气 根本 不 无 共同语言 发生 争吵 夫妻 感情 达到 破裂 程度 无 好 原告 早 厌恶 这种 痛苦 婚姻 无法 共同 生活 要求 被告 离婚 抚养 孩子 诉讼费 被告 承担
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O

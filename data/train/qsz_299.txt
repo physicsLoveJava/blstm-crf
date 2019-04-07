@@ -1,0 +1,4 @@
+原被告 2011年 登记 结婚 原被告 均 系 再婚
+O B_Time B_Marry I_Marry B_Person O O B_Remarry
+被告 结婚 后 性格 不同 没有 共同语音 之间 时常 争吵 打架 感情 不和
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

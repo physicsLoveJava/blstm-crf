@@ -1,0 +1,8 @@
+原告 甲诉 称 未经 认真 了解 ×××× 年×× 月××日 被告 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+婚后 才 知 被告 性格 不合 感情 难以 建立 没有 共同 思想 没有 共同语言 块 总是 生气 吵架 没有 夫妻 幸福 痛苦
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+人 劝解 毫无 效果 相互 难以 理解 难以 共同 生活 只好 分居 至今 已 年
+O O O O O O O O O O O B_Separation O O I_Duration
+原告 诉状 中 诉 不 符合 实际 情况 双方 一起 生活 长 时间 才 登记 结婚 双方 都 再婚 原告 婚外情 才 走 今天
+O O O O O O O O O O O O O O O O B_Person O B_Remarry B_Person B_Derailed O O O

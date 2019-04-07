@@ -1,0 +1,4 @@
+..室 Marx 牌 exhww zxxs f 日 双方 登记 结婚 原被告 均 系 再婚 原被告 婚前 相识 时间 短 没有 建立 感情 基础
+O O O O O O O O B_Marry I_Marry B_Person O O B_Remarry O O O O O O O O O
+结婚 以后 家务 琐事 发生 矛盾 汇其 近 年 以来 双方 矛盾 激化 原告 争吵 打闹 原告 家庭 和睦 忍 再 忍
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O

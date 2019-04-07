@@ -1,0 +1,8 @@
+原被告 2009年 夏天 相识 建立 恋爱 关系 双方 2014年 5月 20日 登记 结婚
+O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+2015年 10月 8日 双方 婚生 男孩 王慕辰
+B_Time I_Time I_Time O B_Bear B_Gender B_Name
+造成 婚后 没有 共同语言 双方 家务 琐事 争吵 打闹 原告 家庭 和睦 忍 再 忍 双方 矛盾 却 无法 解决 尤其 被告 生育 完 孩子 后 回 娘家 居住 孩子 山 原告 抚养 被告 没有 母亲 妻子 责任
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Separation I_Separation I_Separation O O O O O O O O O
+造成 双方 感情 出现 裂痕 原告 2016年 离婚 纠纷 人民法院 提起 诉讼 人民法院 判决 不 准 离婚
+O O O O O B_Person B_Time O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

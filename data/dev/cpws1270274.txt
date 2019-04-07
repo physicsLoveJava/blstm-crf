@@ -1,0 +1,10 @@
+原告 李 某某 诉称 原 被告 系 自由 恋爱 2007年 农历 10月 2日 农村 习俗 举行 婚礼 2008年 3月 21日 补 办 结婚 登记 同年 4月 13日 生育 子 取名 小某
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry O B_Time I_Time I_Time B_Bear I_Bear O I_Name
+原 被告 婚前 了解 不够 婚后 未 建立 真正 夫妻 感情 被告 游手好闲 不务正业 家庭 不 负 责任 致 夫妻 感情 出现 裂痕
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 挽救 家庭 好言相劝 被告 不但 不 思 悔改 动手 原告
+O O O O O O O O O I_DomesticViolence I_DomesticViolence
+被告 婚外 异性 不 正当 关系
+B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+原告 认为 被告 之间 夫妻 感情 已 彻底 破裂 诉至法院 请求 判 令 原 被告 离婚
+B_Person O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

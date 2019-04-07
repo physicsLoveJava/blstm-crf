@@ -1,0 +1,8 @@
+原告 徐 某某 诉称 原 被告 2008年 认识 建立 恋爱 关系 2009年 8月 25日 登记 结婚 2009年 8月 10日 生育 小孩 杨某甲
+O O O O O O B_Time O O B_BeInLove O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+婚前 双方 了解 不够 婚后 未 建立 真正 夫妻 感情 被告 原告 不 信任 常 实施 家庭 暴力 被告 长期 吸毒 致 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O B_BadHabit I_BadHabit O O O O O
+原告 起诉 请求 判决 离婚 倒迁房 原告 所有 杨某 甲 原告 抚养 被告 每月 支付 抚养费 1000 元
+B_Person B_DivorceLawsuit O O O O O O O O O O O O O O O O
+被告 杨 某某 辩称 今年 吸毒 拘留 打架 发生 不 家庭 暴力
+O O O O O O O O O B_Negated B_DomesticViolence I_DomesticViolence

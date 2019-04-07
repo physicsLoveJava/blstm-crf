@@ -1,0 +1,6 @@
+原告 被告 2014年 认识 2015年 1月 28日 蓟州区 民政局 登记 结婚
+O O B_Time B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 2017年 4月 9日 生长子 胡毅
+O B_Time I_Time I_Time B_Bear B_Name
+相互 不 太 了解 情况 下 结婚 婚后 才 发现 双方 性格 不和 脾气 不 投 家庭 琐事 生气 打架 再 双方 聚 少 遇到 事情 双方 不 及时 沟通 造成 矛盾 越来越 深 被告 不 正确 处理 事情
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_FamilyConflict O O O O O O O

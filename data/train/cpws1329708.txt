@@ -1,0 +1,4 @@
+原告 陈某 甲诉 称 原 被告 自由 恋爱 相识 双方 还 未 深刻 了解 情况 下 2000年 12月 8日 登记 结婚 共同 生活 2001年 8月 15日 生育 子 名 陈某乙
+O O O O O O O O B_Know O O O O O O O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear I_Gender O B_Name
+双方 2011年 间 分居 被告 2013年 间 回 娘家 居住 今
+O B_Time O B_Separation O O O O O O I_Time

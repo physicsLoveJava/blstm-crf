@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2006年 2月 相识
+O O O O O B_Time I_Time B_Know
+2006年 6月 7日 龙川县 民政局 登记 结婚
+B_Time I_Time I_Time O O O B_Marry
+2006年 9月 17日 生 下 女 取名 彭 甲 2008年 3月 2日 生 下 女 取名 彭 某乙
+B_Time I_Time I_Time B_Bear O I_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear O B_Gender O B_Name I_Name
+被告 生 下 大 女儿 后 原告 小事 发生 争执 原告 母亲 发生 争执 原告 想 小孩 事事 忍让 迁就 被告
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+分割 婚后 共同 出资 建造 位于 龙川县 某地 房屋 一半 用于 离婚 居住
+O O B_CommonProperty O O O O O B_Wealth O O O O

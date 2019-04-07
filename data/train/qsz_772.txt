@@ -1,0 +1,10 @@
+原 被告 经人介绍 相识 2004年 12月 13日 蓟州区 民政局 办理 结婚 登记 手续 领取 结婚证 共同 生活 2005年 9月 生育 女 李然
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O B_Time I_Time B_Bear B_Gender B_Name
+原 被告 初期 感情 尚 时间 推移 双方 发现 感情 不 投 生活 琐事 生气 吵架
+O O O O O O O O O O O O O O O B_FamilyConflict
+尤其 被告 逐渐 染 上 恶习 村 内 喝酒 赌博
+O B_Person O O O O O O B_BadHabit I_BadHabit
+原告 劝阻 被告 被告 不 听 还 原告 实施 家庭 暴力
+O O O B_Person O O O B_Person O B_DomesticViolence I_DomesticViolence
+2016年 12月 17日 原 被告 发生 口角 原告 实在 无法 忍受 回 娘家 居住 今 被告 始终 未 接 原告 至此 夫妻 感情 已 彻底 破裂
+B_Time I_Time I_Time O O O O O O O O B_Separation I_Separation I_Separation I_Duration O O O O O O O O O O O

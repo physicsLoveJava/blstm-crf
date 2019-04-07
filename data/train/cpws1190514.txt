@@ -1,0 +1,12 @@
+范某 甲诉 称 原被告 2007年 10月 人 介绍 相识 同年 12月 27日 举行 婚礼 ×××× 年×× 月×× 日领证 结婚 12月 21日 生育 女 取名 范某乙
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O B_Bear I_Gender O B_Name
+双方 没有 感情 基础 婚后 家庭 事务 争吵 打架 不断 被告 原告 父母 不 尊重 辱骂 双方 争吵 与日俱增 拨打 110 报警 予以 处理
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+原告 2011年 6月 诉 至花山区 法院 要求 被告 离婚 花山 法院 先 调解 被告 始终 不 露面 花山 法院 2011年 8月 4日 立案 受理 期间 法院 进行 公告 同年 12月 16日 公开 开庭 进行 审理 被告 不 庭 最终 花山 法院 判决 不准 原被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+原告 父母 都 已 70 岁 老人 实在 受不了 被告 家人 折腾 无奈 回 老家 租 房 住 求 安生 直到 现在 都 家 不 回
+O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O
+3 2011年 8月 原告 向花 山区 人民法院 提起 离婚 诉讼 当时 被告 正在 怀孕 法律 规定 怀孕 期间 离婚 案件 不 受理 原告 欺骗 方式 说 被告 下落不明 实际上 被告 不 知道 离婚 事情 花山 法院 提起 诉讼 错误 行为 被告 请求 该案 申请 再审
+O B_Time I_Time B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5 原被告 共同 财产 公积金 54424．98 元 年金 养老 保险 具体 数额 还 没有 查
+O O B_Wealth I_Wealth O B_CommonProperty I_CommonProperty O O O O O O O O

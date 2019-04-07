@@ -1,0 +1,4 @@
+原告 杨 某某 诉称 1992年 1月 9日 原 被告 经人介绍 登记 结婚 婚后 感情 尚 好 1993年 生长子 杨某甲 2001年 生 次子 杨某乙
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O B_Time B_Bear B_Name B_Time B_Bear B_Gender B_Name
+后 生活 琐事 发生 争吵 导致 打架 2008年 分居 现 已 分居 达 四 五 年 久 夫妻 感情 确 已 破裂 已 没有 和好
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time B_Separation O O O O O O O O O O O O O O O O

@@ -1,0 +1,2 @@
+原 告诉 称 原告 被告 2007年 登记 结婚 2009年 7月 3日生 男孩 取名 杜 某乙 孩子 出生 后 原告 父母 抚养 被告 不管 孩子 还 家庭 琐事 吵架 二 人 感情 已 破裂 2012年 3月 起诉 被告 离婚 2012年 6月 28日 判决 不 准 离婚 后 二 人 没有 一起 生活
+O O O O O B_Time O B_Marry B_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment O O O B_Separation I_Separation I_Separation

@@ -1,0 +1,4 @@
+原告 诉称 原被告 1997年 6月 相识 1998年 10月 20日 登记 结婚 1999年 10月 3日 生育 女 名 某某 现在 丹阳市 第三 中学 上 初三
+O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O O I_Name O O O O O O
+现 生活 琐事 发生 矛盾 请求 判决 原 被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

@@ -1,0 +1,2 @@
+原告 王某 起诉 称 原 被告 ×××× 年×× 月经 人 介绍 相识 11月份 举办 结婚 仪式 后 共同 生活 12月 16日 补办 结婚 登记
+O O O O O O B_Time I_Time I_Time O O B_Know B_Time O B_Marry O O O O B_Time I_Time O B_Marry O

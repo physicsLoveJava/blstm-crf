@@ -1,0 +1,10 @@
+原告 马某 诉称 原 被告 1992年 3月 5日 登记 结婚 同年 10月 6日 生育 女 取名 范某 现 已 成年
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O B_Age
+原 被告 结婚 后 被告 自私自利 性格 暴躁 尤其 被告 严重 大 男子 主义 思想 原告 恶言 恶语 殴打 原告 女儿
+O O O O O O O O O O O O O O O O O O B_DomesticViolence O O
+被告 原 被告 同一 单位 女子 不 正当 男女 关系 原告 带来 巨大 伤害 痛苦
+B_Person O O O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O
+原 被告 2008年 5月 套房 分房 分居 被告 时常 无故 找茬 反锁 家门 不 原告 回家 居住 女儿 照顾 情绪 不 履行 夫妻 之间 忠实 尊重 义务 双方 感情 确 已 破裂
+O O B_Time I_Time O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O
+依法 分割 夫妻 共同 财产
+O O O B_Wealth I_Wealth

@@ -1,0 +1,6 @@
+原 告诉 称 被告 经人介绍 相识 不久 便于 2001年 8月 依法 登记 结婚 2002年 8月 22日 生育 长女 马乙 2006年 10月 21日 生育 长子 马丙
+O O O O O B_Know O O B_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+最近 两 年 被告 无端 猜疑 为此 吵架
+O O O O B_FamilyConflict I_FamilyConflict O I_FamilyConflict
+家庭 琐事 吵架 拌嘴 认为 夫妻 之间 应该 信任 被告 猜疑 使 感到 心灰意冷 无法 共同 生活 起诉 要求 被告 离婚 夫妻 共同 财产 依法 分割 孩子 抚养 抚养费 问题 依法 判决
+O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

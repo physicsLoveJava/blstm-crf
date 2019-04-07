@@ -1,0 +1,6 @@
+原 被告 2017年 8月份 相识 2017年 12月 天津市 武清区 民政局 办理 结婚 登记 相识 时间 短 感情 基础 薄弱
+O O B_Time I_Time B_Know B_Time I_Time O O O O B_Marry O O O O O O O
+婚后 被告 总是 种种 理由 找 借口 争吵 双方 未 建立 真正 夫妻 感情
+O O O O O O O B_FamilyConflict O O O O O O
+被告 辱骂 原告 不尽 夫妻 义务 原告 只能 忍气吞声 使 夫妻 关系 紧张 目前 原告 被告 已 分居 生活 原告 已 搬 娘家 居住 原告 认为 被告 种种 恶劣 行为 伤害 原告 感情 致使 原本 脆弱 夫妻 感情 完全 破裂 没有 好
+O B_FamilyConflict O O O O O O O O O O O B_Time O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O

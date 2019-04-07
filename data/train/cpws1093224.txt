@@ -1,0 +1,6 @@
+原告 朱 某某 诉称 原 被告 系 自由 恋爱 2009年 10月 1日 登记 结婚 2009年 12月 15日 生育 女孩 取名 伍某 乙
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name
+女儿 出生 后 年 被告 从不 履行 做 丈夫 父亲 义务 家庭 事务 女儿 不 不 问 外出 参与 赌博 夜 不 归宿
+O O O O B_Person O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+为此 原 被告 发生 争吵 导致 夫妻 感情 彻底 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

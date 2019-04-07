@@ -1,0 +1,10 @@
+原告 李芳 诉称 原被告 经人介绍 认识 2009年 8月 10日 登记 结婚 2010年 6月 15日 生育 男孩 取名 马志杰
+O O O O O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原被告 婚前 缺乏 了解 婚后 性格 不 投 原告 有时 被告 侮辱 打骂 造成 感情 不和
+O O O O O O O O O O O O B_FamilyConflict O O O
+综上 请求 法院 判 令 原 被告 离婚 婚生 男孩 被告 抚养 财产 依法 分割
+O O O O O O O O O O O O B_Wealth O O
+原被告 婚前 感情 好 婚后 初期 感情 好 孩子 后 原告 上网 别人 聊天 此事 二 人 吵 嘴 被告 没有 打骂 原告
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O
+孩子 现在 尚 小 晚上 哭闹 现在 没有 工作 结婚 时 家里 尚 欠 下 30000 元 债务 没有 还 清
+O O O O O O O O O O O O O O O B_Price I_Price B_Debt O O O

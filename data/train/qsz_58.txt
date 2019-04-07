@@ -1,0 +1,10 @@
+原 被告 双方 经人介绍 相识 半 年 后 2017年 12月 12日 登记 结婚 后 2018年 10月 14日 举行 婚礼 共同 生活 婚后 无婚生 子女
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O
+两 人 婚前 相处 时间 短 了解 少 两 人 感情 极 不 稳定 常 琐事 争吵 被告 原告 漠不关心
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O
+被告 原告 争吵 原告 无杂 2018年 10月 31日 被告 分居 回到 父母 家 居住
+O O O O O B_Time I_Time I_Time O B_Separation O O O O
+为此 特诉 贵院
+O B_DivorceLawsuit O
+层 请 人民法院 解除 双方 婚姻 关系
+O O B_Court O O O O

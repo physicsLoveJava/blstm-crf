@@ -1,0 +1,4 @@
+原告 吴 某某 诉称 原 被告 2006年 7月份 经人介绍 相识 2008年 2月 26日 办理 结婚 登记 手续 2008年 5月 5日 生育 女孩 徐 梦某 婚后 双方 夫妻 感情 被告 不仅 家庭 生活 不 不 问 还 打骂 原告 原告 被迫 2013年 6月 3日 回 娘家 居住 今 致使 原告 丧失 被告 共同 生活 信心 原 被告 夫妻 感情 已 破裂
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O B_Person O O O O O O O B_DomesticViolence B_Person B_Person O B_Time I_Time I_Time B_Separation I_Separation O O O O O O O O O O O O O O O
+原告 诉至法院 请求 人民法院 判 令 原 被告 离婚 婚生 女孩 徐 梦某 原告 抚养 被告 支付 抚养费 共同 财产 依法 分割 本案 诉讼费 被告 承担
+O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O

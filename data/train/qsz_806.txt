@@ -1,0 +1,4 @@
+原 被告 系 夫妻 关系 2017年 9月 原被告 相识 2017年 12月 25日 依法 登记 结婚
+O O O O O I_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+婚前 相互 了解 不足 造成 婚后 琐事 吵架 婚后 发现 性格 不合
+O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict

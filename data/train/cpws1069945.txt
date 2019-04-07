@@ -1,0 +1,4 @@
+原告 张 某某 诉称 2009年 原 被告 经人介绍 相识
+O O O O B_Time O O O B_Know
+2010年 3月 举行 结婚 仪式 4月 补办 结婚证
+B_Time I_Time O O O O O B_Marry

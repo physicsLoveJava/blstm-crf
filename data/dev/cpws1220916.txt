@@ -1,0 +1,14 @@
+原告 苏 某某 诉称 被告 2001年 12月 12日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 男孩 苏 x 女孩 苏 x
+O B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name
+共同 生活 期间 常 家庭 琐事 发生 争吵 被告 酗酒 后 实施 家庭 暴力 家庭 生活 不闻不问
+O O O O O O O B_FamilyConflict B_Person B_BadHabit O O B_DomesticViolence I_DomesticViolence I_FamilyConflict I_FamilyConflict I_FamilyConflict
+孩子 出生 后 被告 依旧 冷淡 孩子 置之不理
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 起诉 要求 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+生活 中 原告 争吵 原告 没有 实施 家庭 暴力
+O O O B_FamilyConflict O O O O O
+产生 矛盾 主要 原因 大部分 时间 外 打工 原告 不 一起 相互 沟通 甚 少 原告 回 娘家 不 打招呼 导致 夫妻 关系 不 睦
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O I_FamilyConflict I_FamilyConflict O O O O O O O

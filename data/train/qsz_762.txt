@@ -1,0 +1,10 @@
+原被告 均 系 再婚 2009年 11月 17日 经人介绍 双方 蓟县 民政部门 登记 结婚
+B_Person O O B_Remarry B_Time I_Time I_Time O O O O B_Marry I_Marry
+琐事 争吵
+I_FamilyConflict I_FamilyConflict
+共同 生活 期间 被告 挣钱 不 用于 双方 共同 生活 原告 打工 收入 维持 家庭 生活 二 人 处理 子女 亲属 关系 上 琐事 发生 矛盾 导致 争吵
+O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+2017年 10月份 被告 琐事 家中 大门 上 锁 不 原告 家中 居住
+B_Time I_Time O O O O O O O O O O
+原告 自此 被告 分居
+O O O B_Separation

@@ -1,0 +1,8 @@
+原告 阎 某某 诉称 被告 2010年 4月 22日 领取 结婚证 婚后 生育 女
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O
+共同 生活 中 双方 性格 不合 被告 主见性 差 所有 家务 琐事 都 父母 做主 经济 父母 掌管 没有 自主权 为此 被告 发生 争执 被告 父母 亲戚 参与 吵闹
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被迫 2012年 农历 三月 二十八 被告 分居 生活 今
+O B_Time I_Time I_Time I_Time O B_Separation O O
+现 双方 夫妻 感情 已 彻底 破裂 故具状 要求 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

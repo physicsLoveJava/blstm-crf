@@ -1,0 +1,30 @@
+原被告 二 人 2014年 9月 13日 登记 结婚 双方 婚后 育 子 李奕霖
+O O O B_Time I_Time I_Time B_Marry I_Marry O O B_Bear I_Gender B_Name
+婚后 共同 生活 中 原告 发现 被告 脾气 暴躁 难以 沟通 原告 怀孕 期间 原告 发生 争执 后 不顾 原告 腹中 胎儿 安全 推 搡 原告
+O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O B_FamilyConflict I_FamilyConflict O
+改善 夫妻 关系 被告 原告 哺乳 期间 动手 伤 原告 后 原告 报警 带 幼子 回 娘家 居住
+O O O B_Person O O O O I_DomesticViolence B_Person O O O O O B_Separation I_Separation I_Separation
+原告 2017年 1月 22日 贵院 提起 民事 诉讼 请求 判 令 原告 被告 离婚 子女 抚养 经济 帮助 提出 主张
+B_Person B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O
+被告 已经 没有 共同 生活 意愿 庭 审 中 表示 不 同意 离婚 后 原告 贵院 申请 撤诉
+O O O O O O O O O O O O O O O O B_Judgment I_Judgment
+原被告 婚生子 李奕霖 现 未 满 周岁 尚 哺乳期 被告 脾气 暴躁
+O B_Bear B_Name O B_Age I_Age I_Age O O O O O
+答 双方 不 一起 生活 2016年 12月 25日 原告 搬 出 带 孩子 回 娘家 居住 双方 分居 今 走时 带走 张 储蓄卡 带走 随身 衣物 没有
+O O O O O B_Time I_Time I_Time O O O O O O O O O B_Separation O O O O O O O O O
+答 家中 家具 家电 都 共同 买 具体 彩色 电视机 台 洗衣机 台 冰箱 台 沙发 笔记本 电脑 台 家具 灶具 现 都 婚房 内
+O O O O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth B_Wealth I_Wealth I_Wealth B_Wealth B_Wealth O O O O
+答 存款 70万 元 处 名下 储蓄卡 中 40万 元 被告 处 30 万 元 存款 现金 被告 处 被告 名下 储蓄卡 具体 数额 不 清楚 外债 没有
+O B_Wealth B_Price I_Price O O B_Wealth O B_Price I_Price O O B_Price I_Price I_Price B_Wealth I_Wealth O O O O O O O O O B_Credit B_Negated
+答 婚 住房 被告 名下 婚前 财产 没有 贷款 婚后 没有 购买 住房
+O B_Wealth I_Wealth B_Person O B_PersonalProperty I_PersonalProperty B_Negated B_Debt O O O O
+被告 相识 时间 登记 结婚 时间 婚后 生育 子女 情况 均 属实 分居 时间 属实 现 孩子 原告 一起 生活 原告 曾 起诉 次 后 撤诉 婚前 婚后 感情 生活 琐事 发生 矛盾 分居 那天 原告 父母亲 我家 看 孩子 当时 喊 爸 没有 喊 妈 原告 母亲 原告 不依不饶 原告 甩脸色 原告 父母 走 以后 原告 吵 为此 发生 争执 分居 原告 走时 带走 名下 张 银行卡 上面 65000 美金 折合 人民币 不 50万 元 上面 婚前 公积金 ! ! 10万 元 带走 衣物 没有
+O B_Know O B_Marry I_Marry O O B_Bear O O O B_Negated B_Separation O B_Negated O O O O O B_Person O B_DivorceLawsuit O O B_Judgment O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O O O O B_Wealth O B_Price I_Price O O O O O O O O O O O O O O O
+答 原告 所述 共同 财产 都 登记 之前 购买 都 婚前 财产
+O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O B_PersonalProperty I_PersonalProperty
+答 存款 原告 65000 美金 处 存款 10万 元 没有 外债 没有
+O B_Wealth O B_Price I_Price O B_Wealth B_Price I_Price O O O
+答 原告 述 属实 现在 婚房 名下 婚前 财产 产权 人 没有 贷款 现 居住 。
+O O O O O B_Wealth O I_PersonalProperty I_PersonalProperty O O O O O O O
+审 原告 被告 称 带走 银行卡 内 65000 美金 是否 属实
+O O O O O B_Wealth O B_Price I_Price O O

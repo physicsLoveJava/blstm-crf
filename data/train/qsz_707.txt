@@ -1,0 +1,4 @@
+原告 被告 2018年 4月 25日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+被告 一言不合 动手 殴打 原告 导致 原告 伤痕 累累 原告 怀孕 身 不 敢 争辩 被告 根本 不顾 惜 原告 原本 怀孕 身体 殴打 原告 长此以往 生活 原告 实在 难以忍受 。
+B_Person O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O

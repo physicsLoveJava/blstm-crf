@@ -1,0 +1,4 @@
+原告 吕某 诉称 原 被告 经人介绍 相识 后 2013年 5月 28日 博兴县 民政局 登记 结婚 两 人 均 系 再婚 婚后 未 生育 子女
+O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O O O B_Remarry O O O O
+婚后 双方 人生观 世界观 截然不同 吵架
+O O O O O I_FamilyConflict

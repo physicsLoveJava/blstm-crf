@@ -1,0 +1,4 @@
+原告 徐某 起诉 称 原 被告 经人介绍 认识 后 于×××× 年×× 月×× 日 双方 原 杨府乡 人民政府 办理 结婚 登记 手续
+O O O O O O O B_Know O B_Time I_Time I_Time I_Time O O O O O B_Marry I_Marry O
+1994年 7月 28日 生长子 徐某甲 2005年 11月 6日 生次子 徐某乙
+B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Name

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 被告 2005年 腊月经人介绍 相识 确立 恋爱 关系 2006年 元月 农村 风俗 举行 婚礼 随即 同居 生活 2006年 10月 3日 生育 子 取名 张某甲 2007年 巴州 区化 成 民政 服务 中心 办理 结婚 登记 领取 结婚 证书
+O O O O O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O O B_Time I_Time I_Time B_Bear I_Gender O B_Name B_Time O O O O O O B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry
+婚后 性格 不合 志趣各异 常 琐事 发生 纠纷
+O B_FamilyConflict I_FamilyConflict B_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 9月 起诉 被告 要求 离婚 化成 法庭 2012 巴州 民初字 第1728 号 民事 判决书 判决 不准 离婚
+B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment

@@ -1,0 +1,6 @@
+原告 李某 甲诉 称 原 被告 双方 2008年 8月 相识 2012年 2月 14日 结婚
+O O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry
+2013年 5月 被告 两 次 离家 出走 同年 6月 21日 离家 出走 至今 未
+O O O O O O O B_Time I_Time I_Time B_Separation I_Separation O O
+原告 认为 双方 感情 确 已 破裂 特 诉至法院 请求 判 令 原告 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

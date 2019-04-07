@@ -1,0 +1,14 @@
+原告 郑某 起诉 称 原 被告 2007年 9月 2日 意大利 务工 时 相识 相恋 双方 国内 习俗 订婚 后 夫妻 名义 同居 生活 ×××× 年×× 月×× 日 双方 申请 意大利 普拉托市 户籍处 登记 结婚
+O O O O O O B_Time I_Time I_Time O O O B_Know B_BeInLove O O O O O O O O O B_Time I_Time I_Time I_Time O O O O O O B_Marry
+×××× 年×× 月×× 日 双方 意大利 生育 子 取名 陈某乙 现 跟随 被告 生活
+B_Time I_Time I_Time I_Time O O B_Bear I_Gender O B_Name O O O O
+双方 婚前 缺乏 了解 婚后 原告 逐渐 发现 被告 脾气 固执 作 主张 为此 双方 家庭 琐事 发生 口角
+O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O B_FamilyConflict I_FamilyConflict
+2012年 12月 29日 原告 娘家欲 冬至节 被告 母 知道 原告 不 返回 被告 家中 过节 电话 里 辱骂 原告 父母
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O
+被告 还 赶到 原告 家中 殴打 原告 双方 分居 生活 今
+O O O O O O O O B_Separation O I_Time
+原 被告 婚姻 关系 存续 期间 无 共同 财产 债权 债务
+O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+上 原 被告 夫妻 感情 已 完全 破裂 原告 请求 依法 判 准原 被告 离婚
+O O O O O O O O O B_DivorceLawsuit O O O O O

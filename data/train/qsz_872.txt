@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 2016年 1月 5日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活 双方 均 系 再婚 婚后 未 生育 子女
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry O O O O O O O B_Remarry O O O O
+婚前 了解 少 婚后 原 被告 发现 感情 不 投 生气 吵架 被告 脾气 暴躁 辱骂 原告
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict
+2016年 春节 后 被告 原告 发生 口角 离家 出走 回 娘家 居住 原告 接叫 被告 拒 不 回家
+B_Time I_Time O O O O B_FamilyConflict O O B_Separation I_Separation I_Separation O O O O O O
+时至今日 夫妻 感情 已 彻底 破裂
+B_Time O O O O O

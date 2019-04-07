@@ -1,0 +1,40 @@
+2006年 原被告 经人介绍 确定 恋爱 关系 2010什 4月 16日 登记 结婚 双方 均 系 初婚
+B_Time O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry
+2013年 4月 14日 生 女 李欣怡
+B_Time I_Time I_Time B_Bear I_Gender B_Name
+双方 娟前 缺乏 了解 婚后 发觉 性格 差异 大 家庭 琐事 吵架
+O O O O O O O O O O O B_FamilyConflict
+2013年 10月 分居 今
+B_Time I_Time B_Separation I_Time
+后 原告 法院 提起 离婚 诉讼
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2016年 3月 31日 南开区 人民法院 2016 津 0104 民初 307号 判决 双方 不准 离婚
+B_Time I_Time I_Time B_Court I_Court I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+2016年 10月 原告 法院 提出 离婚 诉讼 2016 津 0104 民初 11165号 判决 双方 不准 离婚
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+原告 2006年 经人介绍 相识 2010年 4月 16日 登记 结婚 2013年 4月 14日 生 女 李欣怡 双方 都 初婚
+O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name B_Person O B_Remarry
+审 被告 原告 述 相识 时间 登记 结婚 时间 婚后 子女 情况 是否 属实
+O O O O B_Know O B_Marry I_Marry O O O O O O
+被告 属实
+O B_Negated
+原告 2016年 原告 起诉 离婚 3月 驳回 2016年 10月 次 起诉 ! ! ! 后 判决 驳回 现在 第三 次 起诉 要求 离婚 前 两 次 起诉 后 双方 矛盾 没有 得到 缓解 感情 已经 破裂
+O B_Time B_Person B_DivorceLawsuit I_DivorceLawsuit B_Time I_Judgment B_Time I_Time O B_DivorceLawsuit O O O O B_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O
+原告 2013年 十一 之后 被告 房子 住 不 开 为由 搬 谊城 公寓 不 回家 分居
+O B_Time I_Time O O O O O O O O O O O O B_Separation
+审 被告 原告 所述 分居 时间 属实
+O O O O B_Separation O O
+被告 不 属实 原告 现在 外面 居住 回来 看 孩子 最近 次 今年 年初 回来 十几 小时
+O B_Negated I_Negated O O O O O O O O O O O O O O
+原告 婚后 住 谊城 公寓 2010年 1月 购买 登记 名下 购房款 49万 首付 14万 贷款 35万 每月 还款 2200 元 现在 房子 没 人 住
+O O O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O
+被告 没有 套 房子 原告 公积金 没有 公积金
+O O O O O B_Wealth O O
+原告 证据 1 结婚 登记 审查 处理表 证据 2 判决书 两 份 证据 3 银行 汇款 记录 11 张 证据 4 视频 资料 证明 原告 前往 被告 住所 五 次 要求 看望 孩子 被告 不予 配合 证据 5 贷款 合同 证明 房屋 情况 证据 6 中国银行 天津 和平 支行 还款 证明 证明 2010年 1月 还款 今 共计 还款 203086.89 元 本金 11574 2.95 元 利息 87343.94 元 证据 7 不动产 登记 证明 证明 谊城 公寓 房屋 原告 婚前 财产
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth B_Person B_PersonalProperty I_PersonalProperty
+被告 双方 2010年 登记 结婚 实际 2007年 双方 一起 共同 生活 共同 生活 期间 双方 工资 混 一起 2009年 被告 还 怀孕 后 做 流产 2007年 同居 期间 租 住 房子 金泉里 38-406 号 双方 共同 居住 期间 钱 买房 应 算 共同 出资 共同 还款 房屋 应 属 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I_Wealth O O O B_CommonProperty I_CommonProperty
+原告 代 双方 2006年 相识 2013年 孩子 出生 后 短短 月 被告 不 原告 回家 居住 分居 今 之前 已经 经历 两 次 离婚 诉讼 双方 感情 没有 改善 被告 没有 原告 探望 孩子 夫妻 感情 确 已 破裂 孩子 抚养费 探望权 问题 抚养费 探望权 血缘 关系 前提 我方 提出 孩子 原告 亲子 鉴定 申请 保护 双方 孩子 合法 权益 没有 损害 合法 权益 没有 对外 宣称 孩子 不 原告 原告 深思熟虑 万 不得已 情况 下 申请 原告 认为 证实 孩子 原被告 亲生 医学 鉴定 确认 我方 认为 应该 保护 孩子 双方 合法 权益 出发 批准 原告 申请 作出 亲子 鉴定 亲子 鉴定 之上 我方 愿意 原告 收入 比例 支付 孩子 抚养费 要求 享受 每周 次 探望 孩子 权利 涉诉 房屋 原告 婚前 购买 房屋 所有权 应 原告 所有 首付款 14万 原告 父母 支出 每月 还贷 2013年 10月 之后 双方 分居 今 每月 还贷 都 原告 人 支付 原告 同意 2010年 2013年 4月 期间 增值 补偿 被告 被告 没有 提交 收入 证明 公积金 证明 被告 正当 收入 原告 没有 纠结 被告 收入 双方 曾经 感情 希望 法院 酌情 考虑 点 分割 共同 还贷 增值 部分 时 予以 考虑
+O O O B_Time B_Know B_Time O B_Bear O O O O O O O O B_Separation O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth B_Person B_PersonalProperty I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 代 双方 2006年 相识 2007年 共同 生活 双方 共同 举债 购买 房屋 后 共同 归还 举债 房屋 属于 夫妻 共同 财产 原告 提出 婚生 女 进行 亲子 鉴定 被告 不 同意 原告 2015年 1月 不 履行 法定 抚养权 义务 拒绝 孩子 支付 抚养费 现 被告 不 探望 婚生 女 为由 拒绝 支付 抚养费 法庭 提出 婚生 女 不 亲生 扰乱 视听 没有 法律 依据 事实 依据 法庭 不 应 予以 支持 庭审 中 原告 没有 正面 回答 双方 婚前 共同 生活 事实 庭 后 找到 房主 证明 双方 共同 生活 被告 没有 长期 固定 稳定 工作 无法 法庭 提供 固定 收入 公积金 证明 原告 需要 法庭 申请 调查 令 去 调查 质证 中 没有 发现 原告 工资 收入 原告 法庭 承认 造价师 证书 挂靠 单位 拒绝 法庭 提供 收入 原告 隐瞒 事实 法庭 应当 抚养费 问题 上 原告 实际 收入 30% 子女 提供 抚养费 支付 2015年 1月 至今 每月 3000 元 家庭 生活费
+O O O B_Time B_Know O O O O B_CommonProperty I_CommonProperty I_CommonProperty B_Wealth O O O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

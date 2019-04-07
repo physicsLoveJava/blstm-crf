@@ -1,0 +1,4 @@
+2016年 4月 7日 办理 结婚 登记 手续 双方 无 共同 子女
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O
+原 被告 双婚 前 缺乏 了解 婚后 被告 争吵 辱骂 原告 IL 被告 前夫 联系 家人 说 想 复婚 导致 双方 感情 彻底 破裂 原告 诉至法院
+O O O O O O O O B_FamilyConflict B_FamilyConflict O O O O O O O O O O O O O O O O

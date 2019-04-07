@@ -1,0 +1,8 @@
+原告 付 某某 诉称 1989年 被告 相识 不久 农村 习俗 结婚 同居 生活 未 办理 结婚证 已 生育 女 子 均 成年
+O O O O B_Time O O O O O B_Marry O O O O O O B_Bear O O O O
+婚初 感情 尚 发现 被告 脾气 暴躁 被告 无故 动手 毒打 特别 2011年 7月 10月 两 次 分别 刀 欲 杀死 未果 同年 11月 第一 次 法院 起诉 离婚 女儿 出嫁 只好 申请 撤诉
+O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O B_DivorceLawsuit O O O O O O
+后 双方 关系 仍 未 好转 夫妻 关系 名存实亡 夫妻 感情 确 已 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+法院 起诉 诉请 法院 判决 被告 吴 某某 离婚 两 子女 已 成年 无 需 抚养 婚后 共同 财产 房屋 存款 应 分割 一半 自愿 赠与 我子 吴 某乙 所有 婚后 无 共同 债务 承担
+O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

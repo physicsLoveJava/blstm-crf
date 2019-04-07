@@ -1,0 +1,8 @@
+原告 高某 诉称 原被告 2008年 1月 媒人 介绍 认识 ×××× 年×× 月××日 冠县 民政局 登记 结婚 于×××× 年×× 月××日 举行 结婚 典礼 ×××× 年×× 月×× 日 生育 儿子 某乙
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry O O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender I_Name
+2013年 8月份 被告 母亲 告诉 原告 说 被告 存在 婚外情
+B_Time I_Time O O O O O O O B_Derailed
+原告 嫁妆 冰箱 台 洗衣机 台 彩电 台 DVD 音响 电动车 辆 万年历 台 大 组合 套 小 组合 套 沙发 套 联邦椅 套 餐桌 茶几 2 大理石 桌子 饮水机 自行车 辆 碗橱 挂 衣橱 六 铺 六 盖 单子 三十 毛毯 两
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+被告 甲 辩称 原告 诉状 述 事实 不符 原告 被告 感情 不和 原告 所述 被告 存在 婚外情 情形 不 属实
+O O O O O O O O O O O O O O O O B_Derailed O O O

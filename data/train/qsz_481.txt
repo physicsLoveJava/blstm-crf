@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识
+O O O B_Know
+1993年 8月 1日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活 婚后 生育 儿 女 女孩 名叫 赵梦现 已 成年 男孩 名叫 赵卓豪 现年 15 周岁
+B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry O O O B_Bear O O B_Gender O B_Name O O B_Gender O B_Name O B_Age I_Age
+婚后 初期 双方 感情 尚 时间 推移 原告 发现 被告 脾气 暴躁 双方 家庭 琐事 生气 吵架 被告 常常 原告 张口 骂 伸手 夫妻 感情 已 彻底 破裂 2016年 原告 离家 打工 蓟州区 租房 居住
+O O O O O O O O O B_Person B_BadHabit I_BadHabit O O O B_FamilyConflict I_FamilyConflict B_Person O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O B_Time O O O O O O
+2018年 1月份 原告 具状 诉至 贵院 请求 判 准 离婚 贵院 驳回 原告 诉求 未 准许 离婚
+B_Time I_Time B_Person O B_DivorceLawsuit B_Court O O O O O B_Judgment I_Judgment I_Judgment O O O

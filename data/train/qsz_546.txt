@@ -1,0 +1,4 @@
+双方 2008年 10月 16日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+原 被告 婚生子 2009年 8月 27日 出生
+O O B_Bear B_Time I_Time I_Time O

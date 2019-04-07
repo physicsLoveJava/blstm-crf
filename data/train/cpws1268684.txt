@@ -1,0 +1,4 @@
+原告 张某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚 婚前 认识 时间 短 双方 未 建立 夫妻 感情 婚后 二 人 性格 不和 生气 吵架
+O O O O O B_Time I_Time I_Time I_Time O B_Marry O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 属于 再婚 被告 原告 产生 无端 猜疑 原告 2012年 7月份 曾 临清市 人民法院 提起 诉讼 法院 判决 不 准 离婚 后 原 被告 未 一起 生活 被告 没有 原告 联系 原 被告 夫妻 感情 确 已 破裂 特 诉 人民法院 请求 被告 离婚
+O O O O O O O O B_Person O O O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O

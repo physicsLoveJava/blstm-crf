@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1990年 3月 人 介绍 相识 恋爱 1991年 1月 4日 登记 结婚 婚后 生育 两 子女
+O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry O B_Bear O B_Gender
+原 被告 婚后 双方 吵架 常 闹 离婚
+O O O O B_FamilyConflict O O O

@@ -1,0 +1,10 @@
+原告 常诉 称 原被告 经人介绍 相识 2009年 1月 21日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2009年 10月 19日 生育 儿子 常 甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 双方 性格 不合 生气 吵架 夫妻 感情 长期 淡漠
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 回家 后 砸 毁 家中 家具 拿刀 威胁 原告 原告 左手 拇指 咬 伤
+B_Person O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O
+被告 李 某某 辩称 原告 陈述 事实 理由 真实 不符 双方 感情 破裂 原告 家庭 暴力
+B_Person O O O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence

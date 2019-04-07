@@ -1,0 +1,4 @@
+原告 王红民 诉称 原被告 1992年 经人介绍 相识 同年 领取 结婚证 婚后 生育 子 女 儿子 已 成年 女儿 王 XX 现年 12 岁
+O O O O B_Time O B_Know O O B_Marry O B_Bear I_Gender I_Gender O O O O B_Name I_Name O B_Age I_Age
+婚初 双方 感情 生子 之后 被告 劣迹 逐渐 显露 无事生非 好逸恶劳 赌博成性 不 履行 家庭 义务 不 尊敬 老人
+O O O O O B_Person O O O O O B_BadHabit O O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 1997年 12月 9日 农村 风俗 举行 婚礼 后 补办 结婚 登记 手续
+O O O O O O O O O O O O O O O B_Marry I_Marry O
+1998年 11月 11日 生育 女儿 杨某乙 2001年 3月 29日 生育 儿子 杨某丙 2008年 12月 2日 生育 儿子 杨某丁
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 生气 吵架 原告 要求 离婚 次子 杨某 丁 原告 抚养 长女 杨某乙 长子 杨某丙 被告 抚养 双方 互不 负担 抚养费
+O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O

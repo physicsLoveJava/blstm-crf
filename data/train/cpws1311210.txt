@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2009年 上半年 相识 ×××× 年×× 月×× 日 登记 结婚 婚后 没有 生育 子女 双方 均 系 再婚
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time I_Time O B_Marry O O O O O O O B_Remarry
+原告 2012年 8月 6日 曾 海盐县 人民法院 提起 离婚 诉讼 法院 同年 9月 5日 开庭 审理 被告 当时 原告 作出 以后 家庭 负责 承诺 法院 调解 双方 好
+O B_Time I_Time I_Time O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O O O O O O O O O O O B_Judgment I_Judgment I_Judgment
+综 上 原告 认为 夫妻 感情 彻底 破裂 双方 分居 年
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Separation I_Time
+请求 法院 依法 判 令 1 原 被告 离婚
+O B_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

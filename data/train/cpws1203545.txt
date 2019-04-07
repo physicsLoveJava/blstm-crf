@@ -1,0 +1,6 @@
+原告 刘某 诉称 原 被告 经人介绍 相识 2007年 2月 5日 办理 结婚 登记 手续 2007年 12月 22日 生 女 樊孟圆
+O O O O O O O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 缺乏 了解 婚后 感情 原告 发现 被告 精神 类 疾病 双方 亲属 劝解 原告 以为 治愈 时间 推移 被告 病情 愈发 严重 原告 要求 下 被告 2009年 住院 治疗 至今 未 愈
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 2011年 2012年 曾 两 次 贵院 提出 离婚 诉讼 贵院 工作 人员 调解 第一 次 撤回 起诉 结案 次 调解 好结案
+O B_Time B_Time O O O B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment I_Judgment O B_Judgment I_Judgment

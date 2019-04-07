@@ -1,0 +1,12 @@
+原告 陈某 起诉 称 原 被告 1998年 相识 建立 恋爱 关系 2002年 1月 8日 双方 宁海县 ××明港镇 人民政府 办理 结婚 登记 手续
+O O O O O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+×××× 年×× 月×× 日 生育 儿子 李某 乙
+B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 从未 支付 原告 儿子 生活费 还 曾 发生 婚外情 违背 夫妻 忠实 义务 原告 实施 家庭 暴力
+O O B_Person O O O O O O O B_Derailed I_Derailed O O O O B_Person O B_DomesticViolence
+2012年 2月 25日 原告 被告 感情 不 前往 广东 深圳 生活
+I_DomesticViolence B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation
+现 双方 之间 矛盾 已 无法 调处 感情 已 完全 破裂 要求 被告 离婚 婚生子 李某 乙 被告 抚养 成人
+I_Separation I_Separation O O O O O O O O O O O O O O O O O O
+被告 李某 甲答 辩称 婚姻 建立 过程 生育 子女 情况 属实 儿子 现在 抚养
+O O O O O O O O O O B_Bear I_Bear I_Bear O

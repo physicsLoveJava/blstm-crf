@@ -1,0 +1,4 @@
+原告 姜某 诉称 原 被告 经人介绍 相识 2000年 5月 8日 登记 结婚 2002年 11月 22日 生 女 名 李某 乙
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原 被告 婚前 认识 时间 短 没有 好 感情 基础 婚后 夫妻 感情 尚 孩子 后 两 人 性格 不和 琐事 打闹 后 分居 今 导致 夫妻 感情 确 已 破裂 诉至法院 请求 判决 1 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O B_Separation O O O O O O O B_DivorceLawsuit O O O O O O

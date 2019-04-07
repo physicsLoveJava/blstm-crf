@@ -1,0 +1,14 @@
+2010年 9月 28日 原 被告 经人介绍 登记 结婚
+B_Time I_Time I_Time O O O B_Marry I_Marry
+共同 生活 后 感情 2010年 10月 1日 生育 子 孟子震 被告 家中
+O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O
+2017年 5月 拆迁 置换 每人 楼房 54 平方米
+O O O O B_Person B_Wealth I_Wealth I_Wealth
+市场价 约 378000 元
+O O B_Price I_Price
+双方 银行 存款 20万 元
+B_Person O B_Wealth B_Price O
+年 被告 性格 古怪
+O B_Person O O
+常 家庭 琐事 原告 争吵 曾 殴打 原告 致 伤
+O O O O B_FamilyConflict O B_DomesticViolence B_Person O O

@@ -1,0 +1,6 @@
+原 告诉 称 被告 2000年 3月 人 介绍 相识 2000年 11月 20日 岐山县 民政局 婚姻 登记处 登记 结婚
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry
+2001年 10月 12日 生 男孩 取名 王某 甲 现 被告 生活
+B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name O O O
+婚后 发现 双方 性格 差异 大 常 生活 琐事 发生 矛盾 致 夫妻 感情 彻底 破裂
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

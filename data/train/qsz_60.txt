@@ -1,0 +1,8 @@
+原 被告 2015年 10月 人 介绍 相识 建立 恋爱 关系 2016年 5月 6日 登记 领取 结婚证 2016年 7月 12日 举行 结婚 仪式 同居 生活
+O O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry O O O O O O O O
+被告 收入 完全 没有 用于 家庭 支出 奢侈 消费 透支 信用卡 被告 花费 完全 没有 用于 夫妻 共同 生活 家庭 所有 支出 完全 原告 人 负担 被告 婚后 不 在家 居住 结婚 后 至今 被告 至少 一半 时间 不 在家 居住
+B_Person O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 生 孩子 事宜 争吵 争吵 中 被告 提出 离婚 原告 出于 家庭 考虑 没有 理睬 被告 回心 转意 抱有 幻想
+O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O
+双方 2018年 1月 28日 正式 分居 原告 提出 协议 离婚 后 被告 已经 贵重 首饰 10万 元 存单 证件 全部 拿走 离家 出走
+O B_Time I_Time I_Time O B_Separation O O O O O O O O O O O O O O O O O

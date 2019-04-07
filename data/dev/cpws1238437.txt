@@ -1,0 +1,12 @@
+原告 刘 XX 诉称 原被告 双方 2010年 2月 5日 防城区 办理 结婚 登记 手续 儿子 刘 XX 2011年 10月 24日 出生
+O O O O O O B_Time I_Time I_Time O O B_Marry O O B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear
+现在 原被告 已经 分居 近 年 感情 已 完全 破裂 双方 协商 一致 同意 离婚
+O O O B_Separation B_Duration I_Duration O O O O O O O O O
+依法 分割 共同 财产 防城区 X 路 X 号 X 小区 X 栋 X 单元 X 号 房屋 所有权 使用权 银行 债务 原告 所有 婚后 2013年 5月 共同 偿还 房 贷款 约 51540 元 平均 分割 被告 家人 判决 生效 日 月 内 搬离 房屋
+O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O O B_Wealth O O O B_Debt O O O O O O B_Wealth I_Wealth I_Wealth O B_Price I_Price O O O O O O O O O O O
+2010年 2月 2013年 8月 共同 还贷 55290 元 平均 分割
+O O O O O B_Wealth B_Price I_Price O O
+防城区 X 路 X 号 X 小区 X 栋 X 单元 X 号 房屋 增值 款 平均 分割
+O O O O O O O O O O O O O B_Wealth O O O O
+被告 购买 家电 家具 彩电 1 台 冰箱 1 台 空调 1 台 抽油烟机 1 台 沙发 1 套 床 1 张 衣柜 2 被告 所有
+O O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O

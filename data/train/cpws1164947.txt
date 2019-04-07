@@ -1,0 +1,8 @@
+王某 诉称 原 被告 ×××× 年×× 月×× 日 结婚 ×××× 年×× 月×× 日 生育 子 石某 乙
+O O O O B_Time I_Time I_Time I_Time B_Marry B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+被告 长期 家庭 暴力 原告 造成 伤害 夫妻 感情 确 已 破裂 请求 准予 离婚 孩子 抚养权 判 原告 分割 财产
+O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O
+1 被告 家庭 暴力 成性 缺乏 应有 家庭 责任感 导致 原被告 双方 感情 彻底 破裂
+O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+石某 甲 庭 审 中 辩称 1 原 被告 双方 感情 没有 破裂 被告 坚决 不 同意 离婚 原告 述 被告 家庭 暴力 根本 不 存在
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O B_DomesticViolence I_DomesticViolence O O O

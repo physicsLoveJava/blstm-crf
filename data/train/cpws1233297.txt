@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原 被告 打工 时 相识 2010年 5月 28日 登记 结婚
+O O O B_DivorceLawsuit O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2011年 1月 6日 生育 男孩 杨某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 缺乏 了解 婚后 产生 矛盾 被告 有时 殴打 原告
+O O O O O O B_FamilyConflict O O B_DomesticViolence O

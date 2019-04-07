@@ -1,0 +1,12 @@
+原告 李 某某 诉称 原 被告 2008年 10月 登记 结婚 婚后 购 车 外 双方 经济 独立 不久 生育 儿子 李灏睿
+O O O O O O B_Time I_Time O B_Marry O O O O O O O O B_Bear B_Gender B_Name
+种种 原因 婚后 双方 长期 分居 父母 家中 孩子 进入 幼儿园 后 双方 更 聚少
+O O O O O B_Separation O O O O O O O O O
+现在 被告 处 黄金 项链 两 根 黄金 手镯 副 黄金 戒指 两 枚 要求 返还
+O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O
+共同 债务8 297 元 原 被告 平均 分担
+O B_Debt I_Price I_Price O O O O
+2013年 1月 原告 被告 出 家门 双方 由此 分居
+B_Separation I_Separation O O O O O O B_Separation
+婚后 购 车辆 同意 依法 分割 购 车 款 中 70 000 元 来自 家人 借款 要求 原告 共同 承担 债务
+O O O O O O O O O O B_Price I_Price I_Price O O B_Debt O O O O O

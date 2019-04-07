@@ -1,0 +1,6 @@
+原告 杨 某某 诉称 原 被告 1999年 12月 结婚 2000年 9月 4日 生育 女 蒋某乙
+O O O O O O B_Time I_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 喜欢 喝酒 打牌 交朋友 原告 劝阻 无效 变本加厉 被告 醉 酒 便 回家 殴打 原告
+O O O B_BadHabit I_BadHabit I_BadHabit O O O O B_Person O O O O B_DomesticViolence B_Person
+被告 父母 哥哥 嫂子 原告 家人 劝阻 被告 家人 面前 作出 保证 不再 人 承诺 被告 事后 屡教不改 挣 钱 花天酒地 吃喝嫖 赌 被告 性格 越来越 凶暴 工作 上 遇到 不 顺心 事 便 回家 原告 出气 殴打 原告
+O O O O O O O O O O O O O O O O O O O O O O O B_Person O O O O O O O O O O O B_Person O B_DomesticViolence O

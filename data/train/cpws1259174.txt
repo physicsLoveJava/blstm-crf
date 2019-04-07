@@ -1,0 +1,8 @@
+原 告诉 称 2013年 初 提出 离婚 请求 贵院 审理 后 驳回 诉讼 请求
+B_Person I_Person O B_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Court O O B_Judgment I_Judgment I_Judgment
+半 年 被告 情况 依旧 夫妻 感情 破裂 无法 弥补 2012年 11月 今 双方 分居
+O O O O O O O O O O B_Time I_Time O O B_Separation
+依法 分割 夫妻 共同 财产
+O O O B_Wealth I_Wealth
+被告 辩称 同意 离婚 要求 婚生 女安 xx 抚养 原告 每月 支付 抚养费 2500 元
+O O O O O B_Bear B_Gender B_Name O O O O O O O

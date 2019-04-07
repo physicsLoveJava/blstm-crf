@@ -1,0 +1,12 @@
+原被告 经人介绍 认识 后 建立 恋爱 关系 双方 2017年 4月 27 !
+O O O O O O O O B_Time I_Time I_Time I_Time
+6. 试清区 民政局 办理 结婚 登记 手续
+O O O B_Marry I_Marry I_Marry I_Marry
+原告 2017年 11月 7日 生育 取名 贾麟熙
+O B_Time I_Time I_Time B_Bear O B_Name
+现什 6 月
+O B_Age I_Age
+j 被告 父母 之间 家庭 关系 导致 家庭 关系 紧张
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 婚姻 家庭 生活 认识 不 到位 导致 原被告 双方 关系 紧张 发生 矛盾 白 2018年 2月 阴历 年初 二 被告 发生 矛盾 后 带 女儿 贾麟熙 IH 娘家 居住 今 甘前 双方 处于 分居 状态
+O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time O O O O O B_Gender O O I_Separation I_Separation I_Time O O O O O

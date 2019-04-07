@@ -1,0 +1,6 @@
+被告 经人介绍 相识 2016年 4月 双方 确定 恋爱 关系 2017年 11月 6日 登记 结婚
+O O B_Know B_Time I_Time O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+双方 山丁 婚前 缺乏 深入 了解 婚后 发生 矛盾 长期 争吵 导致 双方 感情 破裂 被告 争吵 I 尤法 控制 白己 毁坏 家巾 物品 原告 受到 心理 伤考 大
+O O O O O O O O B_FamilyConflict O B_FamilyConflict O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+后 被告 甚罕 门锁 更换 不 原告 进 门
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

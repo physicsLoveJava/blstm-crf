@@ -1,0 +1,6 @@
+原 告诉 称 被告 2010年 初 经人介绍 认识 2011年 初 典礼 同居 后 2013年 4月 12日 补办 结婚 登记 手续
+O O O O O O O B_Know O O O O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+2011年 农历 12月 16日 生 女儿 康 小某 现 原告 生活
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O
+婚前 缺乏 了解 婚后 感情 不 被告 进行 殴打 夫妻 感情 已 彻底 破裂 要求 1 被告 离婚
+O O O O O O B_Person O B_DomesticViolence O O O O O O O O O

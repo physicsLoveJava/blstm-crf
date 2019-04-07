@@ -1,0 +1,14 @@
+i 原被告 2001年 冬天 朋友 介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O O B_Know O B_BeInLove O
+原被告 2002年 11月 4日 办理 结婚 登记
+O B_Time I_Time I_Time O B_Marry O
+2005年 8月 18日 生育 女儿 李苏瑶
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 之间 琐事 发生 争吵
+O O O O B_FamilyConflict
+原告 发现 被告 存在 酗酒 恶习 外出 酗酒 酒后 原告 实施 打骂 原告 身体 受伤
+O O B_Person O O O O B_BadHabit O B_Person O B_DomesticViolence O O O
+原被告 2014年 分居
+O B_Time B_Separation
+至今 分居 已经 长 达 近 4 年 时间
+O O O O O O B_Duration I_Duration O

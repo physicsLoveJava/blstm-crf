@@ -1,0 +1,2 @@
+原告 赵 某某 诉称 被告 长期 辱骂 殴打 原告 致 夫妻 感情 彻底 破裂
+O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O

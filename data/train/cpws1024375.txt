@@ -1,0 +1,6 @@
+原告 杨某 诉称 原 被告 2006年 经人介绍 相识 2009年 10月 12日 结婚 婚后 2010年 2月 14日 生育 子
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry O B_Time I_Time I_Time B_Bear B_Gender
+生育 儿子 后 家庭 负担 明显 加重 被告 不但 不 用心 努力 维持 家庭 生活 打骂 原告 有时 原告 逼 上 绝路
+O O O O O O O B_Person O O O O O O O B_DomesticViolence B_Person O O O O O
+被告 成天 赌博 原告 生活 感到 失望
+O O B_BadHabit O O O O

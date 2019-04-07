@@ -1,0 +1,14 @@
+2011年 原 被告 经人介绍 确立 恋爱 关系
+B_Time O O O B_BeInLove I_BeInLove I_BeInLove
+之后 双方 办理 结婚 登记 手续
+O O O B_Marry I_Marry O
+2012年 11月 13日 生子王 鑫博 2015年 原 被告 双方 感情 破裂 协议 离婚
+B_Time I_Time I_Time B_Bear B_Name O O O O O O O O
+2016年 8月 31日 双方 复婚 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry O O O O
+复婚 后 双方 仍 琐事 发生 矛盾 破裂 感情 未能 修复
+O O O O O B_FamilyConflict I_FamilyConflict O O O O
+2018年 春节 正月 原、被告 一同 去 被告 娘家 拜年 被告 挑起 矛盾
+B_Time I_Time I_Time O O O O O O O O O
+被告 住 娘家 未
+O B_Separation I_Separation O

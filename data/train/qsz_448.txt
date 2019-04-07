@@ -1,0 +1,10 @@
+2010年 原被告 经人介绍 相识 建立 恋爱 关系
+B_Time O O B_Know O B_BeInLove O
+2014年 10月 28日 登记 结婚 共同 生活
+B_Time I_Time I_Time O B_Marry O O
+2012年 农历 5月 初 7婚生 女儿 王听宁 2015年 农历 腊月 27日 婚生 儿子 王艺鑫
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 不久 原告 发觉 被告 原告 重大 隐瞒 被告 以前 曾 车祸 导致 阵发性 精神 错乱 发作 时 便 原告 胡乱 猜疑 非 骂
+O O O O B_Person O O O O O O O O O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence
+现在 被告 原告 暴力 越发 严重 常常 不 问 青红皂白 原告 遍体鳞伤 现在 原告 生命 安全 已 没有 保障 双方 感情 已经 破坏
+O O O B_DomesticViolence O O O O O O O B_DomesticViolence O O O O O O O O O O O

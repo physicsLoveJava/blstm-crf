@@ -1,0 +1,4 @@
+2009年 被告 喜好 赌博 原告 制止 无效 后 原告 便 租 住 黄官街 上 照顾 女儿 上学 双方 分居 生活
+I_Time B_Person O B_BadHabit O O O O O O O O O O O O O O B_Separation O
+2010年 被告 外出 务工 期间 家中 寄 回 生活费 嫌 原告 花钱 太 原告 发生 纠纷 怀疑 原告 外遇 双方 缺乏 信任 导致 夫妻 关系 完全 破裂 诉至法院 坚决 要求 被告 离婚 婚生 女 原告 坚决 要求 抚养 抚养费 被告 依法 承担 婚后 夫妻 共同 财产 依法 分割
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,2 @@
+原告 被告 工作 相识 相恋 2012年 8月 13日 登记 结婚 婚后 育 子 华奕晨 现年 6 岁
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age

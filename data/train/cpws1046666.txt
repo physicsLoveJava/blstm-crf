@@ -1,0 +1,10 @@
+原告 李＊诉 称 原 被告 2002年 打工 相识 不久 确定 恋爱 关系 2005年 6月 15日 办理 结婚 登记
+O O O O O B_Time O B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2009年 7月 共同 生育 名 女孩 取名 李 A
+B_Time I_Time O B_Bear O B_Gender O B_Name I_Name
+主要 被告 好吃懒做 沉迷 赌博 脾气 暴躁 双方 家庭 琐事 发生 争吵
+O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O
+被告 陈 辩称 1 原 被告 2002年 长沙 打工 认识 2005年 6月 15日 登记 结婚
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2 被告 没有 沉迷 赌博 工作 余 同事 麻将 纯属 娱乐
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit

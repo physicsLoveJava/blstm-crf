@@ -1,0 +1,4 @@
+原告 高某 诉称 被告 经人介绍 2011年 1月 12日 登记 结婚 婚前 缺乏 了解 草率 结婚 双方 性格 不和 导致 婚后 感情 基础 薄弱
+O O O O O B_Time I_Time I_Time O B_Marry O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+2011年 3月 检查 得知 患 肝炎 后 要求 被告 陪 去 医治 被告 总 理由 推托 2011年 5月 肝炎 进一步 恶化 此时 要求 被告 陪 去 看病 被告 无 理由 情况 下 回到 父母 家 2011年 7月 回来 住 天 后 父母 家 至今 被告 分居 已 年 八 月
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O O O O O O B_Time O B_Separation O O O O

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2012年 正月份 认识
+O O O O O B_Time I_Time B_Know
+×××× 年×× 月××日 办理 结婚 登记
+B_Time I_Time I_Time O B_Marry I_Marry
+×××× 年×× 月××日 原告生 女孩 XX
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 得知 被告 次 婚 现 殴打 原告 原 被告 夫妻 感情 已 彻底 破裂
+O O B_Person O O O B_DomesticViolence B_Person O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

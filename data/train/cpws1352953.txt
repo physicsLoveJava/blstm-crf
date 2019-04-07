@@ -1,0 +1,2 @@
+原告 某某 诉称 2012年 4月 9日 原被告 登记 结婚 婚后 没有 共同 孩子 共同 财产 婚后 生活 性格 上 不合 现 诉请 被告 离婚
+B_Person I_Person O B_Time I_Time I_Time O O B_Marry O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原告 被告 2005年 3月 4日 登记 结婚 2006年 5月 26日 生育 女 名 杨乙
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 双方 缺乏 了解 婚后 被告 不仅 打骂 威胁 原告 致使 原告 三 次 入住 医院 被告 非法 同居
+O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O O B_Person I_Derailed I_Derailed
+原 被告 2010年 感情 不 分居 原告 保护 女儿 不 受 伤害 未 提出 离婚 被告 变本加厉 伤害 原告 女儿
+O O B_Time O O B_Separation O O O O O O O O O O O O O O

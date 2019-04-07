@@ -1,0 +1,8 @@
+原告 周某 诉称 被告 范某 2012年 11月 5日 经人介绍 相识 恋爱 同月 12日 登记 结婚 婚后 未 生育 子女
+O O O O O B_Time I_Time I_Time O B_Know B_BeInLove B_Time I_Time B_Marry I_Marry O B_Negated I_Negated B_Bear
+双方 性格 不合 婚后 常 生活 琐事 发生 纠纷
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现原 被告 夫妻 感情 确 已 破裂 要求 法院 判决 被告 范某 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+被告 范某 辩称 原告 陈述 婚姻 情况 属实
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

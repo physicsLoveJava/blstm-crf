@@ -1,0 +1,8 @@
+原告 杨某 甲诉 称 原 被告 双方 2002年 经人介绍 认识 2006年 6月 26日 叙永县 民政局 办理 结婚 登记
+O O O O O O O B_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+2009年 6月 28日 被告 生育 女 名 杨某乙 2010年 3月 15日 生育 女 名 杨某丙
+B_Time I_Time I_Time O B_Bear I_Gender O B_Name B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚后 被告 脾气 古怪 一点 小事 原告 大吵大闹
+O O O O O O O B_FamilyConflict
+2006年 原告 母亲 生日 被告 一点 小事 众多 亲朋好友 在场 情况 下 碗 正在 客人 吃饭 原告 头部 伤 后 众人 劝阻 下 才 没有 造成 严重 后果
+O O O O B_Person O O O O O O O O O O O B_Person O I_DomesticViolence O O O O O O O O O

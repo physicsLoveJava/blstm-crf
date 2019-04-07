@@ -1,0 +1,6 @@
+原告 武 某某 诉称 原 被告 2003年 8月 经人介绍 认识 2004年 1月 6日 登记 结婚 婚后 双方 生理 疾病 未 生育 子女
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O
+原 被告 婚前 感情 基础 差 婚后 被告 不尽 家庭 义务 殴打 原告 被告 父母 歧视 原告 不 生育 子女 原因 导致 夫妻 感情 彻底 破裂
+O B_Person O O O O O O O O O B_DomesticViolence B_Person O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2012年 12月 10日 原告 曾 诉至法院 请求 离婚 法院 2013 蓝民 初字 第00169 号 民事 判决书 驳回 原告 诉讼 请求
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O B_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

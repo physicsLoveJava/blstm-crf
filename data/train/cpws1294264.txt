@@ -1,0 +1,10 @@
+原告 岳 某某 诉称 被告 经人介绍 2012年 4月 10日 依法 登记 结婚 婚前 相处 只 两 月 时间 相互 不够 了解 没有 感情 基础
+O O O O O O B_Time I_Time I_Time O O B_Marry O O O O O O O O O O O O
+婚后 性格 不合 被告 脾气 暴躁 施加 暴力 总是 伤痕 累累
+O O O O O O B_DomesticViolence I_DomesticViolence O O O
+无奈 情况 下 2012年 5月 回 娘家 被告 分居 生活
+O O O B_Time I_Time O O O B_Separation O
+被告 李 某某 辩称 原告 经人介绍 2011年 农历 7月 13日 订婚 同年 农历 8月 26日 结婚 2012年 4月 10日 补办 结婚证
+O O O O O O B_Time I_Time I_Time I_Time B_Marry O O B_Time I_Time B_Marry O O O O O
+5月 25日 原告 发生 争吵 事 出 责任 双方
+O O O O B_FamilyConflict O O O O

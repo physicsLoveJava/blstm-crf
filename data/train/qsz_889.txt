@@ -1,0 +1,14 @@
+原 被告 经人介绍 相识 2010年 6月 2日 蓟州区 民政局 登记 结婚
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 生育 男孩 马魁 10 周岁 女孩 马郡 1.5 周岁
+O B_Bear B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age
+原 被告 婚前 缺乏 了解 草率 结婚 导致 婚后 生气 吵架
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+尤其 被告 酗酒 恶习 每次 酗酒 后 原告 实施 家庭 暴力
+O B_Person B_BadHabit I_BadHabit O O O B_Person O B_DomesticViolence I_DomesticViolence
+街上 大庭广众 之下 追 原告 殴打
+O O O O B_Person B_DomesticViolence
+原告 实在 无法 忍受 被告 野蛮 行为
+B_Person O O O O O O
+提起 离婚 诉讼
+O B_DivorceLawsuit I_DivorceLawsuit

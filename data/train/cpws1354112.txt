@@ -1,0 +1,6 @@
+原 告诉 称 原 2003年 12月 9日 莱州市 民政局 登记 结婚 婚后 子 名 陈某乙
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Gender O B_Name
+原告 曾 2012年 6月 人民法院 起诉 离婚 证据 不足 莱州市 人民法院 2012 莱州 民初字 第2547 号 民事 判决书 判决 不 准 离婚
+B_Person O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Court I_Court B_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment
+故具状 人民法院 诉请 人民法院 依法 判 令 原 被告 离婚 财产 依法 分割 婚生子 陈某 乙 被告 抚养 诉讼费 依法 分担
+O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

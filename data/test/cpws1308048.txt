@@ -1,0 +1,10 @@
+原告 薛某 诉称 原 被告 1999年 自由 恋爱 ×××× 年×× 月×× 日 登记 结婚 婚后 段 时间 感情 尚 ×××× 年×× 月×× 日 生育 女 名 曹某乙 现 就读 如东县 掘 港 小学
+O O O O O B_Time O B_BeInLove B_Time I_Time I_Time I_Time O B_Marry O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O
+2011年 11月 原 被告 家庭 琐事 发生 争吵 被告 不仅 摔 坏 家中 物品 还 踢 坏 出租屋 房门 玻璃
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+2012年 8月 15日 被告 限制 原告 人身自由 原告 无奈 出租 屋 跳 下 时 险些 造成 生命 危险 由此 双方 分居 生活
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O B_Separation O
+2012年 10月 9日 原告 法院 起诉 要求 被告 离婚 2012年 11月 29日 法院 判决 原 被告 离婚 不予 准许 后 原 被告 夫妻 感情 未 得到 改善 双方 仍 互 无 信息 互不 往来 分居 生活 今
+B_Time I_Time I_Time O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O B_Separation O O
+原告 起诉 请求 判 令 原 被告 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

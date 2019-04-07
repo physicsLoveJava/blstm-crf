@@ -1,0 +1,14 @@
+原 被告 经人介绍 相识
+O O O B_Know
+20WI6 年 11月 18日 登记 结婚
+B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 感情 尚 生 女王 维嘉
+O O O O B_Bear B_Gender B_Name
+被告 不 上班
+B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 不闻不问 双方 在家 交流 均 电话 交流
+I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 年 前 已 起诉 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit
+现原 被告 分居 二 年
+O O B_Separation O O

@@ -1,0 +1,6 @@
+原告 被告 1984年 8月 7日 登记 结婚 婚后 子女 均 已 成年
+O O B_Time I_Time I_Time B_Marry I_Marry O O O O O
+生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 被告 一言不合 动手 殴打 原告 原告 看 孩子 尚 年幼 一再 忍让 被告 根本 不 看 眼里 原告 忍让 当做 软弱 欺
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O B_Person O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O
+孩子 阻拦 被告 遭到 被告 殴打
+B_Person O B_Person O O B_DomesticViolence

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2007年 12月 12日 登记 结婚 婚后 2009年 4月 22日 生 女 名 杜某甲
+O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear O O B_Name
+原被告 婚前 缺乏 了解 结婚 后 原告 才 发现 被告 性格 不合 被告 家庭 琐事 原告 争吵
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 忍耐 以为 孩子 后 被告 有所 悔改 孩子 出生 后 被告 不仅 不顾 家 原告 漠不关心 工作 忙 为由 孩子 不管 不顾 丝毫 没有 做 妻子 做 母亲 应 责任 义务
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原 被告 感情 确 已 破裂 已 无 和好 请求 法院 依法 判 令 原 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

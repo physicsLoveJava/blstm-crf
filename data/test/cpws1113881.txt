@@ -1,0 +1,14 @@
+原告 吴某 甲诉 称 被告 1999年 人 介绍 相识 恋爱 2000年 9月 18日 西充县 民政局 办理 结婚 登记 婚后 夫妻 感情 好
+O O O O O B_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O
+某年 某月 生育 男孩 取名 吴 某乙 现 原告 生活
+B_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+原 被告 生育 小孩 后 性格 不合 家庭 琐事 争吵 被告 2002年 外出 务工 至今 已 近 十 年 未 孩子 寄 生活费 未 做 母亲 责任
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O
+原告 电话 联系 被告 被告 口头 说 原告 离婚 不 回 老家 原告 协商 目前 为止 双方 已经 分居 达 六 年 久 夫妻 感情 早已 破裂 请求 法院 判决 准予 被告 离婚
+O O O O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration O O O O O O O O O O O
+被告 宋 某某 向本院 提交 书面 答辩状 中 辩称 原告 经人介绍 相识 后 结婚 原告 婚前 没有 积蓄 婚前 一万 元 存款 婚后 开销 包括 帮 归还 婚前 债务 外出 打工 路费 怀孕 小孩 出生 后 开支
+B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2002年 原告 外出 打工 不 好好 找 工作 买 马 六合彩 维持 生活 亲戚 介绍 工作 嫌 不 自由 不 去 上班
+O B_Person O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O
+生病 不但 不 照管 还 拳打脚踢 辱骂
+O O O O O B_DomesticViolence O

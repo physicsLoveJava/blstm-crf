@@ -1,0 +1,6 @@
+原告 李某 诉称 2010年 6月 15日 被告 登记 结婚
+O O O B_Time I_Time I_Time O B_Marry I_Marry
+认识 时间 短 相互 了解 不够 婚后 琐事 生气 吵架
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 拳打脚踢 次 胳膊 打肿 痛 天 不 吃饭
+B_Person B_DomesticViolence O O O O O O O

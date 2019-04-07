@@ -1,0 +1,4 @@
+原被告 经人介绍 2010年 10月 12日 登记 结婚 婚后 2011年 2月 18日 生 男孩 张云厚 原被告 婚前 缺乏 了解 婚后 原被告 没有 共同语言 生气 吵架
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O B_FamilyConflict
+被告 未经 原告 同意 情况 下 座落 集宁市 楼房 私自 出售 房款 挥霍 双方 发生 纠纷 被告 2017年 9月份 被告 离家 出走 至今 未
+B_Person O O O O O O O O O O O B_BadHabit O O O O B_Time I_Time O B_Separation I_Separation B_Time O

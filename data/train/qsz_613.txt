@@ -1,0 +1,8 @@
+原告 被告 2016年 5月 20日 登记 结婚 婚后 育 女 李昕颜 现 4 月 11 天
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name B_Age I_Age I_Age I_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict O O
+被告 家里人 找茬 原告 吵闹
+O O O O B_FamilyConflict
+被告 根本 不 听 还 母亲 一起 殴打 原告 综上 原告 认为 再 生活 下去 双方 都 痛苦
+B_Person O O O O I_Person O B_DomesticViolence B_Person O O O O O O O O O

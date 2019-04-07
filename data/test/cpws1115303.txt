@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2006年 5月 间 相识 2006年 10月 24日 登记 结婚 2008年 1月 15日 生育 婚生 女庄 秋莹
+O O O O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear O B_Name I_Name
+双方 婚前 了解 不 感情 基础 差 婚后 发现 双方 性格 差异 大 脾气 暴躁 生活 琐事 发脾气 不尽 为人夫 为人父 职责 随意 打骂 原告 孩子 被告 赌博 恶习 赌输 原告 要求 继续 赌博 不 负担 家庭 开支
+O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence B_Person I_Person B_Person B_BadHabit I_BadHabit O O O O O O O O O
+原 被告 2013年 4月 22日 发生 争吵 后 原告 带 婚生 女 返还 娘家 被告 分居 生活 今
+O O B_Time I_Time I_Time O O O O O O O O O O B_Separation O O
+3． 分割 未 予 晋江市 青阳 和平路 苏厝 路段 大 桶 水 足浴 旁 中国 体育 彩票 11680 站
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+原告 述 不 属实 双方 夫妻 感情 良好 不 存在 分居 生活 事实 结婚 后 原告 无 稳定 经济 收入 家中 开支 都 被告 赚钱 负责 被告 赚 钱 交 原告 管理 被告 没有 原告 称 赌博 恶习
+O O B_Negated I_Negated O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O B_Negated O O B_BadHabit I_BadHabit

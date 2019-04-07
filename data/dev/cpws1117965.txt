@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女孩 取名 杨某乙 现 已 成人 ×××× 年×× 月××日 生育 女孩 取名 杨某丙
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 不 甚 了解 婚后 共同 生活 中 没有 共同语言 无法 沟通 双方 常 生活 琐事 吵闹 不 休 结婚 现在 20 年 被告 无故 实施 家庭 暴力 殴打 原告 被告 有时 还 姐妹 一起 辱骂 殴打 原告 次 次 严重
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O
+原告 被告 生活 原告 生命 不 安全 保障 原告 现在 生活 状态 无法 持续 下去 原告 被告 正式 分居 没有 共同语言 至今 没有 建立 真挚 感情 基础
+O O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O

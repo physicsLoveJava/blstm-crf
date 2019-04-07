@@ -1,0 +1,10 @@
+原告 蒋某 甲诉 称 被告 唐某 甲 1990年 外出 务工 原告 女儿 在家 被告 不 过问 日子 艰难 不得已 两 年 后 原告 带 女儿 被告 处 生活 外面 生 儿子 唐某丙 后 被告 不顾家 钱 被告 掌握 每月 工资 发 不 回 家 赌光 钱 赌博
+O O O O B_Person I_Person I_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit
+白天 原告 累 筋疲力尽 晚上 被告 兽性 大发 变戏法 折磨 原告 强行 做 姿势 不 同意 劈头盖脑 顿 毒打 骂 女人 本来 玩
+O O O O O B_Person O O O O O O O O O O O I_DomesticViolence I_DomesticViolence O O O O
+2002年 底 回到 老家 儿女 艰难 日子
+B_Time I_Time B_Separation I_Separation O O O
+年 被告 只 2005年 2009年 离婚 回过 老家 两 次 长 不 回家 原 被告 分居 已经 十几 年 没有 感情 原告 离婚 次 起诉 法院 不同 理由 驳回 原告 不 异 负债累累 起诉 请求 依法 判决 原 被告 离婚
+O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原 被告 仅 分居 两 年 非 十几 年
+O O O B_Separation B_Duration I_Duration O O O

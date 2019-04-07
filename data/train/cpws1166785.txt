@@ -1,0 +1,4 @@
+原告 黄某 甲 起诉 称 原 被告 1997年 2月 18日 办理 结婚 登记 于×××× 年×× 月×× 日 生育 儿子 黄某 乙 2005年 1月 23日 收养 女儿 黄某
+O O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name O O O O O O
+现 夫妻 感情 确 已 破裂 特 诉请 判决 1 准予 原 被告 离婚
+O O O O O O O O B_DivorceLawsuit O O O O O

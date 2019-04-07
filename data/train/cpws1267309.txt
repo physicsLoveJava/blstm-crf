@@ -1,0 +1,10 @@
+原告 吴某 甲诉 称 2008年 6 7月份 原 被告 经人介绍 认识 times
+O O O O B_Time I_Time I_Time O O O B_Know O
+婚后 双方 性格 不 吵架
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 3月 被告 吵 离婚 2011年 7月 被告 发短信 提出 离婚 后 搬 回 娘家 住 原告 曾 联系 被告 被告 不 接 电话 不 回 短信 原 被告 已 分居 两 年
+O O O O O B_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O
+夫妻 双方 感情 已经 破裂 原告 请求 判 令 原告 被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+2 共同 承担 夫妻 关系 存续 期间 共同 债务 23000 元
+O O O O O O O O B_Debt O O

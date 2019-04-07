@@ -1,0 +1,8 @@
+原 告诉 称 被告系 自由 恋爱 婚后 发现 被告 心胸 狭隘 脾气 暴躁 生活 琐事 大打出手 根本 听 不 进 别人 劝说
+B_Person I_Person O O O O O O O O O O O O O O O O O O O O
+孩子 总 予以 忍让 盼望 年龄 增长 有所 改变 事与愿违 被告 实施 家庭 暴力
+O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+被告 现在 变本加厉 天天 骂 人 还 口 实在 忍无可忍 2012年 12月 24日 家中 跑 被告 分居 今
+O O O O O O O O O O B_Time I_Time I_Time O O O B_Separation B_Time
+起诉 法院 要求 被告 离婚
+B_DivorceLawsuit O O O O

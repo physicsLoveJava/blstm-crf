@@ -1,0 +1,4 @@
+原告 梁小莹 诉称 原 被告 系 经人介绍 结婚 婚前 缺乏 了解 婚后 感情 不 2013年 被告 原告 实施 家庭 暴力 分别 2月份 3月份 琐事 殴打 原告 原告 离家 分居 今
+O O O O O O O O O O O O O B_FamilyConflict O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O B_Separation I_Time
+现 请求 准予 离婚 返还 原告 陪嫁物 原告 返还 被告 婚礼 53600 元 买 摩托车 折价 款 10000 元 一半 返还 被告 添加 陪婚 钱 6600 元
+O O O O O O O O O O O O O O B_Wealth O O O O O O O O O O O O

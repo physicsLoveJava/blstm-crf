@@ -1,0 +1,8 @@
+原告 黄 某某 诉称 1997年 原 被告 经人介绍 相识 建立 恋爱 关系
+O O O O B_Time O O O O B_BeInLove I_BeInLove I_BeInLove
+2000年 1月 登记 结婚 婚后 生育 两 男孩
+B_Time I_Time B_Marry I_Marry O B_Bear O B_Gender
+2001年 8月 原 被告 家庭 共同 财产 投资 东海 五金 工具 制造 有限公司 占 10％ 股份
+O O O O O B_CommonProperty I_CommonProperty O O O O O O O B_Price B_Wealth
+被告 多年 共同 生活 中 大 男子 主义 思想 严重 打骂 原告 怀疑 原告 外遇 原告 忍无可忍 只得 诉至法院 要求 离婚 两 男孩 抚养
+B_Person O O O O O O O O O B_DomesticViolence B_Person O O O O O O B_DivorceLawsuit O O O O O

@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 2012年 8月 16日 登记 结婚 婚后 育 子 明志 现年 10 岁
+O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender I_Name O B_Age I_Age
+二 人 小事 发生 争吵
+O O O O B_FamilyConflict
+最 原告 不能 忍受 被告 背着 原告 外面 异性 不 正当 关系 原告 看 孩子 尚 年幼 一再 忍让 规劝 被告 回心 转意 好好 过日子 被告 根本 不 听 我行我素 现 双方 矛盾 分居 已 两 年 余 间 无 夫妻 义务 夫妻 感情 荡然无存 综上 结束 不幸 婚姻
+O O O O B_Person O O O I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O O O O O

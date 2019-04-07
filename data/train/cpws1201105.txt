@@ -1,0 +1,4 @@
+原告 徐某 起诉 称 原 被告 经人介绍 1995年 同居 生活 1997年 月 某日 办 结婚 登记 手续 同年 某月 生育 儿子 吴 某某 原被告 结婚 以来 性格 不合 争吵 2007年 上半年 分居 今 导致 原被告 夫妻 感情 彻底 破裂 今后 根本 无 和好
+O O O O O O O B_Time B_BeInLove O B_Time I_Time I_Time O B_Marry O O B_Time I_Time B_Bear B_Gender B_Name I_Name O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation I_Time O O O O O O O O O O
+被告 法定 期限 内 未 本院 提交 答辩状 庭 审 中 口头 答辩 称 原 被告 1995年 相识 自由 恋爱 1997年 月 某日 登记 结婚 1997年 月 某日 生育 儿子 吴 某某
+O O O O O O O O O O O O O O O O B_Time B_BeInLove O O B_Time I_Time I_Time O B_Marry O O O B_Bear O O O

@@ -1,0 +1,6 @@
+原 告诉 称 双方 1998年 广东 打工 时 相识 2001年 6月 11日 陕西省 民政厅 登记 结婚
+O O O O B_Time O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+2003年 10月 分居 今
+B_Time I_Time B_Separation O
+婚后 无 共同 财产 无 子女
+O O B_Wealth I_Wealth O O

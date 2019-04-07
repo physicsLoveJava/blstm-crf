@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 2009年 相识 不久 后 双方 登记 结婚
+O O O O O B_Time B_Know O O O O B_Marry
+两 人 发生 矛盾 导致 感情 破裂
+O O O O O B_FamilyConflict I_FamilyConflict
+双方 婚前 缺乏 了解 草率 结婚 婚后 双方 没有 建立 稳固 夫妻 感情 分居 年 被告 不 履行 夫妻 之间 照顾 义务 已 无 和好 再 继续 共同 生活 下去 已 没有 意义 结束 段 婚姻
+O O O O O O O O O O O O O B_Separation I_Duration O O O O O O O O O O O O O O O O O O O O O
+原告 请求 法院 判决 1． 原告 被告 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

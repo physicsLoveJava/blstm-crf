@@ -1,0 +1,4 @@
+原告 金某 甲诉 称 原 被告 系 村人 2004年 双方 自由 恋爱 ×××× 年×× 月×× 日 登记 结婚 ×××× 年××月 生育 女 金某 乙
+O O O O O O O O B_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 性格 不合 婚后 争吵 未能 建立 夫妻 感情 2012年 双方 便 分居 生活 被告 不 履行 做 妻子 母亲 职责 夫妻 关系 名存实亡 感情 确 已 破裂 故诉 法院 要求 被告 离婚
+O O O O O O O O O B_Time O O B_Separation O O O O O O O O O O O O O O O O O O O O

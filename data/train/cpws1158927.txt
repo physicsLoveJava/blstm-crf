@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1985年 焦庄乡 人民政府 登记 结婚 当时 父母 包办 三 家 转 亲 婚后 二 人 夫妻 感情 不合 经常性 些 生活 琐事 生气 吵架 儿子 出生 后 家庭 儿子 生活 前途 忍气吞声 勉强 维护 婚姻
+O O O O O B_Time O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+现 夫妻 感情 已 彻底 破裂 无法 共同 生活 要求 被告 离婚 财产 儿子 所有
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_DivorceLawsuit O O O O O

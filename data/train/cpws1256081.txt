@@ -1,0 +1,8 @@
+原 告诉 称 原被告 经人介绍 相识 1987年 12月 21日 举行 典礼 仪式 1988年 12月 10日 生育 女孩 取名 张某甲 1991年 2月 9日 生育 男孩 取名 张某乙
+O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2 位于 崇道村 五 间 平房 要求 判 原告 所有
+O O O B_Wealth I_Wealth I_Wealth O O O O
+2 原告 诉 家庭 共同 财产 不 实 共同 财产 应该 包括 2007年 批 宅基地 建 五 间 瓦房 二 间 平房 20 亩 包括 已 征用 3．6 亩 口粮 所得 9万 元 征地款 预制板 厂
+O O O O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+家庭 债务 盖房 时 被告 姐姐 10000 元 儿子 开 网吧 时 被告 姐姐 10000 元 被告 外 生活 时 被告 姐姐 5000 元 3 判决 离婚 应 依法 分割 家庭 共同 财产 房屋 卖 款 90000 元 承包地 口粮
+O B_Debt O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

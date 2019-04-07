@@ -1,0 +1,8 @@
+原告 罗 某某 诉称 原 被告 1996年 11月 结婚 婚后 未 生育 子女
+O O O O O O B_Time I_Time B_Marry O O O O
+性格 上 差异 2002年 双方 常 家庭 琐事 发生 争吵 2010年 7月 双方 分居 生活 今
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time O B_Separation O I_Time
+2011年 初 原告 向本院 起诉 要求 被告 离婚 后 撤回 起诉
+B_Time I_Time O B_Court B_DivorceLawsuit O O O O B_Judgment I_Judgment
+2011年 12月 原告 院 起诉 要求 被告 离婚 2011 纳溪民 初字 第1230 号 民事 判决书 判决 驳回 诉讼 请求
+B_Time I_Time O O B_DivorceLawsuit O O O O O O O O O O O B_Judgment I_Judgment I_Judgment

@@ -1,0 +1,6 @@
+原告 李某 诉称 原告 被告 经人介绍 登记 结婚 婚后 生育 子
+O O O O O O B_Marry I_Marry O B_Bear B_Gender
+被告 娘家人 劝解 被告 仍 不 思 改悔 凶器 自杀 方式 威胁 原告
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 原告 家 不 回 被告 已 分居 生活
+O O O O O O O B_Separation O

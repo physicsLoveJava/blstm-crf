@@ -1,0 +1,8 @@
+原 被告 系 中专 同学 后 自由 恋爱 2004年 1月 13日 双方 办理 结婚 登记 手续
+O O O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+2005年 11月 17日 生育 长女 朱莫楠 2014年 4月 24日 生育 次女 朱海宁
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 琐事 发生 争吵 未 建立 真挚 夫妻 感情 近期 双方 交流 越来越 少 导致 夫妻 感情 彻底 破裂
+O O O O B_FamilyConflict O O O O O O O O O O O O O O O
+草率 结婚 婚后 琐事 发生 争吵 现 夫妻 感情 确 已 破裂 再 无 和好
+O O O O O B_FamilyConflict O O O O O O O O O

@@ -1,0 +1,4 @@
+原被告系 同学 关系 2017年 5月份 经人介绍 建立 恋爱 关系 该年 9月份 登记 结婚
+O O O B_Time I_Time O O B_BeInLove O B_Time I_Time B_Marry I_Marry
+原被告 婚前 缺乏 了解 草率 结婚 婚后 发现 原被告 之间 无 共同语言 被告 原告 不 实事求是 相互 不 信任 根本 没有 夫妻 情 生活 上 被告 不 予以 支持 使 原告 无法 被告 继续 共同 生活 2017年 11月 中旬 原告 回 娘家 居住 今
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Separation I_Separation O I_Time

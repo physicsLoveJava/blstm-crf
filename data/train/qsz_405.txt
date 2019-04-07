@@ -1,0 +1,10 @@
+20134 6 川 原 被告 经人介绍 相识川 确立 恋爱 关系 2014年 86H 宝坻区 民政局 登记 结婚 Ij8 月 30 | | 办 举行 婚礼 共 k 生活
+B_Time I_Time I_Time O O O B_Know O B_BeInLove O B_Time I_Time O O O B_Marry O O O O O O O O O O O
+婚后 发现 性格 个合 火 家庭 琐事 发生 争吵
+O O O O O O O O B_FamilyConflict
+2016年 3月 原告 贵院 起诉 被告 离婚 被告 同意 离婚
+B_Time I_Time B_Person O B_DivorceLawsuit O O O O O
+贵院 做出 2016 津 0115 民 初 2084 号 民事 判决书 2016 0115 民 初9569 号 民事 判决书 2017 津0115 民 初 5987 号 民事 判决书 二 判决书 均 驳 M 原行 诉讼 请求 白 2016年 3月 原告 贵院 提起 诉讼 全 今 原 被告 始终 未 同居 生活
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Judgment I_Judgment I_Judgment O O O O B_Time I_Time O O O O O O O O O O O O
+实际 分居 时间 已 达 两 年 半 久
+O B_Separation O O O O O O O

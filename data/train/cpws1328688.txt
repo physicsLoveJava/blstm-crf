@@ -1,0 +1,2 @@
+原告 艾某 诉称 婚后 双方 性格 差异 大 常 琐事 发生 矛盾 致 分居 生活 夫妻 感情 破裂 现 要求 离婚 抚养 婚生子
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_Separation O O O O O O O O O

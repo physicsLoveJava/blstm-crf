@@ -1,0 +1,8 @@
+原告 赵艳茹 诉称 被告 1987年 12月 15日 自愿 登记 结婚 1988年 9月 22日 婚生 子 王男 现 已 独立 生活
+O O O O B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+被告 性格 粗暴 打骂 以前 孩子 小 忍耐 现 孩子 已 长大 不再 忍受 2011年 7月 被告 分居 生活
+B_Person O O B_DomesticViolence O O O O O O O O O O B_Time I_Time O B_Separation O
+2012年 2月 曾 起诉 被告 离婚 法院 判决 不 准 离婚 后 仍 分居 生活
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O
+共同 财产 处 30000．00 元 存款 被告 处 价值 30000．00 元 货物 共同 平分
+B_CommonProperty I_CommonProperty O B_Price I_Price B_Wealth O O O B_Price I_Price B_Wealth O O

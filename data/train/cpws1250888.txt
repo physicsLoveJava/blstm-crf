@@ -1,0 +1,6 @@
+原告 谢某 诉称 原 被告 经人介绍 相识 2010年 3月 15日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 双方 缺乏 了解 婚后 双方 家庭 琐事 争吵
+O O O O O O O O B_FamilyConflict
+2013年 3月 11日 原告 法院 起诉 要求 被告 离婚 法院 判决 不予 准许 之后 原 被告 夫妻 关系 仍 未 得到 改善 现 夫妻 感情 确 已 破裂 请求 法院 依法 判决 原 被告 离婚 夫妻 财产 依法 分割 诉讼 费用 被告 承担
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O B_Wealth O O O O O O

@@ -1,0 +1,30 @@
+原告 被告系 夫妻 关系. 双方 经人介绍 相识 1993年 9月 2日 登记 结婚 聚少 分居 生活 原告 部队 被告 老家 直到 2001年 被告 随军
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O
+后生 子 名 李军迪 现年 24 岁 大学 就读
+B_Bear I_Gender O B_Name O B_Age I_Age O O
+婚后 初期 尚 双方 婚前 缺乏 深入 细致 必要 了解 草率 结婚 导致 婚后 双方 性格 不和 家庭 生活 家庭 成员 关系 重要 事宜 无法 共同 正确 处理 意见 不 统一 无法 顺利 沟通 双方 家庭 琐事 发生 争执 见 录音). 原告 念 夫妻 关系 家庭 利益 百般 忍让 被告 变本加厉 不 履行 妻子 责任 造成 原告 无法 专心 工作 2013年 11月 6日 河北区 人民法院 201 3 北民 初字 第5834 号 起诉 以来 先后 2014年 3月 18日 2014 西民 一初字 第272 号 2014年 12月 4日 2014 西民 一初字 第1758 号 2C15 年 12月 21日 2015 西民 一初字 第1505 号 三 次 起诉 河西区 人民法院 审理 认定 夫妻 感情 尚未 完全 破裂 为由 依据 中华人民共和国 婚姻法 第三十二 条 规定 诉讼 请求 驳回
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document B_DivorceLawsuit O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document O O B_DivorceLawsuit B_Court I_Court O O O O O O O O O O O O O O B_Judgment I_Judgment I_Judgment
+原告 2014年 10月 1日 租 房 自住 见 相房 协议 今 被告 分居 今 期间 被告 出租 原被告 共同 出资 购买 津南区 双港镇 北马集村 东海 天馨苑 家 福园 17-2-602 房屋 见 房产证 套
+O B_Time I_Time I_Time O O O O O O O O B_Separation O O O O O B_CommonProperty I_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+住 部队 分配 原告 河西区 解放南路 东莱 里 13-605 公租房 原告 每月 支付 被告 孩子 生活费 1000 元
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O
+原告 想 被告 夫妻 沟通 机会 工作 忙 照顾 体弱多病 父母 上次 起诉 2015年 12月 21日 至今 没有 上诉 被告 未 主动 原告 束往 沟通 大亥 感情 未 见 好转 迹象
+O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O O O O O O O O O O O O O O
+综 上 原告 认为 原告 被告 事实 分居 达 四 年 久 期间 没有 沟通 交流 夫妻 感情 确 已 破裂 维系 名存实亡 夫妻 关系 不如 早日 解除 精神 棚锁 使 双方 早日 走向 新 生活
+O O O O O O O B_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O
+婚姻 情况 属实 不 同意 离婚 结婚 登记 后 1987年 原告 参军 两 年 后 上 军校 2001年 随军 年 不 一起 书信 往来 1998年 原告 孩子 接 过来 认为 之前 感情 早 老家 盖 房子 后 共同 装修 共同 买 登记 被告 名下 津南区 海天馨苑 私产 房屋 套 被告 公积金 还款 认为 结婚 现在 夫妻 感情 不错
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O
+原 2014年 4月 1日 分居 生活
+O B_Time I_Time I_Time B_Separation O
+感情 不和 家庭 琐事 见面 吵 被告 父母 非常 孝顺 养老送终 被告 父母 不 满意 孩子 高中 教育 孩子 方面 意见 不 统一 。天天 吵架 孩子 意见 家里 天天 争吵 不 断
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O
+婚后 购买 名下 坐落 天津市 津南区 双港镇 北马集村 东海 天馨苑 家 福园 17-2-602 室 私产 房屋 套 还 剩 25万 余 元 贷款 未 偿还 婚后 部队 分配 名下 坐落 天津市 河西区 解放南路 东莱 里 13 栋 605室 婚后 购买 名下 车牌号 津 KG8919 东风 风神 小汽车 辆
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Price I_Price I_Price B_Debt O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+审 老家 房子 回 事
+O B_Wealth I_Wealth O O
+原告 公积金
+B_Wealth I_Wealth
+审 法院 判决 离婚 话 家里 日常 用品 分割
+O O O O O B_Wealth I_Wealth I_Wealth O
+均 婚生子 现年 24 岁 已经 年 满 18 岁 成年
+O B_Bear O B_Age I_Age O O O O O O

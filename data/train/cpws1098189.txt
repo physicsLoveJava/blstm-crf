@@ -1,0 +1,8 @@
+原告 左 某某 诉称 被告 经人介绍 相识 2011年 11月 3日 政府 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+婚前 缺乏 了解 草率 结婚 婚后 发现 被告 性格 不和 生气 吵架
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 曾 2013年 2月 18日 法院 起诉 要求 离婚 后 法院 工作 人员 劝说 下 撤回 起诉
+B_Person O B_Time I_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+被告 撤诉 后 没有 好 表现 娘家 居住 被告 没有 去 找 现 夫妻 感情 已 完全 破裂 坚决 要求 被告 离婚 两 孩子 要求 抚养 抚养费 人 承担 人
+O O O O O O I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O

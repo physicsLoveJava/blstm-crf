@@ -1,0 +1,8 @@
+原告 曹某 诉称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 双方 均 系 再婚 再婚时 原告 带有 三 岁 女孩
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O B_Remarry O O O O O O
+婚后 夫妻 感情 于×××× 年××月 生育 男孩 取名 某乙
+O O O B_Time I_Time B_Bear B_Gender O I_Name
+近 年 被告 酗酒 闹事 殴打 原告 母女 挣 工资 不 交给 原告 原告 母女 生活 不闻不问 致 夫妻 感情 彻底 破裂
+O O B_Person B_BadHabit I_BadHabit B_DomesticViolence B_Person I_Person O O O O O O O O O O O O O O
+原告 曾 2013年 2月 27日 起诉 离婚 法院 2013年 3月 26日 判决 不 准 离婚 原 被告 分居 今 要求 被告 离婚 婚生子 被告 抚养 生活
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment O O B_Separation O B_DivorceLawsuit O O O O O O

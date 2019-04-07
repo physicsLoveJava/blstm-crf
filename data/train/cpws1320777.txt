@@ -1,0 +1,16 @@
+原告 周 某某 诉称 吴 某某 2009年 4月 人 介绍 相识 2009年 6月 4日 登记 结婚 2011年 10月 29日 生育 子 吴曦庭
+B_Person I_Person I_Person O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+劝告 吴 某某 根本 不 听 相反 还 实施 家庭 暴力 动手 殴打 使 身心 造成 巨大 伤害 孩子 完整 家 委曲求全
+O B_Person I_Person O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+请求 法院 判决 1 解除 双方 婚姻 关系
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+周 某某 诉 离婚 理由 事实 不符 婚后 装修 房子 承担 家庭 房屋 按揭 物业 管理 煤气 水电 雇 请 保姆 儿子 吴曦庭 相关 费用
+O O O O O B_Negated I_Negated O O O O O O O O O O O O O O O O O O
+三 请求 法院 依法 分割 夫妻 共同 财产 债务
+O O O O O O B_CommonProperty I_CommonProperty B_Debt
+1 周 某某 婚前 购买 位于 长沙市 岳麓区 大道 179 号 西岸 润泽府 小区 13 栋 303 周 某某 首付 18万 元 支付 房屋 维修 基金 9556 元 钱 21．5万 装修 房屋 装修 后 房子 共同 居住 装修费 应 列为 夫妻 共同 债务 离婚 时 夫妻 双方 应 债务 承担 清偿 责任
+O O O B_PersonalProperty I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O I_Price I_Price O O O O B_Wealth O O O O O O O O O O O O O O O O O
+2 房屋 维修 基金 系 婚前 财产 离婚 时 该房 继续 周 某某 占用 周 某某 应 补偿 9556 元
+O B_Wealth I_Wealth I_Wealth O B_PersonalProperty I_PersonalProperty O O O O O O O O O O O O O
+房屋 装修 部分 房屋 装修 后 房屋 增值 部分 请求 法院 依法 分割
+O O O O O O B_Wealth I_Wealth I_Wealth O O O O

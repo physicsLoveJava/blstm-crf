@@ -1,0 +1,26 @@
+原告 樊某 诉称 原被告 1999年 9月 认识 2004年 10月 结婚 2006年 4月 25日 生 女 希 婚前 感情 尚 好
+O O O O B_Time I_Time B_Know B_Time I_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+婚后 不久 双方 性格 差异 逐渐 显现 争吵 被告性 冷淡 双方 争吵 不断 升级 已 无法 和睦相处
+O O O O O O O B_FamilyConflict O O O O O O O O O
+依法 分割 夫妻 共同 财产 1 车牌号 苏 AXXXXX 马自达 轿车 辆 现 价值 9．2万 元 原告 所有 补偿 被告 差价
+O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O B_Price I_Price O O O O O
+2 本市 鼓楼区 清江路 46 号 10 幢 XXX 室 房屋 产权 半 变卖 清偿 债务 后 余款 分割
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O
+3 购买 本市 鼓楼区 清江路 46 号 10 幢 XXX 室 房屋 原告 父亲 借款 60万 元 原告 父亲 朋友 王某 借款 60万 元 利息 18万 元 两 笔 债务 共计 138万 元 系 夫妻 共同 债务 请求 依法 分割
+O O O O O O O O O O O O O O B_Debt B_Price I_Price O O O O B_Debt B_Price I_Price B_Debt B_Price I_Price O O O O O O O O O O O O O
+4 屋内 设施 电视机 2 台 空调 3 台 橱柜 1 冰箱 1 台 房
+O O O B_Wealth O O B_Wealth O O B_Wealth O B_Wealth O O O
+5 婚后 2005年 购买 铂 金 项链 条 钻石 戒指 枚 2012年 购买 黄金 手链 条 请求 依法 分割
+O B_CommonProperty O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Wealth I_Wealth O O O O
+被告 林辩 称 婚后 原告 女性 暧昧 关系 打骂 被告 双方 感情 确 已 破裂 同意 离婚
+O O O O B_Person O B_Derailed I_Derailed B_DomesticViolence B_Person O O O O O O O
+三 同意 依法 分割 夫妻 共同 财产 1 车牌号 苏 AXXXXX 马自达 轿车 原告 所有 补偿 被告 5万 元
+O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O
+2 清江路 房产 变卖 后 平均 分割 房款
+O B_Wealth I_Wealth O O O O O
+3 不 存在 原告 父亲 60万 借款 款 系 原被告 双方 本市 鼓楼区 上元 里 249 号 3 幢 XXX 室 房屋 出售 樊 父亲 售房款
+O O O O O B_Price B_Debt O O O O O O O O O O O O O O O O O O O
+5 金银 首饰 婚前 2004年 4月 购买 铂金 项链 条 钻戒 枚 当时 共计 价值 4000 元 结婚 彩礼 应 被告 财产
+O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O B_Price I_Price O O O B_Person I_PersonalProperty
+6 存款 30000 元 系 婚生 女希 财产 不 应 进行 分割 原告 被告 暴力 行为 被告 觉得 原告 继续 住 屋 人身 安全 不 保证 租房 居住 借用 15500 元 孩子 购买 电脑 4499 元 支付 律师费 4000 元 共计 23999 元 尚结余 6001 元
+O B_Wealth B_Price I_Price O O B_Person I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+2009年 底
+B_Time I_Time
+原被告 经人介绍 相识 建立 恋爱 关系
+O O B_Know O O O
+2011年 3月 2日 原被告 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry O O
+婚后 原告 发现 无论 习惯 性格 方面 被告 存在 大 差异 多年 未 建立 良好 夫妻 感情 常年 琐事 发生 争吵
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 上述 行为 致使 原告 实在 无法 忍受 2016年 底 原告 回到 娘家 居住 今 期间 原被告 无 联系
+O O O O O O O O B_Time I_Time O O O B_Separation I_Time O O O O

@@ -1,0 +1,4 @@
+原告 陈某 甲诉 称 原 被告 2006年 经人介绍 相识 2006年 3月 23日 衡东县 民政局 登记 结婚 同年 11月 21日 生育 儿子 陈某乙
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Gender
+原 被告 婚前 缺乏 了解 婚后 性格 不合 夫妻 间 发生 争吵 现 已 无 和好 请求 法院 依法 判决 原 被告 离婚 婚生 小孩 陈某 乙 原告 共同 生活 被告 承担 相应 抚育费
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

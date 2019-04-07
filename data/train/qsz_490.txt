@@ -1,0 +1,8 @@
+原 被告 2006年 相识 确定 恋爱 关系 2009年 3月 18日 宝坻区 民政局 办理 结婚 登记 手续
+O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O
+婚后 2010年 9月 27 生育 子 取名 张鸿运 现年 七 周岁 现 原告 原告 父母 生活
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age O O O O O
+现 双方 感情 存在 问题 1 双方 性格 不和 琐事 发生 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+4 被告 琐事 离家 出走 孩子 不 负 责任 每次 出走 都 孩子 带走 拒绝 原告 探望 导致 男方 父母 面临 巨大 精神 压力
+O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O

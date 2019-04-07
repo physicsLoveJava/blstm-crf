@@ -1,0 +1,6 @@
+原告 位 某某 诉称 2005年 初 原 被告 相识 恋爱 2006年 8月 17日 办理 结婚 登记 手续
+O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry O O
+2006年 7月 24日 生 子 朱 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 不务正业 好吃懒做 喜欢 打牌 喝酒 导致 原、被告 夫妻 感情 破裂 请求 法院 依法 判决 原 被告 离婚
+B_Person O O O B_BadHabit I_BadHabit O O O O O O O O O O O O

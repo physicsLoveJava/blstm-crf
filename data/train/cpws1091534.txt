@@ -1,0 +1,6 @@
+原告 刘 某某 诉称 被告 杨 某某 2009年 人 介绍 相识 2010年 1月 登记 结婚 婚后 育 小孩
+O O O O O O O B_Time O O B_Know B_Time I_Time B_Marry I_Marry O B_Bear O
+婚前 双方 缺乏 了解 导致 婚后 性格 不合 家庭 琐事 吵闹 被告 家庭 不 负 责任 已 无法 共同 生活 下去
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+原告 2013年 请求 法院 准许 被告 离婚 法院 判令 不准 原 被告 离婚 后 两 人 没有 往来 分居 今
+B_Person B_Time O O O I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O B_Separation I_Duration

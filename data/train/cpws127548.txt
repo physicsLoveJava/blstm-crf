@@ -1,0 +1,10 @@
+原告 宋某 诉称 原 被告 2000年 相识 确定 恋爱 关系
+O O O O O B_Time B_BeInLove I_BeInLove I_BeInLove I_BeInLove
+2001年 1月 18日 双方 利津县 民政局 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry
+2010年 7月 10日 生育 男孩 取名 马某 乙
+B_Time I_Time I_Time B_Bear O O B_Name I_Name
+原 被告 结婚 初期 感情 尚 后 被告 常年 居住 外 婚生子 不尽 抚养 义务 家庭 缺少 关心 双方 2010年 9月份 分居 今
+O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation O
+现原 被告 双方 感情 已 完全 破裂 请求 法院 依法 判 令 原 被告 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

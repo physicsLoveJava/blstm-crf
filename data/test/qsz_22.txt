@@ -1,0 +1,16 @@
+原 被告 2003年 相识 2007年 2月 6日 登记 结婚 同年 5月 26日 举办 婚礼 共同 生活
+O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O
+2009年 7月 18日 婚生 女孩 郭 婧涵
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+孩子 出生 以后 被告 不管 操持 家务 孩子 爷爷 奶奶 原告 照看 被告 收入 从不 交给 家里 完全 用于 消费 孩子 病 被告 不 出 钱
+O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O
+由此 导致 原 被告 感情 冷漠
+O O O O B_FamilyConflict I_FamilyConflict
+2013年 原告 提出 离婚 诉讼 被告 竟 法庭 上 罔顾 事实 颠倒黑白 说 坚信 夫妻 感情 深厚 致使 未能 离婚
+O B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 变本加厉 原告 实施 冷 暴力 处于 屋檐 下 8 年 无 夫妻 生活 无 正常 语言 交流 无 经济 往来 更 无 关照 亲情
+O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+原告 存入 孩子 名下 准备 孩子 需 2万 元 存款 都 L 飞 d 被告 私自 取 走
+O O O O O B_Person O B_Wealth I_Wealth I_Wealth O O O O O O O O
+原 被告 已经 8 年 同一 住房 内 分居 8 年 无 夫妻 生活 感情 完全 破裂 无 和好
+O O O B_Duration I_Duration O O O B_Separation O O O O O O O O O O

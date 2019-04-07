@@ -1,0 +1,4 @@
+原 被告 经人介绍 柑识 建立 恋爱 关系 2d 年 11月 o 日 登记 结娇 2w1 年 月 H 生 女 名 赵宇晨 1 年 月日生 女 赵宇蕾
+O O O O O O O B_Time I_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Time I_Time B_Bear B_Gender B_Name
+听 前 原 被告 双方 缺乏 了解 婚后 发 争吵 被告 还动 殴打 原 J 引 俩 孩子 持刀 威胁 原告
+O O O O O O O O O B_FamilyConflict B_Person O B_DomesticViolence B_Person O O O O O O O

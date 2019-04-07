@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2010年 9月 21日 相识 同年 10月 25日 登记 结婚 婚前 缺乏 了解 婚后 琐事 发生 争吵 被告 曾 两 次 原告 母亲 伤 婚姻 关系 存续 期间 原告 发现 被告 私生子 名 孟通
+O O O O O B_Time I_Time I_Time B_Know O B_Time I_Time B_Marry I_Marry O O O O O O B_FamilyConflict B_Person O O O B_Person I_Person I_DomesticViolence O O O O B_Person O O B_Derailed O O
+双方 始终 未 建立 夫妻 感情 2011年 9月 13日 分居 今 维护 原告 合法 权益 特 人民法院 提出 诉讼 请求 1 请求 法院 依法 判决 原 被告 解除 婚姻 关系
+O O O O O O B_Time I_Time I_Time B_Separation I_Time O B_Person O O O B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+婚生 女 黄某 甲 2012年 4月 26日 生
+O B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear
+原告 说 分居 情况 不 属实 原告 2011年 10月份 说 出门 被告 2011年 11月 23日 原告 1000 元
+O O B_Separation O B_Negated I_Negated O O O O O O O O O O O O
+原告 说 被告 私生子 不 属实 被告 前夫 公 去世 被告 原告 认识 时 被告 前夫 孩子 原名 孟通 现 名黄子通 已经 八 岁
+O O O B_Derailed B_Negated I_Negated O O O O O O O O O O O O O O O O O O

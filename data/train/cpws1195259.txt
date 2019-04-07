@@ -1,0 +1,6 @@
+原 告诉 称 ×××× 年×× 月××日 原 被告 登记 结婚 婚后 农历 2010年 11月 4日 生 女孩 取名 贾某乙
+O O O O O O O O O B_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 原 被告 了解 不够 婚后 原、被告 脾气 性格 逐渐 不合 夫妻 感情 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+3 被告 付 原告 夫妻 存续 期间 共同 存款 60000 元 一半 30000 元
+O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O O O

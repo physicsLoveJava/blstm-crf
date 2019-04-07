@@ -1,0 +1,4 @@
+原告 朱 某某 诉称 被告 2003年 底 经人介绍 认识 2004年 4月 2日 登记 结婚 婚后生 女儿 取名 段 某甲
+B_Person O O O O B_Time I_Time B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender O B_Name I_Name
+婚前 双方 认识 时间 短 缺乏 了解 未 建立 感情 草率 结婚 婚后 被告 酗酒 成性 醉酒 后 殴打 认为 夫妻 感情 已经 破裂 请求 依法 判 令 被告 离婚 女儿 段某 甲 抚养 被告 承担 抚养费 依法 分割 夫妻 共同 财产 承担 夫妻 共同 债务
+O O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit O O B_DomesticViolence O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O

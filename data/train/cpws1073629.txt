@@ -1,0 +1,4 @@
+原告 边某 诉称 原 被告 1997年 7月 相识 恋爱 ×××× 年×× 月××日 同山镇 人民政府 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 寿某 乙
+O O O O O B_Time I_Time B_Know O B_Time I_Time I_Time O O B_Negated B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2007年 原告 外出 务工 要求 被告 一起 外出 被告 整天 游手好闲 染 上 赌博 不良 恶习 被告 还 婚外 女子 关系 暧昧 导致 夫妻 感情 彻底 破裂
+O O O O O O O O B_Person O O O O B_BadHabit O O B_Person O B_Derailed O O O O O O O O

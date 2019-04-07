@@ -1,0 +1,4 @@
+原告 沈 某某 诉称 原 被告 2007年 7月 17日 登记 结婚 2008年 3月 6日 生育 女 名 陈乙
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚后 关系 不好 无法 被告 沟通 被告 动 粗 动手
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence

@@ -1,0 +1,8 @@
+原告 陈某 甲 起诉 称 1991年 原 被告 认识 后 建立 恋爱 关系 ×××× 年×× 月××日 办理 结婚 登记 手续
+O O O O O B_Time O O O O O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry O
+×××× 年×× 月××日 生育 长女 取名 陈某丙 ×××× 年×× 月×× 日 生育 次女 取名 陈某丁 两 女儿 均 在校 读书
+B_Time I_Time I_Time O B_Bear I_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+2012年 上半年 原 被告 分居
+B_FamilyConflict B_Time I_Time I_Time O
+原 被告 夫妻 感情 彻底 破裂 已 无 和好 请求 判 令 准予 原 被告 离婚 婚生 女 陈某丙 陈某丁 每人 抚养 独立 生活 为止 抚养 费用 承担
+B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 被告 均 系 再婚 经人介绍 相识 2009年 11月 20日 登记 结婚 婚后 育 女王 一凡 现年 9 岁 子 王怀庆 现年 5 岁
+B_Person I_Person O O B_Remarry O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 被告 动手 殴打 原告 导致 原告 伤痕 累累 原告 为此 曾经 报警 处理
+O O O O O O O O O O O B_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O
+扬言 还要 弄 死 原告 原告 回到 娘家
+O O O O O O B_Separation I_Separation
+被告 追 原告 娘家 殴打 原告 。
+B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O

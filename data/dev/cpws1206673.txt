@@ -1,0 +1,16 @@
+原告 李某 起诉 称 原 被告 2006年 年初 认识 后 确立 恋爱 关系
+O O O O O O B_Time I_Time B_Know O O O O
+双方 ×××× 年×× 月××日 平湖市 民政局 婚姻 登记处 办理 结婚 登记 手续
+O B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry
+×××× 年×× 月×× 日 生育 子 名 王某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原 被告 双方 婚前 性格 脾气 不 了解 婚后 家庭 琐事 争吵 导致 夫妻 关系 日趋 恶化
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+被告 不顾 家庭 不 照顾 小孩
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2010年 6月 原告 回 娘家 居住 二 月 后 被告 脾气 不 改 殴打 小孩 导致 原、被告 争吵
+O O O O O O O O O O O O O B_BadHabit I_BadHabit O O O
+2011年 4月 24日 原 被告 分居 今
+B_Time I_Time I_Time O O B_Separation O
+原告 诉请 中 说 被告 不顾 家庭 不 事实 被告 工作 性质 无法 接送 孩子 情有可原 原告 说 被告 打骂 孩子 不 事实
+O O O O O O O O O O O O O O O O O O O O O B_Negated I_Negated

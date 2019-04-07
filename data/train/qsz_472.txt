@@ -1,0 +1,8 @@
+1995年 初原 被告 经人介绍 相识 确立 恋爱 关系 1995年 12月 31日 双方 办理 结婚 登记 手续
+B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry I_Marry O
+先后 生育 2 子女 现 都 已 长大成人 婚后 双方 感情 近 年 双方 琐事 发生 争吵 被告 时常 动手 殴打 原告
+O B_Bear O B_Gender O O O O O O O O O O O O B_FamilyConflict O O O B_DomesticViolence O
+2016年 双方 分床 睡 2017年 分居
+O O O O B_Time B_Separation
+分居 后 被告 仍 辱骂 原告 双方 感情 确 已 破裂 无 和好
+O O O O B_FamilyConflict O O O O O O O O

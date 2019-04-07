@@ -1,0 +1,8 @@
+原 告诉 称 被告 2009年 春节 经人介绍 相识 同年 8月 双方 农村 习俗 举行 婚礼 正式 夫妻 名义 同居 生活 同年 11月 27日 生 女孩 唐 甲 2011年 6月 原被告 双方 民政部门 补办 结婚 登记 手续
+O O O O B_Time I_Time O B_Know O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+原告 婚前 被告 缺乏 了解 父亲 令 媒妁 言 撮合 下 才 被告 草率 结婚
+B_Person O O O O O O O O O O O O O O
+婚后 才 发现 被告 生性 疑 性格 内向 人 交往 尤其 异性 交往 被告 无端 猜疑 强烈 反对 为此 双方 争吵 被告 还 时常 动手
+O O O O O O O O O O O O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+孩子 忍 再 忍 换 却 被告 变本加厉 争吵 打骂 可怕 今年 4月 被告 喝 下 农药 自杀 后 抢救 及时 才 保住 性命
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

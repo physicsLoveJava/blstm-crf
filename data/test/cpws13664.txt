@@ -1,0 +1,16 @@
+原 告诉 称 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry
+婚后 于×××× 年×× 月××日生 男孩 取名 马某甲
+O B_Time I_Time B_Bear B_Gender O I_Name
+×××× 年×× 月××日生 女孩 取名 马某乙
+B_Time I_Time B_Bear B_Gender O I_Name
+原 被告 婚前 缺乏 了解 之间 感情 不 太 好 两 孩子 家庭 被告 却 无端 殴打 原告
+O O O O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person
+原告 怀孕 期间 使用 暴力 十几 年 殴打 原告 不计其数 身上 伤痕 旧 伤 未 愈 新 伤 不 断 天天 不得 安宁
+B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+万般无奈 之下 原告 诉至法院 请求 被告 离婚
+O O B_Person B_DivorceLawsuit O O O
+被告 辩称 1991年 左右 原告 奶奶 介绍 相识 婚前 相处 同居 4 年 感情 基础 牢固
+O O B_Time O O O O B_Know O O O O O O O O
+没有 原告 怀孕 期间 打骂 原告 原告 言语 刺激 原告 不 家庭 暴力
+B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O

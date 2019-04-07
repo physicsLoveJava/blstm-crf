@@ -1,0 +1,2 @@
+原告 张某 诉称 原 被告 1991年 9月 28日 登记 结婚 婚前 了解 少 婚后 发现 两 人 性格 不合 常 家庭 琐事 吵架 两 人 未 建立 感情
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

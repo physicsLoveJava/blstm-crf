@@ -1,0 +1,12 @@
+f7 年 月 r 日 原被告 确立 恋爱 关系 年 3月 2日 领取 结婚证
+B_Time I_Time I_Time I_Time I_Time O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 取名 长江 现年 16 周岁 马伸桥镇 中学 上学
+O B_Bear I_Gender O I_Name O B_Age I_Age O O O
+婚后 原被告 夫妻 感情 2015年 初 双方 家庭 琐事 生气 打架 严重 影响 夫妻 感情 原告 努力 劝阻 挽回 没有 好 相处 现 夫妻 感情 已 彻底 破裂
+O O O O B_Time I_Time O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O
+婚后 双方 无 共同 财产 无婚 前 财产
+O O B_Negated B_CommonProperty I_CommonProperty B_PersonalProperty I_PersonalProperty I_PersonalProperty
+原告 2015年 下半年 感情 不 被告 分居 今
+O B_Time I_Time O O O B_Separation I_Time
+原被告 婚前 基础 不 牢固 婚后 未 建立 真挚 夫妻 感情 现 分居 已 两 年 符合 婚姻法 离婚 条件 原告 只能 依法 起诉
+O O O O O O O O O O O O B_Separation O B_Duration I_Duration O O O O O O O O

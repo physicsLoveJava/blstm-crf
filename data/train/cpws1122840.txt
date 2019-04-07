@@ -1,0 +1,8 @@
+原告 吴某 诉称 原 被告 1989年 2月 9日 登记 结婚 1990年 12月 3日 生育 儿子 吴建锋 现 已 独立 生活
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+生活 上 琐事 发生 争吵 夫妻 同床异梦
+O O O B_FamilyConflict I_FamilyConflict O O
+2008年 下半年 双方 矛盾 激化 分居 至今 没有 来往
+B_Time I_Time O O O B_Separation O O O
+被告 2003年 发现 原告 外面 女人 带病 回来 传染 被告 被告 发火 才 原告 争吵
+O B_Time O B_Person B_Derailed I_Derailed O O O O O O O O O

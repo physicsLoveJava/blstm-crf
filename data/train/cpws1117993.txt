@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 2013年 3月 30日 举行 结婚 仪式 后 共同 生活 同年 4月 30日 南召县 民政局 补办 结婚 登记
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+婚后 被告 行动 均 听 母亲 指挥 为此 生气 更有甚者 句 话 被告 原告 工作 单位 原告 进行 毒打 持续 半 小时 久
+O O O O O O O O O O O O B_Person O O O B_Person B_DomesticViolence I_DomesticViolence O O O O
+分割 位于 云阳镇 云阳 黄金 河岸 3 号 楼 201室 婚房 室内 财产
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

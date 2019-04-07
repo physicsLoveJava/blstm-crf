@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2005年 5月 8日 蓟州区 蓟县 民政局 登记 结婚 手续 共同 生活 双方 均 系 再婚 无 共同 子女
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O O O
+婚前 缺乏 了解 婚后 发现 夫妻 感情 不合 家庭 琐事 生气 吵架
+O O O O O O O O O O O B_FamilyConflict
+2015年 11月份 被告 离家 外出 原告 接叫 被告 拒 不 回家 至今 未
+B_Time I_Time O B_Separation I_Separation O O O O O O B_Duration O

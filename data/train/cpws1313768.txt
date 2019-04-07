@@ -1,0 +1,10 @@
+原告 刘 某某 诉称 2009年 9月 29日 被告 经人介绍 登记 结婚
+O O O O B_Time I_Time I_Time O O O B_Marry
+2011年 6月 12日 生 子 名叫 张 某某
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+认识 时间 短 婚前 缺乏 了解 没有 感情 基础 婚后 才 发现 双方 性格 不合 琐事 发生 争吵
+O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 9月 21日 生 孩子 刚 百 天 被告 琐事 殴打 顿 保全 性命 无奈 之下 抛 下 年幼 儿子 离家 出走 至今 未
+O O O O O O O O B_Person O B_DomesticViolence O O O O O O O O O B_Separation I_Separation I_Separation I_Separation
+为此 诉 贵院 请求 判 令 1 原 被告 离婚
+O O B_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

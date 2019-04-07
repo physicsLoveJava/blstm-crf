@@ -1,0 +1,14 @@
+原告 王 某某 诉称 被告 2007年 正月 农村 习俗 举行 结婚 仪式 后 宁县 春荣 乡政府 补办 结婚证
+B_Person O O O O B_Time I_Time O O O B_Marry O O O O O O O
+2007年 12月 4日 生育 女孩 取名 赵某甲
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2007年 4月 银川 打工 期间 被告 发生 矛盾 强行 三 楼 下 推 后 阻止
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+2010年 6月 被告 刀 捅 入 腰部 现有 刀伤 存在
+O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O
+被告 赵 某某 辩称 原告 结婚 时间 孩子 出生 时间 都 合适
+O O O O O B_Marry O B_Bear I_Bear I_Bear O B_Negated
+婚后 原告 去 银川 打工 2011 年 后 半 年 分开 今
+O O O O O B_Time I_Time I_Time I_Time I_Time B_Separation B_Time
+原告 固原 小伙子 有染
+B_Person O O B_Derailed

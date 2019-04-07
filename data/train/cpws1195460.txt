@@ -1,0 +1,4 @@
+同年 4月 22日 原 被告 虞城县 民政局 补办 结婚证
+B_Time I_Time I_Time O O O O O B_Marry
+原 被告 婚后 感情 不好 2012年 2月 16日 原 被告 生育 女儿 范 某某 2012年 7月 被告 范某 违法 犯罪 判刑 导致 原、被告 夫妻 感情 已 完全 破裂 原告 诉至法院 请求 1 被告 离婚
+O O O O O B_Time I_Time I_Time O O B_Bear B_Gender B_Name I_Name O O B_Person O O B_BadHabit I_BadHabit O O O O O O O O O O O O O

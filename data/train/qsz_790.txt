@@ -1,0 +1,4 @@
+2016年 4月 18日 原 被告 依法 登记 结婚
+B_Time I_Time I_Time O O O B_Marry I_Marry
+后 原 被告 琐事 吵架 被告 打骂 原告
+O O O I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person

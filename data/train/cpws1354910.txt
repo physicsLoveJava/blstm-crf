@@ -1,0 +1,24 @@
+原告 魏某 甲诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry
+×××× 年×× 月×× 日 生育 子 名 魏某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+原告 曾 2012年 5月 法院 提起 离婚 诉讼 尚 不 符合 离婚 条件 撤诉
+B_Person O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+之后 半 年 时间 里 被告 居住 父母 家 双方 均 无 好意愿 实际 分居 已 达 两 年 夫妻 感情 确 已 破裂
+O O O O O O B_Separation I_Separation I_Separation O O O O O O O O B_Duration I_Duration O O O O O
+为此 原告 法院 起诉 要求 1． 判 令 原 被告 离婚
+O B_Person I_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+增加 诉讼 请求 要求 分割 共同 财产 2010年 7月 10日 被告 所得 钱 1万 元 原告 分得 5000 元
+O O O O O O O O O O O O O B_Price I_Price O O O O
+虞某 处 钱 实际 被告 母亲 支付 被告 挂个名
+O O I_Wealth O B_PersonalProperty I_PersonalProperty O O O
+原告 处 婚后 共同 财产 25 寸 电视机 台 电冰箱 台 洗衣机 台 脱排 台 煤气灶 台 要求 分割
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O
+婚姻 存续 期间 原告 闸口 弄×× 号 经营 铝合金 店面 2009年 年收入 30万 元 要求 分割 2009年 2012年 经营 收入 每年 15万 元 共计 60万 元
+O O O B_Person B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O
+2011年 3 4月份 期间 王某 借款 1万 元 用于 日常 生活 开支 2013年 2月 10日 重新 更换 条
+O O O O B_Person B_Debt B_Price I_Price O O O O O O O O O O
+2012年 7月 5日 金某 借款 1万 元 用于 日常 生活 开支
+O O O B_Person B_Debt B_Price I_Price O O O O
+2012年 12月 5日 毛某 借款 1万 元 用于 看病
+O O O B_Person B_Debt B_Price I_Price O O

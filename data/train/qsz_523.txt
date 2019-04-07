@@ -1,0 +1,8 @@
+原 被告 双方 2017 初 经人介绍 相识 2017年 月 门日 办理 结婚 登记 2017年 10月 1日 举行 婚礼 共同 生活
+O O O B_Time I_Time O B_Know B_Time I_Time O O B_Marry O B_Time I_Time I_Time B_Marry I_Marry O O
+婚后 发觉 双方 性格 不合 生活 琐事 争吵
+O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict
+2018年 5月 双方 关系 进一步 恶化 被告 离开 原告 分居 今
+B_Time I_Time O O O O O O O B_Separation I_Time
+2018年 8月 1日 双方 协商 离婚 未果 被告 谎称 原告 人 宝坻区 钰华 派出所 报警 民警 了解 情况 后 原告 被告 回家 原告 认为 夫妻 双方 感情 破裂 没有 和好
+O O O O O O O B_Person O B_Person I_DomesticViolence O O O O O O O O O O O O O O O O O O O

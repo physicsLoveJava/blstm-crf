@@ -1,0 +1,4 @@
+原告 王 某某 诉称 原 被告 系 事实 婚姻 关系 婚后 生育 三 子女 婚前 缺乏 了解 婚后 琐事 发生 争吵 被告 长期 离家 不 导致 夫妻 感情 破裂 现诉求 1 离婚
+O O O O O O O O O O O B_Bear O B_Gender O O O O O O B_FamilyConflict O O O O O O O O B_DivorceLawsuit O O
+原 被告 婚后 生育 三 孩子 感情 深厚 被告 离家 女儿 家 居住 原告 酒后 殴打 被告
+O O O O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence B_Person

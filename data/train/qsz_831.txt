@@ -1,0 +1,8 @@
+原告 被告 2006年 相识 相互 短暂 了解 后 确立 恋爱 关系 2008年 举办 结婚 仪式 共同 生活
+O O B_Time B_Know O O O O O O O O O O O O O
+2009年 2月 10日 补办 结婚 登记
+B_Time I_Time I_Time O B_Marry I_Marry
+婚后 2010年 8月 12日 生育 女儿 惠普佳妮
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 自由 恋爱 婚前 感情 基础 不 好 结婚 后 长 时间 共同 生活 原告 逐渐 发现 被告 不 恋爱 时 被告 一起 喝酒 逢 酒 必 醉 喝 醉 后 不 不顾 找 原告 吵架 有时 还 原告 大打出手 生气 打架 成 家常便饭 致使 原 告 之间 原本 淡薄 夫妻 感情 彻底 破裂 2017年 春节 后 原被告 分居 今
+O O O O O O O O O O O O O O O O O O O O O O B_Person O O O O O O O O O O O O O B_FamilyConflict O O B_Person B_DomesticViolence O O O O O O O O O O O O O O B_Time I_Time O O B_Separation I_Duration

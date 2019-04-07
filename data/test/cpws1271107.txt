@@ -1,0 +1,6 @@
+原告 好 被告 生活 2010年 9月 27日 补办 结婚 登记 手续
+O O O O B_Time I_Time I_Time O B_Marry O O
+婚前 相识 时间 短 了解 不 深 婚姻 基础 差 双方 性格 差异 太 大 草率 登记 结婚 婚后 缺乏 沟通 无法 建立 夫妻 感情 原告 2011年 3月 初 打工 双方 再 没有 联系
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+2012年 底 原告 人民法院 提起 离婚 诉讼 人民法院 判决 不 准 离婚 双方 仍 无 和好 现 双方 分居 已 满 两 年 感情 确 已 破裂 请求 人民法院 判决 原 被告 离婚
+O O B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,18 @@
+原告 黄某 诉称 原 被告 双方 1998年 认识 后 一起 外地 打工 times
+O O O O O O B_Time B_Know O O O O O
+生育 双胞胎 女儿 张某乙 张某丙 times
+B_Bear O B_Gender B_Name I_Name O
+婚姻 登记 机关 申请 结婚 登记
+O O O O B_Marry I_Marry
+婚前 缺乏 了解 婚后 被告 打骂 原告 不顾 家庭 导致 夫妻 感情 恶化 夫妻 感情 彻底 破裂
+O O O O O B_FamilyConflict O O O O O O O O O O O
+被告 不顾 家庭 原告 生活 经营 间 专营 女儿 服饰 商店 现 尚 欠 货款 183089．08 元 无法 偿还
+O O O O O O O O O O O O O B_Debt I_Debt B_Price I_Price O O
+为此 原告 诉至法院 请求 依法 判决 准予 原 被告 离婚
+O B_Person B_DivorceLawsuit O O O O O O O
+被告 张某 甲辩 称 1 原告 诉状 述 不 属实
+O O O O O O O O B_Negated I_Negated
+原告 借款 30万 元 用于 经营 女儿 服饰店 离婚 30万 元 属 夫妻 共同 债务 应 原告 负责 偿还
+O B_Debt B_Price I_Price O O O O O O O O B_Person I_Person O O O O O
+原告 债权 8．4万 元 属 夫妻 共同 财产 应 予以 分割
+O B_Wealth B_Price I_Price O O B_CommonProperty I_CommonProperty O O O

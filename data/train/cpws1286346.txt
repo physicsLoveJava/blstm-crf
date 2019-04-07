@@ -1,0 +1,10 @@
+原告 唐某 起诉 称 原 被告 相识 恋爱 后 1988年 原 长岭乡 人民政府 登记 结婚
+O O O O O O B_Know B_BeInLove O B_Time O O O B_Marry I_Marry
+婚后 于×××× 年×× 月×× 日 生育 女 取名 方某 乙 现年 25 岁 嘉兴 务工 ×××× 年×× 月×× 日 生育 子 取名 方某丙 现年 18 岁 已 义乌 务工
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age O O O
+婚后 原告 发现 被告 不务正业 酗酒 闹事 殴打 原告 赌博 恶习 半夜 不 回家
+O O O B_Person O B_BadHabit I_BadHabit B_DomesticViolence B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 40 岁 那年 曾 被告 锄头 挖 伤 无事生非 无中生有 诽谤 原告 外遇
+O O O O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O
+原告 忍受 不 被告 暴力 虐待 人身 侮辱 法院 起诉 要求 1 判 令 原告 被告 离婚
+O O O O O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

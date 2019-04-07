@@ -1,0 +1,10 @@
+原 被告 2007年 相识 确定 恋爱 关系 2010年 12月 16日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 2011年 9月 3日 生育 子 张艺
+O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 结婚 初期 感情 尚 时间 推移 被告 脾气 暴躁 性格 展露无遗 生活 琐事 原告 生气 吵架 原告 实施 家庭 暴力
+O O O O O O O O B_Person O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence
+2017年 5月 原被告 琐事 生气 吵架 被告 原告 实施 家暴 原告 回 娘家 居住 今
+B_Time I_Time O O O B_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence O B_Separation I_Separation I_Separation I_Time
+早日 结束 痛苦 婚姻 原告 2017年 6月 12日 依法 提起 离婚 诉讼 请求 人民法院 判 准 离婚 天津市 蓟州区 人民法院 出具 2017 津0119民初 6992 号 民事 判决书 判定 驳回 原告 诉讼 请求 未 准予 原告 离婚
+O O O O B_Person B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Court I_Court I_Court O I_Document I_Document I_Document I_Document I_Document I_Document O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+半 年 原被告 始终 分居 没有 和好
+O O O O B_Separation O O

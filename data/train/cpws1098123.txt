@@ -1,0 +1,4 @@
+原告 汪某 诉称 被告 张某 系 自由 恋爱 2009年 9月 9日 登记 结婚 被告 不 信任 双方 事情 看法 不同 常 生活 琐事 发生 争吵 致 夫妻 感情 严重 破裂
+O O O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+现 要求 被告 离婚 依法 分割 夫妻 共同 财产
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

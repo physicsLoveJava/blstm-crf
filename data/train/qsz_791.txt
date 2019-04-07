@@ -1,0 +1,6 @@
+原 被告 双方 经人介绍 相识 2000年 12月 5日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活
+O O O O O B_Time I_Time I_Time O O O B_Marry O O O O
+2008年 1月 22日 生育 长女 张明慧 2009年 7月 30日 生育 次女 张明玉
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚初 双方 感情 尚 好 时间 推移 原告 发现 被告牌 气暴踝 长期 酌酒 更 原告 不 容烈 被告 异性 不 正当 关系
+O O O O O O O O O B_Person O O B_BadHabit O O O O B_Person O B_Derailed I_Derailed I_Derailed

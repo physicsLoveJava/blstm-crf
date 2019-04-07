@@ -1,0 +1,8 @@
+被告 1997年 相识 1998年 3月 2日 登记 结婚 2000年 8月 16日 生育 女 名 李梦雪
+O B_Time B_Know O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚初 感情 尚 原 被告 常 生活 琐事 发生 争吵 夫妻 已 无 共同语言
+O O O O O O O O O O O B_FamilyConflict O O O O
+原告 曾 2017年 8月 1日 天津市 北辰区 人民法院 起诉 要求 被告 离婚
+B_Person O B_Time I_Time I_Time B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+后 贵院 作出 2017 津0113 民 初 4663 号 判决 不予 离婚
+O O O I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment

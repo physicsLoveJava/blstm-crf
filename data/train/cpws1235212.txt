@@ -1,0 +1,8 @@
+刘某 诉称 原 被告 ×××× 年×× 月×× 日 生育 子 取名 吴 某乙 于×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time I_Time O B_Marry
+婚后 双方 家庭 琐事 发生 争吵 被告 原告 实施 家庭 暴力 原告 被迫 2009年 9月 离家 外出 居住 今
+O O O O O B_FamilyConflict B_Person B_Person O B_DomesticViolence I_DomesticViolence O O B_Time I_Time O B_Separation I_Separation O
+被告 没有 原告 实施 家庭 暴力
+O O O O B_DomesticViolence I_DomesticViolence
+原告 2009年 9 10月份 离家 外出 居住
+O B_Time I_Time I_Time O B_Separation I_Separation

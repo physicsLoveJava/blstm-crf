@@ -1,0 +1,10 @@
+原 被告 2010年 建立 恋爱 关系
+O O B_Time B_BeInLove I_BeInLove I_BeInLove
+2014年 09月 15日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+婚后 2015年 7月 12日 育 女 贾婷畅 现年 3 岁
+O B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+婚后 原告 发现 被告 赌博 屡教不改 隐瞒 原告 外面 借款
+O O O B_Person B_BadHabit O O O O B_Debt
+原告 常 此事 发生 口角 越发 严重 不 一起 生活 影响 女儿 学习 成长
+O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O

@@ -1,0 +1,8 @@
+原、被告 自由 恋爱 相识 2014年 4月 21日 办理 结婚 登记 手续 婚后 二 人 共 育 子 杨玉龙 现年 1 周 3 月
+O B_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time O O B_Bear I_Bear B_Gender B_Name O B_Age I_Age I_Age I_Age
+原 被告 二 人 共同 生活 期间 原 被告 二 人 感情 基础 不 牢
+O B_Person O O O O O O O O O O O O O
+认识 月 办理 结婚 登记 手续 二 人 不够 了解 原 被告 生活 琐事 发生 争吵
+O O O O O O O O O O O O O O O B_FamilyConflict
+报告 长期 外 不 回家 赌博 恶习 不 承担 照顾 家庭 责任
+O O O O O B_BadHabit O O O O O O

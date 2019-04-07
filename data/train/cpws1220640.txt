@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2008年 经人介绍 认识 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 女孩 苏某丙 现年 6 岁
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+婚后 被告 酗酒 闹事 游手好闲 家庭 不 负 责任 婚生 女孩 苏某 丙 出生 后 至今 原告 父母 照看 抚养
+O B_Person B_BadHabit I_BadHabit B_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+2013年 2月 12日 原告 回 父母 家 居住 今
+B_Time I_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Time
+请求 依法 判决 原 被告 离婚 婚生 女孩 苏某 丙 原告 抚养 被告 每月 支付 300 元 抚养费
+O O O O O B_DivorceLawsuit O O O O O O O O O O O O

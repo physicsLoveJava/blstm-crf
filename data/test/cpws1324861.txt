@@ -1,0 +1,8 @@
+原告 张某 甲诉 称 原 被告 2007年 经人介绍 相识 夫妻 名义 同居 ×××× 年×× 月×× 日 生育 女 取名 张某乙
+B_Person I_Person B_DivorceLawsuit I_DivorceLawsuit O O B_Time O B_Know O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+后 生活 琐事 吵闹 2011年 11月 21日 双方 同居 期间 财产 分配 子女 抚养 达成 协议 2012年 4月 24日 原 告诉 本院 要求 同居 期间 财产 子女 抚养 进行 处理 双方 达成 协议
+O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+×××× 年×× 月××日 双方 和解 办理 结婚 登记 结婚 时间 不 长 被告 仍 不 理 家务事 12月 底 离家 出走 今 夫妻 感情 已经 破裂 现 要求 解除 原、被告 之间 婚姻 关系 判决 婚生 女 原告 抚养
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+被告 徐某 辩称 原告 提出 离婚 被告 同意 离婚 原 被告 同居 期间 婚后 原告 生活 作风 不 检点 导致 夫妻 感情 破裂 原告 应当 承担 全部 过错 责任
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O

@@ -1,0 +1,6 @@
+2017年 3月份 原 被告 经人介绍 相识 同年 4月 12日 原 被告 双方 宝坻区 民政部门 进行 婚姻 登记
+B_Time I_Time O O O B_Know O B_Time I_Time O O O O O O B_Marry I_Marry
+原 被告 结婚 以后 夫妻 感情 非常 没有 得到 进展 共同 生活 期间 原 被告 双方 生活 琐事 出现 生气 吵架 情况 导致 双方 夫妻 感情 出现 破裂
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O
+2018年 春节 过后 原 被告 双方 出现 分居
+B_Time I_Time I_Time O O O O B_Separation

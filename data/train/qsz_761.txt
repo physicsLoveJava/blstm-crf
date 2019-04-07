@@ -1,0 +1,4 @@
+原 被告 系 夫妻 关系 2016年 10月 24 相识 结婚 期间 生 子 刚 满 周 缺乏 婚前 足够 了解 段 婚姻 期间 原告 发现 被告 好吃懒做 不务正业 无 丝毫 家庭 观念 无论 原告 做 思想 工作
+O O O O O B_Time I_Time I_Time B_Know B_Marry O B_Bear B_Gender O O I_Age O O O O O O O O O O O O O O O O O O O O O
+2017年 7月份 被告 找茬 原告 孩子 扔 家里 外出 至今 不 原告 数次 被告 电话 协商 要求 回家 被告 均 已 拒绝
+B_Time I_Time O O O O O O B_Separation B_Duration O O O O O O O O O O O O

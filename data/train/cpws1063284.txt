@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原告 被告 经人介绍 认识 2010年 2月 19日 政府 登记 结婚 2011年 1月 23日 生 男孩 孙某 乙
+O O O O O O O O B_Time I_Time I_Time O B_Negated B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 性格 脾气 个别 打牌 赌博 不过 日子
+B_Person O O O B_BadHabit I_BadHabit O O
+原告 2013年 2月份 曾 起诉 离婚 法院 判决 不 准 离婚 后 双方 再 无 共同 生活 双方 感情 彻底 破裂
+O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O

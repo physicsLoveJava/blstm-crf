@@ -1,0 +1,6 @@
+原告 王某 诉称 被告 2006年 10 初 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+被告 婚前 缺乏 了解 后 草率 结婚 婚后 发现 二 人 性格 差异 大 难以 沟通 常 生活 琐事 发生 争吵 夫妻 感情 始终 不能 建立 2012年 11月 底 正式 分居
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_Time I_Time I_Time O B_Separation
+诉讼 要求 被告 离婚 依法 分割 共同 财产
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

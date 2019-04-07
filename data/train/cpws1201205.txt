@@ -1,0 +1,4 @@
+原告 王 某某 诉称 被告 经人介绍 2010年 12月 6日 登记 结婚 婚后 2011年 7月 25日 生育 长子 齐某甲
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 草率 结婚 婚后 常 家务 琐事 争吵 导致 夫妻 感情 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

@@ -1,0 +1,8 @@
+原告 被告 1990年 春 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+1991年 9月 29日 天津市 武清县 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+1992年 1月 29日 生育 子 取名 孙启星 现 已 成年
+B_Time I_Time I_Time B_Bear I_Gender O B_Name O O O
+年 原告 已经 家 身心 疲惫 却 不 被告 一点点 理解 体贴 现 双方 已经 分居 长 达 四 年 久 夫妻 感情 早已 破裂
+O O O O O O O O O O O O O O O B_Separation O O B_Duration I_Duration O O O O O

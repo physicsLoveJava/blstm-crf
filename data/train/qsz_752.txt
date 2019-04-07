@@ -1,0 +1,4 @@
+原被告 经人介绍 2007年 相识 2009年 4月 8日 农历 举行 结婚 仪式 同居 生活 2009年 11月 22日 生 男孩 李鑫
+O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 2012年 3月 1日 补 办 结婚 登记 手续
+O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry

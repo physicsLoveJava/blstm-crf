@@ -1,0 +1,10 @@
+原告 黄＊诉 称 原 被告 1997年 相识 1999年 订婚 被告 落户 原告 家
+O O O O O B_Time B_Know O O O O O O
+2004年 2月 25日 登记 结婚 2005年 5月 27日 生育 女孩 焦 a
+B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 婚后 常 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+2006年 原告 外出 务工 双方 聚 少 2012年 8月 彻底 失去 联系
+O B_Person O O O O O B_Time I_Time O B_Separation I_Separation
+请求 人民法院 依法 判决 准许 原 被告 离婚
+B_DivorceLawsuit B_Court O O O O O O

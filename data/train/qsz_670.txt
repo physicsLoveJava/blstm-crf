@@ -1,0 +1,4 @@
+原被告 2011年 2月 21日 登记 结婚 婚后 没有 生育 子女 没有 共同 财产
+O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O
+原被告 婚前 了解 不 婚后 不久 原被告 产生 矛盾 分居 今
+O O O O O O O O O B_Separation O

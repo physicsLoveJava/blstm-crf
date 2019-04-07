@@ -1,0 +1,4 @@
+原被告 经人介绍 1984年 4月 8日 领取 结婚证
+O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 感情 生育 长 女王 雪姣 34 岁 次女王 雪飞 29 岁 现 两 女儿 都 成家立业 原被告 双方 性格 不同 日常 生活 中 发生 口角 被告 动手 殴打 原告 原来 孩子 小 原告 忍耐 今 被告 不 改 恶习 现在 还 时不时 动手 殴打 原告 原告 身体 病 被告竞 原告 吃 药 药瓶 摔 碎 殴打 原告 导致 双方 感情 彻底 破裂 已 无 好
+O O B_Bear B_Gender I_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age O O O O O O O O O O O O O B_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O O B_Person O O B_BadHabit O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O

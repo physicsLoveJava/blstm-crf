@@ -1,0 +1,6 @@
+原 告诉 称 被告 2008年 7月 16日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 两 子女
+O B_Bear O B_Gender
+夫妻 感情 已经 彻底 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,12 @@
+原告 倪某 甲诉 称 2001年 原 被告 建立 恋爱 关系 2002年 8月 22日 登记 结婚
+O O O O B_Time O O O B_BeInLove O B_Time I_Time I_Time O B_Marry
+婚后 双方 感情 好 育 子
+O O O O B_Bear B_Gender
+自办厂 后 原告 忙于 跑 业务 应酬 夫妻 之间 出现 矛盾 后 原告 离开 公司 双方 感情 破裂
+O O O O O O O O O O B_FamilyConflict O O O O O O O
+3 夫妻 共同 财产 共同 债务 依法 分割 1 金华市 完美 包装 有限公司 50％ 股权 公司 注册 资本 150万 估价 70万
+O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O B_Price
+2 欠 泰隆 银行 共同 债务 607462．09 元 利息
+O O O O O B_Debt B_Price I_Price I_Price
+被告 倪某 乙辩 称 双方 感情 以来 蛮 好 开办 工厂 后 原告 婚外情
+O O O O O O O O O O O O B_Person B_Derailed

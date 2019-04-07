@@ -1,0 +1,6 @@
+2007年 7月 原 被告 互联网 上 认识 2012年 7月 3日 双方 宝坻区 民政局 领取 结婚证 后 双方 举行 婚礼 同居 生活 2012 11月 10日 生长 女 刘雨诺
+B_Time I_Time O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2013年 2月 双方 分居 至今 未 同居 夫妻 感情 已 完全 破裂
+B_Time I_Time O B_Separation B_Duration O O O O O O O
+原 被告 结婚 多年 育 子女 双方 分居 时间 长 达 5 年 夫妻 关系 实难 维持
+O O O O O O O B_Separation O B_Duration I_Duration I_Duration I_Duration O O O O

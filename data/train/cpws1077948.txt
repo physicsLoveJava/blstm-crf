@@ -1,0 +1,4 @@
+原告 龚某 甲诉 称 原 被告 2007年 2月 1日 经人介绍 认识 谈婚 ×××× 年×× 月××日 办理 结婚 登记 手续 认识 结婚 仅 六 天 时间
+O O O O O O B_Time I_Time I_Time O B_Know I_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O O O O
+婚姻 存续 期间 原 被告 分别 ×××× 年×× 月×× 日 生育 大 女孩 龚 某乙 ×××× 年×× 月×× 日 生育 二 女孩 龚某丙
+O O O O O O B_Time I_Time I_Time I_Time B_Bear O B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear O O O

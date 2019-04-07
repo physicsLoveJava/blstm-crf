@@ -1,0 +1,8 @@
+原告 张某 甲诉 称 原 被告 2007年 8月 媒人 王新菊 介绍 相识 2007年 农历 腊月 29日 举行 婚礼 2008年 6月 21日 双方 共同 婚姻 登记 机关 领取 结婚证 结婚 证号 皖临 黄婚字 第20080205 2008年 10月 22日 生 女孩 取名 张某乙
+O O O O O O O O O O O B_Know B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time O O O O O O B_Marry O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+女儿 出生 后 原告 孩子 爷奶 抚养 被告 女儿 不 不 问 原告 家庭 不尽 义务 原告 试图 托 人 调解 均 无济于事
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+夫妻 关系 依然 没有 改善 被告 仍 家 不 家庭 不尽 义务
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原 被告 结婚 已经 4 年 生育 女 被告 不 珍惜 夫妻 感情 不尽 义务 被告 行为 致使 原告 心灰意冷 解除 被告 这种 名存实亡 夫妻 关系 原告 诉至法院 要求 被告 离婚 抚养 婚生 女 张某乙 被告 支付 女儿 抚养费 财产 所有 共同 财产 依法 分割
+O O O O O O B_Bear O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

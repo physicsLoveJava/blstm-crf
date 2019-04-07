@@ -1,0 +1,4 @@
+原 告诉 称 被告 结婚 初期 感情 好
+B_Person I_Person O O O O O O
+后 生活 琐事 种种 理由 打骂 曾 起诉 离婚 后 被告 承认 错误 原谅
+O O O O O B_DomesticViolence O O O O B_Person O O O

@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 双方 1995年 12月 经人介绍 认识 双方 断断续续 交往 两 年 后 1997年 1月 31日 登记 结婚 2001年 5月 31日 生育 女儿 吴 冰
+O O O O O O B_Time I_Time O B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原、被告 双方 教育 成长 环境 存在 大 差距 婚前 缺乏 足够 了解 婚后 共同 生活 中 矛盾 不断 加剧
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 缺乏 家庭 责任感 没有 夫妻 之间 应有 坦诚 尊重 结婚 后 被告 隐瞒 实际 收入 原 被告 婚姻 期间 购买 位于 环城 北 一路 某某 房产 转让 后 得到 转让款 原告 不 知情 情况 下 私自 处理
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 过错 严重 伤害 原告 感情 双方 已 2011年 分居 已 两 年 夫妻 关系 已 名存实亡
+O O O O O O O O B_Time B_Separation O B_Duration I_Duration O O O O
+原 被告 1995年 12月 经人介绍 认识 两 年 相互 了解 慎重 考虑 1997年 1月 31 登记 结婚
+O O B_Time I_Time O B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+双方 婚后 感情 好 两 人 相互 扶持 事业 都 取得 发展 双方 觉得 感情 经济 方面 都 稳定 情况 下 才 决定 生育 孩子 现在 女儿 已经 12 岁
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Age I_Age
+原告 称 被告 私自 处分 房产 转让款 不 事实 被告 35．8万 元 转让款 用于 清偿 原 被告 债务 安厦 世纪 城 房子 装修
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

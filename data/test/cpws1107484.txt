@@ -1,0 +1,16 @@
+原告 李某 诉称 原 被告 2004年 认识 恋爱 不久 同居 生活 2005年 5月 25日 双方 大邑县 民政局 登记 结婚 2005年 6月 9日 生育 子 彭某甲
+O O O O O B_Time B_Know B_BeInLove O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 性格 不合 家庭 琐事 发生 纠纷
+O O O O O O B_FamilyConflict I_FamilyConflict
+被告 喜好 赌博 赌博 四处 钱 还 常常 无端 怀疑 原告
+B_Person B_BadHabit I_BadHabit O O O O O O O O
+原告 曾 2010年 7月 诉至法院 要求 被告 离婚 后 考虑 孩子 年幼 原谅 被告 撤回 起诉
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+之后 被告 仍 不知 悔改 2012年 6月 13日 债主 上门 催 收 被告 欠 赌债 导致 原告 一气之下 离家 被告 分开 生活 今
+O O O O O B_Time I_Time I_Time O O O O O O O O O O O O B_Separation I_Separation O
+现原 被告 夫妻 感情 已经 彻底 破裂 请求 人民法院 判 令 准予 原 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+化妆品 商店 原告 所有
+B_Wealth I_Wealth O O
+原 被告 双方 夫妻 关系 存续 期间 共同 债务 6万 元 原告 偿还
+O O O O O O O O B_Debt B_Price I_Price O O

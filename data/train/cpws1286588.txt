@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 1992年 1月 结婚 2002年 领养 女
+O O O O O O O B_Time I_Time B_Marry O O O
+婚后 初期 双方 感情 尚 2003年 常 家庭 琐事 发生 争执 现 双方 感情 已 彻底 破裂 无法 共同 生活
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O
+原告故 诉至法院 请求 依法 判决 1 原 被告 双方 离婚
+O B_DivorceLawsuit O O O O O O O O

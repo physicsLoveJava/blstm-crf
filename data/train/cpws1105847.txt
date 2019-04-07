@@ -1,0 +1,6 @@
+原告 徐某 诉称 2013年 2月 15日 原 被告 经人介绍 相识 双方 相识 两 月 后 便 同居 生活 ×××× 年×× 月×× 日 原 被告 办理 结婚 登记
+O O O B_Time I_Time I_Time O O O B_Know O O O O O O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+结婚 后 原告 才 发现 被告 不仅 性格 怪异 脾气 暴躁 为此 双方 发生 吵闹 无法 生活 下去
+O O O O O O O O O O O O O O B_FamilyConflict O O O
+请求 判 令 原告 被告 离婚 诉讼费 被告 承担
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

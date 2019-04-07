@@ -1,0 +1,8 @@
+1998年 原被告 经人介绍 相识 建立 恋爱 关系 2000年 1月
+B_Time O O O O B_BeInLove O O O
+2000年 12月 双方 登记 结婚
+B_Time I_Time O O B_Marry
+2000年 8月 24日 婚生 女儿 张仪莲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2016年 6月 双方 分居 今
+B_Time I_Time O B_Separation I_Time

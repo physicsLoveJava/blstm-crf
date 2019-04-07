@@ -1,0 +1,10 @@
+原告 赵某 诉称 2000年 6月 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time I_Time O B_Marry
+2009年 秋 被告 开 饭店 招 服务员 买 菜 琐事 生气 吵架 动手 被告 实施 家庭 暴力
+O O B_Person O O O O O O O O O B_DomesticViolence O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2009年 农历 十一月 二十九日 再 忍受 不 被告 外出 打工 被告 分居 今
+B_Time I_Time I_Time I_Time O O O O O O O B_Separation O
+现 法院 起诉 要求 1 被告 离婚
+O B_Court O O O I_DivorceLawsuit I_DivorceLawsuit
+原告 同意 分担 夫妻 共同 债务 同意 离婚 要求 抚养 孩子 不 要求 原告 负担 抚养费
+O O O O B_Debt I_Debt O O O O O O O O O O

@@ -1,0 +1,10 @@
+2016年 2月 原 被告 经人介绍 确立 恋爱 关系 2016年 10月 10日 双方 办理 结婚 登记 手续
+B_Time I_Time O O O O B_BeInLove O B_Time I_Time I_Time O O B_Marry O O
+婚后 被告 具有 严重 暴力 倾向
+O B_Person O O O O
+时常 动手 殴打 原告 原告 挣 工资 全部 霸占 手中 逼迫 原告 离婚
+O O B_DomesticViolence B_Person O O O O O O O O O
+2018年 农历 正月 初八 被告 无端 找茬 原告 后
+B_Time I_Time I_Time I_Time B_Person O O B_Person O
+回 娘家 居住 今
+B_Separation I_Separation I_Separation I_Time

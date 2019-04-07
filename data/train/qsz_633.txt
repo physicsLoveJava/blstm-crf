@@ -1,0 +1,10 @@
+原 被告 经人介绍 相识 2016年 12月 23日 原 被告 办理 结婚 登记 婚后 生育 女 孙 静怡 现年 3 岁
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name I_Name O B_Age I_Age
+原 被告 婚后 感情 不 睦 被告 脾气 暴躁 双方 家庭 琐事 争吵
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_FamilyConflict
+被告 酒后 原告 殴打 原告 伤
+B_Person O B_Person B_DomesticViolence O O
+原告 无法 被告 一起 生活 2018年 6月 8日 回 娘家 居住
+O O O O O B_Time I_Time I_Time B_Separation I_Separation I_Separation
+至今 双方 没有 来往
+B_Time O O O

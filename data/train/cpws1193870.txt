@@ -1,0 +1,4 @@
+原告 韦 某某 诉称 原 被告 结婚 后 被告 喝酒 喝酒 后 原告 导致 夫妻 感情 破裂
+O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O
+被告 覃 某某 辩称 原 被告 结婚 后 小吵小闹 被告 没有 原告
+O O O O O O O O O B_Person O B_Person

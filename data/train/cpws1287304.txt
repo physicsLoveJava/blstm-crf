@@ -1,0 +1,2 @@
+原告 郑 某某 诉称 被告 婚后 被告 不思进取 不尽 家庭 义务 生活 家庭 琐事 时常 吵闹 打架 难以 共同 生活 双方 2011年 9月 分居 生活 今 互不 履行 夫妻 义务 致使 夫妻 感情 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_Time I_Time B_Separation O I_Time O O O O O O O O

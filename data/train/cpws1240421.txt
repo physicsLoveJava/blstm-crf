@@ -1,0 +1,12 @@
+原告 王某 诉称 被告 经人介绍 认识 1988年 3月 3日 阳信县 劳店乡 人民政府 登记 结婚 婚后 生育 子 女 现 均 已 成年
+O O O O O O B_Time I_Time I_Time O O O O B_Marry O B_Bear B_Gender B_Gender O O O O
+婚后 双方 性格 不合 发生 矛盾
+O O O O O B_FamilyConflict
+2009年 双方 分居 经济 收入
+B_Time O B_Separation O O
+2013年 2月 底 原被告 双方 发生 纠纷 动手 打架 被告 离家 出走 至今 未
+B_Time I_Time I_Time O O O O B_DomesticViolence I_DomesticViolence O O O O O
+原告 结婚 已 达 25 年 久 夫妻 感情 好 有时 家务 琐事 发生 口角 没有 影响 夫妻 感情
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+二 人 共同 生育 女 子 女儿 已经 出嫁 儿子 现在 硕博连 读 期间 儿女 均 不 同意 两 人 离婚
+O O O B_Bear B_Gender B_Gender O O O O O O O O O O O O O O O

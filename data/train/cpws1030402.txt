@@ -1,0 +1,4 @@
+打工 期间 被告 整天 泡 网吧 玩 游戏 无事生非 持 菜刀 凶器 原告 进行 殴打 致 原告 受伤
+O O B_Person O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O B_DomesticViolence O B_Person O
+去年 遭受 被告 殴打 后 原被告 分居 生活 今
+O O O O O O B_Separation O I_Time

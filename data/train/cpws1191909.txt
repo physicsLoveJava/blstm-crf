@@ -1,0 +1,4 @@
+原告 刘某 诉称 2002年 3月 双方 经人介绍 相识 同年 10月 19日 举行 仪式 2003年 生 女 刘某 2005年 被告 登记 结婚 2008年 生 子 刘某
+O O O O O O O B_Know O O O O O B_Time B_Bear I_Gender B_Name B_Time O O B_Marry B_Time B_Bear I_Gender B_Name
+双方 相识 时间 短 双方 性格 脾气 爱好 不 常 琐事 吵架
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

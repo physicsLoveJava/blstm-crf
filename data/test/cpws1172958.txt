@@ -1,0 +1,8 @@
+原告 郭某 甲诉 称 原被告 1994年 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女 郭某乙
+O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name
+原被告 婚前 缺乏 了解 婚后 感情 家庭 琐事 吵闹 被告 脾气 偏激 暴躁 怪癖 原告 疑心 重重 妄加 猜疑 致使 原告 无法 正常人 生活 现 原被告 已 分居 被告 根本 没有 做到 妻子 应 责任 夫妻 感情 彻底 破裂 请求 依法 判决 原被告 离婚 共同 财产 依法 分割 原告 抚养 孩子 被告 承担 孩子 抚养费 每月 800 元
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+婚后 双方 扶持 块 做 生意 形影不离 同甘共苦 感情 非常 好 1997年 生 下 女儿 郭某乙 孩子 取名 郭某乙 意 指 生活 甜蜜
+O O O O O O O O O O O B_Time B_Bear I_Bear B_Gender B_Name O O O O O O O
+物质 条件 提高 原告 思想 上 发生 变化 麻将 赌博 夜 不 宿 为此 原被告 争吵
+O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O

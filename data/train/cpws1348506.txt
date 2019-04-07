@@ -1,0 +1,10 @@
+原告 赵×诉 称 原 被告 经人介绍 2002年 3月 12日 登记 结婚 2003年 7月 3日 生 女 赵××
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2009年 5月 双方 分居
+B_Time I_Time O B_Separation
+2012年 3月 原告 起诉 要求 被告 离婚
+B_Time I_Time B_Person B_DivorceLawsuit O O O
+2012年 6月 20日 大兴区 人民法院 判决 不 准 离婚
+B_Time I_Time I_Time B_Court I_Court O B_Judgment I_Judgment I_Judgment
+2005年 原 被告 共同 购买 北京市 大兴区 黄村镇 清澄名 苑南区 22 号 楼 3 单元 401 二 居室 楼房 套
+O O O B_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

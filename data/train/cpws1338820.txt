@@ -1,0 +1,8 @@
+原告 吴 某某 诉称 原 被告 1998年 4月 16日 登记 结婚
+O O O O O O O O O B_Marry I_Marry
+2000年 10月 24日 生育 女 取名 吴清 吴倩
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 性格 古怪 平时 根本 无法 相处 还 时常 恶言 辱骂 大打出手 婚后 生活 令 痛苦 不堪
+B_Person O O O O O O O O O O B_DomesticViolence O O O O O
+2013年 2月 19日 原告 起诉 要求 被告 离婚 2013 涿民 初字 第884号 判决 不 准 离婚 后 双方 至今 持续 分居 现 夫妻 感情 确 已 彻底 破裂 无 和好 现 起诉 请求 解除 双方 婚姻 关系 婚生 女 吴清 原告 抚养 被告 每月 承担 抚养费 300 元 共同 财产 依法 分割 诉讼 费用 被告 承担
+B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment O O B_Time O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

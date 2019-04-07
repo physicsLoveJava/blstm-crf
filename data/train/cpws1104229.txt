@@ -1,0 +1,8 @@
+原告 柳某 诉称 2005年 5月 1日 被告 依法 登记 结婚 婚后生 儿子 王某 甲 现年 6 岁
+B_Person O O B_Time I_Time I_Time O O B_Marry I_Marry B_Bear B_Gender B_Name I_Name O B_Age I_Age
+婚前 被告 隐瞒 患 癫痫病 事实 致使 婚后 夫妻 关系 不 睦 实施 家庭 暴力 被告 患有性 功能 障碍 疾病
+O B_Person O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O
+2012年 10月 外出 打工 至今 未
+B_Time I_Time B_Separation I_Separation O O
+现 请求 离婚 孩子 被告 抚养 夫妻 共同 财产 依法 分割 嫁妆 依法 返还
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

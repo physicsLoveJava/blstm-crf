@@ -1,0 +1,10 @@
+原 被告 寸 1998年 6月 人 介绍 相识 不久 后 二 人 居住 一起 生活
+O O O B_Time I_Time O O B_Know O O O O O O O
+2001年 8月 2 口 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+婚前 缺乏 了解 草率 结婚 婚后 夫妻 双方 琐事 发生 争吵 婚姻 感情 基础 薄弱
+O O O O O O O O O O B_FamilyConflict O O O O
+被告 拆迁款 后 找茬 生事 原告 回 东北 老家
+O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 长期 侮辱 刺激 导致 原告 生病 生活 不 自理
+B_Person O B_DomesticViolence O O B_Person O O O O

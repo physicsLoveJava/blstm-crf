@@ -1,0 +1,10 @@
+原告路 某某 诉称 原 被告 经人介绍 1999年 4月 12日 东营市 民政局 登记 结婚 X 年 X 月 X 日 生育 女孩
+O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender
+结婚 仓促 婚前 被告 性格 生活 习惯 方面 了解 不够 婚后 发现 被告 思想 偏激 是非 不 分 好逸恶劳 双方 未 建立 夫妻 感情 被告 争吵 打骂 中 度日 孩子 原告 十几 年 才 带 婚姻 枷锁 忍受 身心 煎熬
+O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+被告 不但 不 思 悔改 酒后 打骂 原告
+B_Person O O O O B_DomesticViolence I_DomesticViolence B_Person
+原告 2010年 3月 搬 出 居住
+O B_Time I_Time B_Separation I_Separation I_Separation
+原 被告 双方 感情 确 已 破裂 请求 法院 依法 判 令 原告 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

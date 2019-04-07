@@ -1,0 +1,14 @@
+原被告 2014年 3月 8日 经人介绍 相识 相处 2014年 5月 6日 办理 结婚 登记 手续 原被告 均 系 二婚
+O B_Time I_Time I_Time O B_Know O B_Time I_Time I_Time O B_Marry I_Marry O B_Person O O B_Remarry
+婚后 被告 原告 无 共同 生活 诚意 大部分 时间 娘家 居住 生活 双方 共同 生活 时间 不足 三 月 没有 建立 夫妻 感情
+O O O O O O O O O I_Separation I_Separation I_Separation O O O O O O O O O O O
+2015年 5月 18日 被告 感情 不 回 娘家 居住 致使 感情 破裂
+B_Time I_Time I_Time O O O B_Separation I_Separation I_Separation O O O
+被告 累计 原告 索要 彩礼 36200 元 金 戒指 枚 价值 3000 元
+O O B_Person O B_Debt B_Price I_Price B_Price I_Price I_Price I_Price I_Price I_Price
+后 原告 曾 起诉 离婚 2017年 7月 10日 蓟州区 人民法院 作出 驳回 原告 离婚 诉讼 请求 判决
+O B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time B_Court I_Court O B_Judgment I_Judgment I_Judgment I_Judgment O O
+判决 后 双方 无 来往 无 和好
+O O O B_Separation I_Separation O O
+至今 已经 近 三 年
+O O B_Duration I_Duration I_Duration

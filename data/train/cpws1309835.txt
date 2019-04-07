@@ -1,0 +1,2 @@
+原 告诉 称 原告 被告 均 系 再婚 相识 时间 短 婚后 没有 感情 常 家务 琐事 生气 吵架 被告 老人 不 照顾 孩子 不尽 教育 义务 放任 管教 原告 加 管教 被告 袒护 孩子 现 夫妻 感情 确 已 破裂 请求 离婚 各人 抚养 人 子
+O O O O O O O B_Remarry O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

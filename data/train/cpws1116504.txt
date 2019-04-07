@@ -1,0 +1,2 @@
+原告 刘 某某 诉称 原 被告 介绍 2004年 5月 17日 登记 结婚 2005年 3月 21日 生育 女 张某甲 婚前 缺乏 了解 感情 基础 差 婚后 未 建立 真正 夫妻 感情 常 家庭 琐事 争吵 致使 夫妻 感情 破裂 原告 2012年 1月 5日 诉 贵院 请求 离婚 法院 判令 不准 原 被告 离婚
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O O B_FamilyConflict O O O O B_Person B_Time I_Time I_Time B_DivorceLawsuit O O O O O B_Judgment O O O

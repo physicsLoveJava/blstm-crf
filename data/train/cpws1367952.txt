@@ -1,0 +1,24 @@
+原告 王 某某 诉称 被告 1997年 5月 18日 泾川县 窑店乡 人民政府 登记 结婚
+O O O O O B_Time I_Time I_Time O O O O B_Marry
+婚后 1999年 4月 生育 男孩 取名 刘某 甲 2011年 8月 生育 女孩 取名 刘某 乙
+O B_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time B_Bear B_Gender O B_Name I_Name
+2010年 4月 两 人 共同 购买 位于 平凉市 崆峒区 西寺街 33 号 毛纺厂 家属院 3 号 楼 1 单元 103室 楼房 套
+O O B_Person I_Person O O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty B_Wealth O
+两 人 婚前 缺乏 了解 婚后 性格 不和 家庭 琐事 双方 发生 矛盾
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+1998年 10月份 怀 儿子 期间 被告 窑店 街道 无故 地拉扯 三 米 远 导致 差点 流产 长武县 医院 周 住院 治疗 才 保住 孩子
+O O O O O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+2005年 5月 后 两 人 离开 老家 做 些 小 生意 维持 生活 2005年 2006年 泾川 县城 两 人 开 干洗店 期间 被告 拳脚 相加
+O O O O O O O O O O O O O O O O O O O O O O B_Person I_DomesticViolence I_DomesticViolence
+2007年 10月 被告 去 广州 打工 随后 干洗店 转让 后 去 广州 打工 期间 被告 旧习 不 改 殴打
+O O O O O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+2013年 6月 29日 晚 被告 压 客厅 沙发 上 卡住 脖子 称 掐 死
+O O O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+同年 7月 2日 被告 跑 进 厨房 菜刀 砍 儿子 拉开
+O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O
+同年 7月 6日 遭 被告 殴打 住院 治疗 周
+O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+现 诉至法院 要求 被告 离婚
+O B_DivorceLawsuit O O O
+被告 刘 某某 辩称 原告 述 结婚 时间 婚后 生育 情况 均 属实 诉状 中 说 不 事实
+O O O O O O B_Marry O B_Bear I_Bear O O B_Negated O O O B_Negated I_Negated

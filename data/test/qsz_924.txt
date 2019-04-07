@@ -1,0 +1,8 @@
+原被告 经人介绍 2006年 恋爱 同居 2007年 12月 1日 生育 长子 王一 2010年 1月 5日 生育 次子 王天 2012年 2月 9日 办理 结婚 登记 手续 领取 结婚 证书
+O O B_Time B_BeInLove O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O
+被告 性情 暴躁 独断专横 年 高傲 自赏 看 不 原告 家人 无事生非 制造 家庭 矛盾 原告 分居 至今 已 3 年 余
+B_Person B_BadHabit I_BadHabit B_BadHabit O B_BadHabit I_BadHabit O O O O B_BadHabit O O O B_Separation I_Separation O O B_Duration I_Duration I_Duration
+被告 不 思 改正 变本加厉 2017年 2月 2日 追找 原告 打架 纠集 7 8 人 用棍棒 殴打 手 抓 手段 疯狂 击打 原告 造成 原告 头 面部 眼睛 颈部 四肢 胸部 处 外伤
+B_Person O O O O B_Time I_Time I_Time O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O
+综 上 原告 认为 被告 不 思 夫妻 感情 实施 过错 行为 挑起 家庭 纠纷 召集 下 重手 殴打 原告 原告 处 外伤 原告 人身 安全 受到 侵害 威胁 被告 实质 错 致 双方 感情 已 彻底 破裂 再 继续 维系 原告 都 痛苦 引发 激烈 冲突 悲剧
+O O O O B_Person O O O O O O O O O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O

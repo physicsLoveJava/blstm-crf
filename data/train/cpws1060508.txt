@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 经人介绍 认识 短暂 接触 后 便 同居 2001年 2月 22日 生于 女 彭 XX 婚后 女儿 子 原告 生活
+O O O O O O O O O O O O B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name O O O O O
+2004年 6月 30日 原 被告 桂林市 叠彩区 民政局 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O B_Marry B_Negated O
+2011年 12月 原告 遭到 被告 家庭 暴力 曾 桂林市 妇联 反应 情况
+O O B_Person O B_Person B_DomesticViolence I_DomesticViolence O O O O O
+2011年 5月 15日 被告 原告 伤 后 原告 带 女儿 彭 XX 单独 外租房 居住 至今 双方 已经 分居 两 年
+B_Time I_Time I_Time O O O O O O O O O B_Separation I_Separation O B_Time O O O O O

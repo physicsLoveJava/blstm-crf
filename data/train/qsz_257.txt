@@ -1,0 +1,8 @@
+2 婚生 男孩 10 周岁 归属 原告 抚养
+O B_Bear B_Gender B_Age I_Age O O O
+3 i @4 本案 诉讼 费用 被告 承担 请求 事项 原 告 之间 2008年 5月 6日 武清区 民政部门 登记 结婚 婚生 男孩 现 10 周岁 原告 抚养
+O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O
+双方 感情 不 原告 2017年 8月 起诉 离婚
+O O O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+被告 没有 庭 参加 诉讼 原告 撤诉
+O O O O O B_Judgment I_Judgment

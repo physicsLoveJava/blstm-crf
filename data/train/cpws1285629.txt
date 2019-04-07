@@ -1,0 +1,6 @@
+原告 刘 某某 诉称 原 被告 2005年 3月 相识 恋爱 2009年 2月 5日 某县 镇 人民政府 补办 结婚 登记 手续 双方 2009年 1月 11日 生育 子温 某甲
+O O O O O O B_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 性格 不合 常 家庭 琐事 发生 矛盾 感情 不 2012年 3月 分居 生活 今
+O O O O O O O B_FamilyConflict O O B_Time I_Time B_Separation O I_Time
+原告 遂 诉至法院 要求 被告 温 某某 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O

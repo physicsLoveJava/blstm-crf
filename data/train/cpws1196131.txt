@@ -1,0 +1,2 @@
+原告 郑某 甲诉 称 原 被告 1999年 相识 恋爱 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月××日生 女儿 郑某 乙 婚后 两 人 性格 不合 发生 争吵 特别 生育 女儿 后 争吵 增多
+O O O O O O B_Time O B_BeInLove O O O O O B_Marry O O B_Bear B_Gender B_Name I_Name O O O O O I_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1990年 9月 24日 登记 结婚 婚后 生育 名 女孩 岳某 甲
+O O O O O O O O B_Marry I_Marry O B_Bear O B_Gender B_Name I_Name
+原告 认为 被告 2000年 出差 时 作出 背叛 夫妻 感情 事情 致使 夫妻 感情 破裂 请求 法院 判 令 原 被告 离婚
+O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O

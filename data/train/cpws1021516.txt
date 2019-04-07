@@ -1,0 +1,8 @@
+原告鲁 XX 诉称 原 被告 2009年 10月 介绍 认识 2010年 3月 22日 登记 结婚
+O O O O O B_Time I_Time O B_Know O O O O B_Marry
+2010年 11月 17日 生育 女儿 李 X1 2012年 12月 9日 生育 女儿 李 X2
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 没有 主见 事情 都 听 家人 意见 从不 顾及 原告 感受 双方 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O O O O B_FamilyConflict
+2011年 原告 双方 感情 不 被告 提出 离婚 后 原告 意外 怀孕 考虑 女儿 还 小 原告 忍 下来 希望 被告 看 女儿 份 上 原告 关心 照顾 一点 原 被告 一起 生活 时 被告 没有 一点 好转 原告 发生 争吵 原告 提出 离婚 被告 不 同意 扬言 原告 离婚 被告 原告 家人 不 客气
+B_Time B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

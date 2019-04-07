@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 朋友 介绍 相识 2011年 6月 9日 登记 结婚 双方 均 系 再婚
+O O O O O O O O B_Time I_Time I_Time O B_Marry O O O B_Remarry
+双方 结婚 一年 四 月 处于 分居 状态 未能 建立 夫妻 感情 被告 从未 关心 照顾 原告
+O O B_Duration I_Duration I_Duration O B_Separation O O O O O O O O O O
+婚前 协议 彩礼 10000 元 办理 养老金 手续 费用 10000 元 婚后 付 被告
+B_PersonalProperty O B_Wealth B_Price I_Price O B_Wealth O O B_Price I_Price O O O
+双方 琐事 发生 争吵 殴打
+O O O B_FamilyConflict O

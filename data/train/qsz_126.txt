@@ -1,0 +1,10 @@
+原告 被告 2013年 2月 8日 相识 2014年 正月 十八 举行 结婚 仪式 2014年 4月 21日 登记 结婚
+O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 性格 矛盾 逐渐 暴露 被告 生活 琐事 原告 吵架 大打出手 2014年 12月 11日 儿子 孙嘉 出生
+O O O B_FamilyConflict O O O O O O B_FamilyConflict B_FamilyConflict B_Time I_Time I_Time B_Gender B_Name B_Bear
+被告 原告 伤害 时间 推移 逐步 升级
+B_Person O O O O O O
+长期 家庭 暴力 致使 原告 忍无可忍 无法 继续 共同 生活
+B_Time B_DomesticViolence I_DomesticViolence O B_Person O O O O O
+原告 无奈 贵院 起诉 请 人民法院 依法 判决 离婚
+B_Person O B_Court B_DivorceLawsuit O O O O O

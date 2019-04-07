@@ -1,0 +1,10 @@
+原被告 2010年 经人介绍 相识 确立 恋爱 关系 2012年 4月 26日 举行 婚礼 仪式 共同 生活 2012年 10月 28日 生育 子 取名 毛家辉
+O B_Time O O B_BeInLove I_BeInLove I_BeInLove O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2014年 1月 20日 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O
+原被告 婚后 感情 被告 脾气 性格 暴躁 疑心 重 无故 猜疑 原告 造成 双方 争吵 打架 双方 大妻 感情 口 渐 破裂
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O
+2017年 7月 20日 被告 猜疑 原告 原告 工作 单位 吵闹 当众 殴打 原告 被告 行为 原告 造成 严重 名誉 损害 原告 当日 家中 搬走
+B_Time I_Time I_Time B_Person O O B_Person O O O O B_DomesticViolence O O O O O O O O O O O O
+双方 分居 今
+O B_Separation I_Time

@@ -1,0 +1,48 @@
+2014年 10月份 原、被告 经人介绍 相识 建立 恋爱 关系 2015年 8月 20日 登记 结婚 婚后 2017年 2月 28日 育 女 孙端
+B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear I_Gender B_Name
+现年 15 月
+O B_Age I_Age
+琐事 原告 发生 激烈 争吵 原告 忍让 回避 争吵 被告 却 变本加厉
+O O O O B_FamilyConflict O O O O O O O
+仍 不断 原告 发生 争吵
+O O O O B_FamilyConflict
+2017年 7月份 被告 琐事 原告 吵架 原告 轰出 门外 孩子 强行 抱 走
+B_Time I_Time O O O B_FamilyConflict O O O O O O O
+期间 被告 不 原告 看望 孩子 二 人 分居 今
+O O O O O O O O B_Separation O
+后 原告 发现 被告 恶意 隐匿 财产 单位 发放 住房 补贴 安家费 80万 元 元光 学者 津贴 8万 元/年
+O O O O O O O O O B_Wealth I_Wealth I_Wealth B_Price I_Price B_Wealth I_Wealth I_Wealth B_Price I_Price
+不 同意 离婚 原告 所述 分居 时间 属实 不 被告 原告 轰走 原告 离开 被告 从未 拦 原告 见 孩子 原告 从未 主动 要求 看 孩子 原告 述 住房 补贴 安家费 80万 元 被告 不 具有 发放 资格 河北 工业 大学 没有 发放 元光 学者 津贴 8万 元/年 三 年 考评 次 被告 资格 领取 款项 不 一次性 发放 税 后 每月 5000月 折合 每月 工资 里 发放 不 存在 隐匿 财产 行为 考虑 孩子 完整 家庭 不 同意 离婚
+O O O O O B_Separation O B_Negated O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2014年 10月份 原被告 经人介绍 建立 恋爱 关系
+B_Time I_Time O O B_BeInLove I_BeInLove I_BeInLove
+2015年 8月 20日 登记 结婚 2016年 5月 28日 举行 仪式 后 共同 生活 2017年 2月 28日 育 女 孙端
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear I_Gender B_Name
+审 双方 之前 起诉 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit
+原 没有
+O B_Negated
+争吵 怀孕 争吵 愈演愈烈 2017年 8月 5日 分居 被告 原告 轰走 不 原告 婚 住房 里 居住
+B_FamilyConflict O O O B_Time I_Time I_Time B_Separation O O O O O O O O O
+感情 情况 不 争吵 正常 小 矛盾 分居 时间 认可 不 被告 原告 赶走 自行 离开 原告 照看 孩子 孩子 不 小心 碰到 双方 发生 点 口角 下午 原告 写 小 纸条 事项 带 孩子 时间 规划 不 规划 实行 搬走 教师 放 暑假 每天 都 一起 照顾 孩子 纸条 后 难 接受 劝 别 走 走 下午 岳母 发 信息 说 原告 走 正在 带 孩子 没 办法 找
+O O O O O O O B_Separation O B_Negated O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+审 原被告 婚前 财产
+O O B_PersonalProperty I_PersonalProperty
+块 男士 浪琴 手表 母亲 2015年 登记 以后 买 两 块 手表 块 女士 手表 块 男士 手表 男士款 被告 没 带 放在 家里 女士 原告 条 沈阳 萃华 女士 白金 项链 2015年 结婚 前 购买 现在 婚住房 里 条 女士 白金 手链 被告 婚前 送给 原告 现在 婚住房 里 女士 钻戒 现在 在婚 住房 里 购买 记不清 母亲 孩子 购买 黄金 长 命锁 婚住房 里 物品 都 婚住房 里
+I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O B_Wealth I_Wealth O O O O O O O O O I_Wealth I_Wealth I_Wealth O O I_Wealth O O O
+男士 浪琴 手表 确实 被告 处 原告 母亲 赠与 被告 白金 项链 手链 确实 不 婚住房 里 钻戒 长命 锁 婚住房 里 原告 衣物 婚住房 里
+B_Wealth I_Wealth I_Wealth O O O O O O O B_Wealth I_Wealth I_Wealth B_Negated O O O O O O O O B_Person I_Wealth O O
+审 双方 婚后 共同 财产
+O O O B_CommonProperty I_CommonProperty
+被告 名下 天津市 红桥区 三 条 石 大街 千 吉 花园 7 号 楼 2303室 房屋 2014年 11月份 190 万 购买 贷款 140 万 被告 名义 贷款 现在 尚未 还 完 贷款
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O
+原告 述 情况 不 属实 属于 名 买房 被告 方便 贷款 登记 被告 名下 不 被告 财产 首付款 贷款 都 被告 父母 负担 每月 贷款 都 被告 父母 银行 柜台 现金 形式 存在 还款 账户 里 被告 母亲 名 下 银行卡 转账 还款 账户 里 被告 无关
+O O O B_Negated I_Negated O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 名下 套 房产 北京市 大兴区 采育镇 育镇街 32 号 院 12 号 楼 2 单元 403 号 2015年 8月 底 购买 总 房款 记不清 登记 原告 名下 原告 名义 贷款 每月 还款 1600 左右
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O
+北京 房子 2015年 8月 4日 购买 被告 名下 房屋 不 属于 名 买房 婚后 双方 名义 还款 被告 卡 转 被告 母亲 卡 上 再 被告 母亲 还款
+B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O
+分居 前 家中 现金 30000 元 现在 情况 不 清楚 安家费 80万 元 现在 不 清楚 2018年 5 6月份 河北 工业 大学 网站 上 看到 发放 款项 信息 信息 2018年 4月 27日 颁布 每年 元光 学者 津贴 8万 元 不 清楚 2018年 5 6月份 河北 工业 大学 网站 上 看到 没有
+O O O B_Wealth O O O O O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 述 现金 30000 元 没有 人 名义 建设 银行 2万 元 定期 存折 原告 述 住房 补贴 安家费 80万 元 被告 不 具有 发放 资格 河北 工业 大学 没有 发放 元光 学者 津贴 8万 元/年 三 年 考评 次 被告 资格 领取 款项 不 一次性 发放 税 后 每月 5000月 折合 每月 工资 里 发放 没有
+O O B_Wealth O O B_Negated O O O O O O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,18 @@
+原告 张某 诉称 原 被告 ××××年 经人介绍 相识 恋爱 ×××× 年×× 月×× 日 农村 习俗 举行 婚礼 2009年 补办 结婚 登记 手续
+O O O O O B_Time O B_Know B_BeInLove O O O O O O O O B_Time O B_Marry O O
+××××年 10月 30日 女儿 黄文航 出生 ×××× 年×× 月×× 日 儿子 黄文杰 出生
+B_Time I_Time I_Time B_Gender B_Name B_Bear B_Time I_Time I_Time I_Time B_Gender B_Name B_Bear
+好景不长 年 被告 染 上 赌博 恶习 不 半 年 时间 家底 全部 输 光 欠 下 50万 元 赌债
+O O B_Person O O B_BadHabit I_BadHabit O O O O O O O O O O O O O
+腰包 鼓 被告 忘乎所以 不但 赌博 死灰复燃 可怕 2009年 吸毒
+O O O O O B_BadHabit O O O B_BadHabit
+尤其 去年初 以来 平均 每月 20 天 左右 县城 宾馆 饭店 开 房间 吸毒 赌博 夜 不 归宿
+O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 已经 彻底 失去 继续 共同 生活 勇气 信心
+B_Person O O O O O O O O
+万般无奈 之下 只得 人民法院 提起 离婚 诉讼 请求 1 依法 解除 原 被告 婚姻 关系
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+努力 2008年 还 清 欠 债务 2009年 儿子 出生 后 生意 做 好 买 房子
+O O O O O O B_Time B_Gender B_Bear O O O O O O
+2010年 包 湖 后 移动 营业厅 查 原告 通话 记录 发现 别的 男人 保持 长 时间 通话 查 九江 开房 记录 之后 还 查 QQ 记录 消极 吸毒 麻痹 年 家中 人 事 忙 上 忙 下 出 钱 出力 却 背叛 感情
+B_Time O O O O O O B_Person O O O O O O O O O O O B_Derailed O O O O O O O O O O O O O O O O O O O O O O O

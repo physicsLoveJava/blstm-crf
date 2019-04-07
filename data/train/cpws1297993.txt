@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 2004年 5月 9日 登记 结婚 2004年 11月 29日 生育 儿子 张甲某
+O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+2011年 后 被告 还 染 上 赌博 恶习 负债累累 原告 帮 被告 归还 赌债 被告 仍 屡教不改 夜 不 归宿
+O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O
+被告 没有 赌博 恶习 外面 债务 都 做 工程 失败 亏欠 赌博 欠
+O O B_BadHabit I_BadHabit O O O O O O O O O

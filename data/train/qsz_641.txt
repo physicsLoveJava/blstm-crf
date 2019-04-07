@@ -1,0 +1,8 @@
+双方 经人介绍 2017年 7月 相识 办理 婚姻 登记
+O O B_Time I_Time B_Know B_Marry I_Marry I_Marry
+双方 婚前 缺乏 足够 了解 婚后 家庭 琐事 发生 争吵 被告 殴打 原告
+O O O O O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person
+2018年 6月 双方 再 次 发生 矛盾
+B_Time I_Time O O O O O
+被告 次 殴打 原告 原告 回 娘家 双方 分居 今
+O O O O O O O O B_Separation I_Time

@@ -1,0 +1,12 @@
+原告 张×× 诉称 原 被告 2011年 农历 正月 十二日 未 办理 结婚 登记 情况 下 匆忙 举行 婚礼 2011年 11月 29日 补办 结婚 登记 手续
+O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2012年 6月 15日 夫妻 双方 生育 男孩 朱××
+B_Time I_Time I_Time O O B_Bear I_Gender B_Name
+原告 出走 后 被告 不闻不问 被告 父母 从未 找 原告
+B_Person O O O O O O O O O
+请求 人民法院 依法 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+返还 原告 娘家 陪嫁 3000 元 现金 饮水机 1 台 皮箱 1 洗衣机 1 台 冰柜 1 台 依法 分割 共同 财产 蒙 C20835 号 小轿车 辆
+O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth
+被告 朱×× 辩称 原 被告 2010 年 后 半年 相识 半 年 自由 恋爱 才 结婚 双方 都 十分 了解 深厚 感情
+O O O O O B_Time I_Time I_Time I_Time B_Know O O O O O O O O O O O O

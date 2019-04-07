@@ -1,0 +1,20 @@
+原告 何玉川 被告 李军 2011年 人 介绍 相识 确立 恋爱 关系
+O O O O B_Time O O B_Know O B_BeInLove O
+2012年 2月 27日 天津市 武清区 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O B_Marry O O
+2013年 4月 7日 生育 子
+B_Time I_Time I_Time B_Bear B_Gender
+取名 浩宇 现年 4 周 半
+O I_Name O O O O
+致使 婚后 双方 常 家庭 琐事 发生 争吵
+O O O O O O O B_FamilyConflict
+被告 性格 固执 自私 办事 常 自我 中心
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 无理取闹 骂 不 停口 原告 被告 结婚 属 纳婿
+O B_FamilyConflict I_FamilyConflict O O O O O O O
+被告 家 居住 被告 原告 父母 漠不关心 霸道确 不 允许 原告 回家 看望 父母 每次 原告 去 父母 家
+O O O O O O O B_BadHabit O O O O O O O O O O O
+孩子 忍 再 忍 2016年 8月份 天 晚上
+O O O O B_Time I_Time O O
+原告 去 看望 父母 父母 家 f 吃 晚饭 后 回到 被告 处 被告 嫌 原告 回来 晚 双方 发生 争执 被告竞 原告 衣服 全部 扔 出 扬言 不许 原告 回来 居住
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation

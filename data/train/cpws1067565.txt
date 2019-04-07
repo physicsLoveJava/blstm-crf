@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2011年 农历 正月 初六 相识 见面 当天 原告 被告 见面 钱 17000 元 价值 2000 元 礼品
+O O O O O O B_Time I_Time I_Time I_Time B_Know O O O O O O O O O O O O
+2012年 1月 30日 通许县 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry O O
+3 共同 债务 6000 元 用于 被告 治病 要求 依法 分割 承担
+O O B_Debt B_Price I_Price O O O O O O O

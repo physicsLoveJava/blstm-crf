@@ -1,0 +1,8 @@
+原告 沈某 诉称 被告 2008年 11月 13日 梅江区 民政局 登记 结婚 2009年 某月 生育 儿子 谢 某某
+O O O O B_Time I_Time I_Time O O O B_Marry B_Time O B_Bear B_Gender B_Name I_Name
+被告 2011年 吸毒 曾 公安 机关 处理
+B_Person O B_BadHabit O O O O
+被告 染 上 吸毒 恶习 累教 不 改 被告 这种 违法 行为 伤害 感情 现 夫妻 感情 已 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 没有 共同 财产 共同 债权 债务
+O B_Negated B_Wealth I_Wealth O B_Credit B_Debt

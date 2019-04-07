@@ -1,0 +1,12 @@
+原 被告 经人介绍 后 2014年 2月 15日 正月十六 相识 同年 8月份 订婚 不久 举行 婿礼 2014年 9月 11日 补办 登记 手续 原 被告 均 属 再婚
+O O O O O O O O B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Person B_Person O O B_Remarry
+婚后 共同 生活 中 原告 发现 被告性 情不投 原告 性格 外向 开朗 被告 性格 内向 沉默寡言 双方 没有 共同语言
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+更 令 原告 无法 容忍 被告 好逸恶劳 谎话气 g 毛连篇 每年 均 外出 务工 外 被告 消费 高涨 长期 嗜酒 不但 每年 不 回 工资 长期 原告 钱
+O O O O O O O O O O O O O O O B_Person O O O B_BadHabit O O O O O O O O
+为此 原 被告 长期 处在 冷战 之中 感情 淡化 破裂
+O O O O O B_FamilyConflict O O O O
+2016年 10月份 原 被告 产生 感情 冲突 原告 回 娘家 居住 不 提出 被告 离婚 后 强行 接 回 被告 口是心非 没有 悔改 错误 意 夫妻 感情 未 得以 好转
+B_Time I_Time O O O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O
+2017年 5月份 原告 返回 娘家 居住 不 夫妻 关系 已经 名存实亡
+B_Time I_Time O B_Separation I_Separation I_Separation O O O O O

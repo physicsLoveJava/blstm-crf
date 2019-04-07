@@ -1,0 +1,10 @@
+原告 刘某 诉称 原 被告 1996年 间 认识 自由 恋爱
+O O O O O B_Time I_Time O O B_BeInLove
+1999年 11月 17日 双方 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry O O
+2000年 2月 28日 生育 儿子 胡文龙 现 原告 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+国外 期间 双方 性格 不合 发生 争吵 2012年 农历 年底 双方 分居 生活 今
+O O O O O O O B_Time I_Time I_Time O B_Separation O I_Time
+被告 胡某 辩称 原 告诉 称 双方 认识 结婚 生育 情况 属实
+O O O O O O B_Know I_Know B_Marry B_Bear O B_Negated

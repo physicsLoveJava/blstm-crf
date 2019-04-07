@@ -1,0 +1,4 @@
+原告 被告 1977年 邦均镇 周于庄村 村民 周华 介绍 相识 结婚
+O O B_Time O O O O O B_Know B_Marry
+婚后 共 生育 五 名 子女 均 已 成年 长子 殷立光 41 岁 长女 殷立华 34 岁 次女 殷立芬 31 岁 次子 殷立东 27 岁 三子 殷立顺 25 岁 原 被告 结婚 后 被告 耍大 男子 主义 原告 实行 家庭 暴力 忍无可恩 情况 下 原告 2005年 外出 打工 蓟县 城内 餐馆 上班 被告 餐馆 内 殴打 原告
+O O B_Bear O O O O O O B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age O O O O B_Person O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O

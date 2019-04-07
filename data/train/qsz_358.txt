@@ -1,0 +1,8 @@
+1992年 5月 人 介绍 相识 确立 恋爱 关系 1993计 I1 月 举行 结婚 典礼
+B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O
+I1995 年 7月 12日 生育 子陈政 现 已经 成年
+B_Time I_Time I_Time I_Time B_Bear B_Gender O O B_Age
+2011年 5月 30 口 补 办 结婚 登记
+B_Time I_Time I_Time I_Time O O B_Marry I_Marry
+原被告 结婚 初期 感情 尚 双方 性格 个合 家庭 琐事 吵架 被告 回娘 居什
+O O O O O O O O O O B_FamilyConflict O O O

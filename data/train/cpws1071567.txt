@@ -1,0 +1,6 @@
+原告 王 某某 诉称 被告 2006年 2月 经人介绍 订婚 同年 4月 依法 登记 结婚
+O O O O O B_Time I_Time O B_BeInLove B_Time I_Time O O B_Marry
+2006年 12月 生 女孩 名耿 某某 孩子 现 生活
+B_Time I_Time B_Bear I_Gender B_Name I_Name O O O
+两 人 没有 共同语言 2012年 曾 法院 提出 离婚 法院 判决 不 准 离婚 后 被告 从未 原告 导致 夫妻 关系 彻底 破裂
+O O O O B_Time O B_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O

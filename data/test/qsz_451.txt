@@ -1,0 +1,16 @@
+原 被告 2006年 1月 人 介绍 相识
+O O B_Time I_Time O O B_Know
+2009年 4月 17日 办理 婚姻 登记 手续 共同 生活 婚后 2010年 12月 31日 生育 女 刘畅
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+现年 7 周岁 原告 原告 父母 抚养
+O B_Age I_Age O O O O
+双方 学识 生活 环境 生活 习惯 大 差异 被告 非常 严重 大 男子 主义 性格 暴躁
+O O O O O O O O B_Person O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 恶言 恶语
+O B_FamilyConflict I_FamilyConflict
+2 被告 原告 缺乏 关心 原告 生产 完 后 未曾 关心 照料 缺乏 夫妻 之间 必要 感情 基础 3 被告 原告 孩子 打骂
+O O O O O O O O O O O O O O O O O O O B_Person B_Person I_Person B_DomesticViolence
+双方 长期 正常 感情 不和 原告 2016年 年初 带 孩子 离开 被告 处 回 娘家 居住 今
+O O O O O O B_Time I_Time O O O O O B_Separation I_Separation I_Separation I_Time
+原告 感情 不和 分别 2016年 9月 18日 2017年 7月 25日 贵院 起诉 离婚 贵院 未 支持 原告 诉请 现 法定 期限 已
+B_Person O O O B_Time I_Time I_Time B_Time I_Time I_Time O B_DivorceLawsuit O B_Court B_Judgment I_Judgment I_Judgment I_Judgment O O O O

@@ -1,0 +1,4 @@
+原告 陆某 诉称 原 被告 经人介绍 2011年 2月 相识 谈婚 同年 2月 9日 登记 结婚 共同 生活
+O O O O O O B_Time I_Time B_Know O B_Time I_Time I_Time B_Marry I_Marry O O
+外 务工 期间 双方 原因 争吵 原告 搬 母亲 打工处 居住 造成 两地 分居
+O O O O O O O O O O O O O B_Separation

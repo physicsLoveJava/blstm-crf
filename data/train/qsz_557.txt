@@ -1,0 +1,8 @@
+原被告 2009年 11月 9日 相识 2013年 2月 28日 双方 自愿 办理 结婚 登记 2015年 3月 2日 生育 女儿 高子营 现 原告 未孕
+O B_Time I_Time I_Time B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+婚初 原被告 之间 夫妻 感情 时间 推移 原告 发现 被告牌 气暴操 参加 赌博 家庭 不尽 家庭 义务
+O O O O O O O O O B_Person O O B_BadHabit O O O O
+2018年 3月 1日 原告 贵院 提起 离婚 诉讼 贵院 审理 后 下发 2018 津0115 民 初 1905 号 民事 判决书 驳回 原告 离婚 诉讼 请求
+B_Time I_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 2018年 2月 16日 娘家 居住 生活 判决书 下发 后
+O B_Time I_Time I_Time I_Separation I_Separation O O O O

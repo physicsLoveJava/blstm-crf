@@ -1,0 +1,14 @@
+原 被告 1992年 9月 相识 1992年 10月 共同 生活
+O O B_Time I_Time B_Know O O O O
+1993年 9月 21日 生 女 刘爱静 1997年 9月 20日 办理 结婚 登记
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2004年 7月 3日 生子 刘洋
+B_Time I_Time I_Time B_Bear B_Name
+原 被告 共同 生活 后 原告 发现 被告 染 赌博 酗酒 恶习 酒后 摔 砸 东西
+O O O O O O O B_Person O B_BadHabit B_BadHabit O O O O O
+些 原告 曾 先后 苦口婆心 劝说 被告 戒赌 戒酒 被告 不 思 悔过 原告 吵架
+O O O O O O O O O O O O O O B_FamilyConflict
+原告 忍无可忍 2016年 5月 20日 被告 分居 今 夫妻 关系 名存实亡 夫妻 感情 彻底 破裂
+O O B_Time I_Time I_Time O B_Separation I_Time O O O O O O O
+原告 曾 2016年 8月 贵院 提起 离婚 诉讼 被告 不 同意 离婚 原告 撤诉
+B_Person O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment

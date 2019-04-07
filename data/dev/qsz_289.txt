@@ -1,0 +1,8 @@
+原 被告 2016年 4月 人 介绍 相识 2017年 8月 28日 民政部门 办理 结婚 登记 2017年 9月 18日 举办 结婚 仪式 届 牛活
+O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O O O O O O
+被告 殴打 原告 夜 不 宿 违背 婚姻法 规定 大妻 应 忠诚 法律 原则
+B_Person B_DomesticViolence B_Person O O O O O O O O O O O
+双方 生活 中 存在 诸多 矛盾 原告 搬 母亲 家 居住 双方 分居 生活
+O O O O O O O O O O O O B_Separation O
+原告 2016年 12月 5日 案外人 刘德军 缴纳 房屋 买卖 定金 150000 元 整 购买 坐落 天津市 武清区 富力湾 花园 小 X3-1-601 室 83.47 平方米 房屋 婚后 房屋 登记丁 被告 名下 双方 约定 上述 房屋 共同 所有 每人 享有 50% 共有 权 份额 房屋 农 商行 贷款 被告 偿还 详见 房屋 共有 协议 综卜 被告 无 家庭 责任感 无 责任心 要求 原告 进行 流产 严重 伤害 原告 感情 导致 原、被告 夫妻 感情 已 彻底 破裂 无 和好
+O O O O O O O O O O B_Price I_Price O O O O O O O O O O O O B_Wealth O O O O O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 孙某 诉称 原 被告 ×××× 年××月份 经人介绍 认识 订立 婚约 关系 ×××× 年××月份 登记 结婚 12月 7日 生长 女 宋某甲
+O O O O O B_Time I_Time O B_Know O O O B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 常 家庭 琐事 产生 纠纷 被告 无故 制造 事端 实施 家庭 暴力 不过问 家庭 生活 导致 原、被告 双方 无法 共同 生活 现 夫妻 感情 已 破裂
+O O O O O O O O O B_Person O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 2012年 3 4月份 被告 相识 2012年 确立 恋爱 关系 2014年 9月 15日 办理 结婚 登记 被告系
+O B_Time I_Time I_Time O B_Know B_Time O B_BeInLove O B_Time I_Time I_Time O B_Marry O B_Person
+二 婚 婚后 尤 子女
+B_Remarry I_Remarry O O O
+双方 娟后 感情 尚 时间 推移 发现 双方 性情 差异 大 时间 推移 发现 被告 性格 霜暴 原告 施加 暴力
+O O O O O O O O O O O O O O B_Person O O B_Person B_DomesticViolence I_DomesticViolence

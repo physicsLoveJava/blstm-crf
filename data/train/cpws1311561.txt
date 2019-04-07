@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2006年 8月 2日 登记 结婚 婚后 2007年 12月 10日 生 女儿 取名 郑某
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 原 被告 相处 时间 短 不 了解 婚后 两 人 性格 不合 被告 原告 实施 家庭 暴力 原告 怀孕 期间 遭到 被告 殴打 女儿 出生 没 改善 原 告 之间 关系
+O O O O O O O O O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O
+原 被告 夫妻 感情 已 破裂 请求 依法 判决 原 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

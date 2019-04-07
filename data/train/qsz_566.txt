@@ -1,0 +1,8 @@
+原 被告 2012年 初 经人介绍 建立 恋爱 关系 2012年 9月 24日 双方 领取 结婚证 2012年 11月 5日 双方 举行 婚礼 同居 生活 2013年 6月 3日 生育 长子 代言 现 双方 已 分居 周 夫妻 感情 已 完全 破裂
+O O B_Time O O O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Separation I_Duration O O O O O
+原 被告 婚初 感情 尚 结婚 后 不久 被告 显露 出 牌气 暴爆 辱骂 原告 有时 还 原告 进行 殴打 双方 感情 逐浙 双方 没有 共同语言 2016年 被告 曾 伤 原告 致 原告 腰椎 损伤
+O O O O O O O O B_Person O O O O O B_Person O O O O B_DomesticViolence O O O O O O O O O O O O O O O
+2018年 10月 18日 原 被告 家庭 琐事 争吵
+O O O O O O O B_FamilyConflict
+被告 手机 砸 原告 原告 躲开 双方 分居 至今 未 同居
+B_Person O B_DomesticViolence B_Person O O O O O O O

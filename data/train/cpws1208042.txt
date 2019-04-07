@@ -1,0 +1,4 @@
+原告 刘某 诉称 原 被告 1996年 6月 10日 登记 结婚 婚后 未 生育 子女
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+双方 婚后 感情 尚 近 二三 年 被告 性情 大 变 实施 家庭 暴力 原告 进行 打骂 每次 认错 后 仍 不知 悔改 半夜 原告 原告 均 予以 忍让 身体 精神 处于 崩溃 状态 夫妻 感情 确 已 破裂 无 和好
+O O O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O

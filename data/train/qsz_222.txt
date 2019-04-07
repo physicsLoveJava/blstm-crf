@@ -1,0 +1,14 @@
+原告 被告 2009年 相识
+O O B_Time B_Know
+2010年 9月 举行 结婚 仪式
+B_Time I_Time O B_Marry O
+2011年 10月 23日 双方 年 生育 女 田依诺 现 7 岁
+B_Time I_Time I_Time O O B_Bear B_Gender B_Name O O O
+婚后 双方 感情 基础 不 牢固 2015年 4月 21日 曾 法院 离婚
+O O O O O O B_Time I_Time I_Time O O B_DivorceLawsuit
+离婚 后 原告 考因 虑 孩子 年幼 被告 2016年 2月 29日 本市 武清区 民政局 登记 复婚
+O O O O O O O O O O O O O O O B_Remarry
+双方 自复 婚后 处于 分居 状态
+O B_Time I_Time O B_Separation O
+原告 认为 被告 长期 家庭 孩子 冷漠 行为 激化 双方 家庭 矛盾 原告 造成 巨大 精神 伤害 现 双方 已 分 居己 近 两 年 久
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O B_Separation I_Separation O B_Duration I_Duration O

@@ -1,0 +1,4 @@
+原告 被告 2009年 8月 14日 登记 结婚 婚后 育 长子 思琦 现年 10 岁 次子 思宁 现年 6 岁
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender I_Name O B_Age I_Age O I_Name O B_Age I_Age
+照顾 孩子 被告 被告 背着 原告 外面 女人 不 正当 关系 原告 被告 手机 上面 发现 原告 孩子 家庭 机会 被告 根本 不 知道 珍惜 原告 此事 打闹 无济于事 综上 结束 这种 不幸 婚姻
+O O O B_Person O O O O B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O

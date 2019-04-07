@@ -1,0 +1,14 @@
+原 告诉 称 原告 被告 200X 年 1月 14日 经人介绍 相识 200X 年 9月 12日 平顺县 民政局 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time O B_Know B_Time I_Time I_Time I_Time O O O B_Marry
+婚后 夫妻 感情 200X 年 X 月 X 日 生育 女儿 原 乙
+O O O B_Time I_Time I_Time I_Time I_Time I_Time B_Bear O B_Name I_Name
+婚前 原告 被告 了解 不够 草率 结婚 婚后 发现 被告 酗酒 不务正业
+O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit
+原告 苦心 规劝 被告 不但 劣性 不 改 恶语 相加
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+最 令 原告 无法 原谅 原告 怀孕 期间 被告 未 悉心 照顾 依然 外出 喝酒 原告 怀孕 三 月 被告 仍 喝酒 殴打 原告
+O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+期间 被告 仍 我行我素 不务正业 造成 母女 生活 严重 拮据 还 无故 发脾气 动手 殴打 原告
+O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+原告 只身 外出 打工 达 三 年 久 期间 被告 原告 女儿 不管 不顾 夫妻 感情 已 完全 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

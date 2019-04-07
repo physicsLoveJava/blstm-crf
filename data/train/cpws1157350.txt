@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2003年 8月 21日 莱州市 民政局 登记 结婚
+O O O O O B_Time I_Time I_Time O O O B_Marry
+原 被告 均 系 初婚 双方 性格 不合 常 家务 琐事 争吵 原 被告 2013年 7月 分居 今
+O O O O O O O O O O O O O O B_Time I_Time B_Separation I_Time
+维护 原告 合法 权益 特具 状 要求 法院 判 令 原 被告 离婚 婚生 女孩 原告 生活 被告 承担 抚养费 诉讼费 被告 负担
+O B_Person O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O

@@ -1,0 +1,12 @@
+原 告诉 称 2005年 8月 原 被告 经人介绍 相识
+O O O B_Time I_Time O O O B_Know
+2012年 4月 6日 原 被告 补办 结婚 登记 双方 均 系 再婚
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Person O O B_Remarry
+原 被告 共同 生活 期间 共同 购买 位于 熊岳镇 房屋 原告 被告 补交 社会保险费 4万 余 元
+O O O O O B_CommonProperty I_CommonProperty O O B_Wealth O O O O O O O
+2013年 3月 被告 家庭 琐事 原告 争吵 原告 实施 家庭 暴力 毁坏 家中 财物
+O O B_Person O O O B_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence O O O
+被告 行为 严重 伤害 原告 感情 现 双方 感情 已 彻底 破裂 原告 诉至法院 请求 判 令 原 被告 离婚
+O O O O O O O O O O O O B_Person B_DivorceLawsuit O O O O O O
+婚后 原 被告 共同 出 首付款 购买 鲅鱼圈区 XXXX 房屋 套 面积 83．5 平方米
+O O O B_CommonProperty I_CommonProperty I_CommonProperty O O O B_Wealth O O O O

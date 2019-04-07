@@ -1,0 +1,6 @@
+原被告 自由 恋爱 2008年 10月份 举行 婚礼 夫妻 名义 同居 生活 2010年 3月 22日 领取 结婚证
+O O O B_Time I_Time B_Marry I_Marry O O O O B_Time I_Time I_Time B_Marry I_Marry
+2009年 7月 25日 生 女孩 赵芯杨 2014年 2月 5日 生 男孩 赵思淼
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+2017年 11月份 原被告 生气 被告 回 娘家 居住 今 被告 原告 所有 通信 拉黑 原告 无法 联系 被告
+B_Time I_Time O O O B_Separation I_Separation O I_Time O O O O O O O O O

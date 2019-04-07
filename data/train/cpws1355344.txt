@@ -1,0 +1,8 @@
+原告 顾 某某 诉称 被告 王 某某 相识 四 年 后 1993年 5月 10日 登记 结婚 婚后 夫妻 感情 1993年 11月 10日 生 女 取名 顾某 现 上 大学 三 年级
+B_Person I_Person I_Person O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O
+共同 生活 中 被告 性格 差异 无 共同语言 被告 掌管 家 中 经济 事务 没有 家庭 地位 2009年 4月 家中 搬 出 居住 工资卡 仍 被告 持有
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Separation I_Separation I_Separation I_Separation O O O O
+现 夫妻 感情 已经 破裂 请求 依法 解除 被告 婚姻 关系 夫妻 共同 财产 依法 分割
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+原告 未 分居 隔三差五 春节 时 签 离婚 协议 原告 酒后 做出 过激 行为 惹 恼 女儿 女儿 主持 签 不 二 人 真实 意思
+O B_Negated B_Separation O O O O O O O O O O O O O O O O O O O O O O

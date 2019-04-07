@@ -1,0 +1,6 @@
+原告 黄 某某 诉称 原 被告 2010年 结婚 至今 未 生育 子女
+O O O O O O B_Time B_Marry O O O O
+婚前 被告 隐瞒 严重 影响 夫妻 感情 情况 致使 原告 草率 结婚 婚后 无法 建立 夫妻 感情 原告 2013年 2月 被告 家人 吵架 后 搬 回 娘家 居住 生活 双方 互不 来往 无 好 必要 特 诉请 法院 判决 离婚
+O O O O O O O O O O O O O O O O O O B_Time I_Time O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O
+被告 辩称 原 被告 婚后 脾气 不 实 吵架 时间 少 没 架
+O O O O O O O O B_FamilyConflict O O O O

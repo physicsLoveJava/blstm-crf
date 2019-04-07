@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 2010年 2月 22日 办理 结婚 登记 婚后 生育 子 梁宇春
+O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name
+现年 8 岁 现在 被告 父母 处
+O B_Age I_Age O O O O
+原 被告 婚前 不 了解 相识 时间 短 婚后 感情 双方 发生 争吵 被告 做事 不 原告 商量 2017年 10月份 被告 养猪 名义 钱
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O B_Person O O I_BadHabit
+后 被告 躲 不 回家 至今 已 达 半 年 久 现 双方 无法 一起 共同 生活 感情 彻底 破裂 没有 好
+O O O B_Separation I_Separation O O O B_Duration I_Duration O O O O O O O O O O O O

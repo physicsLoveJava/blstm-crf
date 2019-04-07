@@ -1,0 +1,4 @@
+原 被告 2016年 8月份 经人介绍 相识 建立 恋爱 关系 双方 2016年 11月 21日 登记 结婚 原告 系 南方 人 被告系 北方 人 双方 饮食 生活 习惯 上 均 大 不同 双方 婚前 相识 时间 短
+O O B_Time I_Time O B_Know O B_BeInLove O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O O O O O O
+没有 建立 深厚 感情 基础 双方 结婚 之后 被告 父母 一起 居住 原告 被告 父母 之间 产生 矛盾 原告 家庭 和睦 忍 再 忍 不仅 原 告 之间 矛盾 没有 缓和 原告 被告 父母 之间 矛盾 却 愈加 严重
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O

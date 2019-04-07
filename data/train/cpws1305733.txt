@@ -1,0 +1,22 @@
+原告 张某 诉称 原被告 ×××× 年×× 月×× 日 登记 结婚 1999年 3月 16日 生 女王 某某
+O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2010年 以后 感情 渐 趋 冷淡 不 女儿 经济 上 支持 还 殴打 致使 患 上 抑郁症 治病 医药费 女儿 择校费 均 自行 筹集 导致 常年 陷入 经济 困境 仅 微薄 收入 勉强 糊口
+O O O O O O O I_Person O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O
+2012年 9月 3日 法院 起诉 离婚 法院 判决 不 准 离婚
+B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment
+判决 后 双方 关系 未 丝毫 改善 恶化 现 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+诉 法院 请求 判 令 被告 离婚 女儿 王 某某 被告 抚养 每月 支付 抚养费 300 元
+O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+共同 财产 中 无锡市 小区 14-202 室 房屋 以下 简称 小区 202室 房屋 室内 家具 家电 所有 无锡市 村 27-401 室 房屋 以下 简称 村 401 室 房屋 室内 家具 家电 被告 所有 支付 被告 财产 归并款 10万 元
+B_Wealth I_Wealth O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O O O O O O O O
+被告 名下 住房 公积金 账户 余额 26835．4 元 半 所有
+O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O O
+买 两 套 房子 先后 家人 借款 100000 元
+O O O O O B_Person B_Debt B_Price I_Price
+2011年 9月份 原告 自行 离家 出走 孩子 父母 照顾 不 存在 原告 冷淡 情况
+B_Time I_Time O O B_Separation I_Separation O O O O O O O O
+共同 财产 小区 202室 房屋 室内 家具 家电 系 夫妻 共同 财产
+B_Wealth I_Wealth I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O O O O
+村 401 室 房屋 系 房改房 父母 福利 房 父母 部分 产权 不 同意 分割 室内 家具 全自动 洗衣机 餐桌 电热水器 灶具 都 婚前 购买 属于 婚前 财产
+I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O O O O O O B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O B_Wealth I_Wealth

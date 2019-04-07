@@ -1,0 +1,12 @@
+原告 胡×诉 称 原告 被告 2002年 登记 结婚
+O O O O O B_Time B_Marry I_Marry
+原 被告 婚后 育 子
+O O O B_Bear B_Gender
+原 被告 婚前 缺乏 必要 了解 导致 婚后 二 人 性格 问题 摩擦 不断 琐事 争吵 无尽 争吵 中 夫妻 感情 逐步 变淡
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O
+2009年 原告 回到 家中 原 告 之间 争吵 却 加剧 争吵 中 被告 原告 使用 暴力 导致 原告 处 受伤
+O O O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O
+后 原告 无法 承受 被告 折磨 2010年 回到 云南 老家 居住 现 已经 分居 3 年
+O O O O O O B_Time O O O O O O B_Separation B_Duration I_Duration
+要求 判决 原告 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

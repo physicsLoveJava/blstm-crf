@@ -1,0 +1,4 @@
+原告 张 某某 诉称 原 被告 1996年 9月 经人介绍 相识 1997年 4月 登记 结婚 1998年 11月 5日 生育 女儿 陈某
+O O O O O O B_Time I_Time O B_Know B_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 被告 了解 不够 婚后 发现 被告 参与 赌博 不务正业 规劝 仍 劣性 不 改 更 令 伤心 被告 脾气 暴躁 恶言 恶语 家暴
+O O O O O O O O B_BadHabit O O O O O O O O O O O O O O B_DomesticViolence

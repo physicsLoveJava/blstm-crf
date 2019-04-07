@@ -1,0 +1,6 @@
+原 被告 2014年 5月 1日 相识 2015年 5月 4日 登记 结婚 2016年 4月 30日 生育 子 陆俊宇 现 正在 哺乳 喂养 原告 共同 生活
+O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O
+原 婚后 感情 家庭 矛盾 导致 感情 不和 家庭 钱 原因 吵架
+O O O O O O B_FamilyConflict I_FamilyConflict O O O I_FamilyConflict
+被告 总是 逃避 问题
+B_Person O B_BadHabit I_BadHabit

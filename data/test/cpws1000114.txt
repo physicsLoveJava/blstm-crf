@@ -1,0 +1,10 @@
+原告 金某 甲 起诉 称 原 被告 经人介绍 相识 2008年 12月 5日 双方 宁海县 民政局 办理 结婚 登记 手续
+O O O O O O O O B_Know B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2009年 10月 28日 生育 女儿 金某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 上海 打工 原告 每月 被告 2000 元 以上 生活费 被告 家里 带 女儿 双方 长期 处于 分居 状态 实际 共同 生活 时间 不 3 月 双方 未 建立 真挚 夫妻 情感 现 夫妻 感情 已 彻底 破裂 要求 被告 离婚 婚生 女 金某 乙 原告 抚养 成人 被告 一次性 支付 抚养费 84000 元 被告 承担 本案 诉讼费
+O O O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 陈某 答辩 称 婚姻 建立 情况 生育 子女 情况 属实
+O O O O O O O B_Marry I_Marry O B_Bear
+原告 上海 打工 被告 家里 带 孩子 属实 被告 曾 上海 去 探望 原告 生活费 不 原告 主动 被告 原告 讨 后 原告 才 春节 双方 都 一起 生活 原告 说 双方 实际 共同 生活 时间 不 3 月 不 事实
+O I_Negated O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

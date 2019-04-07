@@ -1,0 +1,8 @@
+原告 魏某 诉称 原 被告 2010年 9月 17日 登记 结婚 婚后 无 子女
+O O O O O B_Time I_Time I_Time O B_Marry O O O
+原、被告 双方 性格 不合 婚前 缺乏 了解 感情 基础 薄弱 导致 婚后 未 建立 牢固 感情 双方 生活 琐事 吵架 夫妻 感情 糟糕 导致 两 家庭 之间 不 愉快 最终 导致 夫妻 感情 破裂 无法 再 继续 共同 生活
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 认为 现在 两 人 感情 确 已 破裂 已 无 和好 结束 双方 痛苦 解除 不幸 婚姻 关系 特 诉至法院 要求 依法 判决 解除 原 被告 婚姻 关系 分割 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O O O
+感情 没有 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict

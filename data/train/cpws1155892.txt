@@ -1,0 +1,8 @@
+原告 张 某某 诉称 1998年 被告 经人介绍 相识 相恋 1999年 3月 5日 南溪区 原 南溪县 大观镇 人民政府 办理 结婚 登记 手续 2000年 12月 9日 生育 长子 徐某甲 2004年 12月 29日 生育 次子 徐某乙
+O O O O B_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 常 家庭 琐事 发生 争吵 被告 脾气 暴躁 有时 还 殴打
+O O O O O B_FamilyConflict O O O O O B_FamilyConflict
+3 共同 财产 住房 套 门市 间 自愿 放弃 被告 徐 某某 所有
+O O O B_Wealth I_Wealth I_Wealth I_Wealth O O O B_Person I_Person O
+4 夫妻 共同 债务 2000 元 被告 负责 清偿
+O O O B_Debt B_Price I_Price O O O

@@ -1,0 +1,10 @@
+原告 田某 诉称 原 被告 双方 经人介绍 2010年 12月 27日 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry
+婚前 缺乏 了解 婚后 没有 建立 真正 夫妻 感情 家庭 琐事 发生 矛盾 孩子 出生 后 原告 母子 生活 起居 不管 不 问 被告 提出 要求 离婚 致使 感情 完全 破裂
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+要求 被告 离婚 婚生 男孩 孙洪洋 四 月 原告 抚养 被告 承担 抚养费 取 回 娘们 陪 送 物品 共同 财产 均分
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Bear B_Gender B_Name B_Age I_Age O O O O O O O O O O O O O O
+围绕 第一 争议 焦点 原告 陈述 原被告 双方 经人介绍 相识 不 年 时间 里 2010年 12月 27日 登记 结婚
+O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry
+围绕 争议 焦点 原告 陈述 婚生 男孩 孙洪洋 2013年 1月 29日 出生 今 四 月 孩子 出生 后 正在 哺乳期 原告 生活 原告 孩子 出生 后 孩子 生活 照顾 特别 周到 要求 抚养 孩子 2012年 河北省 上 年度 农民 纯收入 8081 元 要求 被告 每年 承担 抚养费 2020 元 孩子 18 周岁止 一次性 支付 36360 元
+O O O O O B_Bear B_Gender B_Name B_Time I_Time I_Time O O B_Age I_Age O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

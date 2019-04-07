@@ -1,0 +1,4 @@
+原告纪 某某 诉称 原 被告 1994年 6月 10日 登记 结婚 婚后生 两 女孩 大 女儿 王 乙某 现年 17 岁 小 女儿 王丙某 现年 9 岁 结婚 以后 原 被告 夫妻 关系 不好 原告 曾 2010年 7月 5日 起诉 离婚 原告 不 同意 离婚 撤诉 六 月 后 原告 起诉 离婚 法院 判决 不 准 离婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear O O B_Gender I_Gender B_Name I_Name O B_Age I_Age O B_Gender B_Name O B_Age I_Age O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O
+原告 2010年 7月 被告 分居 今 两 年 双方 互不 来往 现 夫妻 感情 已 彻底 破裂 现 诉至法院 请求 法院 判 令 准予 原 被告 离婚
+O B_Time I_Time O B_Separation O O O O O O O O O O O O O O O O O O O O O O

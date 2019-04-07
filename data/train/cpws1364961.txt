@@ -1,0 +1,6 @@
+原告 刘某 甲诉 称 原 被告 ×××× 年×× 月 登记 结婚 ×××× 年××月 生育 女 取名 刘某 乙
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender O B_Name I_Name
+原被告 婚前 缺乏 了解 导致 婚后 无法 建立 夫妻 感情 被告 常 琐事 原告 吵闹 累及 家人
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+故起 诉至法院 要求 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原告 被告 经人介绍 相识 后 2007年 国庆节 举行 典礼 仪式 2010年 5月 11日 补 办 结婚 登记 手续 婚后 双方 性格 不合 生活 琐事 发生 争吵
+O O O O O O B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 生 小孩 28 天 时 被告 原告 拳打脚踢 原告 住 回 娘家 被告 追 娘家 原告 哥哥 劝阻 时 遭到 被告 伤害 致 原告 心灰意冷 被告 分居 生活 今 现 夫妻 感情 已 彻底 破裂 要求 被告 离婚
+B_Time I_Time I_Time I_Time I_Time I_Time B_Person B_Person B_DomesticViolence O O O O O O O O O O O O O O O O O O B_Separation O I_Time O O O O O O O O O
+被告 赔偿 原告 哥哥 尚 欠 外债 58000 元
+O O O O O O B_Debt B_Price I_Price

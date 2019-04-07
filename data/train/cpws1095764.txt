@@ -1,0 +1,8 @@
+原告 闫 某某 诉称 被告 2005年 1月 25日 登记 结婚 2006年 1月 17日 生 女 取名 梁 二某 现年 7 周岁
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+外 打工 期间 被告 喝酒 麻将 不 好好 上班 干涉 交往
+O O O B_Person B_BadHabit I_BadHabit O O O O O
+2012年 5月 琐事 吵闹 后 单独 外出 生活 今 至此 认为 夫妻 感情 已 破裂
+B_Time I_Time O B_FamilyConflict O B_Separation I_Separation I_Separation O O O O O O O
+现 要求 被告 离婚 要求 抚养 孩子 梁 二某 分割 夫妻 共同 财产 房屋 两 间 存款 30000．00 元 返还 婚前 陪嫁 物品
+O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth B_Wealth B_Price I_Price O O O O

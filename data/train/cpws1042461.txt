@@ -1,0 +1,10 @@
+原告 诉称 原 被告 双方 2010年 4月 4日 揭西县 民政局 登记 结婚
+O O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 女方 发现 男方 赌博 麻将 买 六 合彩 脾气 不好 家暴 倾向
+O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O I_BadHabit I_BadHabit
+2012年 8月 28日 原告 生 下 子 吴 某某 原被告 夫妻 感情 状况 未 得到 改善
+B_Time I_Time I_Time O B_Bear O B_Gender B_Name I_Name O O O O O O O
+2013年 4月 女方 男方 忍无可忍 情况 下 住 回 娘家 今
+B_Time I_Time O O O O O B_Separation I_Separation I_Separation I_Time
+原告 2010年 自由 恋爱 结婚 提出 去 房地产 公司 上班 开 店 经营 橡胶 制品 绝缘 材料 考虑 小孩 小 要求 原告 小孩 大 点 再 去 上班 原告 坚决 不 同意 双方 此事 发生 争吵
+O B_Time O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原被告 经人介绍 相识 1997年 11月 18日 登记 结婚 婚后 1998年 12月 31日 生 子 刘紫焱 现 已 成年 2004年 7月 8日 生 女 刘忆颖
+O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚前 缺乏 了解 婚后 被告 人 关系 暧味 子女 不 履行 抚养 义务 原被告 生气 打架
+O O O O O B_Person O B_Derailed I_Derailed O O O O O O O B_FamilyConflict
+2016年 4月份 左右 原被告 家务 琐事 生气 原告 回 娘家 居住 今
+B_Time I_Time O O O O O O B_Separation I_Separation I_Separation I_Time

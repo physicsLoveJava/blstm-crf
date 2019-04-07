@@ -1,0 +1,8 @@
+原告 被告 2005年 年底 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know O O O
+后 2006年 11月 14日 登记 结婚
+O B_Time I_Time I_Time O B_Marry
+双方 2007年 9月 9日 生育 女 薄佳恰
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+特别 原告 无法 接受 被告 2016年 3月份 婚外 异性 存在 不 正当 关系 导致 夫妻 关系 趟 发 紧张 无法 沟通
+O O O O B_Person O O O O O B_Derailed I_Derailed I_Derailed O O O O O O O O

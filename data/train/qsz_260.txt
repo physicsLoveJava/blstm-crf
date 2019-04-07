@@ -1,0 +1,6 @@
+原 被告 2004年 4月 自由 恋爱 2005年 2月 7日 举行 婚礼 仪式
+O O B_Time I_Time O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry O
+2009年 4月 30日 补办 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry O
+2005年 12月 25日 生育 长女 郭子涵 2015年 5月 17日 生育 次女 郭子洋
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name

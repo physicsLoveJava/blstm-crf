@@ -1,0 +1,6 @@
+原告 伍 某某 诉称 原 被告 1993年 广东 打工 时 认识 1995年 1月 1日 登记 结婚 1997年 2月 4日 生 女童 某乙
+O O O O O O B_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 未 建立 夫妻 感情 2008年 感情 不 分居 今
+O O O O O O O O B_Time B_FamilyConflict I_FamilyConflict B_Separation I_Time
+现 诉至法院 请求 判 令 原 被告 离婚
+O B_DivorceLawsuit O O O O O O

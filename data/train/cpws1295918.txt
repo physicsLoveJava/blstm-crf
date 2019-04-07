@@ -1,0 +1,2 @@
+原 告诉 称 被告 2010年 11月 23日 登记 结婚 双方 性格 不和 琐事 争吵 致使 感情 破裂 原告 曾 2013年 初 起诉 离婚 本院 2013年 3月 26日 做出 判决 不 准 离婚 后 现 原告 起诉 离婚 婚生 儿子 原告 抚养 被告 支付 抚养费 返还 嫁妆 共同 财产 依法 分割
+O O O O B_Time I_Time I_Time O B_Marry B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

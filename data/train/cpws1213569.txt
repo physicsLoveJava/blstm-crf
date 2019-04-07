@@ -1,0 +1,8 @@
+原告 甘 XX 诉称 原 被告 2001年 8月 经人介绍 认识 2001年 10月 30日 登记 结婚 2001年 农历 十月 农村 习俗 摆酒 举行 婚礼
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O
+2002年 农历 12月 9日 生育 女儿 宁媛
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 性格 非常 暴躁 打骂 原告 导致 夫妻 感情 不好
+O O B_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence O O O O
+2009年 原告 曾经 起诉 法院 要求 被告 离婚 法院 调解 和好 后 依然 无法 一起 生活 2009年 6月 19日 原告 去 广东 打工 被告 分居 现在
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O O O O B_Separation O

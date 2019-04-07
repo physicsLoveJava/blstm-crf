@@ -1,0 +1,8 @@
+原 被告 2007年 3月 人 介绍 相识 2008年 12月 18日 民政部门 办理 结婚 登记 2009年 1月 同居 生活
+O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O O
+2016年 8月 18日 原 被告 生 女 取名 杨雅安
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name
+2017年 底 原告 起诉 武清区 人民法院 请求 离婚 后武清区 人民法院 判决 不 准 离婚
+B_Time I_Time O O B_Court I_Court O B_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment
+被告 现 已 离家 出走
+O O B_Separation I_Separation I_Separation

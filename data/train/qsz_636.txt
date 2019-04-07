@@ -1,0 +1,4 @@
+1983年 7月 26日 原被告 经人介绍 结婚 婚后 生育 长子 冯志民 次子 冯志国
+B_Time I_Time I_Time O O B_Marry O B_Bear B_Gender B_Name B_Gender B_Name
+2017年 春节 前 被告 原告 进行 疏远 河南籍 女子 关系 爱味
+B_Time I_Time O B_Person O O O I_Derailed I_Derailed I_Derailed I_Derailed

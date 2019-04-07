@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原 被告 经人介绍 认识 2000年 3月 14日 项城市 登记 结婚 婚后 生育 女孩 田 某某 现 已 10 岁 男孩 田 浩然 现 已 9 岁
+B_Person I_Person I_Person B_DivorceLawsuit O O O O B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name I_Name O O B_Age I_Age B_Gender B_Name I_Name O O B_Age I_Age
+近 年 原 被告 琐事 生气 致使 夫妻 感情 破裂
+O O O O I_FamilyConflict I_FamilyConflict O O O O
+双方 自愿 登记 结婚 婚后 夫妻 感情 好 互 敬 互 爱 相敬如宾 没有 打骂 现象
+O O O O O O O O O O O O O O B_FamilyConflict O

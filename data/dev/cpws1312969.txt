@@ -1,0 +1,10 @@
+原告 赵某 诉称 原被告 2007年 1月 9日 登记 结婚 原告 陪嫁物 海尔 彩电 台 物
+O O O O B_Time I_Time I_Time O B_Marry O B_Wealth B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty
+2008年 12月 12日 婚生 女王 甲 2010年 12月 2日 婚生 子 王某 乙
+B_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+看管 孩子 原因 原告 被告 父母 之间 关系 越来越 紧张 被告 不予 劝解 反 出口 恶言 拳打脚踢 督促 原告 起诉 离婚 拒绝 原告 回家 带走 孩子 导致 原告 家 不 敢 回
+O O O B_Person O O O O O O B_Person O O O O O B_DomesticViolence O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O
+2012年 9月 被告 拒绝 原告 看望 孩子 原告 无奈 之下 两 孩子 领 走 抚养 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+夫妻 共同 财产 上海 别克 轿车 辆 物
+O B_Wealth I_Wealth B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty

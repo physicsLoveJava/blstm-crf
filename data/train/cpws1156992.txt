@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原 被告 经人介绍 相识 2001年 农历 三月 举行 结婚 仪式 后 补办 结婚证 双方 婚后 夫妻 感情 不和 发生 争吵 现 夫妻 感情 已经 破裂 诉请 判 令 原 被告 离婚
+O O O O O O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+夫妻 共同 财产 272267 元 平均 分割 共同 债务 97900 元 共同 承担
+O B_Wealth I_Wealth B_Price O O O B_Debt I_Debt B_Price O O O
+被告 刘 某某 辩称 原 被告 夫妻 感情 未 破裂 尚 和好 不 同意 原告 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

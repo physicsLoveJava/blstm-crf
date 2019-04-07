@@ -1,0 +1,8 @@
+原 被告 双方 经人介绍 相识 1975年 1月 6日 办理 婚姻 登记 手续
+O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚后 生育 儿子 吴 春光 42 岁 共同 生活 以后 原告 才 发觉 双方 性格 不合 生活 琐事 打架 生气
+O B_Bear B_Gender B_Name I_Name B_Age I_Age O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict
+被告 脾气 暴躁 融入 不 原告 家庭
+B_Person B_BadHabit I_BadHabit O O O O
+原 被告 双方 2002年 分居 生活
+O O O B_Time B_Separation O

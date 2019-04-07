@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 1996年 6月 24日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活 被告系 再婚
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_Person B_Remarry
+原 被告 婚前 缺少 了解 婚后 发现 夫妻 感情 不合 家庭 琐事 生气 吵架
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict
+2014年 10月份 双方 发生 口角 被告 离家 出走 至今 未
+O O O B_FamilyConflict I_FamilyConflict O O O O O

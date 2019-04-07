@@ -1,0 +1,10 @@
+原告 陈 某某 诉称 1983年 原被告 经人介绍 相识 1986年 农历 腊月 18日 农村 风俗 举办 结婚 仪式
+O O O O B_Time O O B_Know B_Time I_Time I_Time I_Time O O O B_Marry I_Marry
+婚后 1987年 原被告 生育 长子 刘甲
+O B_Time O B_Bear B_Gender B_Name
+1991年 7月 4日 生育 次子 刘某
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2009年 10月 被告 父母 原告 赶出 家门 原告 只能 回 娘家 居住 生活 原被告 分居 生活 长 达 4 年 久 致使 原被告 夫妻 感情 完全 破裂 要求 判决 原被告 离婚
+B_Time I_Time O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O
+原被告 原告 姐姐 处 2000 元 共同 债权 被告 柜子 财产
+O O O O B_Price I_Price B_Debt I_Debt O O O

@@ -1,0 +1,6 @@
+原告 毛某 起诉 称 被告 2010年 1月 10日 办 结婚 酒席 ×××× 年×× 月×× 日 登记 结婚 婚后 未 生育
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O
+被告 从事 酒店 工作 晚归 夜 不 宿 常 传言 说 被告 外面 做出 不 正派 事情 夫妻 感情 不好
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+被告 父母 不 理睬 不 尊重 不 做 家务 被告 常 争吵 夫妻 感情 实际 已 破裂 请求 法院 判 令 原 被告 离婚
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O

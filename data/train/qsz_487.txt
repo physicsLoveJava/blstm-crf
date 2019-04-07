@@ -1,0 +1,10 @@
+原被告 2011年 左右 自由 相识 确立 恋爱 关系
+O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2013年 5月 27日 双方 领取 结婚证 双方 举行 婚礼 共同 生活 2014年 3月 7日 双方 婚生女 辛禹池 出生
+B_Time I_Time I_Time O B_Marry I_Marry O O O O O B_Time I_Time I_Time O B_Gender B_Name B_Bear
+双方 琐事 发生 矛盾 被告 原告 大打出手
+O O O O B_Person B_Person B_DomesticViolence
+2018年 6月份 双方 发生 矛盾
+B_Time I_Time O O O
+分居 今
+B_Separation I_Time

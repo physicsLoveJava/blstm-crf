@@ -1,0 +1,6 @@
+原告 朱 某某 诉称 被告贺 某某 经人介绍 2003年 3月 20日 补办 结婚 登记 婚前 被告 了解 不够 婚后 感情 被告 根本 不 履行 夫妻 间 相互 扶养 义务 家庭 毫无 责任感 长期 不务正业 好 赌博 更 同居 鬼混 被告 2011年 5月 中旬 分居 今 夫妻 感情 彻底 破裂 根本 无 和好 诉至法院 要求 判 令 1 原告 被告 离婚
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O B_Separation O O O O O O O O O O O O O O O O
+2 婚生 男孩 贺欣辉 2000年 5月 18日 出生 原告 生活 抚育费 被告 每月 负担 1000 元
+O B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O O O O O
+4 外 欠 债务 15000 元 原被告 半 偿还
+O O O B_Debt B_Price I_Price O O O

@@ -1,0 +1,8 @@
+原告 亓某 诉称 原 被告 1987年 经人介绍 认识 1987年 1月 2日 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry
+婚后 原告 发现 双方 性格 差异 大 被告 打骂 原告 致使 双方 长期 分居 生活
+O O O O O O O O B_DomesticViolence O O O O B_Separation O
+2012年 3月 2013年 2月 原告 曾 两 次 起诉 离婚 法院 均 夫妻 和好 为由 判决 不 准 离婚 判决 后 夫妻 感情 没有 改善
+B_Time I_Time B_Time I_Time O O O O B_DivorceLawsuit O O O O O O O B_Judgment I_Judgment I_Judgment O O O O O O
+请求 法院 依法 判 令 原 被告 离婚 夫妻 共同 财产 依法 分割 诉讼 费用 被告 承担
+B_DivorceLawsuit O O O O O O O O O O O O O O O O

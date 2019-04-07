@@ -1,0 +1,12 @@
+原告 武新 胜诉 称 原 被告 经人介绍 相识 1998年 9月 1日 结婚
+O O O O O O O O O O O B_Marry
+2001年 9月 30日 生 女 武文琪 现 上 初中
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+婚前 了解 不够 草率 结婚 无 感情 基础 十几 年 夫妻 生气 吵架 不 断
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原 被告 双方 经济 收入 独立 互不 往来 长期 分居 生活
+O O O O O O O O B_Duration B_Separation O
+双方 共同 财产 住房 套 车库 间 电视机 3 台 电脑 2 台 洗衣机 1 台 冰箱 台 沙发 1 套 电子琴 1 台 空调 2 台 床 4 套 衣柜 3 套
+O B_CommonProperty I_CommonProperty B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth
+原告 说 被告 找茬 不 符合 事实
+O O O I_FamilyConflict B_Negated I_Negated I_Negated

@@ -1,0 +1,6 @@
+原告 傅某 起诉 称 原 被告 1998年 相识 后 恋爱 ×××× 年×× 月×× 日 诸暨市 城关镇 人民政府 登记 结婚 同年 农历 11月 29日 农村 习俗 举行 婚礼
+O O O O O O B_Time B_Know O O B_Time I_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time I_Time O O B_Marry I_Marry
+×××× 年×× 月×× 日 生育 儿子 赵某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+特别 2011年 5月 被告 染 上 吸毒 恶习 原告 发现 后 好言相劝 被告 不 思 悔改
+O O O B_Person O O B_BadHabit I_BadHabit O O O O O O O O

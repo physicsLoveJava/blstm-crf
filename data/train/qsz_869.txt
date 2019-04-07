@@ -1,0 +1,16 @@
+原被告 双方 2007年 经人介绍 相识 建立 恋爱 关系
+O O B_Time O O O B_BeInLove O
+原被告 双方 2008年 10月 10日 补办 结婚 登记 手续
+O O B_Time I_Time I_Time O B_Marry O O
+婚后 双方 2009年 4月 27日 生育 子 王灿
+O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原被告 时常 琐事 发生 争吵 被告 行为 不 检点
+O O O O O B_FamilyConflict O O O O
+原告 2015年 11月 2日 被告 夫妻 感情 不 便 回 娘家 居住 今
+O B_Time I_Time I_Time O O O O O O O B_Separation I_Time
+原告 2016年 7月 夫妻 感情 确 已 破裂 为由 被告 诉至法院 要求 被告 离婚 被告 表示 不 同意 离婚 原告 办理 撤诉 手续
+B_Person B_Time I_Time O O O O O O O B_DivorceLawsuit O O O O O O O O O O O O
+原告 被告 诉至法院
+O O B_DivorceLawsuit
+武清区 人民法院 作出 2017 津0114 民 初 2184 号 民事 判决书 驳回 原告 离婚 诉讼 请求
+B_Court I_Court O O O O O O O O O B_Judgment O O O O

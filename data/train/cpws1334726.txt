@@ -1,0 +1,6 @@
+原告 X 诉称 2002年 10月 被告 经人介绍 相识 建立 恋爱 关系 2003年 1月 6日 登记 结婚
+O O O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+2005年 5月 14日 生 男孩 X 现 生活
+B_Time I_Time I_Time B_Bear B_Gender O O O
+被告 婚后 感情 不好 2009年 11月 双方 分居 生活 今
+O O O O B_Time I_Time O B_Separation O I_Time

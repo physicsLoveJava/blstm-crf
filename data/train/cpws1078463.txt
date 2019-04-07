@@ -1,0 +1,4 @@
+原告 温 某某 诉称 被告 1992年 3月 人 介绍 相识 同年 7月 13日 办理 结婚 登记 手续 婚后 生育 子 陈某乙 现年 20 周岁
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name O O O
+现 已 分居 两 月 久 无法 再 继续 共同 生活 下去
+O O B_Separation O O O O O O O O O

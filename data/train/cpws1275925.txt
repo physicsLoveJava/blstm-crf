@@ -1,0 +1,10 @@
+原告 芦某 诉称 原 被告 双方 2010年 10月 人 介绍 相识 2011年 7月 17日 登记 结婚 婚后生 女
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O
+双方 婚前 了解 少 性格 不合 婚后 感情
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+女儿 出生 后 家庭 琐事 不 好 处理 双方 发生 冲突 被告 隐瞒 转移 财产 致使 原告 身心俱疲 痛苦 不堪
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 分 居多时
+O B_Separation I_Separation
+现 夫妻 感情 完全 破裂 诉至法院 请求 判 令 1 解除 双方 之间 婚姻 关系
+O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

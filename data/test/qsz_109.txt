@@ -1,0 +1,18 @@
+原告 被告 均 二婚
+B_Person B_Person O B_Remarry
+双方 2000年 11月 相识 后 确定 恋爱 关系
+O B_Time I_Time B_Know O B_BeInLove I_BeInLove I_BeInLove
+2001年 7月 20日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+双方 性格 不合 发生 矛盾 吵架
+B_Person O O B_FamilyConflict I_FamilyConflict B_FamilyConflict
+被告 曾经 原告 实施 家庭 暴力 特别 2017年 6月 18 口 晚卜
+B_Person O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O B_Time I_Time I_Time I_Time I_Time
+被告 原告 外出 旅游 时 女子 带 家中 进行 两性 行为
+B_Person O O O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+为此 原告 认为 被告 婚姻 不忠 2017年 11月 13日 贵院 起诉 离婚
+O B_Person O O O O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit
+经贵院 判决 不 准 离婚
+O B_Judgment I_Judgment I_Judgment I_Judgment
+2017年 12月 26日 贵院 作出 判决 后 被告 没有 悔改 表现 继续 原告 实施 家庭 暴力 2018年 4月 26 口 晚卜 被告 原告 进行 殴打 造成 原告 右桡 骨头 骨折 法医 鉴定 构成 轻伤 二级 还 造成 原告 头部 颈部 右手部 右肩部 右 肘部 右腕 部 处 受伤 法医 鉴定 均 构成 轻微 伤
+B_Time I_Time I_Time O O O O B_Person O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Time I_Time I_Time I_Time I_Time B_Person B_Person O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

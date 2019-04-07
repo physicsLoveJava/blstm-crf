@@ -1,0 +1,10 @@
+原告 吴某 起诉 称 原告 被告 2008年 上半年 确立 恋爱 关系 2010年 1月 13日 双方 办理 结婚 登记 手续
+O O O O O O B_Time I_Time O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry O
+2011年 4月 22日 双方 生育 子 取名 小 邓
+B_Time I_Time I_Time O B_Bear B_Gender O B_Name I_Name
+婚后 双方 性格 不合 时常 家庭 琐事 发生 争吵 被告 心胸 狭窄 暴力 倾向 殴打 原告
+O O O O O O O O B_FamilyConflict B_Person O O B_DomesticViolence O O B_Person
+2011年 9月 16日 早上 原告 被告 家庭 琐事 发生 争吵 原告 手里 葱卷 扔 地上 被告 动手 原告 导致 原告 面部 受伤
+O O O O O O O O O O B_Person O O O O B_Person B_DomesticViolence O O O O O
+2012年 9月 14日 双方 发生 争吵 之后 分居 生活 今
+B_Time I_Time I_Time O O O O B_Separation O I_Time

@@ -1,0 +1,10 @@
+原告 许某 诉称 原 被告 经人介绍 相识 后 2004年 1月 12日 登记 结婚 2005年 10月 30日 生育 长 女 ldquo
+B_Person I_Person B_DivorceLawsuit O O O B_Know O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear O B_Gender O
+李 X 甲 rdquo
+B_Name I_Name I_Name O
+2012年 9月 29日 生育 次 女 ldquo
+B_Time I_Time I_Time B_Bear O B_Gender O
+李 X 乙 rdquo
+B_Name I_Name I_Name O
+婚后 双方 脾性 不 常 琐事 发生 吵 闹 被告 原告 实施 家庭 暴力
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_Person O B_DomesticViolence I_DomesticViolence

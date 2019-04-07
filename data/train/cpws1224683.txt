@@ -1,0 +1,4 @@
+原告 王某 诉称 原 被告 2003年 经人介绍 相识 后 同居 2006年 登记 结婚 婚后 未 生育 子女
+O O O O O B_Time O B_Know O O B_Time B_Marry I_Marry O O O O
+2013年 7月 19日 双方 发生 激烈 冲突 原告 中 搬 出 至今 未
+B_Time I_Time I_Time O O B_FamilyConflict I_FamilyConflict O I_Separation I_Separation I_Separation B_Time O

@@ -1,0 +1,4 @@
+原告 苏 某某 诉称 原 被告 2009年 底 经人介绍 相识 2010年 1月 28日 登记 结婚 2010年 12月 10日 生育 女 暂 取名 杨某乙
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Negated B_Marry B_Time I_Time I_Time B_Bear B_Gender O O B_Name
+被告 原告 婚生 女 始终 漠不关心 只顾 享乐 好吃懒做 从不 负担 家庭 开支 染上 赌博 恶习
+B_Person O O O O O O O O O O O O O B_BadHabit O

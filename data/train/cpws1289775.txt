@@ -1,0 +1,8 @@
+原告 成 xx 诉称 原 被告 1982年 经人介绍 相识 1983年 3月 25日 登记 结婚 1984年 2月 13日 生育 女儿 徐 xxx
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O O
+婚初 感情 不好 后 双方 家庭 生活 琐事 被告 怀疑 原告 外遇 事 发生 争吵 致 夫妻 感情 破裂
+O O O O O O O O O O O I_Derailed O O B_FamilyConflict O O O O
+原告 起诉 要求 被告 离婚
+O O O O B_DivorceLawsuit
+共同 财产 依法 分割
+O B_Wealth O O

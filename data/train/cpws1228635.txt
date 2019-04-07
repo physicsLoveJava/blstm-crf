@@ -1,0 +1,2 @@
+原告 王某 甲诉 称 原 被告 2009年 4月 12日 政府 登记 结婚 婚前 缺乏 深入 了解 草率 被告 同居 生活 婚后 被告 不 真心 原告 生活 月 后 离家 出走 至今 未 原告 多方 联系 根本 找 不 被告 原 被告 婚后 未 建立 夫妻 感情 现 要求 被告 离婚
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O I_Time I_Time B_Separation I_Separation B_Time O O O O O O O O O O O O O O O O O O O

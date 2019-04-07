@@ -1,0 +1,16 @@
+原告 李 某某 诉称 被告 介绍 相识 后 同居 生活 2001年 9月 3日 补办 结婚 登记 婚后 关系
+O O O O O O B_Know O O O B_Time I_Time I_Time O B_Marry O O O
+2003年 以来 努力 料理 家务 照看 原告 婚前 孩子 被告 拳打脚踢
+O O O O O O O O O B_Person B_DomesticViolence
+2006年 被告 共同 原有 房屋 拆除 修建 楼房 座 后 被告 儿子 变本加厉 殴打 伤 常 出 家门 逼 离婚
+O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O
+2012年 2月 14日 被告 父子 反锁 屋内 连续 两 天 进行 殴打 看病 为由 才 得以 脱身
+O O O B_Person I_Person O O O O O O B_DomesticViolence O O O O O
+依法 分割 夫妻 共同 财产 价值 20万 元 门面房 两 间
+O O B_Person B_CommonProperty I_CommonProperty O B_Price I_Price B_Wealth I_Wealth I_Wealth
+被告 王 某某 辩称 原告 先后 离异 情况 下 2001年 4月 介绍 相识 后 同居 生活 同年 8月 举行 结婚 仪式 9月 3日 补办 结婚 登记
+O O O O O O O O O B_Time I_Time O B_Know O O O B_Time I_Time O B_Marry O O O O O O
+婚后 共同 生活 中 曾 发生 争执 打架 每次 都 原告 脸 抓 伤 儿子 从未 原告
+O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O
+2013年 春节 期间 原告 发生 争执 后 正月 初六 走 亲戚 离家 后 再 未 回家 不 存在 原 告诉 称 锁 在家 两 天 进行 殴打 事实
+O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

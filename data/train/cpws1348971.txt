@@ -1,0 +1,8 @@
+原 告诉 称 被告 经人介绍 2001年 12月 12日 登记 结婚
+O O O O O B_Time I_Time I_Time O B_Marry
+2003年 6月 28日 生育 男孩 潘某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+请求 判 令 被告 离婚 婚生 儿子 抚养
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 辩称 原告 夫妻 感情 好
+O O B_Person O O O

@@ -1,0 +1,4 @@
+原告 孙 某某 诉称 被告 经人介绍 认识 1987年 政府 登记 结婚 婚后 生育 两 孩子
+O O O O O O B_Know B_Time O O B_Marry O B_Bear O O
+婚姻 关系 存续 期间 被告 生气 吵架 2008年 分居 生活
+O O O O O O O B_Time B_Separation O

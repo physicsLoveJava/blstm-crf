@@ -1,0 +1,4 @@
+原告 侯某 诉称 原 被告 2010年 9月 6日 登记 结婚 婚后 生 女 侯 某某
+O O O O O O O O O B_Marry O B_Bear I_Bear B_Name I_Name
+婚前 感情 基础 差 婚后 家庭 琐事 产生 矛盾 2013年 4月 原告 起诉 法院 要求 离婚 法院 2013年 4月 11日 驳回 原告 诉讼 请求
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Person B_DivorceLawsuit B_Court O O O O O O O O O O

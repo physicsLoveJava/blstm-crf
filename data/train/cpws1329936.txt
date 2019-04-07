@@ -1,0 +1,4 @@
+原 告诉 称 被告 2009年 3月份 经人介绍 认识 2012年 2月 14日 办理 结婚 登记 手续 同年 阴历 9月 初 10 门 同居 生活 婚后 未 生育 子女
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time I_Time I_Time I_Marry I_Marry O O O O O
+曾 起诉 离婚 判决 不 准 离婚 后 至今 未能 好
+O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O O

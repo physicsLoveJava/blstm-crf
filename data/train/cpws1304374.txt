@@ -1,0 +1,20 @@
+原 告诉 称 2005年 中旬 原告 被告 网聊 相识 后 约定 深圳 见面 双方 一见钟情
+O O O B_Time I_Time O O O B_Know O O O O O O
+2006年 9月 29日 湖北省 麻城市 民政局 登记 结婚 婚后 夫妻 感情 不
+B_Time I_Time I_Time O O O B_Marry I_Marry O O B_FamilyConflict I_FamilyConflict
+2007年 5月 28日 生 下 男孩 取名 王绎程 尚未 入学
+B_Time I_Time I_Time B_Bear O B_Gender O B_Name O O
+现 已 达到 法定 准许 离婚 条件 意愿 双方 感情 已 完全 破裂 请求 法院 判决 被告 离婚
+O O O O O O O O O O O O O O B_Court O O B_DivorceLawsuit
+湖北 麻城市 朝圣路 按揭房 原告 婚前 财产 婚后 仅 28000 元 左右 共同 揭款 4万 元 左右 一次性 还款 原告 亲戚 借款 还 揭款 原告 借款 还 揭款 未 作 共同 债务 要求 被告 共同 偿还 不动 产权 不 属于 财产 分割 范围 说明 争讼
+B_Wealth I_Wealth I_Wealth I_Wealth O O I_PersonalProperty O O O O O O O B_Price I_Price O O O O B_Person B_Debt O O O O O O O O O O O O O O O O O O O O O O O
+上 双方 性格 差异 分居 已 2 年 双方 均 同意 离婚 请求 法院 依法 判决 离婚 小孩 判归 男方 抚养 儿子 王绎程 成长 非常 有利 应 判 男方 抚养 没有 债务 债权 共同 财产
+O O O O B_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 原告 2006年 9月 29日 登记 结婚 至今 已 近 7 年 2006年 10月 2009年 9月 11日 共计 还 房贷 68085．12 元 约 占 原告 名下 房产 份额 60．1％ 最高 人民 法院 适用 〈 中华人民共和国 婚姻法 若干 问题 解释 三 第十 条 款 规定 双方 婚后 共同 还贷 支付 款项 相对 应 财产 增值 部分 属于 共同 财产
+O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O O O O O B_Price I_Price I_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth
+现在 麻城市 房价 2900 元 ㎡ 3400 元／㎡ 之间 取 中间价 3150 元／㎡×130．49 ㎡ 60．1％ 夫妻 共同 房产 份额 价值 247037．14 元
+O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth O B_Price I_Price
+最高 人民 法院 适用 〈 中华人民共和国 婚姻法 若干 问题 解释 二 第十一 条 规定 原告 实际 取得 应当 取得 住房 公积金 属于 共同 财产
+O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth
+原告 提起 离婚 原因 原告 新欢 被告 原告 长期 婚外情 情况 清楚 被告 原告 第三者 同居 怀孕 做 人流 情况 清楚 被告 儿子 王绎程 完整 家庭 儿子 王绎程 健康 成长 面对 原告 接二连三 出轨 行为 选择 沉默 宽容 没有 人民法院 提起 离婚
+O O O O O O O B_Person B_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

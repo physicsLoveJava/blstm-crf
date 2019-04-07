@@ -1,0 +1,12 @@
+原告 陈某 诉称 ×××× 年×× 月 原 被告 经人介绍 家乡 举行 结婚 仪式 同居 生活 生 男 女 两 孩子
+O O O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry O O B_Bear I_Gender I_Gender O O
+婚后 不久 被告 恶习 逐渐 显露 游手好闲 好吃懒做 嗜赌 命
+O O B_Person O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit
+1990年 原告 怀孕 8 月 时 被告 原告 拳脚 相加 致使 原告 差点 流产
+B_Time I_Time I_Time I_Time I_Time I_Time B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O
+后 被告 赌博 恶习 变 淡 嫖娼 却 严重 先后 女人 发生 婚外情
+O O O O O O B_BadHabit O O O O O B_BadHabit
+原 被告 经人介绍 于×××× 年××月份 相识 确立 恋爱 关系 同年 底 二 人 未 办理 结婚 登记 情况 下 同居 生活 当年 生育 儿子 某乙 一家 人 生活 幸福 夫妻 感情 好 原告 诉状 中 称 恶习 游手好闲 好吃懒做 嫖娼 严重 纯属 污陷
+O O O B_Time I_Time O O B_BeInLove O B_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O B_Bear B_Gender I_Name O O O O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O
+2010年 双方 外 打工 期间 生育 女儿 某丙 两 人 感情 证明
+O O O O O O B_Gender I_Name O O O O

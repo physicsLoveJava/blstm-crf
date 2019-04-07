@@ -1,0 +1,6 @@
+原告 包 某某 诉称 原 被告 1999年 5月 18日 登记 结婚 重组 家庭
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O
+原告 现住 本市 秦淮区 大阳沟 30 号 9 幢 某室 房屋 原告 被告 婚后 共同 购买 登记 被告 名下 应 属于 共同 财产
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O B_CommonProperty I_CommonProperty
+2012年 7月 原告 曾经 提起 离婚 诉讼 后 法院 判决 不准 予 离婚 半 年 原 被告 关系 未 改善 急剧 恶化 分居 今
+B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O B_Separation I_Time

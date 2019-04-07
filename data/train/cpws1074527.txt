@@ -1,0 +1,6 @@
+原告 张某 诉称 2006年 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 同年 8月 14日 生 女孩 取名 张某甲 2011年 10月 12日 生 男孩 取名 张某乙
+O O O B_Time O O B_Know B_Time I_Time I_Time I_Time B_Negated B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 婚前 缺乏 了解 婚后 常 琐事 发生 争执 无法 正常 沟通
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2012年 5月份 带 两 孩子 外租房 居住 双方 分居 生活
+B_Time I_Time O O O O O O B_Separation O

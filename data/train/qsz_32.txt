@@ -1,0 +1,8 @@
+原 被告 2014年 自由 相识 确立 恋爱 关系 2015年 5月 20日 办理 结婚 登记 手续 2015年 9月 26日 举行 婚礼 无婚生 子女
+O O B_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Marry I_Marry O O
+被告 2015年 12月 11日 非法 吸收 公众 存款 罪 天津市 公安局 宁河 分局 羁押 后 2016 津 0117 刑 初 294 号 刑事 判决书 判处 执行 三 年 有期徒刑
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O
+被告 羁押 期间 还 监室 内 在押 人员 斗殴 追究 刑事 责任
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 上述 行为 严重 破坏 双方 婚姻 基础 双方 分开 已 达 2 年 4 月 久 感情 已 完全 破裂
+O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O

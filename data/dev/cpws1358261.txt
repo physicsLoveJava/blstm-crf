@@ -1,0 +1,12 @@
+原告 李某 甲诉 称 被告 均 永年县 油棉厂 职工 经人介绍 建立 恋爱 关系 双方 1984年 1月 举行 典礼 仪式 办理 结婚 登记
+O O O O O O O O O O O B_BeInLove O O B_Time I_Time O O O O B_Marry O
+1984年 11月 26日 生 女儿 李某丙 1985年 12月 3日 生 儿子 李某 丁 两 子女 现 均 已 成家
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O
+被告 婚前 感情 基础 差 婚后 性格 不和 吵架 生气
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2004年 家里 搬 出 私人 学校 生活 老师 双方 分居 今
+B_Time O O O O O O O O B_Separation I_Time
+被告 李某 乙庭 后 辩称 原告 诉 不 事实 原告 婚前 系 同一 单位 职工 了解 一定 感情 基础
+O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+婚后 感情 好 生育 两 子女 建立 深厚 夫妻 感情 夫妻 间 吵架 生气 正常 现象
+O O O B_Bear O O O O O O O O O O O O

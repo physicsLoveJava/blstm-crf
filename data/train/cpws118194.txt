@@ -1,0 +1,6 @@
+原 告诉 称 2011年 原 被告 经人介绍 相识 同年 农历 9月 3日 举行 婚礼 原 被告 ×××× 年×× 月××日 办理 结婚 登记 原 被告 ×××× 年×× 月×× 日 生育 男孩 取名 金某乙
+O O O B_Time O O O B_Know O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O B_Time I_Time I_Time I_Time B_Bear I_Gender O B_Name
+原、被告 双方 婚前 缺乏 了解 性格 差异 大 为此 生气 吵架 致使 原 被告 夫妻 感情 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O I_FamilyConflict I_FamilyConflict O O O O O O
+现原 告诉 人民法院 请求 判决 原 被告 离婚 婚生 儿子 被告 支付 抚养费 依法 分割 共同 财产
+B_Person I_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

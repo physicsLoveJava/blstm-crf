@@ -1,0 +1,14 @@
+原告 苏 某某 诉称 2003年 2月 介绍 被告 认识 同年 农历 5月 13日 农村 习俗 举行 婚礼 结 夫妻
+O O O O B_Time I_Time O O B_Know O O O O O O O O O O
+2004年 4月 14日 生育 女孩 朱 某微 同年 6月 8日 补办 结婚 登记 手续 2008年 3月 6日 生育 长子 朱某 诗 2010年 1月 4日 生育 次子 朱某 歌
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 婚姻 基础 差 婚后 双方 性格 不合 常 家庭 琐事 引起 争吵 被告 染上 赌博 恶习 后 实施 家庭 暴力 殴打 原告 致使 夫妻 感情 不
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit I_BadHabit O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O
+2011年 7月 双方 分居 生活 今 2012年 2月 8日 原告 夫妻 感情 彻底 破裂 为由 法院 起诉 要求 被告 离婚 同年 5月 20日 法院 作出 2012 湛雷法 民初字 第275号 判决书 判决 不准 原 被告 离婚
+B_Time I_Time O B_Separation O I_Time B_Time I_Time I_Time B_Person O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+法院 起诉 请求 判 准 原 被告 离婚
+I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+二 原告 说 双方 婚前 感情 基础 不好 婚后 感情 不 被告 赌博 实施 家庭 暴力 不 符合 事实
+O O O O O O O O O O O B_Person B_BadHabit B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Negated I_Negated I_Negated
+双方 2003年 2月 认识 恋爱 了解 慎重 考虑 2004年 年底 才 举行 婚礼 办理 结婚 登记 手续
+O B_Time I_Time B_Know B_BeInLove O O O B_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry

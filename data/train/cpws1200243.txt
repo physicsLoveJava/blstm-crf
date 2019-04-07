@@ -1,0 +1,10 @@
+原告 占某 诉称 原 被告 2007年 相识 2008年 1月 10日 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry
+被告 无 正当 工作 赌博 业 暴力 倾向
+B_Person O O O B_BadHabit I_BadHabit O O
+2013年 3月 20日 下午 被告 西兴 街道 固陵路 52 号 中兴 广告 店 里 不锈钢 殴打 原告 导致 原告 头部 眼部 受伤
+O O O O B_Person O O O O O O O O O O B_DomesticViolence B_Person O O O O O
+目前 双方 已经 分居 5 月 夫妻 感情 破裂 请求 法院 判 令 解除 原、被告 之间 婚姻 关系
+O O O B_Separation B_Duration I_Duration O O O O O O O O O O O O
+被告 周某 辩称 原 告诉 称 被告 赌博 暴力 倾向 不 属实
+O O O O O O O B_BadHabit B_DomesticViolence I_DomesticViolence B_Negated I_Negated

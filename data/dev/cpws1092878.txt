@@ -1,0 +1,6 @@
+原告 徐某 诉称 原 被告 工作 原因 2011年 4月 相识 恋爱 2011年 月 某日 被告 生 下 儿子 徐 某某 不 原告 生 原告 出差 出差 时间 不 定 原告 不 知道 被告 怀孕 被告 隐瞒 原告 原告 当时 看 双方 已 感情 被告 带 小孩 比较 辛苦 可怜 被告 哀求 下 动 侧隐 心 2012年 月 某日 补办 结婚 登记 手续 双方 缺乏 了解 性格 不合 婚后 初期 矛盾 不 断 被告 无理取闹 双方 争吵 不 断 争吵 中 原告 手臂 上 抓 伤 咬 伤
+O O O O O O O B_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time O B_Bear O B_Gender B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 证明 诉讼 主张 事实 成立 本院 提交 结婚证 复印件 份 证明 原 被告 2012年 月 某日 登记 结婚 事实
+O O O O O O O O O O O O O O O O O B_Marry I_Marry B_Negated
+上 本院 认定 原告 徐某 被告 林某 2011年 4月 相识 恋爱 2011年 月 某日 被告 生 下 儿子 徐 某某 非 原告 生
+O O B_Negated O O O O O O B_Know B_BeInLove O O O O B_Bear O O O O O O O

@@ -1,0 +1,2 @@
+原 告诉 称 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 婚后 感情 生活 琐事 吵闹 被告 脾气 性格 不好 急 骂 人 人 实在 忍受 不 认为 已 无 夫妻 感情 起诉 要求 被告 离婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 刘某 诉称 原 被告 经人介绍 2012年 1月 4日 烟台市 莱山区 民政局 登记 结婚
+O O O O O O B_Time I_Time I_Time O O O O B_Marry
+2012年 7月 被告 夫妻 共同 存款 11600 元 现金 2500 元 双方 戒指 项链 手链 全部 带走 回 娘家 居住 今
+O O O O B_CommonProperty B_Wealth B_Price I_Price I_Price I_Price I_Price O O O O O O O O O O

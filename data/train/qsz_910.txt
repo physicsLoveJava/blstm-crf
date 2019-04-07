@@ -1,0 +1,4 @@
+原 被告 2004年 10月 8日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 2007年 12月 12日 生育 男孩 刘桑
+O O B_Time I_Time I_Time O O O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 少 婚后 原、被告 双方 发现 感情 不 投
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

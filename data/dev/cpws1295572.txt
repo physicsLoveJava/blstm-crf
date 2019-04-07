@@ -1,0 +1,8 @@
+原告 陈某 诉称 原告 93年 经人介绍 被告 认识 见 一面 后 媒妁 言 撮合 下 同年 微山县 人民政府 领取 结婚证
+O O O O B_Time O O B_Know O O O O O O O O O O O O
+婚前 双方 缺乏 了解 无 感情 基础 双方 生活 环境 不同 尤其 被告 非常 严重 酗酒 赌博 恶习 家庭 暴力
+O O O O O O O O O O O O O O O B_BadHabit I_BadHabit O B_DomesticViolence I_DomesticViolence
+结婚 以后 还 不 务 正当 喝酒 人 怀孕 期间 打骂 大 孩子 出生 后 更 无 经济 来源 赌博 过日子 无 休止 打骂 实在 受不了 这种 家庭 暴力 带 大 孩子 外出 打工
+O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O
+外 打工 期间 还 无 休止 钱 酗酒 赌博 外 打工 挣钱 原来 住 茅草屋 翻盖 三 间 瓦房 以为 好好 干活 维护 家 不 干 每次 打工 地方 去 钱 不 骂 没 办法 离开 打工 地方 才 离去 孩子 出生 后 没有 改变 恶习 依然 打骂 大儿子 都 十七 岁 二 儿子 九 岁 提出 大儿子 盖房 多年 积蓄 都 家 盖 房子
+O O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

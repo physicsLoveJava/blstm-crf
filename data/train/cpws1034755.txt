@@ -1,0 +1,12 @@
+原告 包某 诉称 原 被告 2011年 6月 介绍 相识 确立 恋爱 关系
+O O O O O B_Time I_Time O B_Know O O O
+×××× 年×× 月××日 常山县 民政局 登记 结婚
+O O O O O B_Marry I_Marry
+婚后 双方 性格 不合 发生 争吵
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 2月 20日 原告 诉至法院 要求 被告 离婚 后 当时 被告 下落不明 申请 撤诉 法院 审查 后 2013年 2月 28日 准许 某告 撤诉
+O B_Time I_Time I_Time I_Time B_Person O B_DivorceLawsuit O O O O O O O O O O O B_Time I_Time I_Time I_Time
+原告 认为 被告 夫妻 感情 已 完全 破裂 诉至法院 要求 被告 离婚
+O B_Judgment O O O O O O O O O O
+杭州 吵架 原告 殴打 被告 被告 才 搬走 生活 用品
+O O O O O O O B_Person B_Person O

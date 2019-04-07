@@ -1,0 +1,14 @@
+双方 2009年 自行 相识 2011年 12月 16日 登记 结婚 2013年 7月 26日 育 子 名毛 雨泽 现年 约 3 周岁
+O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O B_Age I_Age
+原 被告 双方 婚后 性格 不合 家庭 琐事 发生 矛盾
+O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 无故 原告 争吵 双方 2014年 8月 始 分居 今
+O O O O O B_Time I_Time O B_Separation I_Time
+原告 被告 离婚 曾 两 次 天津市 南开区 人民法院 提起 诉讼 审理 分别 下达 天津市 南开区 人民法院 2014 南民 初字 第6364 号 民事 判决书 天津市 南开区 人民法院 2015 南民 初字 第6228 号 民事 判决书 判决 内容 均 驳回 原告 离婚 诉讼 请求
+B_Person O O O O O B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 第三 次 贵院 提出 离婚 请求 贵院 审理 后 下达 天津市 和平区 人民法院 2017 津0101 民初 772 号 民事 判决书 驳回 原告 诉请
+B_Person O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+原告 不服 上诉 天津市 第一 中级 人民法院
+B_Person O B_DivorceLawsuit B_Court I_Court I_Court I_Court
+审理 下达 天津市 第一 中级 人民法院 2017 津01 民终 3546 号 民事 判决书 维持 原判
+O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment

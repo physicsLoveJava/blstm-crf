@@ -1,0 +1,6 @@
+原告 被告 1984年 9月 24日 经人介绍 登记 结婚 婚后 子女 现 都 已 成家
+O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O
+原告 解释 被告 不 听 二 人 此事 发生 争吵 原告 实在 忍受 不 原告 这种 行为 2017年 3月 13日 宁河区 人民法院 起诉 离婚 当时 法院 未 予 判决 离婚 双方 分居 后 原告 2017年 11月 20日 起诉 离婚 被告 无理 坚持
+O O O O O O O O O B_FamilyConflict B_Person O O O O O O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O B_Separation O B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O
+法院 未 判决 离婚 时至今日 双方 分居 间 无 联系 更 别提 夫妻 感情 可言
+O B_Judgment I_Judgment I_Judgment B_Duration O O O O O O O O O O

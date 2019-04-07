@@ -1,0 +1,2 @@
+原 被告 2011年 12月 15日 登记 结婚 被告 父母 无 儿子 原告 以上门 女婿 身份 入 赘 被告 家 生活 后 户口 迁入 被告 家 婚后 生育 女儿 史若彤 现 8 周岁 婚前 了解 不够 草率 成婚 导致 婚后 发生 矛盾 被告人 尤 家庭 责任感 2016年 被告 沧州 姓 高 网友 行
+O O O O O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O B_Bear B_Gender B_Name O B_Age I_Age O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O O O

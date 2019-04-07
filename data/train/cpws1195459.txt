@@ -1,0 +1,4 @@
+原告 金某 甲 起诉 称 金某 甲 杭某 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 金某 乙
+O O O O O O O O O O O O O O O B_Marry O O O O B_Bear B_Gender O B_Name I_Name
+婚后 性格 原因 矛盾 不 断 至今 已 近 分居 四 年 夫妻 感情 确 已 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Separation B_Duration I_Duration O O O O O

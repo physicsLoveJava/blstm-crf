@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 婚前 缺乏 了解 婚后 3 天 发生 争吵 被告生 完 孩子 回 娘家 结婚 2 年 被告 娘家 居住 21 月 婚姻 关系 不 维持 要求 离婚 抚养 孩子 被告 返还 彩礼 5万 元 退还 借款 1万 元 诉讼 费用 原 被告 均 担
+B_Person I_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth B_Price I_Price O B_Wealth B_Price I_Price O O O O O O

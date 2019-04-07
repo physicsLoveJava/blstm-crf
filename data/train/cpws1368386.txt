@@ -1,0 +1,10 @@
+原 告诉 称 被告 性格 暴躁 常 家庭 琐事 殴打 原告 被告 还 染 上 吸毒 毛病 被告 异性 关系 不 正常 现 夫妻 感情 已 破裂
+O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit B_Person I_Derailed I_Derailed I_Derailed I_Derailed O O O O O
+请求 法院 判 令 被告 离婚
+B_DivorceLawsuit B_Court O O O O
+婚生 女 张某 乙 被告 抚养
+B_Bear B_Gender B_Name I_Name O O
+被告 辩称 家庭 琐事 动手 原告 已 认识 错误 以后 绝不 原告
+O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O
+已 戒 掉 吸毒 毛病
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit

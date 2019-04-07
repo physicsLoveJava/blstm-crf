@@ -1,0 +1,8 @@
+原告 王某 诉称 被告系 经人介绍 相识 2007年 6月 21日 蒙阴县 民政局 登记 结婚
+B_Person I_Person O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 2008年 3月 16日 生育 男孩 取名 刘 某某
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 缺乏 了解 婚后 常 家庭 琐事 发生 纠纷
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+诉至法院 要求 被告 离婚 婚生 男孩 抚养 财产 依法 分割
+I_DivorceLawsuit O O O O O O O O O

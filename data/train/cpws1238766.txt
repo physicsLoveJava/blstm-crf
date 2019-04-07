@@ -1,0 +1,2 @@
+原 告诉 称 2011年 5月份 原、被告 漯河 顺风 物流 上班 时 相识 2012年 7月份 确定 恋爱 关系 后 2012年 9月 3日 郾城区 民政局 登记 结婚 至今 没有 举办 婚礼 双方 领取 结婚证 后 被告 变 性格 言行 承诺 领证 前 完全 相反 被告 还 单位 动手 殴打 原告 单位 同事 都 见 原 被告 相识 时间 太 短 婚前 缺乏 了解 草率 结婚 被告 花言巧语 蒙骗 纯属 闪婚 婚后 未 建立 良好 夫妻 感情 无法 再 一起 生活 下去
+O O O B_Time I_Time O O O O O O B_Know B_Time I_Time O B_BeInLove O O B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O O O O O O O B_Person O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

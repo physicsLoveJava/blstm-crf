@@ -1,0 +1,10 @@
+原告 谭 某某 诉称 1983年 1月 6日 原 被告 办理 结婚 登记
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+1990年 原 被告 生 女 现 已 独立 生活
+B_Time O O B_Bear B_Gender O O O O
+原告 2012年 5月 淮安区 法院 起诉 离婚 同年 5月 淮安区 法院 作出 不 准 离婚 2012 淮法 车民 初 字 221 号 民事 判决书
+O B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O
+2013年 2月 原告 淮安区 法院 起诉 2013年 2月 25日 淮安区 法院 作出 2013 淮法 车民 初字 第166 号 不 准 离婚 民事 判决书
+B_Time I_Time O B_Court I_Court B_DivorceLawsuit O O O O O O O O O O O O B_Judgment I_Judgment I_Judgment O O
+2013年 10月 原告 夫妻 感情 破裂 为由 向本院 提起 离婚 诉讼 请求 法院 判决 准予 原 被告 离婚
+B_Time I_Time O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

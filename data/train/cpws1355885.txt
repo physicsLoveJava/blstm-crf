@@ -1,0 +1,4 @@
+原告 卞某 诉称 2009年 5月 原被告 经人介绍 认识 后 2010年 8月 16日 登记 结婚 婚生子 穆某 乙 2011年 10月 8日 出生
+O O O B_Time I_Time O B_Know I_Know O B_Time I_Time I_Time B_Marry I_Marry B_Bear O B_Name B_Time I_Time I_Time O
+原被告 婚前 认识 时间 短 婚后 发现 双方 性格 差异 大 常 家庭 琐事 发生 争执
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,4 @@
+原告 秦 某某 诉称 1997年 经人介绍 原 被告 相识 结婚 2002年 1月 20日 生育 子 取名 魏嘉奇 婚后 双方 家庭 琐事 生气 1999年 钱 问题 被告 踢 原告 脚 2011年 被告 怀疑 原告 外遇 抱 儿子 跳楼 威胁
+O O O O B_Time O O O B_Know B_Marry O O O B_Bear O O O O O O O O O O O O O O O O O O O O O O O O
+2012年 10月份 原告 源汇区 人民法院 起诉 要求 被告 离婚 法院 未 准予 离婚 被告 继续 外出 打工 今
+B_Time I_Time B_Person B_Court I_Court B_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment O O O O O

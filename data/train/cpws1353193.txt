@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2003年 自由 恋爱 2004年 5月 27日 登记 结婚 双方 均 系 婚 婚后 无 子女
+O O O O O B_Time O B_BeInLove B_Time I_Time I_Time O B_Marry B_Person O O I_Remarry O O O
+原 被告 系 自由 结婚 婚后 感情 尚 好 常 家庭 琐事 口角 致使 原被告 感情 破裂 原告 起诉 法院 要求 被告 离婚
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O
+共同 财产 位于 沈阳市 于洪区 建筑 面积 52．01 平方米 位于 沈阳市 大东区 建筑 面积 115．94 平方米 宝马牌 车辆 依法 平均 分 劈
+B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth O O O O
+被告 辩称 同意 原告 离婚 大东区 边城路 房屋 不 同意 共同 财产
+O O O O O B_Wealth I_Wealth I_Wealth B_Negated I_Negated I_Negated I_Negated

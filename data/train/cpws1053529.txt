@@ -1,0 +1,4 @@
+原告 俞某 起诉 称 2001年 原 被告 同一 企业 工作 时 相识 2002年 月 某日 登记 结婚 2003年 9月 生育 子 名俞 某某 现 就读 余姚市 阳明 小学
+O O O O B_Time O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+双方 还 琐事 发生 争吵 原告 性格 内向 不 善于 表达 吵架 总是 原告 忍气吞声 服从
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,4 @@
+原告 廖某 起诉 称 原 被告 1997年 相识 恋爱 1998年 6月 25日 宁海县 长街 人民政府 办理 结婚 登记 手续 1998年 11月 3日 生育 儿子 伍某 乙
+O O O O O O B_Time B_Know B_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2009年 被告 瞒 原告 去 放 高利贷 不 听 原告 劝阻 导致 钱 收 不 回来 双方 发生 争吵 争吵 中 被告 还 曾 刀 砍 原告 为此 原告 回 娘家 居住 五 月 后 原告 回到 家中 双方 某某 有所 缓和 2013年 春节 双方 某某 进一步 加剧 原告 外出 打工 双方 分居 今 夫妻 感情 已 彻底 破裂 无 好
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation I_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 宋 某某 诉称 被告 2002年 8月 人 介绍 订婚 2003年 12月 15日 办理 结婚 登记 同年 农历 11月 27日 举行 典礼 仪式
+O O O O O B_Time I_Time O B_Know O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O
+婚后 2005年 2月 7日 生长子 取名 王 某某 甲 2006年 9月 28日 生 次子 取名 王 某某 乙 两 儿子 现 被告 生活
+O B_Time I_Time I_Time B_Bear O B_Name I_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name I_Name O O O O O
+被告 婚前 来往 不 了解 不 深 缺乏 感情 基础 婚后 发现 双方 脾气 性格 不和 常 家庭 琐事 吵架 生气 被告 次子 出生 后 仍 拒 不 珍惜 进行 谩骂 发展 大打出手 维持 被告 婚姻 曾 父母 钱 新疆 经营 标准件 生意 不 想 换 被告 频繁 狠毒 殴打
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O B_Person O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O
+被告 婚前 没有 感情 基础 婚后 未 建立 夫妻 感情 双方 已 无法 共同 生活 下去 特 诉至法院 请求 判 令 被告 离婚 婚生 两 儿子 抚养 本案 诉讼费 被告 承担
+O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O

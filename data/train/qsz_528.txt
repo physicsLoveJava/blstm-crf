@@ -1,0 +1,6 @@
+原 被告 2008年 下半年 经人介绍 相识 确立 恋爱 关系 2011年 8月 3日 办理 结婚 登记 手续 09年 8月 26日 举行 结婚 仪式 后 共同 生活
+O O B_Time I_Time O B_Know O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O
+2010年 3月 22日 生育 子 陈林杰
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 无法 忍受 被告 背叛 婚姻 事实
+O O O B_Person B_Derailed I_Derailed O

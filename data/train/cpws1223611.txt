@@ -1,0 +1,6 @@
+原 告诉 称 2000年 1月 原 被告 经人介绍 相识 恋爱 2000年 7月 25日 岳池县 民政局 登记 结婚
+O O O B_Time I_Time O O O B_Know B_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry
+2001年 1月 28日 原告 生育 长子 2002年 8月 20日 原告 生育 次女
+B_Time I_Time I_Time O B_Bear B_Gender B_Time I_Time I_Time O B_Bear B_Gender
+2001年 5月 原 被告 常 生活 琐事 发生 争吵 纠纷 不 断 导致 夫妻 感情 破裂
+O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

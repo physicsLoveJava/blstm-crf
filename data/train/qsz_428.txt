@@ -1,0 +1,10 @@
+原 被告 双方 自由 恋爱 相 识 后
+O O O B_BeInLove I_BeInLove B_Know I_Know O
+2009年 4月 6日 农村 习俗 举行 结婚 仪式 同居 生活
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O
+2013年 1月 11日 民政 机关 补办 结婚 登记 手续 2015年 3月 8日 生育 女
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender
+婚初 双方 感情 尚 好 时间 推移 原告 发现 被告 性格 不合 家庭 琐事 发生 争吵 被告 方面 未 做 丈夫 责任 义务
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O O
+万般无奈 原告 维护 合法 婚姻 权益 依据 婚姻法 第三十 条 相关 司法 解释 规定 特 呈诉 贵院
+O B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court

@@ -1,0 +1,4 @@
+原告 吉 某某 诉称 原 被告 2012年 5月 人 介绍 相识 恋爱 2013年 5月 1日 举行 结婚 仪式 办理 结婚 登记 手续 婚后 无 子女
+O O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O B_Marry O O O O O
+婚姻 事宜 被告 原告 索要 礼金 三 金 合计 59600 元 导致 原告 生活 困难 原告 为此 诉至法院 请求 判决 准予 双方 离婚 要求 被告 返还 礼金 50000 元
+O O O O O O O O O O O O B_Person O O O O B_DivorceLawsuit O O O O O O O O O O O

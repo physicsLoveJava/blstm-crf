@@ -1,0 +1,4 @@
+原 告诉 称 被告 1998年 经人介绍 相识 当年 8月 举行 婚礼 同居 生活 办理 结婚 登记 之后 1999年 7月 28日 生育 子 取名 李某 亮
+O O O O B_Time O B_Know O B_Time O O O O O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 2006年 7月 28日 当地 油房湾 煤矿 工 受伤 之后 被告 性格 不 改 常 吵 嘴 有时 无故 2008年 春节 被告 发生 矛盾 分居 生活 今
+B_Person O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_Time I_Time O O O B_Separation O I_Time

@@ -1,0 +1,10 @@
+原告 胡某 甲诉 称 2000年 原告 前夫 病故 当时 留下 才 十 岁 残疾 女儿 汪 某某 原告 介绍 下 被告 相识 同居
+O O O O B_Time O O O O O O O O O O O O O O O O B_Know O
+20×××× 年×× 月××日 原告 生育 儿子 取名 胡某丙 后 原 被告 双方 ×××× 年×× 月×× 日 登记 结婚
+B_Time I_Time I_Time I_Time O I_Bear I_Gender B_Name I_Name O O O B_Time I_Time I_Time I_Time I_Time B_Marry
+被告 胡某 乙 辩称 1 原告 要求 被告 离婚 真正 原因 外面 已 外遇 被告 现在 已 残疾 失去 劳动 能力 原告 抛弃 被告
+O O O O O O O O O O O O O O O O B_Derailed I_Derailed O O O O O O
+1994年 被告 户主 承包 村 集体 土地 土地 被告 母亲 前妻 妹妹 女儿 承包 系 家庭 共同 承包 土地 征用 补偿 款 系 被告 婚前 财产 原告 无权 分割
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth
+原告 土地 征用 补偿 款 全部 返还 被告 再 补偿 被告 10万 元 款项 被告 同意 离婚 否则 被告 不 同意 离婚 双方 夫妻 感情 未 破裂
+I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O O O O

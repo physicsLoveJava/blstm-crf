@@ -1,0 +1,6 @@
+原告 江 某某 诉称 1994年 下半年 被告 熊甲 经人介绍 相识 1995年 2月 登记 结婚 1996年 1月 生育 子 熊乙
+O O O O B_Time I_Time O O O B_Know B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name
+婚后 夫妻 感情 近 年 熊甲 不 关心 家庭 信用卡 透支 消费 家庭 不 负 责任 双方 争吵 2013年 6月 分居 生活
+O O O O O O O O O O O O O O O O O B_FamilyConflict B_Time I_Time B_Separation O
+现 夫妻 感情 确 已 破裂 要求 离婚 夫妻 共同 财产 依法 分割
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit O O O O O

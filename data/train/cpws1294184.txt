@@ -1,0 +1,4 @@
+原告 宿 某某 诉称 原被告 自由 恋爱 年 后 2011年 11月 1日 登记 结婚 2012年 5月 31日 生育 子 孟 某辰
+O O O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 缺乏 了解 原告 怀孕 八 月 时 被告 原告 吵架 后 离家 出走 至今 未
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O

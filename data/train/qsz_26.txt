@@ -1,0 +1,14 @@
+原 被告 双方 经人介绍 相识 后 2011年 6月 10日 民政 机关 办理 婚姻 登记 手续 共同 生活
+O O O O B_Know O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O
+现 二 人 系 再婚 婚初 感情 时间 推移
+O B_Person I_Person O B_Remarry O O O O
+原告 发现 被告 脾气 暴躁
+O O B_Person B_BadHabit I_BadHabit
+有时 一点 小事 原告 大吵大闹
+O O O O B_FamilyConflict
+被告 时常 夜 不 归宿
+B_Person O B_BadHabit I_BadHabit I_BadHabit
+被告 原告 不但 不闻不问 还 原告 工资卡 现金 3万 元 偷 拿走
+O O O O O B_PersonalProperty B_Wealth I_Wealth B_Price I_Price O O
+被告 行为 做法 已 原告 心里 精神 上 带来 不可 愈合 创伤 现 二 人 已 分居 生活 两 年 时间
+O O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration O

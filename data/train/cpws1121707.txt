@@ -1,0 +1,6 @@
+原 告诉 称 原告 被告 2010年 9月 相识 2012年 4月 10日 登记 结婚
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 双方 缺乏 了解 感情 基础 薄弱 双方 人生观 价值观 生活 习惯 大 差距 被告 脾气 暴躁 原告 恶言 恶语 漠不关心 严重 影响 夫妻 感情
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+原 被告 生活 期间 经济 始终 独立 无 共同 财产 原告 只 要求 回 随身 衣物 首饰 腿部 受伤 责任方 付 赔偿款
+O O O O O O O O O O B_Person O O O B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

@@ -1,0 +1,14 @@
+原被告 高中 同学 工作 后 交往 确立 恋爱 关系 2013年 8月 19L 天津市 宁河区 民政局 办理 结婚 登记
+O O O O O O O B_BeInLove O O O O O O O B_Marry I_Marry I_Marry
+婚后 育有 女 取名 吕佳芮 丁 2014年 6月 25日 出生
+O B_Bear B_Gender O B_Name O B_Time I_Time I_Time O
+特别 女儿 出生 以后 双方 交流 越来越 少 小事 发生 争吵
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2016年 6月 底 双方 再 次 琐事 发生 争吵 自此 之后 分居 今
+B_Time I_Time I_Time O O O O O O O O B_Separation I_Time
+2016年 7月 原告 曾 法院 提起 离婚 诉讼 后 多方 劝解 后 撤诉
+B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment
+双方 目前 夫妻 共同 财产 主要 房产 套 汽车 辆 存款 应当 依法 进行 分割
+O O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth O O O O
+双方 目前 共同 债务 应当 双方 共同 承担
+O O B_Debt I_Debt O O O O

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2000年 农历 2月 26日 农村 风俗 举行 结婚 仪式 2001年 3月 29日 鹿邑县 辛集镇 政府 领取 结婚证
+O O O O O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry
+2009年 4月 21日 被告 生 下 男孩 取名 王 xx 原告 孩子 视为 出 被告 原告 外出 打工 时间 越来越 短 在家 时间 越来越 长 原告 发现 被告 来往 不但 未 断绝 还 越来越 频繁
+B_Time I_Time I_Time O B_Bear I_Bear B_Gender O B_Name I_Name O O O O O O O O O O O O O O O O O B_Person I_Derailed O O O O O O
+同年 6月 23日 原 被告 存款 情况 进行 澄清 原告 现有 存款 14万 元 被告 持有 存款 35万 元 被告 弟弟 赵 文献 6万 元 签字 确认
+O O O O O O O O O B_Person O B_Wealth B_Price I_Price B_Person O B_Wealth B_Price I_Price O O B_Person I_Person B_Price I_Price O O
+被告 染 产 下 子 原告 规劝 警告 被告 置若罔闻 不 正当 关系 发展 成 明目张胆 原 被告 夫妻 感情 已 彻底 破裂 请求 法院 判决 离婚
+O O O O O B_Person O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

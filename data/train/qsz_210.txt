@@ -1,0 +1,4 @@
+原被告 2011年 夏天 柑识 建立 恋爱 关系 2012年 5月 双方 同居 生活 2012年 2月 14日 双方 婚生 男孩 石瑾赫 2013年 12月 23日 双方 补办 结婚证 原被告 结婚 以后 家务 琐事 发牛 矛盾
+O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O
+尤其 被告 无事生非无故 辱骂 原告 原告 家庭 阵 忍 再 忍
+O B_Person O B_DomesticViolence B_Person O O O O O O

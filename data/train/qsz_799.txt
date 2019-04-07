@@ -1,0 +1,8 @@
+原 被告 系 自由 恋爱 2016年 11月 2日 依法 登记 结婚 婚前 缺乏 了解
+O O O O B_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O
+没有 感情 基础 草率 结婚 婚后 双方 性格 差异 大 琐事 吵架 被告 性格 粗野 吵架 后 动手 人 有时 被告 用于 掐 脖颈 人 室息 原 被告 无法 共同 生活 现 已 分居
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O
+原 被告 性格 不合 琐事 吵架
+O O O O I_FamilyConflict I_FamilyConflict
+原告 维护 合法 权益 具状 起诉
+B_Person O O O O O

@@ -1,0 +1,8 @@
+原 被告 2002年 下半年 经人介绍 相识 确立 恋爱 关系 2003年 上半年 共同 生活 2003年 12月 15日 办理 结婚 登记 手续
+O O B_Time I_Time O B_Know O B_BeInLove O O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+2004年 4月 5日 生育 女王 梦窃 2007年 10月 12日 生育 子 王家一
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 草率 结婚 没有 感情 基础 婚后 共同 生活 期间 原 被告 琐事 发生 激烈 争吵 原告 实施 家庭 暴力 砸 家里 物品
+O O O O O O O O O O O O O B_Person O O B_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence O O O
+2009年 原被告 感情 不 便 分居
+B_Time O O O O B_Separation

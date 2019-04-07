@@ -1,0 +1,10 @@
+原被告 2006年 4月份 经人介绍 相识 确立 恋爱 关系
+O B_Time I_Time O B_Know O O O
+2007年 12月 24日 原被告 办理 结婚 登记 后 共同 生活
+B_Time I_Time I_Time O O B_Marry O O O O
+原被告 均 系 再婚 2008年 2月 18日 生育 女儿 李筱妍 现 原告 未孕
+B_Person O O B_Remarry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+原被告 之间 琐事 发生 争吵 被告 脾气 暴躁
+O O O O B_FamilyConflict B_Person O O
+酗酒 恶习 酒后 原告 实施 殴打 导致 原被告 之间 夫妻 矛盾 逐渐 加深
+B_BadHabit O O B_Person O B_DomesticViolence O O O O O O O

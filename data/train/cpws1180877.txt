@@ -1,0 +1,6 @@
+原告 郑 某某 诉称 原 被告 2008年 下半年 经人介绍 相识 2009年 4月 3日 办理 结婚 登记 2009年 12月 4日 生育 女
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender
+原 被告 婚前 了解 不 深 草率 结婚 婚后 未 建立 夫妻 感情 常 生活 琐事 发生 争吵
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 元月 原告 外出 务工 被告 分居 生活 今 起诉 要求 被告 离婚 婚生 女 原告 抚养 被告 每月 支付 抚养费
+B_Time I_Time O O O O B_Separation O I_Time O O O O O O O O O O O O

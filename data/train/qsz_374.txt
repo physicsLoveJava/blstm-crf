@@ -1,0 +1,8 @@
+原 被告 双方 丁 2009年 底 经人介绍 相识 确立 恋爱 关系
+O O O O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2010年 月斗 I 双方 登记 结婚
+B_Time I_Time O O B_Marry I_Marry
+婚后 2011年 11月 29口婚 女 取名 | 婉 现年 6 岁
+O B_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+丫午 前 被告 猜疑 原告 原告 进行 百般 刁难 限制 原告 人身 门山 影响 大 妻 感情
+O O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O O O O O

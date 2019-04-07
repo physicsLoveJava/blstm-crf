@@ -1,0 +1,4 @@
+原告 周某 甲诉 称 原 被告 经人介绍 相识 于×××× 年×× 月××日 领取 结婚证 婚后 生育 两 女 子
+O O O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear O B_Gender B_Gender
+婚后 原、被告 家庭 琐事 产生 矛盾 感情 已 破裂 原告 曾 2012年 年 5月 3日 起诉 离婚 判决 不准 予 离婚
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_Time I_Time I_Time I_Time B_DivorceLawsuit O O O O O

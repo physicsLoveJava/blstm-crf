@@ -1,0 +1,14 @@
+原被告 2009年 相识 不久 确立 恋爱 关系
+O B_Time B_Know O O O O
+2009年 9月 22日 登记 结婚 婚前 感情
+B_Time I_Time I_Time B_Marry I_Marry O O
+2010年 5月 17日 生育 女儿 纪田琳
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 结婚 后 生活 琐事 生气 打架
+O O O O O B_FamilyConflict I_FamilyConflict
+2011年 始 被告 原告 实施 家庭 暴力 原告 进行 殴打 辱骂 2013年 被告 殴打 原告 原告 耳部 受伤 住院 治疗
+O O B_Person B_Person O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O
+2015年 7月 被告 经营 文玩店 门口 殴打 原告 原告 被迫 搬 回 娘家 居住 至今 已经 分居 两 年 零 十 月 久
+O O O O O O O O O O O O O O O O B_Separation B_Duration I_Duration I_Duration I_Duration I_Duration O
+7月 原告 蓟州区 人民法院 起诉 要求 被告 离婚 法院 认为 原被告 夫妻 感情 尚未 达到 完全 破裂 程度 驳回 起诉
+O B_Person B_Court I_Court B_DivorceLawsuit O O O O O O O O O O O O O B_Judgment I_Judgment

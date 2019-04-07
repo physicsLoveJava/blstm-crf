@@ -1,0 +1,6 @@
+原告 孙某 甲诉 称 原被告 经人介绍 2008年 4月 7日 登记 结婚 2003年 5月 1日 生育 长女 肖某 乙 2008年 10月 15日 生育 次女 肖某丙
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚后 家庭 琐事 发生 口角 被告 喝酒 后 殴打 原告 导致 夫妻 感情 破裂 此次 离婚 前 原告 曾经 2012年 2月 2013年 2月 两 次 提出 离婚 次 想 被告 次 机会 撤诉 次 原告 未 庭 法院 撤诉 处理 次 离婚 前 双方 2013年 2月 分居 今
+O O O O B_FamilyConflict I_FamilyConflict B_Person O O B_DomesticViolence B_Person O O O O O O O O O B_Time I_Time B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment O O O O O O O O O O O B_Time I_Time B_Separation I_Time
+夫妻 共同 财产 404 农用车 台 吉利 英伦 轿车 台 原告 不 要求 分割
+O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth O O O O

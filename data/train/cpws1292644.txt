@@ -1,0 +1,4 @@
+原 告诉 称 婚后 原告 发现 被告 无 家务 料理 能力 双方 性格 不和 家庭 琐事 争吵 不 休 殃及 双方 家庭
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 辩称 原告 重病 长期 酗酒 致 原告 工作 多年 应该 一定 积蓄
+O O O O O B_BadHabit O O O O O O O

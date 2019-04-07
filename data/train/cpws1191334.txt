@@ -1,0 +1,8 @@
+陈某 甲诉 称 被告 经人介绍 认识 后 ×××× 年×× 月×× 日 登记 结婚 婚后生 子 陈某乙
+B_Person I_Person O O O O O O O O O O B_Marry B_Bear B_Gender B_Name
+双方 争吵 打闹 为此 常年 外 打工 被告 分居
+O B_FamilyConflict I_FamilyConflict O B_Duration O O O B_Separation
+2010年 10月 2011年 12月 曾 两 次 起诉 离婚 均 法官 劝说 考虑 孩子 成长 调解 好
+B_Time I_Time B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+陈某 甲 北京 投资 30万 元
+O O O B_Wealth B_PersonalProperty I_PersonalProperty

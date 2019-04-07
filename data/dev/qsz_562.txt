@@ -1,0 +1,10 @@
+原 被告 自由 恋爱 1999年 9月 4日 登记 结婚 原 被告 婚初 夫妻 感情 好
+O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O O
+婚后 2001年 8月 13日 生育 长女 刘草卿 2007年 7月 25日 生育 次女 刘草 尊心
+O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚后 双方 家庭 琐事 发生 矛盾 被告 家庭 观念 滋漠 家庭 生活 实践 短
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 发 牌气 造成 原被告 矛盾 恶化 至今 邓 调和 夫妻 感情 已 彻底 破裂 原告 曾 2017年 6月 2日 依法 贵院 提起 离婚 诉讼
+O O O O O O O O O O O O O O O B_Person B_Time I_Time I_Time I_Time O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵院 认为 原被告 好 希望 贵院 2017年 6月 21日 依法 作出 2017 津0115 民 初 4834 号 民事 判决书 判 令 驳回 原告 离婚 诉讼 请求
+O O O O O O B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

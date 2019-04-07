@@ -1,0 +1,16 @@
+原被告 2016年 11月份 经人介绍 相识 确立 恋爱 关系 2017年 3月 3日 原被告 自愿 民政部门 办理 结婚 登记 2017年 10月 1日 举行 婚礼 后 共同 生活
+O B_Time I_Time O B_Know O B_BeInLove O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O O O
+原被告 之间 夫妻 感情 原被告 之间 性格 存在 严重 差异
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+之间 语言 沟通 上 存在 障碍
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+之间 琐事 发生 争吵
+O O B_FamilyConflict I_FamilyConflict
+2017年 10月 底 原被告 吃饭 问题 出现 分歧
+B_Time I_Time I_Time O O O O O
+被告 回 娘家 居住
+O B_Separation I_Separation O
+2017年 11月 26日 原告 父亲 朋友 去世 原告 去 参加 葬礼 被告 驾车 离家 时 未 带 钥匙 回来 后 无法 开门
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O
+原被告 钥匙 问题 发生 争吵 被告 离开 原告 住所 回 娘家 居住 原被告 分居 今
+O O O I_FamilyConflict I_FamilyConflict O O O O O O O O B_Separation I_Time

@@ -1,0 +1,8 @@
+原告韦 X 诉 称 原 被告 婚前 缺乏 了解 婚后 双方 性格 不合 无法 沟通 被告 脾气 暴躁 无 家庭 责任感 双方 发生 争吵 有时 被告 还 殴打 原告
+O O O O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O B_FamilyConflict O B_Person O B_DomesticViolence B_Person
+原告 曾 2013年 1月 23日 法院 提起 诉讼 要求 被告 离婚
+O O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O
+判决 不 准 离婚 双方 没有 好
+B_Judgment I_Judgment I_Judgment I_Judgment O O O
+现 提起 诉讼 要求 法院 判决 原 被告 离婚 依法 分割 夫妻 共同 财产
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

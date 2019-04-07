@@ -1,0 +1,14 @@
+2013年 10月 原 被告 经人介绍 相识 确立 恋爱 关系
+B_Time I_Time O O O B_Know O B_BeInLove O
+2014年 1月 10日
+B_Time I_Time I_Time
+双方 民政部门 办理 结婚 登记 手续
+O O O B_Marry O O
+2014年 11月 3日
+B_Time I_Time I_Time
+生育 长女 杨玉洁
+B_Bear B_Gender B_Name
+原 被告 双方 时常 生活 琐事 发生 争执
+O O O O O O O B_FamilyConflict
+2018年 3月 9日 看管 孩子 问题 被告 原告 母亲 发生 争吵 原告 母 负责 看管 孩子 被告 便 回 娘家 居住 扬言 离婚
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O

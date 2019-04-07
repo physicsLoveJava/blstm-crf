@@ -1,0 +1,12 @@
+原 被告 2005年 举行 结婚 仪式 同居 生活 2066年 6月 19日 生育 子 王永鑫
+O O B_Time B_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2006年 9月 26日 原 被告 补办 结婚 登记 2012年 1月 12日 生育 女王 可欣 现 子女 均 被告 一起 生活
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O
+原 被告 婚后 感情 双方 性格 不合 没有 共同语言 遇 事 无法 沟通
+O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict
+被告 脾气 暴躁 辱骂 原告 父母 被告 不务正业 不 上班 整日 河边 钓鱼
+B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 规劝 被告 根本 不 听 年 双方 争吵 导致 感情 逐渐 恶化
+O O O O O O O O B_FamilyConflict O O O O
+现 双方 已 分居 年 久 原告 曾 2017年 8月 15日 起诉 离婚 2017 津 0117 民 初 2893 号 民事 判决 感情 彻底 破裂
+O O O B_Separation I_Duration O B_Person O B_Time I_Time I_Time B_DivorceLawsuit O B_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O

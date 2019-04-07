@@ -1,0 +1,8 @@
+原告 杨某 诉称 原 被告 2000年 3月 人 介绍 相识 同年 6月 21日 登记 结婚 婚后 2002年 生子 杨 某某
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Time B_Bear B_Name I_Name
+婚后 被告 不 安心 在家 生活 回 娘家
+O O O O O O I_FamilyConflict I_FamilyConflict
+被告 教育 小孩 态度 粗暴
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 2010年 10月 争吵 后 分居 今
+O B_Time I_Time O O B_Separation I_Time

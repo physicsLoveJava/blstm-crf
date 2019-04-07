@@ -1,0 +1,12 @@
+原 告诉 称 原告 张× 被告 2007年 南开区 民政局 结婚 婚后 2008年 11月 生育 子 赵××
+O O O O O O B_Time O O B_Marry O B_Time I_Time B_Bear B_Gender B_Name
+婚后 夫妻 感情 时常 争吵 不 断
+O O O O B_FamilyConflict O O
+双方 分居 长 达 四 年 久
+O B_Separation O O B_Duration I_Duration O
+分居 期间 仍 争吵 不 断 没有 共同语言 感情 确 已 破裂 无 好
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O
+请求 判 令 原 被告 离婚 孩子 被告 抚养
+O O O O O B_DivorceLawsuit O O O
+判 令 被告 归还 原被告 共同 购买 汽车 折旧 后 价格 一半 25000 元
+O O O O O B_CommonProperty I_CommonProperty B_Wealth O O O O O O

@@ -1,0 +1,10 @@
+原 被告 2013年 经人介绍 相识 确立 恋爱 关系
+O O B_Time O B_Know O B_BeInLove O
+后 2014年 举办 婚礼 同居 生活 随后 2014年 11月 17日 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry
+夫妻 2016年 7月 13日 生育 子 张津硕
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 夫妻 感情 不好 婚后 不久 夫妻间 便 发生 打架 事 夫妻 感情 渐渐 山现 裂痕 双方 生活 琐事 发生 争吵 为此 许建英 2017年 7月份 起诉 张 磊 离婚 后 许建英 撤诉
+O O O O O O O O O O O O O O O O O O O O O O B_Person B_Time I_Time B_DivorceLawsuit O O O O O B_Judgment
+大 妻婚 后 矛盾 冲突 不 断 无 共同语言 根本 无法 沟通 夫妻 分居 生活 已 二 年
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O B_Separation O O I_Duration I_Duration

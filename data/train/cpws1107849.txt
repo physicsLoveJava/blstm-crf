@@ -1,0 +1,6 @@
+原告 林甲诉 称 原 被告 2002年 4月 人 介绍 相识 恋爱 2002年 5月 15日 登记 结婚 婚后 感情 尚 好 2003年 11月 19日 生育 子 取名 林乙
+O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+孩子 治病 2003年 被告 外出 打工 挣钱 2008年 至今 未 家里 分文 费用 每年 都 不 回家 孩子 生活费 教育费 治疗费 费用 均 原告 承担
+O O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O
+被告 不尽 母亲 义务 更 不尽 夫妻 间 义务 造成 原、被告 夫妻 感情 彻底 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

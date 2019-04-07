@@ -1,0 +1,8 @@
+原 被告 2002年 经人介绍 认识 2002年 11月 21日 天津市 蓟州区 民政局 领取 结婚证
+O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry
+原被告 婚生 长子 张永成 出生 现年 13 周岁
+O B_Bear B_Gender B_Name O O B_Age I_Age
+2010年 原被告 婚生 次仔 张亦成 出生 现年 8 周岁
+B_Time O B_Bear B_Gender B_Name O O B_Age I_Age
+原被告 结婚 前 了解 对方 性格 不合 婚后 吵架 2017年 3月份 原告 不满 被告 辱骂 遂 离开 蓟州区 去 外地 打工 今
+O O O O O O O O I_FamilyConflict B_Time I_Time O O O O O O O B_Separation I_Separation I_Separation I_Duration

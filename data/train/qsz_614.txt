@@ -1,0 +1,10 @@
+原被告 经人介绍 2005年 确立 恋爱 关系 2006年 2月 12日 农历 举行 结婚 仪式 2006年 12月 18日 登记 结婚 婚后 2007年 12月 14日 生 子 李 博文
+O O B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原被告 没有 共同语言 生气 打架 被告 殴打 原告
+O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person
+被告 网上 女 网友 关系 暧味
+B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+原被告 2017年 夏季 分居 没有 离开 家 分屋 居住
+O B_Time I_Time B_Separation O O O O O
+2018年 7月份 被告 无故 殴打 原告 原告 回 娘家 居住 今
+B_Time I_Time B_Person B_DomesticViolence I_DomesticViolence B_Person O B_Separation I_Separation I_Separation I_Time

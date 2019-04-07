@@ -1,0 +1,8 @@
+原告 吴 某某 诉称 原告 被告 1988年 经人介绍 相识 确定 恋爱 关系 1989年 生育 子 王某 甲 1992年 2月 29日 凉山州 会东县 登记 结婚
+O O O O O O B_Time O B_Know O B_BeInLove O B_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O O B_Marry
+婚后 1997年 5月 20日 生育 双胞胎 二 儿子 王某 乙 三 儿子 王某丙
+O B_Time I_Time I_Time B_Bear O O B_Gender B_Name I_Name O B_Gender B_Name
+原 被告 双方 婚前 认识 时间 短 草率 结婚 未 建立 牢固 夫妻 感情 婚后 双方 性格 不合 家庭 琐事 争吵 打架 导致 夫妻 感情 破裂
+O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 曾经 找 被告 协议 离婚 无 果 保护 原告 合法 权益 婚姻法 民事 诉讼法 相关 规定 特 法院 提起 诉讼 请 依法 判决 1． 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

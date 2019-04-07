@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 相识 2010年 2月 4日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time O B_Marry
+为此 原告 被告 被告 父母 发生 争吵 家庭 矛盾 升级 感情 急剧 恶化
+O O O O O O B_FamilyConflict O O O O O O
+原 被告 恋爱 结婚 被告 父母 凡事 均 参与 过问 支配 原 被告 生活 要求 意愿 做事 原 被告 产生 矛盾 后 被告 父母 不 劝导 原告 父母 住处 不断 吵闹 扩大 矛盾
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O
+被告 和好 做出 让步 努力 原告 所作所为 不仅 伤害 被告 感情 伤害 被告 父母 整个 家庭 被告 再 不 容忍 接受 婚姻 关系 同意 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

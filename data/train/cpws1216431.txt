@@ -1,0 +1,4 @@
+原告 董 某某 诉称 原 被告 2006年 2月 相识 建立 恋爱 关系 2008年 12月 22日 登记 结婚 2009年 8月 8日 生育 男孩 陈某
+O O O O O O B_Time I_Time B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 缺乏 了解 婚后 家务 琐事 发生 争吵 导致 夫妻 感情 破裂 请求 判 令 被告 离婚 小孩 陈某 原告 抚养 被告 每月 支付 小孩 抚养费 500 元 小孩 长大成人 日 止 夫妻 共同 财产 平均 分割 诉讼费 被告 承担
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 被告 2012年 1月 31日 办理 结婚 登记 婚后 2013年 7月 8日 生育 儿子 名 杜通辉 被告 共同 生活 原 被告 婚前 不够 了解 草率 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O O O O
+婚后 双方 性格 不合 生活 琐事 发生 争吵 2015年 3月份 原被告 家庭 琐事 发生 争吵 原告 回 娘家 被告 分居 今
+O O O O O O O B_FamilyConflict B_Time I_Time O O O O O O O O O B_Separation I_Time
+原被告 双方 分居 已 长 达 3 年 夫妻 感情 彻底 破裂 无 和好
+O O O O O O B_Duration I_Duration O O O O O O

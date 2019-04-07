@@ -1,0 +1,4 @@
+原告 王某 琼诉 称 原被告 网络 相识 后 被告 方式 手段 取 原告 婚前 积蓄 14 万 元 掩饰 非法 占有 目的 被告 欺骗 原告 结婚 婚后 被告 原告 家暴 行为 原告 逼 回 老家
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O
+被告 伍某 明 辩称 原被告 均 系 再婚 双方 均 痛苦 婚姻 共同 语言 原告 还 主动 偿还 欠 前妻 2万 元 彻底 前 妻 断 掉 来往
+O O O O B_Person O O B_Remarry O O O O O O O O O O O O O O O O O O O O

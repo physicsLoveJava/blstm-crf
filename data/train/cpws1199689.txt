@@ -1,0 +1,6 @@
+原告 龚某 诉称 原告 龚某 被告 蒋某甲 自由 恋爱 相识 2003年 未 举行 结婚 仪式 同居 生活 ×××× 年×× 月×× 日 生育 女 取名 蒋 某乙 于×××× 年×× 月×× 日 生育 子 取名 蒋某丙
+O O O O O O O O O O O O O O O O O O O O O B_Bear B_Gender O B_Gender I_Gender O O O O B_Bear B_Gender O B_Name
+后 ×××× 年×× 月××日补办 结婚 登记 手续
+O O O O B_Marry O O
+婚后 常 家庭 琐事 吵架 原告 龚某 曾 2013年 3月 起诉 被告 离婚 后 撤回 起诉 撤诉 后 未能 好 现 双方 已 分居 三 年 原 被告 夫妻 感情 确 已 破裂 无法 共同 生活
+O O O O O B_Person O O B_Time I_Time B_DivorceLawsuit O O O B_Judgment I_Judgment O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O O

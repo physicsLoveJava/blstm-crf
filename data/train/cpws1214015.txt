@@ -1,0 +1,4 @@
+原告 程 某某 诉称 被告 1996年 1月 12日 登记 结婚 1997年 1月 19 生 女孩 程某 甲 2007年 7月 22日 生 男孩 程某 乙
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 草率 结婚 婚后 二 人 性格 不合 没有 共同语言 常 生活 琐事 生气 吵架 未 建立 应有 夫妻 感情
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O

@@ -1,0 +1,2 @@
+原 告诉 称 1989年 春天 原告 窦 某某 经人介绍 被告 认识 1990年 4月 25日 登记 结婚 同年 10月 29日 生育 长子 代某 乙 2007年 8月 11日 生育 次子 代某丙 婚后 被告 脾气 粗暴 打骂 原告 现 原 被告 感情 已 完全 破裂 请求 依法 判 令 原 被告 离婚 次子 原告 抚养 被告 支付 子女 抚养费 原告 带走 婚前 财产 依法 分割 夫妻 共同 财产 被告 负担 本案 诉讼 费用
+O O O B_Time I_Time O O O O O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O B_DomesticViolence O O O O O O O O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O

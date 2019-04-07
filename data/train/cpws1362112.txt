@@ -1,0 +1,6 @@
+原告 刘某 起诉 称 原 被告 1999年 3月 1日 办理 结婚 登记 2000年 2月 10日 生育 女儿 刘张丽 2007年 11月 16日 生育 儿子 刘杭
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Bear B_Gender B_Name
+婚后 双方 性格 不 争吵 2010年 7月 分居 生活 现 被告 马氏 关系 暧昧 原 被告 夫妻 感情 已 完全 破裂
+O O O O O B_Time I_Time B_Separation O O O O O O O O O O O O O
+婚姻 存续 期间 原告 家庭 生活 抚养 子女 至今 借债 十几万 元
+O O O O O O O O O B_Debt B_Price I_Price

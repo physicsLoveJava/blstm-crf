@@ -1,0 +1,10 @@
+原告 王某 起诉 称 1991年 上半年 原告 父母 包办 许配 被告 双方 农村 风俗 举行 婚礼 后 夫妻 名义 同居 生活
+O O O O B_Time I_Time O O O O O O O O B_Marry I_Marry O O O O O
+婚后 双方 生育 二子 女 1993年 3月 24日 生育 双胞胎 儿子 邱乙 邱丙 ×××× 年×× 月×× 日 生育 女儿 邱某 乙 现 三 子女 均 已 成年
+O O O O O B_Time I_Time I_Time I_Time B_Bear O O I_Gender I_Name B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+婚后 双方 性格 不合 家庭 琐事 争吵 被告 原告 实施 家庭 暴力
+O O O O O O O O B_Person I_Person O B_Person
+2007年 12月 被告 刘某 广场 原告 跳舞 当众 殴打 原告 后 原告 被告 分居 生活
+B_DomesticViolence B_Time I_Time I_Time I_Time O O O O O O O O O O
+2013年 2月 1日 原告 曾 法院 起诉 要求 被告 离婚 后撤诉
+B_Separation O B_Time I_Time I_Time I_Time I_Time B_Person O B_DivorceLawsuit O

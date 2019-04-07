@@ -1,0 +1,8 @@
+原告 姜 某某 诉称 原 被告 1995年 农村 风俗 举行 结婚 仪式 同居 生活 没有 办理 结婚 登记 手续
+O O O O O O B_Time O O B_Marry I_Marry I_Marry O O O O O O O
+婚后 生育 两 孩子
+O B_Bear I_Bear I_Bear
+起诉 前 判决 后 双方 均 分居 生活 夫妻 感情 已经 彻底 破裂
+O O O O O O B_Separation I_Separation O O O O O
+生育 女孩 原告 抚养 男孩 被告 抚养
+O B_Gender O O B_Gender O O

@@ -1,0 +1,8 @@
+原告 高某 诉称 原 被告 经人介绍 2006年 12月 12日 兖州市 民政局 登记 结婚
+O O O O O O B_Time I_Time I_Time O O O B_Marry
+2008年 4月 14日 婚生 女孩 取名 魏金铭
+B_Time I_Time I_Time B_Bear O O B_Name
+双方 认识 时间 段 婚前 缺乏 了解 婚后 常 生活 琐事 吵闹 原告 大打出手 实施 家庭 暴力
+O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence
+2013年 10月 4日 被告 原告 打伤 住院 原告 无法 忍受 被告 折磨 夫妻 感情 已 完全 破裂
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

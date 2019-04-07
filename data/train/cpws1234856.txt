@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 原 被告 2006年 经人介绍 相识 恋爱 2009年 9月 生育 子 解某
+B_Person I_Person I_Person B_DivorceLawsuit O O B_Time O B_Know O B_Time I_Time B_Bear B_Gender B_Name
+原 被告 外地 打工 婚前 未 作 深入 了解 2008年 草率 结婚
+O O O O O O O O O B_Time O B_Marry
+双方 年龄 差距 性格 不合 发生 矛盾 感情 恶化
+O O O O O O B_FamilyConflict O O
+双方 婚后 长期 分割 两地 实质 分居 生活 夫妻 关系 名存实亡
+O O O O O O B_Separation O O O O

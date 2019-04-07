@@ -1,0 +1,18 @@
+原告 原系 离异
+B_Person O B_Remarry
+被告 原 系 离异
+B_Person O O B_Remarry
+原被告 1998年 3月 14日 经人介绍 相识 登记 结婚 组成 新 家庭 共同 生活
+O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O
+后 双方 共同 投资 从事 屠宰 生意 共同 生活 中 原告 双方 两 孩子 尽职尽责 尽力 帮助 被告 经营 公司 被告 2005年 找茬 原告 吵架 殴打 原告
+O O O O O O O O O O O O O O O O O O O O O B_Time O B_Person B_DomesticViolence I_DomesticViolence B_Person
+2006年 11月 19日 被告 一点 生活 琐事 原告 进行 长 时间 殴打
+B_Time I_Time I_Time B_Person O O O B_Person O O O B_DomesticViolence
+2006年 12月份 天 被告 原告 外出 之际 家中 门锁 换 掉 导致 被告 无法 进 家 双方 发生 争吵 被告 原告 进行 殴打 原告 及时 报警 被告 才 罢手
+B_Time I_Time O O O O O O O O O O O O O O O O O B_Person B_Person O B_DomesticViolence O O O O O O
+生命 无 保障 2007年 8月 22日 人民法院 起诉 离婚 法院 调解 被告 当时 态度 诚恳
+O O O B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O
+原告 念 孩子 尚 小 原谅 被告
+B_Person O O O O B_Judgment I_Judgment
+2015年 今 原被告 双方 处于 分居 状态 原告 生病 情况 下 不 不 理 没有 做 丈夫 应 责任 双方 吵架 时 还 时不时 提出 离婚
+B_Time I_Time O O O B_Separation O O O O O O O O O O O O O O O O O O O O

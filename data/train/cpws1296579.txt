@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原 被告 1966年 7月 左右 经人介绍 相识 订婚 1967年 10月 22日 农村 风俗 举行 婚礼 1970年 彭水 苗族 土家族 自治县 善感乡 人民政府 办理 结婚 登记 手续
+O O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O
+原 被告 婚前 互不 了解 草率 结婚 婚后 出现 性格 不合 有事 不 商量 常 家庭 琐事 吵 不 休 原告 张 某某 还 念 子女 情分 上 一再 忍耐
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+被告 余 某某 长期 好逸恶劳 家务事 妻子 子女 不闻不问 长期 无故 原告 张 某某 进行 毒打 辱骂
+O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence

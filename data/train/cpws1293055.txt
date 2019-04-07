@@ -1,0 +1,2 @@
+原告 王 某某 诉称 2010年 8月份 原 被告 经人介绍 相识 2012年 1月 9日 登记 结婚 婚前 缺乏 了解 结婚 后 双方 未 建立 夫妻 感情 夫妻 已经 分居 年 现 原告 被告 双方 夫妻 感情 确 已 破裂
+O O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O O O O O O O O O

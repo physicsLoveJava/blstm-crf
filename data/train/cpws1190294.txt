@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 双方 介绍 认识 后 2009年 11月 26日 办理 结婚 登记 2010年 8月 26日 生育 婚生 女 谢某 乙
+O O O O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear O B_Gender B_Name I_Name
+原 被告 婚前 缺乏 深入 了解 性格 不合 无法 进行 有效 沟通 双方 琐事 争吵 已经 没有 夫妻 感情 可言 夫妻 感情 确 已 完全 破裂 无 好
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O B_FamilyConflict O O O O O O O O O O O O O

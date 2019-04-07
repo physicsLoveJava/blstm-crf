@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 建立 恋爱 关系 后 1983年 5月 27日 登记 结婚 婚后 育 两 女儿 儿子 现 三 子女 均 已 成年
+O O O B_Know B_BeInLove I_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O B_Bear O B_Gender B_Gender O O O O O O
+致使 婚后 常 家庭 琐事 发生 争吵 特别 婚后 十 年
+O O O O O O B_FamilyConflict O O O O
+原 被告 双方 矛盾 不断 升级 被告 不但 三 天 两 头发 酒疯 打骂 原告 被告 持棍棒 原告 吵 邻里 不得 安宁 还 参与 赌博 家中 积蓄 全部 赌光 欠 贷款
+O O O O O O B_Person O O O O O O B_FamilyConflict O B_Person I_DomesticViolence I_DomesticViolence O O O O O O B_BadHabit O O O O O O
+原告 劝告 2009年 9月 离家 外出 打工 度日 今 被告 已 分居 生活 六 年 久
+O O B_Time I_Time O O O O I_Time O O B_Separation O O O O

@@ -1,0 +1,10 @@
+原被告 经人介绍 2008年 春相识
+O O B_Time B_Know
+2009年 9月 2日
+B_Time I_Time I_Time
+双方 婚生子 潘岳 出生
+O B_Bear B_Name O
+2016年 初 双方 琐事 发生 矛盾
+B_Time I_Time O O O O
+离婚 相 威胁 原告 离家 回 娘家 居住 今
+O O O O O B_Separation I_Separation I_Separation I_Time

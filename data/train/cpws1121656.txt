@@ -1,0 +1,4 @@
+原 告诉 称 被告 2011年 9月 2日 登记 结婚 婚后 两 人 关系 好 女儿 降生 家庭 矛盾 产生 不知 原因 婆婆 冷言 冷语 横竖看 不 惯 被告 漠不关心 形 似 路人
+B_Person I_Person O O B_Time I_Time I_Time B_Marry I_Marry O O O O O B_Gender B_Bear O O O O O O O O O O O O O O O O
+九月 去 看 孩子 时 被告 一起 殴打 现 被告 夫妻 感情 已 彻底 破裂 请求 被告 离婚 女儿 抚养 被告 每月 300 元 标准 支付 抚养费 嫁妆 电动 三轮车 辆 归我所有
+O O O O O B_Person O B_DomesticViolence O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth O

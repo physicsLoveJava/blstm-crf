@@ -1,0 +1,8 @@
+原告 赖 某某 诉称 2008年 2月 12日 农历 正月 初六 原 被告 经人介绍 认识 谈恋 认识 仅 10 天 时间 便于 2008年 2月 22日 登记 结婚
+B_Person I_Person I_Person O B_Time I_Time I_Time O O O O O O B_Know O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 夫妻 感情 2009年 8月 26日 生育 男孩 赖 某泰 2011年 4月 8日 生育 男孩 赖 某景
+O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 长期 居住 娘家 造成 夫妻 感情 破裂 出现 裂痕 2012年 8月 原告 法院 起诉 要求 被告 离婚 法院 判决 不准 原 被告 离婚
+O O B_Separation I_Separation O O O O O O B_Time I_Time B_Person I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+请求 判决 准予 原告 被告 离婚
+B_DivorceLawsuit O O O O O

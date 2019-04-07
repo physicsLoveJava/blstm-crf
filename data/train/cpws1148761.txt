@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 系 同事 关系 双方 2009年 1月 9日 登记 结婚 2010年 2月 11日 生 女 祝××
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚后 性格 不合 琐事 争吵 被告 原告 实施 家庭 暴力 外面 婚外情 孩子 出生 今 被告 有时 不 孩子 抚养费 孩子 看病 医药费 保险费 都 原告 负担
+O O O O O B_FamilyConflict B_Person O O B_DomesticViolence I_DomesticViolence O B_Derailed O O O O O O O O O O O O O O O
+原告 曾 2012年 7月 起诉 离婚 法院 驳回 原告 诉讼 请求
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment

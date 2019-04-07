@@ -1,0 +1,6 @@
+原告 张某 诉称 被告 经人介绍 相识 ×××× 年××月 举行 婚礼 共同 生活
+O O O O O O B_Time I_Time O B_Marry O O
+婚后 双方 脾气 性格 不合 常 琐事 打架 生气 被告 脾气 暴躁 性格 倔强 原告 孩子 健康 成长 采取 克制 忍让 态度 原告 忍让 被告 认为 原告 软弱 欺 打骂 原告
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O B_Person O O O O B_DomesticViolence B_Person
+实在 无法 被告 共同 生活 请求 被告 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

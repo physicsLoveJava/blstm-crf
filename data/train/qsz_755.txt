@@ -1,0 +1,8 @@
+原被告 经人介绍 相识 相处 确立 恋爱 关系
+O O B_Know O O B_BeInLove O
+2015年 幺月 z2 日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+B_Time I_Time I_Time I_Time O O O O O O B_Marry O O
+婚后 2015年 12月 10日 育 长女 李雅西
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 结婚 草率 婚后 原被告 性格 不合 家庭 琐事 争吵 致 感情 每况愈下 现 完全 破裂
+O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

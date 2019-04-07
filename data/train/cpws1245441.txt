@@ -1,0 +1,4 @@
+原告 宫利 红诉 称 被告 2011年 11月 11日 登记 结婚 婚后 无 子女 系 再婚 被告系 初婚
+B_Person I_Person I_Person O O B_Time I_Time I_Time O B_Marry O O O O B_Remarry B_Person B_Remarry
+前夫 姜海忠 生育 女孩 姜亚涵 2006年 出生 抚养
+O O B_Bear B_Gender B_Name B_Time O O

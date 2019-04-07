@@ -1,0 +1,6 @@
+原告康 某某 诉称 原 被告 2002年 经人介绍 认识 2005年 4月 12日 邵阳县 民政局 登记 结婚
+B_Person O B_DivorceLawsuit O O B_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+2005年 5月 12日 生育 女孩 朱某 乙 男孩 朱某丙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Gender B_Name
+婚后 被告 打牌 赌博 异性 不 正当 往来 原 被告 吵架 被告 家庭 子女 不 责任 现原 被告 分居 生活 快 两 年 夫妻 感情 已 完全 破裂
+O B_Person O B_BadHabit O B_Derailed I_Derailed I_Derailed O O B_FamilyConflict O O O O O O O B_Separation O B_Time I_Time I_Time O O O O O

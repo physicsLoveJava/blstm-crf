@@ -1,0 +1,8 @@
+原告 郭某 甲诉 称 原 被告 常 家庭 琐事 发生 争执 被告 原告 父母 之间 难以 相处 发生 矛盾 次 逼 原告 母亲 下 跪 情形 导致 原告 无法 正常 生活 工作
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+2012年 9月 至今 双方 实际 分居 现 夫妻 感情 已 破裂 请求 判决 1 解除 原 被告 婚姻 关系
+B_Time I_Time O O O B_Separation O O O O O O O O O O O O O
+2 婚生子 郭某 乙 原告 抚养 被告 每月 支付 抚养费 1500 元
+O B_Bear B_Name I_Name O O O O O O O O
+被告 原告 父母 之间 确实 存 矛盾 不足以 成为 离婚 理由 原告 2012年 夫妻 产生 矛盾 后 被告 孩子 不闻不问
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O

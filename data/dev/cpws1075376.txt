@@ -1,0 +1,8 @@
+原告 李 某某 诉称 2000年 9月 14日 原告 被告 湘潭市 雨湖区 民政局 登记 结婚 双方 都 二婚 婚后 没有 共同 生育 小孩
+O O O O B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O O O O
+结婚 后 至今 13年 夫妻 感情 被告 没有 正式 工作 双方 结婚 后头 年 里 原告 安排 被告 经营 茶楼 饭店 工作 被告 总是 做 不 多久 赚钱 不 告诉 原告 不 原告 投资 钱 还给 原告 原告 非常 失望 寒心 双方 感情 淡漠
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+尤其 今年 6月份 原告 湘潭 市中心 医院 检查 患 癌症 晚期 8月份 长沙 湘雅 医院 治疗 9月份 回到 湘潭 市中心 医院 治疗 段 期间 被告 原告 漠不关心 总共 去 医院 看 原告 四 次 左右 每次 去 找 原告 钱 不 真心实意 关心 原告 病情 被告 妻子 没有 履行 应 义务 责任 情况 下 都 不 尽心 照顾 体贴
+O O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+了解 自然 走 一起 2000年 9月 14日 结婚
+O O O O B_Time I_Time I_Time B_Marry

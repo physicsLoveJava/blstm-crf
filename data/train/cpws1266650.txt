@@ -1,0 +1,8 @@
+原告 刘 诉称 原 被告 2009年 1月 人 介绍 相识 2009年 2月 17日 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry
+2009年 11月 24日 生育 女儿 张某涵 2011年 11月 29日 生 下 儿子 张某翰
+B_Time I_Time I_Time B_Bear O B_Name B_Time I_Time I_Time B_Bear I_Bear O B_Name
+婚前 感情 基础 薄弱 被告 性格 暴躁 大 男子 主义 没有 正常 父亲 生活
+O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 曾 2013年 5月份 提出 协议 离婚 被告 不 同意
+B_Person O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

@@ -1,0 +1,8 @@
+原告 沈某 诉称 原告 被告 2008年 结婚 领取 结婚证
+O O O O O B_Time O O B_Marry
+婚后 生育 女
+O B_Bear I_Gender
+婚前 双方 缺乏 了解 婚后 俩 人 性格 存在 差距 常 发生 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+现 诉至法院 要求 判 令 被告 离婚 婚生 女 原告 抚养 被告 依法 付 抚育费 被告 承担 诉讼 费用
+O B_DivorceLawsuit O O O O O O O O O O O O O O O O O

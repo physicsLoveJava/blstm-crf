@@ -1,0 +1,6 @@
+原告 张 某某 诉称 被告 2010年 2月 23日 办理 结婚 登记 手续 后 共同 生活 婚后 生育 女孩 江某 现年 三 周年 被告 性格 不和 发生 吵
+O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O B_Bear B_Gender B_Name O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict
+被告 不务正业 上网 赌博 耐心 规劝 被告 不 思 悔改
+B_Person O B_BadHabit I_BadHabit O O O O O O
+现 要求 被告 离婚 婚生 女孩 江某 被告 抚养
+O O O O B_Bear B_Gender B_Name O O

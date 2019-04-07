@@ -1,0 +1,8 @@
+原告 毛某 诉称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 2000年 9月 24日 生长 女 马某 甲 2009年 9月 24日 生次 女 马某 乙
+O O O O O O O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 性格 差异 大 婚后 双方 生气 吵架 最近 2 年 被告 染 上 网瘾 不 履行 家庭 义务 二 人 生气 频繁
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O
+近期 还 找 亲戚 朋友 骗 钱 上网 使 原告 被告 彻底 失去 信心 2013年 4月份 后 二 人 分居
+O O O O O O O O O O O O O O B_Time I_Time O O O B_Separation
+答辩 人 确实 原来 上网 毛病 现在 不再 上网
+O O O B_BadHabit I_BadHabit I_BadHabit B_Negated I_Negated I_Negated

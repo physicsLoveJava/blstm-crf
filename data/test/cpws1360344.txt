@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2008年 8月 相识 2009年 4月 7日 登记 结婚 2009年 11月 3日 生育 女儿 岳某 静
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 感情 基础 薄弱 双方 学识 生活 环境 习惯 都 不同 被告 性格 暴躁 无 家庭 责任感 家庭 关系 不 和睦
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 5月 双方 商议 回 原告 娘家 居住 一起 居住 三 月 被告 2011年 8月 搬 回 高崇山 居住 分居 生活
+O O O O O O O O O O O O O B_Time I_Time O O O O B_Separation O
+维护 原告 婚姻 自由 请求 人民法院 依法 判 令 1 准许 原 被告 离婚
+O B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+被告 辩称 1 原告 诉状 中 称 婚前 双方 缺乏 了解 感情 基础 薄弱 双方 学识 生活 环境 习惯 都 不同 被告 无 家庭 责任感 不 属实
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

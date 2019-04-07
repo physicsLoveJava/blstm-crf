@@ -1,0 +1,8 @@
+原告 乔某 诉称 ×××× 年×× 月 被告 经人介绍 订婚 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月××日生 男孩 吴 某乙
+O O O O O O O O O O O O O O B_Marry O O B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 结婚 草率 婚后 两 人 性格 不和 生气 吵架 打架 被告 家里 事 不 不 问 生气 带 孩子 回 娘家 居住
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+2011年 元月 被告 分居 今 早日 解除 俩 名存实亡 婚姻 关系 特 诉至法院 要求 被告 离婚 婚生 男孩 抚养 被告 支付 抚养费
+B_Time I_Time O B_Separation I_Time O O O O O O O O O O O O O O O O O
+共同 财产 6 年 生 杨树 80 棵 三轮车 电动车 辆 共同 债务 147000 元 要求 依法 分割
+B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Debt I_Debt B_Price I_Price O O O

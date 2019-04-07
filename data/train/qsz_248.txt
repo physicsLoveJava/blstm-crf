@@ -1,0 +1,10 @@
+2012年 11月份 原 被告 相识
+B_Time I_Time O O B_Know
+2013年 农历 八月 初八 建立 恋爱 关系 同年 农历 十月 初 八 乡俗 举行 结婚 仪式 双方 同居 生活
+B_Time I_Time I_Time I_Time O B_BeInLove O B_Time I_Time I_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O
+2015年 1月 9日 原 被告 双方 蓟州区 民政部门 进行 结婚 登记 自此 原 被告 双方 建立 夫妻 关系
+B_Time I_Time I_Time O O O O O O B_Marry O O O O O O O O
+为此 原 被告 双方 出现 生气 吵架 情况 | 双方 感情 出现 破裂 近 两 年 以来 被告 无所事从 | 生活 琐事 原告 进行 殴打 2017年 9月 9日 原 被告 双方 固 协商 离婚 事宜 未能 达成 一致 意见
+O O O O O O B_FamilyConflict O O O O O O O O O O B_Person O O O O B_Person O B_DomesticViolence O O O O O O O O O O O O O O
+原 被告 2014年 10月 13日 共同 生育 长女 马育聪 3 周 零9 月 目前 原告 抚养
+O O B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Age I_Age I_Age I_Age O O O

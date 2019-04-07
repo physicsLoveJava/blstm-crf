@@ -1,0 +1,10 @@
+原告 竺某 甲 起诉 称 原 被告 ×××× 年×× 月经人介绍 认识 不久 同居 生活 ×××× 年×× 月×× 日 登记 结婚 双方 均 系 离异 后 再婚 ×××× 年×× 月×× 日 生育 女儿 竺某 乙 原 被告 婚前 缺乏 了解 婚后 原告 发现 双方 性格 相差 大 没有 共同语言 被告 沉溺 搓 麻将 夜 不 宿 家庭 经济 讳莫如深 2012年 6月 原 被告 家庭 经济 发生 矛盾 分居 生活 现 原告 诉至法院 请求 判 令 准予 原 被告 离婚
+O O O O O O O B_Time I_Time I_Time B_Know O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Person O O O O B_Remarry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O B_Time I_Time O O O O O O B_Separation O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 王某 答辩 称 原 告诉 称 认识 结婚 生育 子女 属实 不 真实 双方 均 再婚 婚姻 特别 慎重 原告 认为 被告 沉溺 麻将 不 事实 双方 至今 仍 一起 生活 被告 不 同意 离婚
+O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit B_Negated I_Negated O O O O O O O O O
+共同 财产 债权 债务 方面 1 本田 轿车 被告 婚前 财产 原告 没有 关系
+O O O O O O B_Wealth I_Wealth O B_PersonalProperty I_PersonalProperty O O O
+2 原告 企业 缺乏 资金 被告 父亲 借款 20万 元 系 夫妻 共同 债务
+O O O O O B_Person I_Person B_Debt B_Price I_Price O O O O
+3 共同 财产 被告 厂 里 设备 模具 共计 157．1万 元
+O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth O B_Price I_Price

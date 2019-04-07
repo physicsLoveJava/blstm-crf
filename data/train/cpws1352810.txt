@@ -1,0 +1,8 @@
+原告 马 某某 诉称 原 被告 均 系 再婚
+B_Person I_Person I_Person O B_Person I_Person O O B_Remarry
+原告 马 某某 被告 崔 某某 2004年 经人介绍 相识 2004年 8月 16日 登记 结婚 原 被告 婚后 共同 生活 期间 未 生育 子女
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O
+原 被告 婚前 感情 尚 婚后 共同 生活 期间 琐事 发生 纠纷 现 双方 已 分居 生活 夫妻 感情 破裂
+O O O O O O O O O O O O O O O B_Separation O O O O
+维护 原告 合法 权益 特 诉至法院 请求 法院 依法 判决 原 被告 离婚 依法 分割 夫妻 共同 财产
+O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O

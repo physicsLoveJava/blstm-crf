@@ -1,0 +1,6 @@
+原告 曹某 起诉 称 原 被告 2000年 经人介绍 认识 同年 农历 8月 23日 订婚 2001年 同居 2002年 农历 正月初五 举行 婚礼 ×××× 年×× 月××日补办 结婚 登记 手续 婚后 生育 儿子 林 市委
+O O O O O O B_Time O B_Know O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O B_Bear B_Gender I_Gender
+被告 游手好闲 长期 参与 赌博 长期 不顾 家庭 家庭 开支 系 原告 承担 被告 不但 不 听 规劝 威胁 打骂 原告 致使 夫妻 感情 彻底 破裂
+I_FamilyConflict O O O O O O O O O O O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O
+被告 林某 答辩 称 原 告诉 称 认识 订婚 同居 举行 婚礼 补办 结婚 登记 时间 生育 儿子 情况 属实 双方 没有 共同 财产 属实 原告 诉称 双方 没有 共同语言 被告 参与 赌博 殴打 原告 不 事实
+O O O O O O O O O O O O O O O O B_Marry I_Marry I_Marry O B_Bear O O B_Negated O B_Wealth I_Wealth B_Negated I_Negated O O O O O O O O

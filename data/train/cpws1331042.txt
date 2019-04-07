@@ -1,0 +1,6 @@
+原 告诉 称 原被告 双方 1992年 12月 11日 登记 结婚 1993年 9月 11日 生育 儿子 徐某丙
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+性格 差异 原被告 双方 婚后 生活 琐事 吵架 孩子 之后 关系 有所 缓和 生气 不 断
+O O O O O O O B_FamilyConflict O O O O O O O O
+2003年 双方 口头 约定 领 工资 电费 半 交 孩子 学费 生活费 一半 分居 生活 今 等待 孩子 考上 大学 后 离婚 双方 婚姻 已经 名存实亡 夫妻 感情 已经 彻底 破裂 绝 没有 好 原告 诉至法院 请求 依法 判 令 双方 离婚 婚前 财产 婚后 财产 共同 分割 儿子 徐某丙 跟随 父亲 母亲 生活 选择 徐某丙 上学 期间 费用 原被告 双方 承担 一半
+B_Time O O O O O O O O O O O O B_Separation O I_Time O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

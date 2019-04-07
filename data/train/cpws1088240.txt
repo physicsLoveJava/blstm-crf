@@ -1,0 +1,8 @@
+原告 谢某 诉称 2001年 原 被告 相识 建立 恋爱 关系 后 河口区 民政局 登记 结婚 婚后 未 生育 子女
+O O O B_Time O O B_Know O B_BeInLove O O O O B_Marry I_Marry O O O O
+原 被告 均 系 再婚 婚前 相互 了解 少 婚后 被告 只 图 享受 不尽 家庭 义务 所有 家庭 负担 全 原告 承担
+B_Person I_Person O O B_Remarry O O O O O O O O O O O O O O O O O O
+原告 曾 劝导 被告 屡教不改 长期 原告 实施 家庭 暴力 现在 夫妻 感情 已经 完全 破裂
+O O O B_Person O O B_Person O B_DomesticViolence I_DomesticViolence O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2． 夫妻 共同 债务 应 原 被告 分担
+O O B_Debt I_Debt O O O O

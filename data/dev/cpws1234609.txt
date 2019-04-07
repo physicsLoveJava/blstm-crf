@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2006年 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女孩 贾某乙
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Time O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 发现 被告 脾气 暴躁 好吃懒做 整日 沉溺 赌博 酗酒 家庭 不 不 问 日常 支出 全部 原告 人 负担 两 人 争吵 已经 严重 影响 家庭 正常 生活 夫妻 感情
+O O O B_Person O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O B_FamilyConflict O O O O O O O O
+原告 苦苦 相劝 被告 不 思 悔改 酒后 原告 实施 家庭 暴力 致使 两 人 夫妻 感情 彻底 破裂
+O O O B_Person O O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O
+2013年 5月 5日 被告 纠集 人 强行 入 原告 娘家 原告 母亲 伤 不顾 孩子 感受 强行 孩子 抢走 不仅 剥夺 孩子 接收 幼儿 教育 权利 孩子 心理 造成 惊吓 刺激
+B_Time I_Time I_Time O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O
+双方 共同 债务 103200 元 双方 共同 偿还
+O O B_Debt B_Price I_Price O O O

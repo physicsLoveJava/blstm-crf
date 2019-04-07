@@ -1,0 +1,4 @@
+原告 孔祥 富诉 称 原 被告 系 经人介绍 相识 恋爱 婚后 感情 尚 好 后 被告 患 糖尿病 脾气 日趋 暴躁 常常 琐事 原告 产生 矛盾 原告 采取 家庭 暴力 导致 夫妻 感情 破裂
+O O O O O O O O B_Know B_BeInLove O O O O O B_Person O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence O O O O
+原告 先后 两 次 法院 起诉 要求 被告 离婚 原 被告 分居 近 三 年 夫妻 感情 已 名存实亡 现 法院 起诉 要求 被告 离婚
+O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O O O

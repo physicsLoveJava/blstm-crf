@@ -1,0 +1,6 @@
+原告 被告 1995年 10月 17日 登记 结婚 1996年 7月 12日 生育 儿子 陈国铭
+O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+原告 被告 均 离婚 不久 草率 结婚 婚后 被告 家庭 琐碎 事 原告 争吵 特别 原告 前妻 生 儿子 陈国 龙漠 不 关心 没有 做到 母亲 长辈 应有 责任
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+被告 原告 母亲 刘英培 婆媳 关系 不和 争吵 发生 伤 婆婆 行为 至今 被告 没有 伤 婆婆 行为 丝毫 悔意 还 反口 不 承认 没有 伤 刘英培
+O O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O

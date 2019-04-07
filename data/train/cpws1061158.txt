@@ -1,0 +1,8 @@
+原告 周 某某 诉称 原 被告 1995年 冬 确定 恋爱 关系 1997年 1月 10日 登记 结婚
+O O O O O O B_Time I_Time B_Negated B_BeInLove O B_Time I_Time I_Time B_Negated B_Marry
+1997年 9月 15日 生育 小孩 周某
+B_Time I_Time I_Time B_Bear O B_Name
+原 被告 婚前 缺少 了解 婚后 性格 不和 常 家庭 琐事 发生 矛盾
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+2013年 3月 原 被告 分居 现 夫妻 感情 已 完全 破裂
+B_Time I_Time O O B_Separation O O O O O O

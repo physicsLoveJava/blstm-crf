@@ -1,0 +1,6 @@
+原 被告 经人介绍 2006年 7月 3日 年 登记 结婚
+O O O B_Time I_Time I_Time O B_Marry I_Marry
+原 被告 婚前 缺乏 了解 婚后 琐事 争吵
+O O O O O O O B_FamilyConflict
+被告 缺乏 家庭 责任感 不 原告 好好 工作 不 上班 致使 原告 失去 工作 上述 多种 原因 致使 原告 感情 淡漠 时至今日 已 彻底 破裂 无法 继续 生活 下去 原告 无奈 诉 贵院
+B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

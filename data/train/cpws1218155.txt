@@ -1,0 +1,8 @@
+原告 丁某 甲诉 称 被告 1997年 认识 不久 同居 生活 1999年 2月 25日 生育 儿子 2000年 4月 2日 生育 女儿 2000年 11月 22日 双方 原 汕头市 河浦区 民政局 补办 结婚 登记
+O O O O O B_Time B_Know O O O B_Time I_Time I_Time B_Bear B_Gender B_Time I_Time I_Time B_Bear B_Gender B_Time I_Time I_Time O O O O O O B_Marry I_Marry
+双方 认识 时间 短 缺乏 深入 了解 婚后 发觉 性格 存在 大 差异
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2002年 怀孕 期间 还 遭到 被告 殴打 感情 已经 深感 绝望
+B_Time O O O O B_Person B_DomesticViolence O O O O
+同年 带 汕头 市区 租房 生活 被告 分居
+O O O O O O O B_Separation

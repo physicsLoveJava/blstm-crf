@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1991年 外 务工 时 相识 同居 生活
+O O O O O B_Time O O O B_Know O O
+次年 12月 习俗 定婚 双方 未 办理 结婚 登记
+B_Time I_Time O B_Marry O O O O O
+1993年 1月 16日 生育 男孩 程 小某 同居 初期 双方 感情 好 被告 家庭 不 负 责任 长期 不 正当 来往 致使 夫妻 感情 破裂 诉至法院 请求 判 令 原 被告 离婚 被告 承担 共同 债务 1．8万 元 给予 精神 损害 赔偿 2万 元
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O B_Person O O O O B_Derailed I_Derailed I_Derailed I_Derailed B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_Debt I_Debt B_Price O O O O O O O

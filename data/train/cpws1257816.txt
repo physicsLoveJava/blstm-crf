@@ -1,0 +1,10 @@
+原告 高×1 诉 称 张× 1989年 8月 26日 登记 结婚 婚后 生育 二 子 长子 高×2 次子 高×3
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear O O B_Gender B_Name B_Gender B_Name
+现 二子 均 已 成年
+O O O O B_Age
+婚后 琐事 吵架 互不相让
+O O B_FamilyConflict O
+2010年 张× 分居 生活
+B_Time O B_Separation O
+被告 张×辩 称 高×1 婚后 夫妻 感情 好 高×1 认识 杨× 之后 高×1 家 当成 旅店 导致 发生 矛盾 现 夫妻 感情 已经 破裂 同意 离婚
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O

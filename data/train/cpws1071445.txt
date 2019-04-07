@@ -1,0 +1,4 @@
+原告 王某 磊诉 称 原 被告 2008年 11月 经人介绍 认识 认识 天 双方 同居 生活 2009年 12月 16日 补办 结婚 登记
+O O O O O O B_Time I_Time O B_Know O O O O O B_Time I_Time I_Time O B_Marry O
+被告 自征 转 户口 取得 养老 保险 后 觉得 年老体衰 原告 没有 大 利用 价值 原告 钱 无理取闹 蛮 不 讲理 抓 原告 还 辱骂 原告 母亲
+B_Person O O O O O O O O O O O O O O O O O O O O B_DomesticViolence B_Person O O O O

@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 原 被告 1987年 经人介绍 相识 恋爱 1988年 10月 12日 当地 风俗 习惯 办理 婚宴 酒 至今 未 民政部门 办理 结婚 登记 手续 属 事实 婚姻 关系
+O O O O O O B_Time O B_Know B_BeInLove B_Time I_Time I_Time O O O O O O O O O O O O O O B_Marry I_Marry I_Marry
+原 被告 结 夫妻 后 生育 男 女 两 小孩 男孩 名叫 刘 某某 现年 24 岁 女孩 名叫 刘 某某 现年 22 岁 均 已 成年
+O O O O O B_Bear B_Gender B_Gender O O O O B_Name I_Name O O O O O B_Name I_Name O O O O O O
+原 被告 性格 不合 自结 夫妻 以来 生活 琐事 打架 吵闹 特别 近 年 被告 离家 外出 不 晚 夫妻 分居 已 近 六 年 夫妻 关系 已 名存实亡 现 相关 法律 规定 特 提起 诉讼 请求 法院 判决 原 被告 离婚 依法 分割 共建 住房
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O
+被告 谭 某某 辩称 原告 起诉书 述 事实 客观 事实 不符 被告 外 居住 不 双方 性格 不合 原告 外 女人 被告 家庭 生活 对外 负债 共计 79000 元
+O O O O O O O O O O O O O O O O O O O O O O O O O B_Debt O B_Price I_Price

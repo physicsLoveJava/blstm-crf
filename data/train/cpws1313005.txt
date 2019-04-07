@@ -1,0 +1,6 @@
+原告 李 某某 诉称 原 被告 1999年 1月 30日 登记 结婚 婚前 缺乏 了解 婚后 二 人 性格 脾气 不 合 婚后 没有 建立 夫妻 感情
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O
+被告 家庭 孩子 不 不 问 赌博 人 上门 讨 赌债
+B_Person O O O O O I_BadHabit O O O O
+原告 被告 做法 无法 忍受 为此 提起 诉讼 请求 判 令 原 被告 离婚 婚生 男孩 孔某 乙 女孩 孔某 甲 原告 抚养 被告 支付 抚养费 婚前 财产 所有 婚后 财产 依法 分割
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name O O O O O O O O O O O O

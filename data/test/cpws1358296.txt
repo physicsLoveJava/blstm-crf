@@ -1,0 +1,14 @@
+原告 梁 小 妹诉 称 原告 被告系 经人介绍 认识 认识 不久 原告 被告 同居 2001年 4月 17日 生 下 女孩 曾
+O O O O O O O O B_Know O O O O O B_Time I_Time I_Time B_Bear O B_Gender B_Name
+双方 2003年 1O 月 2O 日 补办 结婚 登记 手续
+O B_Time I_Time I_Time I_Time I_Time O B_Marry O O
+婚前 双方 性格 脾气 了解 不够 导致 婚后 双方 无 共同语言
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+特别 近 两 年 被告 买 货车 跑 运输 以后 换 人 家庭 一点 不 负 责任 不顾 家 不 回家 不 家里 分 钱 小孩 生活费 不
+O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+原告 问 被告 被告 便 发怒 砸 东西 殴打 原告 原告 无奈 110 报警
+O O O B_Person O O O O B_DomesticViolence B_Person O O O O
+被告 行为 原告 忍无可忍 2012年 8月 13日 起诉 要求 被告 离婚 法院 准备 开庭 审理 被告 要求 次 机会 原告 便 撤回 起诉
+O O B_Person O O O O B_DivorceLawsuit O O O O O O O O O O O O O O O
+原告 撤诉 后 被告 我行我素 没有 一点 改变 原告 进行 打骂 双方 去年 8月份 撤诉 后 分居 互不 履行 夫妻 义务 被告 没有 家庭 做 丈夫 父亲 责任
+O O O O O O O O O O O O O B_Time I_Time I_Time B_Separation O O O O O O O O O O O

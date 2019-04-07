@@ -1,0 +1,4 @@
+原告 寻某 诉称 2004年 被告 自由 恋爱 订婚 2007年 6月 22日 登记 结婚 婚后生 女孩
+B_Person O O B_Time O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender
+被告 嗜赌 成性 酗酒 无端 打骂 无奈 之下 2010年 年底 离家 出走 今 现 夫妻 关系 已 名存实亡
+B_Person B_BadHabit I_BadHabit B_BadHabit O B_DomesticViolence O O B_Time I_Time B_Separation I_Separation I_Time O O O O O

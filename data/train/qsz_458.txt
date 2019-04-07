@@ -1,0 +1,12 @@
+原 被告 2008年 经人介绍 相识 2009年 3月 确定 恋爱 关系 2013年 7月 2日 补办 结婚 登记 手续 共同 生活
+O O B_Time O B_Know B_Time I_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O
+2010年 12月 26日 生育 女 取名 王馨蕊
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+现年 七 周岁
+O B_Age I_Age
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 未 建立 感情 双方 日常 生活 中 琐事 发生 争吵 升级 冷战
+O O O O O O O O O O O O O O O O O B_FamilyConflict O B_FamilyConflict
+原告 认为 现在 双方 感情 确 已 破裂 感情 不和 原告 曾 2017年 8月 7日 贵院 起诉 离婚
+O O O O O O O O O O B_Person O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit
+后 贵院 审理 判决 离婚
+O O O B_Judgment I_Judgment

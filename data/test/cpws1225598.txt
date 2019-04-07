@@ -1,0 +1,14 @@
+原告 杨某 甲诉 称 原 被告 1989年 下半年 经人介绍 相识 1994年 2月 5日 原 洪江市 民政局 登记 结婚 1996年 3月 26日 生育 女孩 杨某乙
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚后 感情 比较 好 2013年 6月份 以来 被告 外 过夜 男人 关系 密切 人 劝说 被告 仍 置之不理
+O O O O O O I_Time I_Time I_Time B_Person O O I_Derailed I_Derailed I_Derailed O O O O O
+原告 认为 原、被告 夫妻 感情 确 已 破裂 特 诉至法院 请求 法院 依法 判决 原 被告 离婚
+O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+双方 现有 存款 3万 元 原告 所有
+O O B_Wealth I_Wealth I_Wealth O O
+被告 李某 辩称 原告 下岗 以来 长期 好逸恶劳 吃喝嫖赌 原告 家里 生活 打工 赚钱 被告 父亲 给予 原、被告 家庭 帮助 原 被告 共 被告 父亲 借款 19480 元
+O O O B_Person O O O B_BadHabit B_BadHabit O O O O O O O O O O O O O O O O B_Debt B_Price I_Price
+原告 称 被告 外 第三者 纯属 诬陷
+O O O O O B_Negated I_Negated
+大湾塘 房子 拆迁 之后 安置房 属于 夫妻 共同 财产
+O O O O B_Wealth O O B_CommonProperty I_CommonProperty

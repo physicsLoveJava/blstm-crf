@@ -1,0 +1,6 @@
+原被告 双方 经人介绍 相识 2000年 月 28 { l 登记 结婚 婚后 育 长子 霍金涛 18 岁 次子 霍金 昊 4 岁 婚前 缺乏 f 解 二 人 性格 差异 大 婚后 双方 感情
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender B_Name B_Age I_Age B_Gender B_Name I_Name B_Age I_Age O O O O O O O O O O O B_FamilyConflict
+家庭 琐事 争吵 致使 双方 言语 愈 米 愈 少 矛盾 愈 米 愈 大 难以 承受 对方 大打出手 两 年 前 原告 忍无可忍 家中 搬 承包 村北 鱼塘 宿舍 居住 今
+O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict B_Time I_Time I_Time O O O O O O O O I_Separation I_Time
+尤佘 原告丁 2017I0 月 25H 天津市 北辰区 法院 提起 离婚 诉 2017年 I1 月2日 法院 卜达 不予 离婚 判决
+O B_Person B_Time I_Time I_Time B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment O

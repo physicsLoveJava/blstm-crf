@@ -1,0 +1,4 @@
+原告 王×诉 称 被告 梁× 2012年 2月 16日 经人介绍 相识 2012年 5月 16日 登记 结婚 双方 未 生育 子女
+B_Person I_Person O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O
+双方 对待 生活 家庭 观念 差距 大 致使 双方 长期 感情 不和 琐事 发生 激烈 争吵 导致 夫妻 感情 破裂 无 好 现 诉至法院 请求 1 判 令 被告 梁× 离婚
+O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

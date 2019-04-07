@@ -1,0 +1,14 @@
+原 被告 1987年 自由 恋爱 后 夫妻 名义 同居 生活
+O O B_Time O B_BeInLove O O O O O
+1989年 3月 11日 补 办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+后 分别 1990年 1993年 生育 长子 马青山 长女 马青媛
+O O B_Time B_Time B_Bear B_Gender B_Name B_Gender B_Name
+被告 脾气 暴躁 性格 粗野 动 不 动 原告 张口 骂 举手 原被告 之间 从未 建立 真挚 夫妻 感情 为此 原告 曾 早就 被告 离婚 念头
+B_Person O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O
+当时 原告 念 孩子 幼小 勉强 被告 生活 被告 原告 宽容 后 谅解 不予 理解
+O O O O O O O O B_Person O O O O O O
+还 婚外 人 持有 爱味 关系
+O O O O B_BadHabit O
+为此 原被告 已 2017年 9月 今 过分 居 生活 期间 双方 没有 接触 往来 事实 证明 双方 感情 已 彻底 破裂
+O O O B_Time I_Time I_Time B_Separation I_Separation O O O O O O O O O O O O O

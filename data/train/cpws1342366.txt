@@ -1,0 +1,6 @@
+原 告诉 称 2005年 5月份 原、被告 经人介绍 认识 2007年 10月 18日 登记 结婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 不久 原 被告 双方 争吵 打闹
+O O O O O I_FamilyConflict I_FamilyConflict
+2009年 4月 至今 原 被告 感情 不 分居 生活 最终 导致 夫妻 感情 彻底 破裂 诉请 离婚
+B_Time I_Time B_Time O O O O B_Separation I_Separation O O O O O O O O

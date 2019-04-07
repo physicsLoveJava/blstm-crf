@@ -1,0 +1,8 @@
+原告 被告 均 系 再婚 经人介绍 相识 2016年 12月 8日 登记 结婚 婚后 育 女 董新淼 三 月 双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚
+B_Person I_Person O O B_Remarry O O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name B_Age I_Age O O O O O O O O O O O
+二 人 小事 发生 争吵
+O O O O B_FamilyConflict
+被告 酗酒
+B_Person B_BadHabit
+酒后 无故 辱骂 殴打 原告 原告 看 孩子 尚 年幼 一再 忍让 被告 不 看 眼里
+O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 张 某某 诉称 原 被告 2004年 8月份 网络 认识 2006年 3月 8日 广东省 海珠区 民政局 婚姻 登记处 办理 结婚 登记 手续
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O O O B_Marry O O
+原 被告 婚前 缺乏 了解 婚后 性格 不和 家庭 琐事 发生 争吵
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2008年 年底 原 被告 分居 今 互不 往来 现 原 告 之间 夫妻 感情 已 完全 破裂 夫妻 关系 名存实亡 特 法院 提起 诉讼 请求 依法 判 令 原 被告 离婚
+B_Time I_Time O O B_Separation O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+确定 原告 存在 隐藏 转移 夫妻 财产 行为
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

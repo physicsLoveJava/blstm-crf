@@ -1,0 +1,6 @@
+原告 被告 均 系 再婚
+B_Person B_Person O O B_Remarry
+2017年 3月 人 介绍 相识 同年 11月 20日 登记 结婚
+B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+原告 解释 不 听 后 被告 找茬 原告 吵闹 辱骂 动手 殴打 原告 还 原告 赶出 家门 导致 原告 伤痕 累累 原告 为此 报警 处理 后 双方 分居 今 2018年 4月 26日 被告 起诉 离婚 不知 何故 6月 7日 撤诉
+O O O O O B_Person O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O B_Separation B_Time B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time B_Judgment

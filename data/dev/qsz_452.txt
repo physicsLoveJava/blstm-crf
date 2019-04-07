@@ -1,0 +1,16 @@
+原 被告 1993年 上半年 经人介绍 相识 后 确立 恋爱 关系 1994门 fa 诸 年 4月 12日 举行 结婚 仪式 后 共同 生活 1996年 1月 18日 补办 结婚 登记 手续
+O O B_Time I_Time O B_Know O O B_BeInLove O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+1994年 10月 1日 生育 女 李雪冰 现 已 成年
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+2005年 11月 3日 生育 女 李国擎 2009年 8月 10日 生育 子 李国侨
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+2016年 4月 4日 被告 殴打 原告
+B_Time I_Time I_Time B_Person B_DomesticViolence B_Person
+2016年 4月 11日 原告 曾 起诉 被告 要求 离婚 没有 支持
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment
+2017年 2月 13日 原告 告诉 贵院
+B_Time I_Time I_Time B_Person B_DivorceLawsuit B_Court
+法院 仍 驳回 原告 诉讼 请求
+O O B_Judgment I_Judgment I_Judgment I_Judgment
+离婚 诉讼 请求 驳回 之后 原 被告 间 仍 没有 来往
+O O O O O O O O O B_Separation I_Separation

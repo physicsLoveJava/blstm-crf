@@ -1,0 +1,10 @@
+原告 罗 某某 诉称 原 被告 经人介绍 1994年 腊月 结婚 婚礼 进行 中 双方 发生 打架 原告 当时 就要 回 娘家 拉 住
+O O O O O O O B_Time I_Time B_Marry O O O O O O O O O O O O O
+婚后 1995年 12月 23日 生长子 1999年 4月 30日 生 次子
+O B_Time I_Time I_Time B_Bear B_Time I_Time I_Time B_Bear B_Gender
+被告 喜欢 赌钱 赌钱 夜 不 宿 四 年 没 回家
+B_Person B_BadHabit I_BadHabit O O O O O O O O
+原 告 之间 婚前 了解 不够 婚后 关系 冷漠 已 无 维持 婚姻 必要 请求 1 依法 判 令 原 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2 原告 称 被告 嗜赌 赌博 夜 不 宿 四 年 未 回家 不 事实 小牌
+O O O B_Person B_BadHabit O O O O O O O O B_Negated I_Negated O

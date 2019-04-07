@@ -1,0 +1,8 @@
+原告 李某 诉称 原 被告 2006年 10月 19日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 被告 家庭 缺乏 责任心 外 赌博 常常 有人 家 讨债 家里 玻璃窗 讨债 人 敲 破 被告 不 修理 无法 正常 生活 致 夫妻 关系 长期 不
+O B_Person O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O
+原告 只得 2010年 底 离家 居住 分居 今
+O O B_Time I_Time O O B_Separation O
+现 要求 离婚 双方 财产 依法 分割
+O O O O B_Wealth O O

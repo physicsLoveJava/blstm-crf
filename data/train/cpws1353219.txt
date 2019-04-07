@@ -1,0 +1,4 @@
+原告 孟 某某 诉称 原 被告 经人介绍 认识 1999年 11月 19日 登记 结婚 2000年 12月 13日 生育 男孩 取名 姜某甲 原 被告 婚前 缺乏 了解 婚后 未 建立 真正 夫妻 感情 家庭 琐事 吵架
+O O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O O O O O O O B_FamilyConflict
+维护 原告 合法 权益 特诉 贵院 请求 依法 判 令 原 被告 离婚
+O B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

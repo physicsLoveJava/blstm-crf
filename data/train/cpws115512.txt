@@ -1,0 +1,2 @@
+原告 胡 某某 诉称 婚前 缺乏 了解 双方 性格 不和 没有 共同语言 常 家庭 琐事 争吵 致 夫妻 关系 不 睦 双方 2010年 5月 分居 今 起诉 要求 被告 离婚 儿子 胡恺哲 女儿 胡恺凡 原告 抚养 村 卫生所 甘 M-T2351 号 出租车 原告 所有
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O B_Time I_Time B_Separation I_Time O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_PersonalProperty O

@@ -1,0 +1,4 @@
+原告 郑 某某 诉称 2008年 2月 被告 经人介绍 认识 2008年 7月 29日 领取 结婚证 婚后 未 生育 子女
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O
+双方 婚前 未 了解 仓促 结婚 双方 长期 外 打工 未 建立 稳固 夫妻 关系 感情 不和 吵架
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

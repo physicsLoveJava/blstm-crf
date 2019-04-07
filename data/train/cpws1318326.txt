@@ -1,0 +1,8 @@
+原告 刘某 诉称 原 被告 1983年 经人介绍 认识 1983年 11月 26日 农历 举行 婚礼
+B_Person I_Person B_DivorceLawsuit O O B_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+1985年 1月 20日 生育 女孩 刘某 1987年 8月 23日 生育 男孩 刘某 两 孩子 现 均 已 成年
+B_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time B_Bear B_Gender I_Name O O O O O B_Age
+原 被告 没有 民政部门 登记 已 形成 事实 婚姻 关系
+O O O O O O O B_Negated I_Negated O
+原 告 之间 性格 不合 吵闹 致使 感情 达到 彻底 破裂 程度 符合 离婚 条件 为此 原告 特 提起 诉讼 请求 法院 判决 原 被告 解除 婚姻 关系
+O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

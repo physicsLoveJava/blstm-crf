@@ -1,0 +1,10 @@
+原告 王小 X 良诉 称 原告 被告 2004年 相识 恋爱 不久 便 同居 生活 2008年 5月 28日 生育 长女 陈小 X 丹
+O O O O O O O B_Time B_Know B_BeInLove O O O O B_Time I_Time I_Time B_Bear B_Name B_Name I_Name I_Name
+2009年 被告 广州 打工 吸食 毒品 送 广州市 潭岗 劳动 教养 劳动 教养 二 年 被告 劳教 期间 原告 劳教所 探望 被告 被告 讲明 吸毒 危害性 劝说 被告 看 原告 女儿 份 上 彻底 戒 掉 毒品 回归 家庭 回归 社会 做 遵纪守法 公民 爱 妻 爱 女 好象 丈夫． 每次 被告 都 原告 面痛哭流涕 发誓 今后 不再 吸食 毒品 要求 原告 次 机会 改正 错误 重新 做人 原告 见 被告 心诚 便 同意 被告 要求 还 明确 告知 被告 被告 今后 继续 吸食 毒品 绝 不再 机会 被告
+O B_Person O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2011年 3月 被告 提前 释放 回家 原告 以为 被告 真的 已 改 好 不顾 家里人 反对 2011年 6月 28日 被告 办理 结婚 登记 手续． 被告 不 珍惜 原告 机会 还 不 年 2011年 12月 吸食 毒品 广州 公安 机关 送 去 劳动 教养 二 年
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O
+2012年 1月 21日 原告 生育 次女 陈小 X 彤
+B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name I_Name
+原告 被告 自由 恋爱 自愿 结婚 被告 长期 吸食 毒品 屡教不改 严重 损害 夫妻 感情 现 原告 被告 夫妻 感情 确 已 彻底 破裂 无 好 再 继续 共同 生活 下去 可能． 为此 特 诉至法院 请求 判决 1 准予 原告 被告 离婚
+O O O O O O O O O O O O O O O O B_Person O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

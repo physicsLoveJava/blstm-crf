@@ -1,0 +1,8 @@
+原告 吴某甲 起诉 称 原告 被告 2006年 10月 人 介绍 认识 短暂 交往 后 于×××× 年×× 月××日 办理 结婚 登记 手续 被告 入赘 原告 家 生活 ×××× 年×× 月×× 日 生育 子 取名 吴 某乙
+O O O O O O B_Time I_Time O O B_Know O O O B_Time I_Time I_Time O B_Marry O O O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2012年 7月 原告 无意间 发现 被告 依然 恶习 未 改 双方 矛盾 进一步 恶化
+O O O O O B_Person O B_BadHabit O O O B_FamilyConflict O O
+2012年 9月 30日 中秋节 被告 原告 租处 掐 住 原告 脖子 原告 进行 毒打 幸经 原告 姐姐 房东 制止
+O O O O B_Person O O O O O O B_Person O B_DomesticViolence O O O O O
+之后 原告 租 别处 双方 彻底 分居
+O O O O O O B_Separation

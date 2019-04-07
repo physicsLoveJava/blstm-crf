@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2015年 10月 20日 登记 结婚
+O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 原被告 感情 婚后 吵架
+O O O O I_FamilyConflict
+原被告 婚生 女 李雨函 现 2 周岁
+O B_Bear B_Gender B_Name O B_Age I_Age
+综 上 原告 认为 双方 婚前 缺乏 了解 感情 基础 薄弱 婚后 感情 不 睦 婚后 争吵 双方 实 无法 再 继续 共同 生活 双方 夫妻 感情 已 破裂
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict O O O O O O O O O O O O

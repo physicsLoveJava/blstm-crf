@@ -1,0 +1,10 @@
+原 被告 双方 经人介绍 相识 后 2016年 8月 23日 民政 机关 办理 结婚 登记 手续 后 共同 生活
+O O O O B_Know O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O
+被告 原告 次 结婚 原告 被告 初次 结婚 婚后 二 人 只 同居 生活 月 时间 被告 回 娘家 至今 未 回
+B_Person B_Person I_Remarry I_Remarry B_Person B_Person B_Remarry I_Remarry O O O O O O O O O B_Separation I_Separation B_Time O O
+原 被告 双方 系 草率 结婚 婚后 未能 建立 真正 感情 人 性格 差异 大 没有 感情 基础
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+原告 认为 被告 原告 婚后 只 同居 生活 月 时间 回 娘家 至今 未 二 人 实属 名存实亡 婚姻 关系 亦 无 好
+O O O O O O O O O O B_Separation I_Separation B_Time O O O O O O O O O O
+属 时间 短 被告 返还 原告 彩礼款 60000 元 万般无奈 原告 维护 合法 婚姻 权益 依据 婚姻法 第三十二 条 相关 司法 解释 规定 特 呈诉 贵院
+O O O B_Person O O B_Wealth B_Price I_Price O O O O O O O O O O O O O O O O O

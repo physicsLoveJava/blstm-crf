@@ -1,0 +1,16 @@
+原被告 2007年 10月 人 介绍 相识 2009年 6月 20日 登记 结婚 2012年 2月 25日 育 女 韩 佳霓
+O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 被告 性格 强势 独断专行 琐事 原告 争吵 日常 生活 中 原告 态度 冷漠 极 少 关心 原告 根本 体会 不 丈夫 关爱 家庭 温暖 致使 夫妻 感情 破裂 2013年 1月 22日 原被告 天津市 北辰区 民政局 协议 离婚
+O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+离婚 后 原告 考虑 女儿 年幼 完整 家庭 2013年 8月 22日 被告 复婚
+O O O O O O O O B_Time I_Time I_Time O B_Marry
+被告 自幼 农村 生活 严重 重男 轻 女 思想 2017年 1月 被告 不顾 原告 体弱多病 不宜 生育 身体 状况 要求 原告 生育 二 胎 二 人 发生 激烈 争执 致使 夫妻 感情 进一步 恶化
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O
+2017年 10月 二 人 生育 二 胎 问题 争吵 后 原告 携 女 回 娘家 居住 今
+B_Time I_Time O O O O O O O O O O O B_Separation I_Separation O I_Time
+分居 期间 探望 子女 问题 被告 数次 原告 娘家吵闹 报警 已 严重 影响 原告 家人 正常 生活 孩子 身心健康
+O O O O O O O O B_FamilyConflict O O O O O O O O O O
+2018年 1月 原告 贵院 起诉 离婚 后 法院 调解 原告 2018年 1月 17日 撤回 起诉
+B_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O B_Time I_Time I_Time B_Judgment I_Judgment
+被告 未 再 联系 原告 原被告 始终 处于 分居 状态 夫妻 感情 没有 改善 被告 孩子 未 承担 抚养 义务
+O O O O O O O O B_Separation O O O O O O O O O O O

@@ -1,0 +1,12 @@
+原 告诉 称 被告 2000年 2月份 经人介绍 相识 后 订婚 2003年 11月份 农村 习俗 举行 结婚 仪式 2004年 6月 11日 生 男孩 张某 甲 现在 五 丈原村 小学 上学
+O O O O B_Time I_Time O B_Know O O O O O O O O O B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name O O O O O
+2005年 12月份 原 岐山县 五丈原镇 人民政府 补办 结婚 证书
+B_Time I_Time O O O O O B_Marry O
+婚前 被告 缺乏 了解 草率 结婚 婚后 夫妻 共同 生活 过程 中 发现 两 人 性格 各异 无 共同语言 生活 琐事 发生 争吵 打架
+O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence
+被告 长期 参与 赌博 有时 劝说 句 被告 不但 不 听 劝解 辱骂 毒打
+O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O
+感到 确实 无法 被告 继续 共同 生活 下去 2013年 3月 11日 被告 分居 生活 今
+O O O O O O O O B_Time I_Time I_Time O B_Separation O I_Time
+维护 合法 权益 现 依法 起诉 要求 1 离婚
+O O O O O B_DivorceLawsuit O O O

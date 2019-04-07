@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2003年 8月 21日 登记 结婚 婚后 育 长子 刘洪涛 现年 15 岁 次子 刘宏图 现年 10 岁
+O O O B_Know B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通
+O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O B_FamilyConflict O O
+无法 达成 一致 意见 被告 不尽 应 家庭 义务 上班 三 天 打鱼 两天晒网 在家 看 小说 玩 手机
+O O O B_FamilyConflict O O O O O O O O O O O O O O O
+家里 家 外 全 原告 人 打理 操持 原告 沟通
+O O O O O O O O O B_FamilyConflict

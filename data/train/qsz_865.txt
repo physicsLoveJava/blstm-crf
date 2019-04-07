@@ -1,0 +1,4 @@
+原告 被告 2008年 11月 4日 办理 结婚 登记 手续 2007年 9月 25日 生 儿子 冀周
+O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 被告 婚后 感情 尚 后 被告 孤僻 性格 慢慢 显露 无缘无故 猜疑 生活 琐事 原告 争吵 冷战 原告 生病 情况 下 不 不 理 没有 做 丈夫 应 责任 双方 吵架 时 还 时不时 提出 离婚 现 原告 实在 无法 忍受
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O

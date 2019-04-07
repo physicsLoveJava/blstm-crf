@@ -1,0 +1,6 @@
+原告 卜 某某 诉称 2012年 12月 19日 原 被告 登记 结婚
+O O O O B_Time I_Time I_Time O O O B_Marry
+婚后 生育 长子 平某 甲 次子 平某 乙
+O B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name
+被告 常年 外 跑 业务 生活 不 检点 现 人 外租房 居住 被告 行为 严重 伤害 原告 感情 现 夫妻 感情 确 已 破裂 为此 原告 诉至法院 要求 被告 离婚 婚生 男孩 平 乙 原告 抚养 依法 分割 夫妻 共同 财产
+O O O O O B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O O O O O

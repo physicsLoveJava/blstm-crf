@@ -1,0 +1,6 @@
+原被告 1999年 相识 确立 恋爱 关系 2000年 12月 8日 生育 长女 王莹 现 上 高中 2002年 2月 13日 生育 长子 王柱 现 上 中专 原被告 2014年 2月 17日 办理 结婚 登记
+O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Bear B_Gender B_Name O O O I_Time I_Time I_Time B_Bear B_Gender B_Name O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+原被告 结婚 后 性格 不同 没有 共同语音 之间 时常 争吵 打架 感情 不和
+O O O O O O O O O B_FamilyConflict B_FamilyConflict O O
+被告 长期 酗酒 酒后 借故 辱骂 殴打 原告
+B_Person O B_BadHabit O O O B_DomesticViolence B_Person

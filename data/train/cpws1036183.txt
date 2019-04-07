@@ -1,0 +1,6 @@
+原告宝 某某 诉称 被告 经人介绍 1995年 12月 3日 登记 结婚 2001年 11月 14日 生育 名 男孩 某某
+O O O O O O O O O O O O O B_Bear O O O
+婚前 了解 少 性格 不合 被告 2010年 初 鲁北镇 生活 原告 分居 今
+O O O O O O B_Time I_Time O O O B_Separation I_Time
+期间 原告 曾 找 人 劝说 被告 回家 均 拒绝 导致 感情 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

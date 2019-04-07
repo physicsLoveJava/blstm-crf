@@ -1,0 +1,8 @@
+原告 杨某 诉称 原被告 2009年 2月 经人介绍 认识 后 2009年 11月 18日 登记 结婚
+O O O O B_Time I_Time O B_Know O B_Time I_Time I_Time B_Marry I_Marry
+2010年 9月 19日 女儿 安某 乙 出生
+B_Time I_Time I_Time B_Gender B_Name I_Name B_Bear
+女儿 出生 后 被告 没有 工作 酗酒 酒后 原告 吵架
+O O O B_Person O O I_BadHabit O O B_FamilyConflict
+原被告 2013年 7月 分居 今 夫妻 感情 已经 破裂 请求 依法 判 令 1 准予 原被告 离婚
+O B_Time I_Time B_Separation O O O O O O O O O O O O O

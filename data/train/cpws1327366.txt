@@ -1,0 +1,4 @@
+原 告诉 称 2005年 9月 被告 经人介绍 相识 婚前 接触 少 婚姻 基础 差 婚后 脾气 性格 不 合常 生气 吵架
+B_Person I_Person O B_Time I_Time O O B_Know O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2008年 年底 分居 生活 已经 4 年 久 平常 少 联系 2013年 春节 被告 商量 好 去 婚姻 登记 机关 办理 离婚 放假 没有 成 被告 夫妻 感情 已 彻底 破裂 诉至法院 请求 判 令 被告 离婚
+B_Time I_Time B_Separation O O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O

@@ -1,0 +1,4 @@
+原告 李如河 诉称 原 被告 2006年 7月份 打工 时 认识 2008年 12月 11日 政府 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+原 被告 婚前 缺乏 了解 婚后 家庭 琐事 吵闹 致 夫妻 感情 确 已 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

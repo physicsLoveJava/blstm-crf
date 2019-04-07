@@ -1,0 +1,4 @@
+原告 陈某 诉称 原 被告 2009年 人 介绍 相识 2009年 12月 25日 举行 结婚 仪式 2010年 8月 5日 办理 结婚证 婚后 2010年 月 某日 生 男孩 取名 陈 某某
+O O O O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O B_Time O O B_Bear B_Gender O B_Name I_Name
+双方 婚前 缺乏 了解 婚后 被告 外 玩乐 家庭 不尽 义务 不 负 责任 离家 出走 至今 不 家中 经济 被告 带走 双方 此时 常 争吵 致 夫妻 关系 破裂
+O O O O O O O O O O O O O O B_Separation I_Separation B_Time O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

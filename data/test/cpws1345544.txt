@@ -1,0 +1,12 @@
+原告 宋 某某 诉称 原 被告 1994年 4月 1日 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 生育 四 子女 分别 宋某甲 1999年 2月 7日 出生 宋某乙 2008年 9月 21日 出生 宋丙 2010年 1月 8日 出生 宋某丁 2011年 10月 1日 出生
+O B_Bear O O O B_Name B_Time I_Time I_Time O B_Name B_Time I_Time I_Time O B_Name B_Time I_Time I_Time O B_Name B_Time I_Time I_Time O
+婚后 原告 工作 需 需要 外出 被告 原告 原告 不 信任 性格 不合 小事 发生 争吵
+O B_Person O O O O O O O O O O O O O B_FamilyConflict
+请求 判 令 解除 原 被告 婚姻 关系
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+二 原告 工作 外出 借口 名 异性 非法 同居 严重 伤害 夫妻 感情
+O B_Person O O O O O B_Derailed I_Derailed O O O O
+原 被告 婚姻 存续 期间 共同 建筑 栋 三 层 楼房 承包 几十 亩 鱼塘 鱼塘 围基 上 建 间 房屋 猪圈 养鱼 若干 设备 购买 车牌 粤 AG7R26 汽车 十 万 元 债权
+B_Person I_Person O O O B_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price B_Credit

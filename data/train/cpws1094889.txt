@@ -1,0 +1,14 @@
+原告 邬某 甲 起诉 称 原 被告 ×××× 年×× 月××日 宁海县 民政局 登记 结婚
+O O O O O O O B_Time I_Time I_Time O O O B_Marry
+×××× 年×× 月×× 日 双方 生育 女儿 邬某 乙 2004年 10月 13日 生育 女儿 邬某丙
+B_Time I_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender
+婚后 原 被告 个性 不合 纷争 不 断 目前 已 不 一起 生活 无 感情 可言
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+现 原告 诉请 1 判 令 原 被告 离婚
+O O B_Person O O O O I_DivorceLawsuit I_DivorceLawsuit
+2 婚生 女儿 邬乙 婚生 女儿 邬丙 原告 抚养 成人
+I_DivorceLawsuit O O O O O O O O O
+被告 王某 答 辩称 原告 陈述 婚姻 生育 女儿 情况 均 属实
+O O O O O O O O O O O B_Bear
+婚姻 期间 双方 发生 矛盾 原告 过错
+O O B_Negated O O O O

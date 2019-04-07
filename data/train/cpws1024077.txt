@@ -1,0 +1,10 @@
+原告 李 某某 诉称 被告 经人介绍 相识 双方 2007年 1月 21日 登记 结婚 婚后 生育 女 付某 乙 生育 子 付 某丙
+B_Person O O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name I_Name O B_Gender B_Name I_Name
+婚前 接触 少 互不 了解 婚后 才 发现 双方 性格 脾气 不 常 生活 琐事 生气 吵架
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 酗酒 恶习 醉 酒 后 打骂 致使 被告 无法 共同 生活
+B_Person B_BadHabit O O O O B_DomesticViolence O O O O O
+2011年 7月 实在 忍受 不 这种 生活 便 回 娘家 居住
+B_Time I_Time O O O O O O B_Separation I_Separation O
+2013年 2月 贵院 提起 离婚 诉讼 判决 不 准 离婚 后 双方 未能 好
+B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O O

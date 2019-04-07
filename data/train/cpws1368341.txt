@@ -1,0 +1,6 @@
+原告 屠某 诉称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚 2009年 10月 6日 生 女孩 曹某甲
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+孩子 出生 后 双方 生气 吵架 被告 动手 原告 2013年 1月 15日 大棚 事 被告 当众 骂 原告 次日 被告 动手 人 还要 刀 砍 原告 原告 找 被告 父 说理 未 得到 好话 原告 被告 彻底 失去 信心 遂 分居 今
+O O O O O O B_Person I_DomesticViolence B_Person B_Time I_Time I_Time O O O O O O O B_Person I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O B_Separation I_Time
+被告 曹某 辩称 答辩 人 不 同意 离婚 双方 感情 尚 双方 生气 吵架 沟通 少 答辩 人 没有 原告 答辩 人 不 同意 离婚
+O O O O O O O O O O O O O O O O B_Person I_Person O B_Person O O O O O

@@ -1,0 +1,6 @@
+原告 茹某 诉称 被告 自由 恋爱 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后生 男孩 茹景云 现年 5 岁
+B_Bear B_Gender B_Name O B_Age I_Age
+被告 2009年 6月 扔下 孩子 离家 出走 至今 未
+O B_Time I_Time O O B_Separation I_Separation B_Time O

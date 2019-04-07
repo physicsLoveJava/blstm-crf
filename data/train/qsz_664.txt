@@ -1,0 +1,6 @@
+| 原被告 婚前 经人介绍 相识 2004年 1月 举行 结婚 仪式 共同 生活 2004年 11月 19日 补办 结婚 登记 手续 婚后 生育 子 女 现 均 原告 共同 生活
+O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O
+原告 被告 发生 争吵 被告 称 这种 日子 没 法 再 继续 主动 提出 离婚 天 原告 带 两 孩子 居住 至此 被告 正式 分居 2017年 12月 5日 原告 天津市 宁河区 人民法院 提起 离婚 诉讼 2017年 12月 26日 法院 2017 津0117 民 初 4409 号 民事 判决书 判令 不准 离婚
+O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O B_Separation B_Time I_Time I_Time B_Person B_Court I_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment
+原被告 2017年 10月 1日 分居 今 双方 感情 却 已 达到 破裂 程度
+O B_Time I_Time I_Time B_Separation I_Duration O O O O O O O

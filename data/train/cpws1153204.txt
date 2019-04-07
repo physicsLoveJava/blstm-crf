@@ -1,0 +1,18 @@
+原告 王某 起诉 称 原 被告 1986年 经人介绍 相识 后 同居 生活
+O O O O O O B_Time O B_Know O O O
+×××× 年×× 月×× 日 生育 子 取名 屠某 乙 曾用名 屠 XX 现 已 成年
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O
+×××× 年×× 月××日 开 饭店 需要 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry
+原 被告 婚前 缺乏 了解 婚后 性格 差异 生活 琐事 发生 争执
+O O O O O O O O O O O B_FamilyConflict
+被告 性格 固执 脾气 暴躁 还要 拷打 原告 原告 被告 忍让 双方 未能 建立 真正 夫妻 感情
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O
+2008年 原告 外出 打工 双方 分居
+B_Time O O O O B_Separation
+2011年 9月 原告 贵院 提起 离婚 诉讼 贵院 2011年 10月 17日 2011 绍嵊 民初字 第1573 号 民事 裁定书 作出 自动 撤诉 处理 裁定
+B_Time I_Time B_Person B_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O B_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment O
+2012年 10月 16日 贵院 提起 离婚 诉讼 被告 家庭 影响 不好 为由 不 同意 离婚 贵院 2012年 11月 16日 作出 2012 绍嵊 民初字 第1827 号 民事 判决书 判决 驳回 原告 离婚 诉请
+B_Time I_Time I_Time B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O B_Time I_Time I_Time O O B_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+上 原 被告 双方 婚前 缺乏 了解 婚后 未能 建立 夫妻 感情 无 共同语言 两 人 已 分居 多年 致使 夫妻 感情 彻底 破裂 已 无 和好 解除 双方 痛苦 原告 请求 法院 判决 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原被告 现 夫妻 关系 2016年 7月 25日 双方 介绍 登记 结婚
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+双方 均 系 再婚
+B_Person O O B_Remarry
+千方百计 制造 矛盾 长期 原告 过分 居 生活
+O O O O O B_Separation I_Separation O
+为此 原告 曾 2016年 11月 3日 贵 法院 具状 提出 被告 离婚
+O B_Person O B_Time I_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵 法院 同年 12月 2日 出具 判决书 驳回 原告 离婚 请求
+O O B_Time I_Time I_Time O B_Document B_Judgment O O O

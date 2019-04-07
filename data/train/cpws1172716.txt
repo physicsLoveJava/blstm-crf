@@ -1,0 +1,8 @@
+原告 汪 XX 诉 称 原 被告 2002年 相识 交往 2003年 5月 订婚 后 同居 2004年 3月 3日 办理 结婚 登记 同年 8月 24日 生育 儿子 陈泽钰
+O O O O O O O B_Time B_Know O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 心胸 狭隘 性情 暴躁 极 不 尊重 原告 原告 同性 朋友 交往 横加干涉
+B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O
+2013年 3月 晚 原 被告 产生 矛盾 后 分居 生活 今 现 夫妻 感情 已经 破裂
+B_Time I_Time O O O O O O B_Separation O I_Duration O O O O O
+起诉 法院 请求 判 令 1 解除 原 被告 婚姻 关系
+B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

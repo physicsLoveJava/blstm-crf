@@ -1,0 +1,16 @@
+原被告 2008年 2月 22日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+原被告 系 离婚 后 组建 家庭
+B_Person O B_Remarry I_Remarry O O
+2018年 春节 前 原告 发现 被告 存在 严重 影响 夫妻 感情 重大 过错
+O O O O O B_Person O O O O O B_BadHabit I_BadHabit
+被告 亦 承认
+O B_Negated I_Negated
+2018年 4月 9日
+B_Time I_Time I_Time
+被告 作出 错事 后 原告 通知 被告 家人 接 走
+O O O O O O O O B_Separation I_Separation
+原告 认为 原被告 婚前 缺乏 了解
+B_Person O O O O O
+感情 基础 薄弱 被告 存在 重大 过错 夫妻 感情 已 达到 破裂 程度 此具 状诉 人民法院
+O O O O O O O O O O O O O O B_DivorceLawsuit B_Court

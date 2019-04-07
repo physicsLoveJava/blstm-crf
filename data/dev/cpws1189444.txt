@@ -1,0 +1,6 @@
+原告 唐 某某 诉称 原 被告 外 打工 时 认识 建立 恋爱 关系 2008年 12月 31日 举行 婚礼 同居 生活 2010年 3月 19日 生育 长 子孙 xx 2011年 1月 27日 补办 结婚 登记
+O O O O O O O O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry
+婚前 缺乏 了解 婚后 生气 吵架 被告 赌博 外面 女人 不 正当 关系 导致 原告 双方 婚姻 彻底 失望 特诉 永城市 人民法院 要求 被告 离婚 婚 生长 子孙 xx 原告 抚养 被告 依法 支付 抚养费 共同 财产 依法 分割 原告 婚前 财产 原告 所有
+O O O O I_FamilyConflict I_FamilyConflict B_Person I_BadHabit I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O
+被告 孙 某某 辩称 原 被告 夫妻 感情 尚 被告 不 同意 原告 离婚 判决 离婚 婚生 长子 应 被告 抚养 原告 依法 支付 抚养费 共同 债务 70000 元 共同 偿还
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_Debt B_Price I_Price O O

@@ -1,0 +1,8 @@
+原 告诉 称 2005年 原 被告 彭山县 民政局 登记 结婚
+O O O B_Time O O O O O B_Marry
+2006年 7月 生育 女 何某 乙
+B_Time I_Time B_Bear I_Gender B_Name I_Name
+原 被告 婚姻 属 经人介绍 相识 婚前 缺乏 了解 感情 基础 薄弱 双方 性格 不合常 家庭 琐事 发生 矛盾 导致 夫妻 感情 不和
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+2011年 6月 8日 原告 法院 提起 离婚 诉讼 2011年 11月 29日 法院 驳回 原告 请求
+B_Time I_Time I_Time O B_Court O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment

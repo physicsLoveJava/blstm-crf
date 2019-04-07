@@ -1,0 +1,4 @@
+原告 被告 2012年 9月 5日 宁河区 民政局 登记 结婚 婚后 育 女 陈丽坤 现年 5 岁 子 陈峻查 现年 2 岁
+O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 愈合 已经 无法 共同 生活 。
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O

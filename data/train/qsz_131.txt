@@ -1,0 +1,4 @@
+原 被告 熟人 介绍 2016年 5月 23日 武清区 民政部门 夺记 再婚 无 娟生 子女
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O
+双方 性格 不和 争吵 发展 动手 原牛 报 过警
+O O O O O O B_Person O O

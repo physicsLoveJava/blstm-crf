@@ -1,0 +1,12 @@
+原 告诉 称 原告 被告 1994年 10月 人 介绍 相识 解决 原告 胞兄 亲事 双方 父母 包办 两 家 换亲
+O O O O O B_Time I_Time O O B_Know O O O O O O O O O O
+1995年 4月 15日 原 被告 生育 女 取名 谭某 现在 勉县 中学 高二 就读
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name O O O O O
+1995年 10月 17日 原 被告 留坝县 闸口镇 人民政府 补办 结婚 登记
+B_Time I_Time I_Time O O O O O O B_Marry O
+1997年 12月 3日 原 被告 生育 子 取名 易某 现在 留坝 中学 高一 就读
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name O O O O O
+婚后 夫妻 共同 生活 中 被告 性格 暴躁 酗酒 成 瘾 酒后 常 无辜 殴打 原告 导致 夫妻 关系 不 睦
+O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O B_DomesticViolence B_Person O O O O O
+被告 辩称 原告 诉状 中 子女 读书 陈述 属实 不 属实
+O O O O O O O O B_Negated B_Negated I_Negated

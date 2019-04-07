@@ -1,0 +1,6 @@
+原告 王 X 诉 称 原 被告 2009年 12月 人 介绍 相识 2011年 2月 20日 登记 结婚
+O O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2013年 2月 以来 被告 其父 原告 家 混打混闹 人身 攻击 损害 原告 家人 名誉 致使 原告 80 岁 奶奶 一级 伤残 叔父 一病不起
+O O O B_Person O B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O
+原 告 之间 已 无 夫妻 感情 可言 无 和好 被告 确诊 无 生育 能力 伤害 农村 双女户 家庭 合法 权益 请求 法院 判决 原 被告 离婚 判 令 被告 赔偿 原告 精神 损失费 50000 元
+O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

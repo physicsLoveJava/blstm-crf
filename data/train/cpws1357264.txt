@@ -1,0 +1,14 @@
+原告 夏 XX 诉称 被告 1979年 人 介绍 相识 19XX 年 X 月 X 日 登记 结婚 婚生 女 刘 XX 已 独立 生活
+O O O O O B_Time O O B_Know B_Time I_Time I_Time I_Time I_Time I_Time O B_Marry B_Bear B_Gender B_Name I_Name O O O
+婚初 夫妻 感情 后 家庭 琐事 产生 矛盾 要求 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+结婚 时 被告 父母 公有 住房 2000年 参加 房改 被告 父亲 没有 出 钱 房 夫妻 共有 财产
+O O O O O O O O O O O O O O B_Wealth O B_CommonProperty I_CommonProperty
+被告 刘 XX 辩称 原告 讲 相识 结婚 婚生 子女 情况 属实 同意 离婚
+O O O O O O B_Know B_Marry B_Bear I_Bear O O O O
+名下 基金 9000 元 存款 5万 原告 提 走 24555．35 元
+I_PersonalProperty B_Wealth B_Price I_Price B_Wealth B_Price O O O O O
+原告 名下 存款 25200 元
+B_PersonalProperty I_PersonalProperty B_Wealth B_Price I_Price
+同意 房屋 价值 30万 元 房子 原告 15万 元 折价 款
+O B_Wealth O B_Price I_Price O O O O O O

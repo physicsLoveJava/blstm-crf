@@ -1,0 +1,8 @@
+原 被告 2002年 8月 人 介绍 相识 确立 恋爱 X 系 j 2003年 1月 10日 登记 结婚 婚后 未 生育 子女
+O O B_Time I_Time O O B_Know O B_BeInLove O O O B_Time I_Time I_Time O B_Marry O O B_Bear O
+原 被告 均 系 再婚
+O O O O B_Remarry
+家庭 关系 比较 复杂 人 性格 不合 家庭 琐事 争吵
+O O O O O O O O O B_FamilyConflict
+2082 片 I7tIl 初 .J 二 人 家庭 琐事 争吵 后 被告 原告 赶出 家门 今
+O O O O O O O O O B_FamilyConflict O O O O O O

@@ -1,0 +1,2 @@
+原告 石某 诉称 2012年 3月 刘亚新 王文琴 二 人 介绍 被告 相识 随后 举行 定亲 仪式 付 被告 订亲 礼金 11000 元 价值 13000 元 金 戒指 金耳环 金手链
+O O O B_Time I_Time O O O O O O B_Know O O O O O O O O O O O O O O O O O

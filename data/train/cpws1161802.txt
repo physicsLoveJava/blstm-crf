@@ -1,0 +1,6 @@
+原告 刘某 诉称 2009年 被告 经人介绍 认识 2010年 11月 4日 定陶县 民政局 办理 结婚 登记 手续
+O O O B_Time O O B_Know B_Time I_Time I_Time O O O B_Marry O O
+认识 时间 短 了解 太 少 婚后 性格 不合 生气 吵架 现 夫妻 感情 已 彻底 破裂 早日 解除 痛苦 婚姻 起诉 要求 被告 离婚 婚后 财产 依法 分割
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_DivorceLawsuit O O O O O O O
+被告 王某 辩称 第一 原告 所述 事实 不符 原告 系 自由 恋爱 关系 好
+O O O O O O B_FamilyConflict O O O O O O O

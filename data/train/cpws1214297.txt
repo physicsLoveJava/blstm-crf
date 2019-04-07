@@ -1,0 +1,2 @@
+原 告诉 称 被告 性格 不合 婚后 琐事 发生 争吵 无法 共同 生活
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

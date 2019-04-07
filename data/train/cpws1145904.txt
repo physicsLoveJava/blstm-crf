@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2012年 1月 经人介绍 认识 后 自由 恋爱 双方 ×××× 年×× 月××日 郑州市 金水区 民政局 领取 结婚证
+O O O O O B_Time I_Time O B_Know O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+双方 原 定于 2013年 10月 6日 举行 婚礼 未 举行 婚礼 前 发生 吵闹 致使 夫妻 感情 彻底 破裂 无法 维持 婚姻 关系
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O

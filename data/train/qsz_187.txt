@@ -1,0 +1,4 @@
+原被告 1995年 6月 恋爱 关系 1996年 冬天 举行 婚礼 同居 生活 1997年 4月 18日 生育 长子 齐学斌 现 已 参加 工作
+O B_Time I_Time B_BeInLove O B_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+原被告 结婚 后 家庭 琐事 时常 争吵 打架 感情 不和 2013年 底 原被告 发生 争吵 后 被告 回 娘家 居住 今
+O O O O O O B_FamilyConflict B_FamilyConflict O O B_Time I_Time O O O O O B_Separation I_Separation I_Separation I_Time

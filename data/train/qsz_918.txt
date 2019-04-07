@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2017年 6月 20日 天津市 蓟州区 民政局 办理 结婚 登记 手续 领取 结婚证 共同 生活 婚后 未 生育 子女 无 共同 财产
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry O O O O O O O O O O O O O
+婚前 了解 少 婚后 原 被告 感情 不 投 生气 吵架 被告 脾气 暴躁 结婚 短短 月 原告 张口 骂 动手 原告 实施 家庭 暴力
+O O O O O B_Person B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict O B_BadHabit I_BadHabit O O O B_Person B_DomesticViolence I_DomesticViolence B_DomesticViolence O O B_DomesticViolence I_DomesticViolence

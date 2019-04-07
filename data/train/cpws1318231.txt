@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 2002年 2月 1日 贵港市 港南区 桥圩镇 经人介绍 相识 2002年 2月 4日 办理 登记 结婚 手续 2004年 5月 4日 生 下 儿子 黄 A 2006年 5月 20日 生 下 女儿 黄 B
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time I_Time O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name I_Name

@@ -1,0 +1,10 @@
+原告 程某 起诉 称 原 被告 1999年 人 介绍 相识 恋爱 2001年 初 登记 结婚
+O O O O O O B_Time O O B_Know O B_Time I_Time B_Marry I_Marry
+婚后 于×××× 年×× 月×× 日 生育 女 取名 黄某 乙
+O O O O O B_Bear B_Gender O B_Name I_Name
+婚后 生活 常 琐事 争吵 夫妻 间 已 无 共同语言 失去 根本 信任
+O O O I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 2月 18日 争吵 中 被告 原告 根 肋骨 打断 损伤 原告 身心
+B_Time I_Time I_Time O O B_Person O O O B_DomesticViolence O O O
+双方 2012年 10月 分居 今 曾 2013年 5月 20日 上 安吉县 婚姻 登记处 协议 离婚 未 成
+O B_Time I_Time B_Separation O O O O O O O O O O O O O

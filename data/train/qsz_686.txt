@@ -1,0 +1,4 @@
+原告 被告 经人介绍 相识 1997年 4月 16日 登记 结婚 婚后 育 子 胡术功 现 已 成年 女 胡淑术静 现年 8 岁
+O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O O O B_Gender B_Name O B_Age I_Age
+二 人 小事 发生 争吵 被告 长期 酗酒 酒后 乱 发 脾气 还 乱 摔 家里 东西 原告 孩子 忍让 被告 根本 不 听 我行我素 原告 2017年 6月 7日 起诉 离婚 当时 儿子 结婚 原告 撤诉
+O O O O B_FamilyConflict B_Person O B_BadHabit O O O O O O O O O O O O O O O O O B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment

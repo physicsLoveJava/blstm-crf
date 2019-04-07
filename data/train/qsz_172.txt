@@ -1,0 +1,4 @@
+原被告 问 村 村民 1986年 12月 15日 双方 登记 结婚 婚后 牛育 女孩 成年 原被告 白 结婚 以后 家务 琐事 发生 矛盾 感情 出现 裂痕 尤其 近 年 以来
+O O O O B_Time I_Time I_Time O O B_Marry O B_Bear B_Gender O O O O O O O O O O O O O O O O
+被告 酗洒 滋事 原告 进行 劝解 被告 听 劝解 不思悔改 辱骂 殴打 原告 现 原告 体弱多病 被告 没有 关心 照顾 原告 伤害 原告 感情 被告 行为 原告 身心 造成 伤害 原告 尤法 忍受 造成 双方 感情 彻底 破裂
+B_Person B_BadHabit O O O O B_Person O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O

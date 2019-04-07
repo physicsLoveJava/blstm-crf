@@ -1,0 +1,6 @@
+原告 田某 起诉 称 原 被告 1991年 上半年 经人介绍 相识 恋爱 ×××× 年×× 月×× 日 登记 结婚 ×××× 年××月 生育 女儿 朱某乙 ×××× 年××月 生育 儿子 朱某丙
+O O O O O O B_Time I_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear O B_Name B_Time I_Time B_Bear O B_Name
+婚初 双方 感情 尚 后 被告 性格 怪僻 家庭 不尽 职任 夫妻 感情 渐渐 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 丝毫 未 改 原告 认为 双方 感情 已 完全 破裂 起诉 要求 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,12 @@
+原被告 2005年 6 川 终人 介绍 相识片 建立 恋爱 关系 2006年 2月 2l 日 登记 结婚
+O B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+双力 均 系 内婚
+B_Person O O B_Remarry
+婚后 未能 建立 真挚 大妻 感情 常 活 琐事 争吵 打架
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2017年 3月 27 | | 双方 琐事 打架
+B_Time I_Time I_Time O O O O B_FamilyConflict
+被告 原告 伤 后 川原佐处
+B_Person B_Person I_DomesticViolence O O
+被告 行为 导致 双 感情 彻底 破裂 故原街 -2017 年 4片 起诉 tj 被告 离婚 武泸区 人民法院 2017 津 0I14 民初 4598 号 判决书 判决 准 离婚
+O O O O O O O B_Person B_Time I_Time I_Time B_DivorceLawsuit O O O B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document O I_Judgment I_Judgment

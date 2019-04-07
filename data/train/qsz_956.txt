@@ -1,0 +1,4 @@
+原 被告 20 年 前 同居 生活 2018年 3月 16日 蓟州区 民政局 办理 结婚 登记 手续
+O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+被告系 再婚 姜哑人 现 双方 感情 不合 原告 提起 离婚 诉讼 被告 亦 同意 离婚
+B_Person B_Remarry O O O O O O O O O O O O O

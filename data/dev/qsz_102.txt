@@ -1,0 +1,10 @@
+2010年 春天 经人介绍 相识 同年 秋灭 举行 结婚 仪式 后 共同 生活 2012年 3月 24 | l 原 被告 登 纠婚 双力 均 系
+B_Time I_Time O B_Know B_Time I_Time B_Marry I_Marry I_Marry O O O I_Time I_Time I_Time O O O O B_Marry I_Marry O O O
+纠婚 初期 感情 尚 好 时间 排移 发现 势方 性格 脾气 特别 执 使 女方 接受 K 吵架 女方 怀孕 2012年 8月 24 | | 育
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O B_Time I_Time I_Time O O B_Bear
+.f 李家兴 孩 总 现 f 现在 勇力 | 作4 顺利 | -2017 { 4 份 l 2017 号 4 I0 份 J 间 找 10 I 作 都 K 行 作家 消闹事 最 卢重 情况 2017年 9月 9日 晚卜 10 点 左石 酒后 驾车 去 女力 I 作 单位 闹事 揪 女方 头发 女方 世家
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time I_Time I_Time O O O O O O O O B_DomesticViolence B_Person O O O
+k 事 拉开 上前 川脚 踹 女方 大腿 造成 膝盖卜
+O O O O O B_DomesticViolence B_Person O O O
+2017年 12月 7 门 女方 起诉 离婚 12月 13I 贵院 判 准 不 准 离婚
+B_Time I_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O O B_Court B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

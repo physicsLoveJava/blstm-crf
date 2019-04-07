@@ -1,0 +1,6 @@
+原告 被告系 经人介绍 相互 认识 后 2004年 2月 10日 登记 结婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+被告 原告 结婚 系 再婚
+B_Person O O O B_Remarry
+原告 被告 婚前 认识 时间 短 婚后 家庭 琐事 吵架
+O O O O O O O O O B_FamilyConflict

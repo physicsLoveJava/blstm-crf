@@ -1,0 +1,6 @@
+原告 张某 诉称 原告 被告系 研究生 同学 求学 期间 确定 恋爱 关系 双方 2011年 7月 30日 登记 结婚
+O O O O O O O O O O B_BeInLove O O B_Time I_Time I_Time B_Marry I_Marry
+双方 此事 争吵 造成 家庭 关系 紧张 影响 两 人 正常 生活
+O O B_FamilyConflict O O O O O O O O O
+原 被告 2006年 9月 相识 读 研究生 期间 确立 恋爱 关系 婚前 感情 基础 好
+O O I_Time I_Time B_Know O O O O B_BeInLove O O O O O

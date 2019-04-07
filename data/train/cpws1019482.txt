@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 原 被告 双方 2004年 12月份 登记 结婚 婚后 夫妻 感情 一度 尚 2007年 7月 2日 生育 子 2012年 1月 4日 生育 女
+O O O O O O O B_Time I_Time O B_Marry O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Time I_Time I_Time B_Bear B_Gender
+双方 共同 生活 中 家庭 琐事 时常 发生 矛盾
+O O O O O O O O B_FamilyConflict
+被告 言行 时常 家庭 中 引起 矛盾 原告 都 予以 容忍 原谅 被告 上网 并网恋 后 家庭 孩子 不 不 问 上网 内容 使 原告 难以 容忍
+O O O O O O O O O O O O O O B_Derailed O O O O O O O O O O O O
+现 被告 已 家中 需 物品 搬走 原 被告 夫妻 感情 彻底 破裂
+O O O O O O B_Separation O O O O O O

@@ -1,0 +1,10 @@
+原 告诉 称 被告 2011年 9月 19日 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry
+被告 2012年 3月 20日 生育 女儿 孩子 刚 满月 回到 娘家 便 不 回家
+O B_Time I_Time I_Time B_Bear B_Gender O O O O O O O O
+现 被告 分居 夫妻 感情 确 已 破裂 诉至法院 要求 判 令 请求 判 令 原 被告 离婚
+O O B_Separation O O O O O O O O O O O O O O O
+判 令 被告 归还 原告 身份证 户口 原告 父母 原告 购 房屋 租赁款 2．3万 元
+O O O O O O O O O O O O B_Wealth B_Price I_Price
+被告 辩称 不 同意 离婚 感情 还 没有 破裂 没有 分居 两 年 孩子 现在 才 2 岁 离婚 孩子 成长 非常 不利
+O O O O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O O

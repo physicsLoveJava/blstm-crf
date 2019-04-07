@@ -1,0 +1,4 @@
+原告 邹 某某 诉称 双方 婚后 生活 琐事 生气 吵架 被告 第三者 同居 行为 双方 2012年 初 分居 生活 今 夫妻 感情 已 彻底 破裂 现 要求 离婚
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person I_Derailed I_Derailed I_Derailed O B_Time I_Time B_Separation O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit I_DivorceLawsuit
+被告 李 某某 辩称 双方 确 生气 2012年 双方 感情 不好 分居 生活 今 仍 想 挽回 段 婚姻
+O O O O O O O B_Time B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Separation O O O O O O O

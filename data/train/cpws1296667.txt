@@ -1,0 +1,4 @@
+1967年 双方 农村 习俗 举行 结婚 仪式 同居 生活 ×××× 年×× 月××日补办 结婚 登记 手续 婚后 生育 三 儿子 二 儿子 已经 死亡 小儿子 宋跃明 已经 成年 。
+O O O O O O O O O O O O O O O O B_Bear O B_Gender O O O O O B_Name O O O
+初一 段 时间 夫妻 感情 相当 好 2004年 原告 发现 被告 女性 不 正当 暧昧 关系 双方 发生 争吵 打架 双方 不能 妥善 处理 矛盾 导致 双方 产生 隔阂 无 共同语言 致使 夫妻 感情 已经 彻底 破裂
+O O O O O O O O O O O I_Person O O B_Derailed O O O O O O O O O O O O O O O O O O O O O O

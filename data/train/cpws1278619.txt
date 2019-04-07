@@ -1,0 +1,12 @@
+原告 谭某 诉称 原 被告 2011年 10月 人 介绍 相识 谈婚 2012年 2月 29日 办理 结婚 登记 手续
+O O O O O B_Time I_Time O O B_Know O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+农历 2012年 3月 初 3 举行 婚礼
+O B_Time I_Time I_Time I_Time O B_Marry
+被告 再婚 前妻 生育 男孩 原 被告 婚后 未 生育 子女
+B_Person B_Remarry O B_Bear B_Gender O O O O O O
+婚后 双方 性格 不合 双方 发生 争吵
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict
+2013年 6月 被告 看到 原告 手机 人 发 信息 原告 产生 怀疑 曾 动手 原告 巴掌 为此 原告 搬 回 娘家 居住 今
+B_Time I_Time O O O O O O O O O O O O I_DomesticViolence I_DomesticViolence O O B_Separation I_Separation I_Separation I_Separation O
+原 被告 婚后 夫妻 相 敬如宾 恩爱 有加 生活 上 关心 支持 双方 没有 分居 今年 9月份 原、被告 还 一起 同居
+O O O O O O O O O O O O O B_Separation I_Separation O O O O O O

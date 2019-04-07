@@ -1,0 +1,12 @@
+原告 孔 某某 诉称 原 被告 1994年 1月 18日 登记 结婚 婚后生 女孩 取名 孔 某某 16 岁
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender O B_Name I_Name B_Age I_Age
+双方 婚前 缺乏 了解 婚后 感情 双方 常 家庭 琐事 发生 矛盾
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 发现 被告 擅自 夫妻 双方 共同 购买 位于 高新区 三山路 007号院 3 号 楼 1-301 号 房产 转让 私自 转移 夫妻 共有 财产 行为 为此 发生 冲突 致使 夫妻 关系 名存实亡 感情 彻底 破裂
+O O O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O
+原告 2012年 10月 9日 诉 涧西区 法院 请求 离婚
+O B_Time I_Time I_Time O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit
+法院 2012年 12月 16日 下达 判决书 认为 双方 感情 尚未 彻底 破裂 不 予 支持 原告 离婚
+O B_Time I_Time I_Time O B_Document O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+被告 2008年 单位 破产 没有 工作 没有 经济 收入 在家 带 孩子 原告 2010年 不 家里 生活费 2011年 原告 感情 出轨 不 回家 本案 离婚 真实 原因
+O O O O O O O O O O O O O O O O O B_Time B_Person B_Derailed I_Derailed O O O O O O

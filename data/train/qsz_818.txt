@@ -1,0 +1,10 @@
+原 被告 系 夫妻 关系 原 被告 经人介绍 相互 认识 1985年 农历 腊月 二十八日 举行 结婚 仪式 婚后 1987年 6月 5日 生育 女孩 名叫 田红艳
+O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+后 1989年 生育 男孩 名叫 田超依
+O B_Time B_Bear B_Gender O B_Name
+原被告 1990年 5月 8日 补办 婚姻 登记 手续
+O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原、被告 认识 时间 短 双方 缺乏 了解 未 建立 真正 夫妻 感情 结婚 以来 被告 家庭 琐事 原告 生气 吵架 被告 丈夫 子女 父亲
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+后 2015年 5月份 离家 出走 至今 未 回
+O B_Time I_Time B_Separation I_Separation B_Time O O

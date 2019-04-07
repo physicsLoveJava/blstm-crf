@@ -1,0 +1,2 @@
+原告 李某 诉称 1994年 4月 登记 结婚 1995年 10月 生子 李鲁博 婚前 缺乏 了解 婚后 生活 琐事 生气 吵架 被告 原告 家人 生气 吵架 2012年 判决 不 准 离婚 现 双方 已 无 夫妻 感情 请求 离婚 抚养 婚生子 婚前 财产 所有
+O O O B_Time I_Time O B_Marry B_Time I_Time B_Bear B_Name O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_Time B_DivorceLawsuit B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O

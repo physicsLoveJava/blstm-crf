@@ -1,0 +1,2 @@
+原告 毛某 诉称 原 被告 2001年 人 介绍 相识 ×××× 年×× 月××日 举行 结婚 典礼 ×××× 年×× 月××日补办 结婚 登记
+O O O O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry

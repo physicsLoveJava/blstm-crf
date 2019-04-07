@@ -1,0 +1,4 @@
+原告 王 某某 诉称 原 被告 1993年 12月 经人介绍 认识 1995年 3月 登记 结婚 1995年 10月 生育 子 王某甲
+O O O O O O B_Time I_Time O B_Know B_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name
+婚后 性格 不合 吵闹 不 断 2010年 分居 生活 今 现 夫妻 感情 已 破裂 起诉 要求 被告 离婚
+O O O O O O B_Time B_Separation O I_Time O O O O O O O O O

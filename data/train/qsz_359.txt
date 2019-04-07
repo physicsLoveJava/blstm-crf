@@ -1,0 +1,2 @@
+原被告 双方 经人介绍 2009年 1月 20日 登记 结婚 婚后生 男孩 孙艺玮 2008年 5月 20日 生 11 岁 原被告 双方 结婚 后 夫妻 感情 尚 2015年 7月份 以后 家庭 琐事 双方 生气 打架 每次 打架 被告 原告 非 骂 被告 父亲 外 驱赶 原告 久而久之 造成 夫妻 感情 彻底 破裂 已 无 和好
+O O O B_Time I_Time I_Time O B_Marry B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Age I_Age O O O O O O O B_Time I_Time I_Time O O O O B_FamilyConflict O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O

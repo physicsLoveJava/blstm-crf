@@ -1,0 +1,10 @@
+原告 贾 某某 诉称 1989年 11月 被告 经人介绍 相识 恋爱 互不 了解 基础 上 同年 12月 农村 习俗 举行 婚礼 后 便 公开 夫妻 名义 同居 生活 至今 未 办理 结婚 登记
+O O O O B_Time I_Time O O B_Know B_BeInLove O O O O O O O O O O O O O O O O O O O O O O
+1990年 10月 15日 生育 子 取名 吴某甲
+B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚后 共同 生活 中 双方 性格 不合 缺乏 共同语言 常 琐事 发生 纠纷
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+双方 均感 好 无望 2007年 1月 以来 两 人 公开 分居 生活 互不 履行 夫妻 义务 至今 没有 往来
+O O O O B_Time I_Time O O O O B_Separation O O O O O O O O
+婚后 同居 生活 年 未能 建立 真挚 夫妻 感情 现 已 感情 不合 分居 长 达 六 年 至今 没有 办理 结婚 登记 婚姻 关系 不 受 法律 保护
+O O O O O O O O O O O O O O B_Duration I_Duration I_Duration I_Duration O O O O O O O O O O O

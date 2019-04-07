@@ -1,0 +1,6 @@
+原被告 2010年 10月 28日 经人介绍 结婚 婚初 感情 2011年 6月 25日 生育 子 纪鑫 博 双方 没有 感情 基础
+O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+2017年 9月 被告 单独 外租房 居住 拒绝 原告 共同 生活 无奈 原告 2017年 9月 22日 宝坻区 人民法院 起诉 离婚
+O O O O O O O O O O O B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit
+被告 不 同意 离婚 法院 反对 轻率 离婚 理由 驳回 原告 诉讼 请求
+O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment

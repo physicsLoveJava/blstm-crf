@@ -1,0 +1,4 @@
+原告 王某 诉称 被告 2006年 2月份 经人介绍 认识 2007年 6月 8日 登记 结婚 2009年 12月 26日 生 男孩
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender
+二 人 婚前 缺乏 了解 婚后 性格 不合 家庭 琐事 发生 吵 闹 2013年 7月份 分居 今
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_Time I_Time B_Separation I_Time

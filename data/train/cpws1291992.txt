@@ -1,0 +1,10 @@
+原告 吴某 诉称 原 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O O B_Marry
+2004年 11月 19日 生 女孩 取名 刘某 甲
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2008年 7月 24日 生 男孩 取名 刘某 乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原告 发现 被告 性格 差异 大 琐事 生气 吵架 现 原 被告 感情 确 已 破裂 无法 共同 生活 诉 贵院 请求 依法 判 令 原 被告 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+贵院 判决 不 准 离婚 现 判决 生效 已 超过 六 月 两 人 未 同居 生活 特 依法 提起 诉讼 请求 依法 判 令 原 被告 离婚 孩子 原告 抚养 诉讼 费用 被告 承担
+O O O O O O O O O O O O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O

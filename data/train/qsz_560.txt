@@ -1,0 +1,6 @@
+原 被告 2001年 6月 人 介绍 建立 恋爱 关系 2001年 11月 19日 领取 结婚证 2001年 12月 8日 双方 举行 婚礼 同居 生活 2002年 9月 5日 生育 长子 马春达 2009年 6月 30日 生育 长女 马春播 2018年 9月 26日 双方 分居 现 夫妻 感情 已 完全 破裂
+O O B_Time I_Time O O O B_BeInLove O B_Time I_Time I_Time O B_Marry O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Separation O O O O O O
+原 被告 婚初 感情 尚 2014年 被告 原告 发生 争吵 有时 还 殴打 原告
+O O O O O O B_Person O O B_FamilyConflict O O B_DomesticViolence B_Person
+双方 发生 争吵 被告 原告 进行 辱骂 殴打 原告 回到 娘家 后 被告 亲属 接 原告 为名 原告家 闹事 导致 夫妻 关系 破裂
+O O B_FamilyConflict B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O

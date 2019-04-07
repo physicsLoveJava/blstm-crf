@@ -1,0 +1,6 @@
+原 告诉 称 被告 1988年 经人介绍 相识 相互 了解 不 深 被告 家 房屋 牵涉 拆迁 分配 住房 相识 不 长 领 结婚证 1989年 10月 1日 举行 结婚 仪式 感情 基础
+O O O O B_Time O B_Know O O O O O O O O O O O O O O O O O O O O O O O O
+1990年 7月 孩子 出生 以后 没有 姥姥 奶奶 专程 老家 过来 带 孩子 三 天 气 走 老人 回去 哭 好 长 时间 被告 理由 奶奶 懒 伺候 不好
+B_Time I_Time B_Bear I_Bear O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 感情 已经 破裂 分居 长 时间 没有 夫妻 生活
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Separation O O O O O

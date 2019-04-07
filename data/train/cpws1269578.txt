@@ -1,0 +1,6 @@
+原告 钟某 甲诉 称 原 被告 1990年 12月 人 介绍 相识 于×××× 年××月 湖南省 桃源县 原涌泉乡 人民政府 登记 结婚 双方 ×××× 年×× 月×× 日 共同 生育 子 钟某 乙
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time O O O O O B_Marry O B_Time I_Time I_Time I_Time O B_Bear O B_Name I_Name
+被告 心胸 狭窄 无故 发脾气 无端 怀疑 原告 不 正当 关系 导致 夫妻 感情 不和
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现原 被告 无法 继续 生活 下去 诉至法院 要求 离婚 依法 分割 夫妻 共同 财产 共同 债务
+O O O O O O O O O O O B_Person O O B_Debt I_Debt

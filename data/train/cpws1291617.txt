@@ -1,0 +1,2 @@
+刘某 诉称 原 被告 2003年 经人介绍 相识 于×××× 年××月 贵池区 殷汇镇 人民政府 登记 结婚 ×××× 年×× 月×× 日 生育 女 取名 周 纯某
+O O O O B_Time O B_Know O O O O O O B_Marry O O O O B_Bear B_Gender O B_Name I_Name

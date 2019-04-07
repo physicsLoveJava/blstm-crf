@@ -1,0 +1,8 @@
+原 被告 系 同村 经人介绍 确认 恋爱 关系 1997年 10月 双方 农村 习俗 举办 婚礼 共同 生活 1998年 11月 8日 生育 长子 赵浩月 现 已 成年 2000年 4月 4日 蓟州区 蓟县 民政局 补办 结婚 登记 手续 领取 结婚证
+O O O O O O B_BeInLove O B_Time I_Time O O O B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry
+2009年 11月 17日 生育 次子 赵浩帅
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 少 婚后 原、被告 双方 发现 性格 差异 大 生气 吵架
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+结婚 以来 被告 家庭 生活 不闻不问 不 家里 交 钱 根本 不顾 两 孩子 学习 生活 两 孩子 始终 原告 挣钱 独立 抚养
+O O B_Person O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O

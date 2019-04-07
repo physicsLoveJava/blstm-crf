@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 1993年 结婚 以来 被告 好逸恶劳 酒后 失性 虐待 家人 2000年 原告 怀着 小 女儿 曾 轻生 念头 原告 生 下 二 女儿 后 被告 变本加厉 二 女儿 三 岁 时 外出 打工 挣 钱 都 交给 被告 内心 尽力 维系 婚姻
+O O O O O B_Time B_Marry O O O O O O O B_Time O B_Bear O B_Gender O O O O B_Bear I_Bear O B_Gender O O O O O B_Age I_Age O O O O O O O O O O O O
+年 聚 少 日子 还 算 2006 盖 东 西屋 后 被告 直接 嗜酒成性 大 女儿 准备 一万五千 元 学费 竟 挥霍一空 孩子 实施 暴力 下狠手 下 死手 大 女儿 刀背 砍 乱 烧 打杂 东西 想 回 娘家 换换 气 都 不行 哥 知晓 后 去 调解 劝 不 劝离 态度 事 过去
+O O O O O O O O O O O O O B_BadHabit O O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O
+2010年 被告 原告 更是 变本加厉 实施 暴力 被告 至今 仍 无 会议
+O O O O O I_DomesticViolence I_DomesticViolence O O O O O
+2010年 5月 法院 提起 诉讼 被告 扬言 哥 不利 后 撤诉 实在 难以 面对 被告 暴行 2010年 至今 再 没 敢 回家 居住
+B_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O B_Time B_Time O B_Separation I_Separation I_Separation I_Separation

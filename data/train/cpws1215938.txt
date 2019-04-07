@@ -1,0 +1,8 @@
+原 告诉 称 2009年 5月 原 被告 自由 恋爱 2011年 8月 1日 登记 结婚 婚后 未 生育 子女
+O O O B_Time I_Time O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O
+婚前 感情 尚 婚后 家庭 琐事 发生 矛盾 被告 脾气 暴躁 争吵 有时 动手 未 建立 真挚 夫妻 感情
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DomesticViolence O O O O O
+2013年 6月 参加 同事 生日 聚会 回去 晚 些 被告 动手
+B_Time I_Time O O O O O O O B_Person O
+被告 分居 生活
+O B_Separation O

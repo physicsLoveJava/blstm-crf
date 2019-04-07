@@ -1,0 +1,8 @@
+原告 戚某 甲诉 称 原 被告 经人介绍 相识 确立 恋爱 关系 于×××× 年×× 月××日 昆山市 千灯镇 人民政府 民政办 登记 结婚 ×××× 年×× 月×× 日 生育 儿子 戚某 乙
+O O B_DivorceLawsuit I_DivorceLawsuit O O O B_Know O B_BeInLove I_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 感情 尚 婚后 共同 生活 中 双方 家庭 矛盾 导致 感情 不 分居 至今 2 年
+O O O O O O O O O O O O O O O B_Separation B_Duration I_Duration I_Duration
+之前 原告 曾 起诉 离婚 法院 判决 不 准 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+原告 感情 出现 问题 根本 原因 在于 原告 外遇
+O O O O O O O B_Person B_Derailed

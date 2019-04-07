@@ -1,0 +1,2 @@
+原 告诉 称 原被告 经人介绍 认识 订立 婚约 2008年 11月 27日 登记 结婚 婚后 感情 不和 家庭 琐事 生气 争吵 原告 认为 双方 感情 已 完全 破裂 无 好
+O O O O O O O O B_Time I_Time I_Time O B_Marry O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O O O O O

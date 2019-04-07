@@ -1,0 +1,8 @@
+a 魏 L 原、被告 同学 2014年 2 片 份_人 确立 恋爱 关系
+O O O O O B_Time I_Time O O O B_BeInLove O
+2016年 6 趴月 6日 完全 自愿 情况 下 办理 结婚 登记
+B_Time I_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry
+禹 婚后 感情 双方 家庭 琐事 发生 争吵
+O O O O O O O B_FamilyConflict
+夫妻 感情 口 趋 恶化 缸 原告 2018年 2 片 带 孩子 搬 回 娘家 活 至今 已 门 7 片 久 仙% 被告 闻 问 原告 伤心 过度
+O O O O O O O B_Time I_Time O O O O B_Separation I_Separation O B_Time O O O O O O O O O O O O

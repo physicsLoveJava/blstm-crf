@@ -1,0 +1,4 @@
+原告 孟 某某 诉称 2006年 11月 28日 原告 孟 某某 被告 韩 某某 登记 结婚 婚后 共同 生活 期间 家庭 琐事 争吵 导致 夫妻 感情 破裂 诉至法院 1 要求 被告 韩 某某 离婚
+O O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+2 婚生 女 韩 小某 6 岁 原告 孟 某某 抚养 被告 韩 某某 每月 付 抚养费 500 元
+O B_Bear B_Gender B_Name I_Name B_Age I_Age O O O O O O O O O O O O

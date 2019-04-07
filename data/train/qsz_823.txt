@@ -1,0 +1,8 @@
+原 被告 系 夫妻 关系 原告 年岁 小 当时 被告 相识 18 岁 便 居 同居 期间 生 下 大 女儿 宋昕鑫
+O O O O O O O O O O B_Know O O O O O O B_Bear O O B_Gender B_Name
+2010年 12月 15 才 领取 结婚证
+O O O O B_Marry I_Marry
+2011年 12月 12日 生 下 原 被告 子 宋明哲
+B_Time I_Time I_Time B_Bear O O O B_Gender B_Name
+被告 原告 感情 逐渐 淡薄 家庭 锁 事 推测 所谓 事实 殴打 原告 无论 原告 做 均 不 被告 被告 家庭 认可 动不动 找 茬 殴打 原告 原告 曾 报警 被告 仍 不 思 改悔 造成 原告 夫妻 感情 彻底 破裂 已 无 好
+B_Person O O O O O O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

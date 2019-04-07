@@ -1,0 +1,4 @@
+原告 高×诉 称 原被告系 夫妻 关系 双方 2011年 4月 28日 登记 结婚 双方 婚前 均 成年 子女 婚后 未 生育 子女
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O
+2012年 3月 原告 发现 被告 外遇 原告 为此 劝解 被告 家庭 为重 希望 被告 回心 转意 被告 执意 不 改 去 天津 第三者 一起 被告 还 带 第三者 家 居住
+O O O O B_Person I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O

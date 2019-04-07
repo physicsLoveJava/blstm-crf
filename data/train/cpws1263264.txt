@@ -1,0 +1,4 @@
+2011年 5月 12日 登记 结婚 婚后 2012年 4月 12日 生育 女儿 薛某甲 原 被告 家庭 琐事 发生 矛盾 现 已 无法 共同 生活 协商 离婚 不能
+B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear O B_Name O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+起诉 请求 1． 依法 判 令 原告 被告 离婚
+B_DivorceLawsuit O O O O O O O O

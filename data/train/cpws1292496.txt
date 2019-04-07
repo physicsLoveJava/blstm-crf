@@ -1,0 +1,4 @@
+原 告诉 称 1990年 6月 原告 被告 确立 恋爱 关系 1991年 9月 28日 登记 结婚 1992年 9月 4日 育 男孩 取名 李某 乙 现 已 成年
+O O O B_Time I_Time O O O B_BeInLove O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+结婚 初期 原被告 感情 尚 被告 存在 酗酒 恶习 后 原 被告 感情 发生 变化 被告 整日 无所事事 班 不 上 家庭 孩子 不尽 责任 义务 家庭 重担 都 落 原告 人 身上 致使 原告 多年 劳累 辛苦
+O O O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

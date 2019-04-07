@@ -1,0 +1,8 @@
+原告 杨 某某 诉称 被告 刘某 系 自由 恋爱 2010年 11月 11日 白水县 民政局 登记 结婚 婚后 2011年 7月 28日 生育 女 取名 刘杨 某某 现 生活
+O O O O O O O O B_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name O O
+婚前 缺乏 被告 刘某 了解 仓促 结婚 双方 性格 差异 大 怀孕 后 被告 盗窃 公安 机关 刑事 拘留 达 十 月 生产 女儿 时 被告 不 身边 被告 判处 徒刑 释放 后 女儿 已 三 月 身心 受到 严重 打击 伤害
+O O O O O O O O O O O O O B_Person B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 回家 后 不 思 悔改 不好 双方 感情 不 惹 气
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 夫妻 感情 已 彻底 破裂 被告 同意 离婚 女儿 抚养 达 不 成 协议 只得 诉至法院 要求 1 坚决 被告 离婚 请求 判决 解除 被告 之间 夫妻 关系
+O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

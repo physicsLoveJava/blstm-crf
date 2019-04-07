@@ -1,0 +1,4 @@
+原告 张某 起诉 称 原告 被告系 自由 恋爱 于×××× 年×× 月×× 日 登记 结婚 未 生育 子女
+O O O O O O O B_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry O O O
+双方 性格 差异 大 婚后 常 生活 琐事 发生 争吵 2011年 5月 分居 生活 至今 已 满 两 年 夫妻 关系 名存实亡
+O O O O O O O O O B_FamilyConflict B_Time I_Time B_Separation O B_Time O O O O O O O

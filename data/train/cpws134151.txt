@@ -1,0 +1,10 @@
+原告 章某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日婚生 女 取名 袁某乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 发现 双方 性格 不合 发生 激烈 争吵 被告 动手 殴打 原告
+O O O O O O O O O O O B_Person O B_DomesticViolence B_Person
+2012年 4月 原告 人 外出 打工 双方 处于 分居 状态 夫妻 感情 已 彻底 破裂 无 再行 和好
+B_Time I_Time O O B_Separation I_Separation O O O O O O O O O O O O
+被告 没有 原告 诉状 中 称 殴打 原告 这种 情况 双方 感情 没有 破裂 尚 好
+B_Person O O O O O B_DomesticViolence B_Person O O O O O O O O

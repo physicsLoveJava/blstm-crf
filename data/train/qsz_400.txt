@@ -1,0 +1,2 @@
+原被告 经人介绍 2015年 11月 11日 登记 结婚 婚后 双方 感情 2017年 1月 15日 生育 女 杨薇 近 两 年 原被告 双方 琐事 发生 矛盾 半 年 之前 双方 已 分居 被告 带 孩子 回 娘家 居住 至今 不 2017年 11月 被告 贵院 提起 离婚 诉讼 理由 夫妻 感情 已 彻底 破裂
+O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O B_FamilyConflict B_Time I_Time I_Time O O B_Separation O O O O O O B_Time O B_Time I_Time B_Person B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O

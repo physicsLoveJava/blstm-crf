@@ -1,0 +1,10 @@
+原告 胡 某某 诉称 原 被告 双方 1996年 经人介绍 相识 1997年 5月 1日 滁州市 全椒县 民政局 办理 结婚 登记 1998年 3月 18日 生育 子 取名 贺某甲
+O O O O O O O B_Time O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 双方 性格 不合 生活 琐事 争吵 争吵 被告 原告 进行 冷 暴力 不 理睬 原告 原告 认为 夫妻 感情 确 已 破裂 无法 继续 被告 继续 共同 生活
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O
+双方 婚后 共同 购买 位于 芜湖市 镜湖区 跃进 新村 房屋 套 属 夫妻 共同 财产 应 依法 分割
+O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_CommonProperty I_CommonProperty O O O
+原告 起诉 人民法院 请求 判 令 1 原告 胡 某某 被告贺 某某 离婚
+O O O O O O O O O O O O B_DivorceLawsuit
+3 夫妻 共同 财产 位于 芜湖市 镜湖区 跃进 新村 房屋 存款 5万 元 依法 分割
+O O O O O O O O O O B_Wealth I_Wealth I_Wealth O O

@@ -1,0 +1,8 @@
+原告 邢某 诉称 原告 被告 2000年 经人介绍 认识 不 半 年 同居 生活 ×××× 年×× 月×× 日 生育 子 龚 某乙
+B_Person I_Person O O O B_Time O B_Know O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原被告 ×××× 年××月份 金华市 金东区 登记 结婚
+O B_Time I_Time O O O B_Marry
+婚前 缺乏 足够 了解 草率 办理 结婚 登记 婚后 双方 性格 不和 发生 争吵 小孩 原告 没有 提出 离婚 儿子 长大 被告 性格 没有 改变 双方 争吵 没有 减少 今年 2月份 原告 被告 分居 今 原被告 夫妻 感情 确 已 破裂 原被告 无 夫妻 共同 财产 。
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O B_Time I_Time O O B_Separation I_Time O O O O O O O O O O O O
+请求 法院 判 令 原告 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

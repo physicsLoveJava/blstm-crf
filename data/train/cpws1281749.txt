@@ -1,0 +1,8 @@
+原告 栾某 诉称 ×××× 年×× 月××日 原 被告 双方 当地 风俗 举行 结婚 仪式 后 同居 生活 后 ×××× 年×× 月××日 冠县 民政局 登记 结婚
+O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+原 被告 双方 ×××× 年×× 月×× 日 生育 长女 取名 焦某 乙 ×××× 年×× 月×× 日 生育 次女 取名 焦某丙 现 两 孩子 均 被告 一起 生活
+O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O
+原 被告 双方 性格 不合 婚后 感情 不好 生气 吵架 现 夫妻 感情 已 完全 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O
+原告 请求 法院 依法 判决 原 被告 离婚 原告 嫁妆 原告 所有 原 被告 双方 婚生 两 女儿 原告 抚养 被告 支付 抚养费
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O

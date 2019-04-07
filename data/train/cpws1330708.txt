@@ -1,0 +1,6 @@
+原 告诉 称 被告 2004年 相识 2005年 5月 一起 同居 生活 2005年 8月 13日 原告 生育 子 赵某乙
+O O O O B_Time B_Know O O O O O B_Time I_Time I_Time O B_Bear B_Gender B_Name
+原告 发现 被告 不 正当 男女 关系 后 双方 感情 恶化
+O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed O O O O
+2012年 7月 5日 被告 酒后 无端 殴打 原告 致使 原告 受伤 住院 原告 出院 后 被告 依然 我行我素 原告 家庭 不闻不问
+B_Time I_Time I_Time B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O

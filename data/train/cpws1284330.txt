@@ -1,0 +1,4 @@
+原 告诉 称 原被告 经人介绍 2011年 11月 24日 登记 结婚 婚后 无 子女 双方 婚前 缺乏 了解 草率 成婚 婚后 家庭 琐事 争吵 被告 赌博 恶习 逼迫 原告 回 娘家 借款 偿还 赌债 原告 被告 失去 信心 认为 原被告 双方 无法 继续 生活 下去
+O O O O O O O O B_Marry I_Marry O O O O O O O O O O O O B_FamilyConflict B_Person B_BadHabit O O O O O O O O O O O O O O O O O O O
+为此 原告 诉至法院 要求 1 依法 判 令 原被告 离婚
+O O B_DivorceLawsuit O O O O O O O

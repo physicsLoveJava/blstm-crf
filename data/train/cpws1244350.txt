@@ -1,0 +1,6 @@
+原告 李 某某 诉称 被告 邢 某某 系 换亲 1999年 12月 9日 登记 结婚
+O O O O O O O O O B_Time I_Time I_Time O B_Marry
+2001年 1月 28日 生长 女 邢某 甲 2010年 10月 18日 生次 女 邢某 乙
+B_Name I_Name I_Name B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 性格 差异 时常 家务 琐事 发生 争执 无法 共同 生活 请求 依法 判决 调解 离婚 两 名 女孩 抚养 放弃 财产 分割 被告 承担 诉讼费
+O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O

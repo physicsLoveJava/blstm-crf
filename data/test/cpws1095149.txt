@@ -1,0 +1,10 @@
+原告 卢某 诉称 原 被告 1997年 经人介绍 相识 1998年 登记 结婚
+O O O O O B_Time O B_Know B_Time B_Marry I_Marry
+双方 婚前 缺乏 了解 性格 爱好 都 相差 太 大 婚后 生活 琐事 吵闹 发展 拳脚 相加 更有甚者 被告 纠结 亲戚 殴打 原告 当地 造成 极 坏 影响
+O O O O O O O O O O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict O B_Person O O B_DomesticViolence B_Person O O O O O
+原告 2005年 离家 外 夫妻 已 名存实亡
+O B_Time B_Separation I_Separation O O O
+原告 2010年 起诉 法院 要求 被告 离婚 法院 判决 不 双方 夫妻 感情 没有 好转 夫妻 感情 完全 破裂 原告 诉至法院 请求 人民法院 依法 判 令 原 被告 离婚 婚生 女 原告 抚养 被告 付 抚养费
+B_Person B_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment O O O O O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+2 结婚 后 原告 父母 所有 两 套 房屋 原告 大哥 人 套 后 拆迁 园林 处 块 宅基地 房屋 拆迁费 原告 父母 拿走 原告 曾 夫妻 共有 宅基地 30000 元 卖 马某 修理 现有 房屋 花费 近 20000 元 原告 要求 离婚 原因 独占 房屋 双方 夫妻 感情 没有 破裂 请求 法院 判决 不予 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O

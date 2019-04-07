@@ -1,0 +1,2 @@
+婚前 双方 缺乏 了解 感情 基础 薄弱 双方 脾气 性格 爱好 生活 习惯 格格不入
+O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict O

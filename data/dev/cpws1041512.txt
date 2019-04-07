@@ -1,0 +1,14 @@
+原告 李某 甲诉 称 原告 被告 1982年 登记 结婚 原告 系 再婚
+O O O O O O B_Time B_Marry I_Marry B_Person O B_Remarry
+婚前 双方 缺乏 了解 脾气 性格 不合 婚后 常 生活 琐事 吵架 发生 矛盾 冲突 三十 年 婚姻 生活 原告 煎熬 中 度过
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 还 原告 父亲 吵闹 辱骂 原告 母亲 为此 被告 还 写 决心书 保证 痛改前非 事后 被告 仍 不 改正 毛病
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+2006年 9月 原告 被告 分居 生活 感情 彻底 破裂
+O O O O B_Separation O O O O
+2012年 6月 25日 原告 诉至法院 要求 解除 被告 之间 婚姻 关系 法院 判决 不 准 离婚
+B_Time I_Time I_Time B_Person B_DivorceLawsuit O O O O O O O O B_Judgment I_Judgment I_Judgment
+被告 李某 乙 辩称 原告 被告 结婚 时间 应该 ×× ×× 年×× 月××日 以后 原告 所述 1982年 原告 两 次 诉讼 中 结婚 时间 记 错 原告 婚姻 不 重视 家庭 事务 不 负 责任
+O O O O O O O O O B_Time I_Time I_Time I_Time I_Time O O O O O O O O B_Marry I_Marry O O O O O O O O O O O
+被告 原告 父母 关系 良好 不 存在 吵架 更 没有 辱骂 原告 母亲 被告 没有 写 悔过书
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

@@ -1,0 +1,10 @@
+原 告诉 称 被告 1978年 2月 人 介绍 登记 结婚 婚后 夫妻 感情 生养 两 子女 现 均 已 成年
+O O O O O O O O B_Marry I_Marry O O O B_Bear O B_Gender O O O O
+双方 家务 琐事 常 发生 矛盾 纠纷 夫妻 关系 不 睦
+O O O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 长期 居致 夫妻 感情 破裂
+B_Person B_Derailed I_Derailed O O O
+起诉 要求 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+双方 分居 属实 分居 原因 都 原告 造成 目的 逃避 家庭 债务 家庭 责任
+O B_Separation O O O O O O O O O O O O

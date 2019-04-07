@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2006年 7月 相识 恋爱 2010年 3月 22日 登记 结婚
+O O O O O B_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+婚后 2011年 2月 15日 生 女 马某甲
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 初期 双方 感情 后 原告 发现 双方 性格 差异 大 双方 常 家庭 琐事 发生 矛盾 原 被告 对方 家庭 成员 之间 矛盾 比较 激烈 被告 不 正确 处理 原告 家庭 成员 关系 致使 夫妻 感情 完全 破裂 已 无法 共同 生活 现 原告 诉至法院 请求 依法 判 令 原 被告 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

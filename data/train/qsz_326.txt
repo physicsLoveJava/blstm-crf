@@ -1,0 +1,10 @@
+原 被告 2013年 夏 相识 建立 恋爱 关系
+O O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove
+2014年 7月 3日 天津市 武清区 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+2015年 7月 12日 生育 女
+B_Time I_Time I_Time B_Bear I_Gender
+取名 王芋含
+O B_Name
+现年 2 周零 十 月
+O B_Age I_Age I_Age I_Age

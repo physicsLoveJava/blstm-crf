@@ -1,0 +1,4 @@
+原告 陈某 诉称 被告 经人介绍 相识 2009年 1月 8日 政府 登记 结婚 婚前 没有 建立 感情 婚后 被告 脾气 暴躁 性格 孤僻 无故 实施 殴打 致使 婚后 仅 一点 感情 很快 破裂
+O O O O O O B_Time I_Time I_Time O O B_Marry O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+2013年 11月 29日 被告 因故 实施 殴打 无奈 只能 回 娘家 居住 现 坚决 要求 被告 离婚
+O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O

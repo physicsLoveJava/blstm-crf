@@ -1,0 +1,6 @@
+原 被告 2010年 7月 8日 依法 登记 结婚
+O O B_Time I_Time I_Time O B_Marry I_Marry
+原 被告 婚后 感情 琐事 吵架 被告 打骂 原告
+O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person
+原告 认为 原 被告 婚姻 感情 已 彻底 破裂 2016年 9月 13日 蓟州区 人民法院 提起 离婚 诉讼 2016年 10月 17日 人民法院 出具 2016 津0225 民 初 10306 号 民事 裁定书 原告 未 庭 裁定 撤诉
+O O O O O O O O O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O B_Judgment I_Judgment

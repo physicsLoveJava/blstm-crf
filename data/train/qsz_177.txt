@@ -1,0 +1,8 @@
+原 被告 丁 2003年 山 柑识 建立 恋爱 关系 双方 2005年 12月 举行 结婚 仪式 双方 共同 活
+O O O B_Time O O O B_BeInLove O O B_Time I_Time O B_Marry O O O O
+婚后 双方 引旬 女孔 鑫怡 现 已 满 11 周岁 生育 孔维泽 现 已 满 6 周岁
+B_Bear I_Bear I_Bear B_Gender B_Name O O O B_Age I_Age B_Bear B_Name O O O B_Age I_Age
+婚后 原被告 时常 琐事发 争吵 被告 脾气 暴躁 II 染 酗酒 赌博 恶>. 原告 每天 操持 家里 切 事务 被告 原针 仍 不满
+O O O O B_FamilyConflict B_Person O O O O B_BadHabit B_BadHabit O O O O O O O O O O O
+原告 发现 被告 行为 不 检点 严重 影响 双方 夫麦 感情 现 原被告 大妻 感情 确 已 破裂
+O O B_Person O B_Derailed I_Derailed O O O O O O O O O O O O

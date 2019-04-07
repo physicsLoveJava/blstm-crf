@@ -1,0 +1,2 @@
+原告 被告 经人介绍 相识 2011年 12月 9日 蓟州区 民政局 登记 结婚 被告系 再婚
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O

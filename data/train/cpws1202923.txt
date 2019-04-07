@@ -1,0 +1,6 @@
+原告 林某 诉称 原 被告 2008年 农村 风俗 举行 结婚 仪式 后 2008年 3月 12 补 领 结婚证
+O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry
+双方 2008年 12月 29日 生育 子 王毅
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 感情 尚 2012年 被告 婚前 外 欠债 欺骗 原告 双方 发生 争吵 原告 离家 娘家 生活
+O O O O B_Person O I_Debt I_Debt O O O O O O O O O

@@ -1,0 +1,16 @@
+原告 刘彬 被告 张晓婷 2006年 6月 人 介绍 相识 建立 恋爱 关系 双方 未 进行 深入 了解 2006年 10月 14日 登记 结婚 2007年 10月 31日 生育 子 刘恺利
+O O O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 常 被告 下班 不 回家 项事 闹 矛盾 夫妻 感情 婚后 1--2 年中 学会 电脑 特别 学会 QQ 上网 聊天 便 一发不可收拾 晚 9:00 下班 后 不 回 家 去 网吧 网吧 中学会 吸烟 网友 约会 互 送 礼物 男女 关系 不 清 不楚
+O O B_Person B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I_Derailed I_Derailed O O O O O O O O
+户 2 被告 2013年 1月 19日 写 网友 宋海 龙信
+O O B_Person O O O O O O O
+2014年 6月 发 工资 后 下午 网友 约会 开房 醒来 后 书包 不见 新 买 手机 身份证 工资 都 网友 拿走
+O O O O O O I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O
+被告 2016年 12月 24日 -27 日 每晚 12:00 半夜 1:00 才 回家 抱 回 洋娃娃 情人 送 玫瑰花 被告 不 原告 告诉 家人 自觉 理 亏 28日 凌晨 擅自 离家 男友 张永泉 同居
+O O O O O O O O O O O O O O O O O O B_Person O O O O O O O O O O O I_Derailed I_Derailed I_Derailed
+2017年 5月 31日 原告 刘彬 提出 离婚 诉讼 请求 被告 张晓婷 接 传票 两 次 开庭 被告 均 未 庭 同年 8月 8日 河西区 人民法院 驳回 判决书 2017 津0103 民 初 6297 号
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O B_Time I_Time I_Time B_Court I_Court B_Judgment O I_Document I_Document I_Document I_Document I_Document I_Document
+被告 离家 出走 婚内 出轨 通奸 非法 同居 怀孕 生 孩子 被告 无视 法律 已 触犯 法律 底线 道德 底线 夫妻 感情 确 已 破裂 无法 弥补
+B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O
+被告 还 2017年 10月 12日 携 同居人 张永泉 原告 母亲 家 要求 私 离婚 原因 已经 怀孕 3月 月 原告 不 同意 私 离婚 被告 不 走 只好 报 110 民警 劝 走 附刻 盘1 现 已 分居 两 年
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O

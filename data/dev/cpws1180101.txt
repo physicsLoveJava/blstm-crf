@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 均 系 再婚 经人介绍 1992年 同居 生活 婚后 未 生育 子女
+O O O B_Person I_Person O O B_Remarry O B_Time B_BeInLove I_BeInLove O O O O
+共同 生活 期间 原告 被告 抚养 子女 操持 家务 被告 常 原告 生气 被告 2012年 3月 3日 起诉 原告 离婚 后 被告 撤诉
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 所作所为 原告 伤 透 心 原告 2012年 5月 18日 双方 感情 彻底 破裂 为由 起诉 被告 2012 鹿民 初字 第699 号 民事 判决 不准 原告 普 某某 被告 张 某某 离婚
+O O O O O O B_Person B_Time I_Time I_Time O O O O O B_DivorceLawsuit I_DivorceLawsuit I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+被告 辩称 原 被告 均 系 再婚 被告 2012年 3月 3日 起诉 原告 离婚 后 被告 撤诉
+O O B_Person I_Person O O B_Remarry B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

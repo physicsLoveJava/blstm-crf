@@ -1,0 +1,6 @@
+原 告诉 称 原被告 经人介绍 相识 1996年 4月 18日 登记 结婚 婚生 女 朱某乙
+O O O O O B_Know B_Time I_Time I_Time O B_Marry B_Bear I_Gender B_Name
+二 人 2009年 分居 今 现 夫妻 感情 确 已 破裂
+O O B_Time B_Separation I_Time O O O O O O
+夫妻 共同 债务 欠 原告 父母 房屋 套
+O O O O B_Person I_Person B_Debt I_Debt

@@ -1,0 +1,6 @@
+原告 李某 诉称 原 被告 2002年 10月 10日 登记 结婚 婚后 生育 儿子 李 某某
+O O O O O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name I_Name
+双方 婚前 交往 时间 不 长 了解 不够 婚后 发现 双方 性格 不合 发生 争吵 致 矛盾 激化
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 双方 已经 分居 夫妻 感情 破裂 起诉 要求 1 请求 判决 离婚
+B_Time O O B_Separation O O O B_DivorceLawsuit O O O O O

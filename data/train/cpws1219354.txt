@@ -1,0 +1,22 @@
+原告 夏 XX 诉称 原 被告 2008年 年中 亲戚 介绍 相识 恋爱 2009年 2月 登记 结婚 同年 9月 生育 女 陈 XX
+O O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原告 怀疑 被告 前 女友 仍 保持 亲密 关系 双方 琐事 产生 矛盾 夫妻 关系 恶化
+O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict
+2010年 7月 原告 携 女 回 香港 被告 分居 生活
+B_Time I_Time O O O O O O B_Separation O
+之后 双方 仍 分居 今
+O O O O I_Time
+认为 夫妻 感情 已 彻底 破裂 要求 被告 离婚
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+要求 半 分割 原 被告 共有 上海市 浦东 新区 X 室 房屋 以下 判决 主文 前 简称 1201 室 房屋 被告 已 抛售 股票 资金 扣除 被告 原告 汇款 3万 港元
+O O O O O B_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O
+被告 陈 X 辩称 原 被告 自由 恋爱 婚姻 基础 好 夫妻 感情 深厚 原告 述 矛盾 均 不 属实
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+双方 仅 经济 矛盾 不至于 影响 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict O O O O
+2011年 7月 原告 回 香港 居住 被告 仍 支付 原告 孩子 生活费 被告 香港 探亲 原告 共同 生活 现 原告 坚决 要求 离婚 被告 表示 同意 离婚
+B_Time I_Time O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O
+1201 室 房屋 购房 首付款 房贷 均 系 被告 父亲 出资 该房 被告 财产 夫妻 共同 财产 不 同意 分割
+B_Wealth I_Wealth I_Wealth O O O O O O O O O O I_PersonalProperty O O O O O O
+股票 资金 系 父亲 出资 不 同意 分割
+B_Wealth I_Wealth B_PersonalProperty I_PersonalProperty I_PersonalProperty O O O

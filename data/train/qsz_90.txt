@@ -1,0 +1,8 @@
+原被告 2007年 10月 人 介绍 相识 2009年 6月 20日 登记 结婚
+O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2012年 2月 25日 育 女 韩 佳霓
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 被告 性格 强势 独断专行 琐事 原告 争吵 日常 生活 中 原告 态度 冷漠 极 少 关心 原告 根本 体会 不 丈夫 关爱 家庭 温暖 致使 夫妻 感情 破裂 2013年 1月 22日 原被告 天津市 北辰区 民政局 协议 离婚
+O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2017年 10月 二 人 生育 二 胎 问题 争吵 后 原告 携 女 回 娘家 居住 今
+B_Time I_Time O O O O O O O O O O O B_Separation I_Separation I_Separation I_Time

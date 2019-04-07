@@ -1,0 +1,6 @@
+原 告诉 称 被告 2011年 经人介绍 认识 2011年 2月 11日 登记 结婚 双方 均 离异 人 当时 带有 前夫 生 女儿 黄某 现 共同 生活
+O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person B_Remarry I_Remarry O O O O O O O O O O
+2011年 2月 13日 被告 福建 打工 双方 居室 仅 天 只 2012年 农历 8月 福建 被告 相处 20 天 许 被告 撵 回 林州 至今 双方 无 同居 生活 婚后 被告 没有 母女 生活费 致使 看病 欠 外债 16000 元 被告 已 无 感情
+O O O O O O O O O O O B_Time I_Time I_Time O O O O O O O O O O B_Time O B_Separation I_Separation I_Separation O O O O O O O O B_Debt O O O O O O
+要求 1 原 被告 离婚
+O O O O B_DivorceLawsuit

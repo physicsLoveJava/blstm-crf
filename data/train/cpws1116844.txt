@@ -1,0 +1,12 @@
+原告 李 某某 诉称 原 被告 2003年 12月 2日 登记 结婚 婚后 未 生育 子女
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+2011年 初 双方 分居 今 期间 被告 王 某某 峰峰 矿区 人民法院 提起 离婚 诉讼
+B_Time I_Time O B_Separation O O B_Person O O B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2008年 原告 哥哥 车祸 去世 娶 鬼妻 花 9000 余 元 全部 原 被告 夫妻 共同 财产 支付 2007年 原 被告 夫妻 出资 5000 元 被告 父亲 王平军 5000 元 原告 母亲 共同 出资 53000 元 价格 共同 购买 原告 母亲 现 住 房屋 峰峰 矿区 临水镇 跃进 社区 花纸厂 楼 二 单元 五 楼 东户 楼房 煤气 安装 阳台 装修 两 次 修缮 房顶 共 花费 9500 元 全部 原 被告 夫妻 共同 出资
+O O O O O O O O O O O O O O O O O O O O O O O O O B_Person I_Person I_Person B_Price I_Price O O O O O O O B_CommonProperty I_CommonProperty O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O
+2011年 4月 底 原告 母亲 告诉 被告 说 原告 李 某某 已经 怀孕 40 天 左右 情况 使 被告 非常 震惊 两 月 被告 外 跑车 根本 没有 原告 李 某某 房
+O O O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 追问 下 李某某 承认 被告 长期 外 跑车 机 网聊 结识 男性 网友 网友 通奸 导致 怀孕 此事 实有 音像 资料 证据 佐证
+O O O O O O O O O O O O O O O B_Derailed O O O O O O O O
+为此 请求 法院 判 令 原 被告 离婚 判 令 原告 返还 被告 财产 康佳 29 寸 彩电 台 海尔 冰箱 台 洗衣机 台 组合 柜 套 四 铺 四 盖 床 上 用品 婚前 财产
+O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_PersonalProperty I_PersonalProperty

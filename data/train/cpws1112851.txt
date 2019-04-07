@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1997年 1月 20日 登记 结婚 婚后 生育 女 郑某乙 郑某丙
+O O O O O O O O B_Marry I_Marry O B_Bear B_Gender B_Name B_Name
+原告 2013年 曾 起诉 被告 离婚 判决 驳回 现 原告 起诉 要求 被告 离婚
+O B_Time O B_DivorceLawsuit O O I_Judgment I_Judgment O O B_DivorceLawsuit O O O

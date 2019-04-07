@@ -1,0 +1,8 @@
+原告 徐某 起诉 称 原 被告 ×××× 年×× 月××日 富阳市 湖源乡 人民政府 登记 结婚
+O O O O O O O O O O O O O B_Marry
+婚后 双方 生育 子 女 女儿 钟某 乙 已经 成年 儿子 钟某丙 尚 读书
+O O B_Bear B_Gender B_Gender O B_Name I_Name O O O B_Name O O
+被告 非常 严重 大 男子 主义 性格 暴躁 沉溺 跳舞 赌博 家庭 不 不顾 所有 家庭 生活 支出 全部 原告 打零工 收入 维持
+B_Person O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O
+被告 原告 恶言 恶语 拳打脚踢 造成 原 被告 感情 彻底 破裂
+B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O

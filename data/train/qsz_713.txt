@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 1999年 3月 4日 办理 结婚 登记 2000年 10月 6日 生育 子 冯坤 现在 芦台 四中 上学
+O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+原 被告 婚后 感情 近 十 年 被告 外遇
+O O O O O O O B_Person B_Derailed

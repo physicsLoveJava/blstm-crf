@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 双方 交往 半 年 左右 2013年 8月份 农村 习俗 举行 结婚 仪式 同居 生活 2017年 2月 13日 双方 办理 结婚 登记 手续
+O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O
+原被告 同居 期间 共同 生育 长子 王编轩 2013年 11月 13日 出生 次子 王镜铭 2016年 10月 11日 出生
+O O O O B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Gender B_Name B_Time I_Time I_Time O
+原被告 双方 办理 结婚 手续 后 被告 沾染 上 赌博 恶习 不尽 父为夫 职责 原告 被告 偿还 赌债 原告 规劝 被告 被告 没有 悔改 意 原告 实在 被告 无法 共同 生活 2017年 2月份 搬 回 娘家 居住 2017年 5月 原告 法院 被告 提起 离婚 诉状 法院 驳回
+O O O O O O B_Person O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O B_Separation I_Separation I_Separation B_Time I_Time B_Person O O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment
+2017年 7月 现在 原告 被告 依然 分居 生活
+B_Time I_Time O O O O B_Separation O

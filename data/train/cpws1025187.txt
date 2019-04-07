@@ -1,0 +1,16 @@
+原告 申某 诉称 原告 被告 1994年 经人介绍 认识 同年 结婚
+O O O O O B_Time O B_Know O B_Marry
+婚后 子 女
+O B_Gender B_Gender
+婚前 双方 不 了解 草率 结婚 婚后 感觉 被告 性格 古怪 吵架 致使 双方 夫妻 感情 完全 破裂 现 已 分居 两 年 夫妻 关系 名存实亡
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O B_Separation B_Duration I_Duration O O O
+1 婚后 夫妻 共同 购 位于 林州市 times
+O B_CommonProperty O O O O O O
+房屋 宅基地 片 购买 位于 太原市 times
+B_Wealth I_Wealth O O O O O
+2 原告 掌控 夫妻 共同 财产 存款 300 余 万 元 应 依法 分割
+O O O O B_CommonProperty I_CommonProperty B_Wealth B_Price I_Price I_Price I_Price O O O
+黑色 现代 车 牌号 晋 times
+O B_Wealth I_Wealth O O O
+白色 长安 星 车辆 均 应 被告 所有
+O B_Wealth I_Wealth I_Wealth O O B_Person O

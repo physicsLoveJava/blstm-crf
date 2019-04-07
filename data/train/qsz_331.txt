@@ -1,0 +1,6 @@
+原被告 2000年 9月 21日 办理 结婚 登记 共同 生活
+O B_Time I_Time I_Time O B_Marry O O O
+双方 均 系 再婚 婚后 无 子女
+B_Person O O B_Remarry O O O
+双方 常 生活 琐事 发生 争吵 分歧 意见 不 一致 致 二 人 感情 破裂
+O O O O O B_FamilyConflict O O O O O O O O O

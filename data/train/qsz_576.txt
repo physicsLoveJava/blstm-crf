@@ -1,0 +1,4 @@
+2015年 1月 原 被告 经人介绍 相识 确立 恋爱 关系 2016年 1月 21日 原 被告 双方 民政部门 办理 结婚 登记 手续 双方 均 系 再婚
+B_Time I_Time O O O B_Know O B_BeInLove O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry B_Person O O B_Remarry
+被告 隐瞒 精神 病史 原告 结婚 原告 无论是 经济 上 精神 上 造成 严重 损失 伤害 现在 双方 分居 长 达 两 年 久 符合 婚姻法 第32 条 规定 离婚 条件 原 被告 夫妻 感情 确 已 破裂
+B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O B_Separation O O B_Duration I_Duration O O O O O O O O O O O O O O O

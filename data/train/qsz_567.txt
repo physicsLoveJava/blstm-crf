@@ -1,0 +1,2 @@
+2013年 原 被告 相识 确立 恋爱 关系 2014年 农历 3月 20日 举行 结婚 仪式 同居 生活 2014年 9月 18日 生子 张莫晨 2014年 月 日 双方 办理 结婚 登记 手续 婚后 双方 感情 被告 赌博 酌酒 酒后 原告 母子 骂 屡教不改 2017年 8月 双方 分居 今 互不 联系 双方 感情 已 彻底 破裂 无 和好
+B_Time O O B_Know O B_BeInLove O I_Time I_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time O O B_Marry O O O O O O B_BadHabit I_BadHabit O O O I_BadHabit O B_Time I_Time O B_Separation I_Time O O O O O O O O O

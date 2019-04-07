@@ -1,0 +1,16 @@
+原告 被告 1994年 年初 经人介绍 相 i 确立 恋爱 关系
+O O B_Time I_Time O B_Know I_Know B_BeInLove I_BeInLove I_BeInLove
+双方 相识 半 年 后 举办 婚礼 同居 生活
+O O B_Time I_Time I_Time B_Marry I_Marry O O
+双方 1995年 生育 子 已 参加 工作
+O B_Time B_Bear B_Gender O O O
+双方 1995111月 15日 补 办 结婚 登记 手续
+O B_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+夫妻 间 生活 琐事 发生 争吵 渐渐 出现 感 裂痕
+O O O O O B_FamilyConflict O O O O
+夫妻 间 根本 无法 沟通 无 共同语言 导致 夫妻 关 j 越发 紧张
+O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 曾 半 年 前 起诉 被告 离婚 后 原 撤诉
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit O O O O B_Judgment
+夫妻 已 分居 三 年 半 久
+O O B_Separation B_Duration I_Duration I_Duration O

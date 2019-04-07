@@ -1,0 +1,12 @@
+原告 许 某某 诉称 1994年 原 被告 经人介绍 相识 确定 恋爱 关系 1997年 8月 两 人 办理 结婚 登记 1998年 5月 原告 生育 女儿 李某甲
+O O O O B_Time O O O B_Know O B_BeInLove O B_Time I_Time O O O B_Marry I_Marry B_Time I_Time O B_Bear B_Gender B_Name
+婚后 初期 两 人 感情 尚 好 好景不长 双方 性格 差异 被告 父母 中 挑唆 两 人 共同 生活 中 产生 矛盾 琐事 吵架
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O
+2008年 被告 意外 受伤 后 性格 暴躁 动不动 原告 行凶 殴打
+O B_Person O O O O O O B_Person B_DomesticViolence I_DomesticViolence
+原告 无奈 2009年 正月 离家 外出 打工 躲避 被告 殴打
+O O B_Time I_Time O O O O O O
+自此 原 被告 分居 今 互不 往来
+O O O B_Separation O O O
+原告 先后 2012年 2月 15日 2013年 2月 26日 起诉 被告 离婚 新宁县 人民法院 被告 原告 和好 机会 2012年 3月 25日 2013年 4月 2日 两 次 驳回 原告 诉讼 请求 判决 不 准 离婚 后 原 被告 夫妻 感情 未 得到 改善 原 被告 继续 分居 生活 互不 往来
+B_Person O B_Time I_Time I_Time B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court O O O O B_Time I_Time I_Time B_Time I_Time I_Time O O O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O B_Separation O O O

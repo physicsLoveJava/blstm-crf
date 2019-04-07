@@ -1,0 +1,6 @@
+原告 沈某 诉称 原 被告 2007年 自行 相识 恋爱 2009年 6月 1日 生育 子 张乙
+O O O O O B_Time O O B_BeInLove B_Time I_Time I_Time B_Bear B_Gender B_Name
+2010年 11月 22日 原 被告 登记 结婚 平时 张乙 均 原告 原告 父母 抚养
+B_Time I_Time I_Time O O O B_Marry O O O O O O O
+2013年 初 原 被告 家庭 琐事 发生 矛盾 被告 原告 出 双方 共同 居住 春都路 XXX 弄 XXX 号 XXX 室 双方 分居 今
+O O O O O O O O O O O O O O O O O O O O O O B_Separation O

@@ -1,0 +1,6 @@
+原告梁 XX 诉称 2004年 2月 15日 原 被告 举行 结婚 仪式 2006年 6月 25日 婚姻 登记 机关 补办 结婚 登记
+O O O B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O
+2004年 10月 8日 原 被告 生育 女 取名 陈 X 堰
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name I_Name I_Name
+建房 原 被告 欠 下 债务 近 一万 元 现 已 清偿
+O O O O O B_Debt I_Debt I_Debt I_Debt O O O

@@ -1,0 +1,4 @@
+原 被告 I986 年 经人介绍 相识 确立 恋爱 关系 升} 986年 10月 5日 登记 结婚
+O O B_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子女 规均 已 成年 井 结婚 生子 系 被告 婚前 缺乏 了解 婚后 未 建立 真正 夫妻 感情人 家庭 琐事 争吵 婚兰 f 女 纺帅 片泉 被告 分 5 今 告 认为 原、被告 夫妥 感情 已 彻底 破裂 好无望
+O B_Bear B_Gender O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原 被告 经人介绍 1999年 1月 19日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 女孩 薛文婧 19 周岁 薛文涵 9 周岁 结婚 初期 双方 感情 尚
+O B_Bear B_Gender B_Name B_Age I_Age B_Name B_Age I_Age O O O O O
+被告 原告 打骂 家庭 暴力 非常 严重
+B_Person B_Person B_DomesticViolence O O O O

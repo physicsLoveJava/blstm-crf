@@ -1,0 +1,2 @@
+原告 肖某 诉称 原告 被告 经人介绍 2011年 9月 13日 武陵区 民政局 登记 结婚 结婚证 常武 结字 J4307022011004287 婚后 生育 儿子 被告 2013年 元月 8日 手 持 水果刀 原告 父亲 刺死 后 原告 被告 感情 彻底 破裂 为此 原告 特 人民法院 提起 诉讼 请求 法院 判决 1 原 被告 离婚
+O O O O O O B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

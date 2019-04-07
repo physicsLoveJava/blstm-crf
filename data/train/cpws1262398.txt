@@ -1,0 +1,10 @@
+原告 马某 诉称 ×××× 年×× 月 原 被告 经人介绍 相识 双方 相识 不 20 天 情况 下 草率 结婚 ×××× 年×× 月×× 日 登记 结婚
+O O O B_Time I_Time I_Time O O O B_Know O O O O O O O O O B_Time I_Time I_Time I_Time O B_Marry
+2005年 10月 27日 生长子 取名 马甲 2009年 9月 10日 生长女 取名 马乙
+B_Time I_Time I_Time B_Bear O B_Name B_Time I_Time I_Time B_Bear O B_Name
+婚前 了解 少 婚后 发现 被告 性格 暴躁 原告 父母 极 不 孝顺 原告 受到 被告 伤害
+O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2012年 3月 14日 原告 起诉 离婚 被告 拒 不 庭 未果
+B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O O
+现原 被告 已 分居 两 年 双方 关系 已 名存实亡
+O O O B_Separation O O O O O O

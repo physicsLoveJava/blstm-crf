@@ -1,0 +1,8 @@
+原 被告 经人介绍 1985年 6月 26日 蓟州区 民政局 登记 结婚
+O O O B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 生育希 8子 妃 均 已 成家立业
+O B_Bear B_Name I_Name O O O
+被告 晚年 不 保 原告 县城 内 看护 孙子 之际 人 来往 密切 原告 明显 疏远
+B_Person O O O O O O O O O I_Derailed I_Derailed I_Derailed O O O
+原告 规劝 被告 不但 不 听 还要 殴打 原告 。
+O O B_Person O O O O B_DomesticViolence B_Person O

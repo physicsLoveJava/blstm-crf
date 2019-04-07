@@ -1,0 +1,4 @@
+原告 李某 诉称 被告 经人介绍 认识 2013年 3月 26日 阳信县 民政局 登记 结婚
+B_Person I_Person O O O O B_Time I_Time I_Time O O O B_Marry
+请求 法庭 依法 准予 被告 离婚 婚前 财产 归我所有 诉讼 费用 被告 承担
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,10 @@
+原 告诉 称 原被告 1997年 经人介绍 相识 1998年 12月 22日 登记 结婚 2000年 1月 31日 生 女儿 取名 田 筱慧
+O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 婚前 了解 少 婚后 常 琐事 发生 矛盾
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 不务正业 酗酒 夜 不 归宿 家庭 不 负 责任 原告 询问 时 被告 暴力 对待 原告
+B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O B_Person B_DomesticViolence I_DomesticViolence B_Person
+原告 得知 被告 外遇
+B_Person O O B_Derailed
+为此 请求 法院 判 令 双方 离婚
+O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

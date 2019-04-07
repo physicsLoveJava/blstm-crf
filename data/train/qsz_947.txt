@@ -1,0 +1,8 @@
+原 被告 早年 同学 关系 2002年 自由 恋爱
+O O O O O B_Time B_BeInLove I_BeInLove
+2003年 1月 9日 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2004年 4月 9号 生育 子 崔鑫龙
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 结婚 初期 感情 尚 双方 性格 不合 家庭 琐事矛 发生 矛盾 现在 双方 已经 分居 无 交流 家庭 已 无 温暖 沟通 均 激烈 争吵 收尾
+O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O

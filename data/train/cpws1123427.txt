@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2004年 3月 人 介绍 相识 2007年 8月 登记 结婚 2010年 12月 生育 子
+O O O O O B_Time I_Time O O B_Know B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear I_Gender
+尤其 孩子 出生 后 被告 带 孩子 长期 娘家 居住 致使 夫妻 双方 分居 生活 原告 没有 体会 夫妻 之间 相互 照顾 没有 体会 夫妻 之间 关爱 家庭 幸福
+O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O
+被告 吴 XX 辩称 原 被告 婚后 争吵 夫妻 共同 生活 中 属于 正常
+O O O O O O O I_FamilyConflict O O O O O O
+便于 照顾 孩子 原告 被告 一起 居住 被告 母亲 处 双方 未 分居
+O O O O O O O O O O O I_Negated B_Separation

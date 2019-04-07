@@ -1,0 +1,12 @@
+原告 王甲诉 称 原 被告 1987年 下半年 经人介绍 相识 恋爱 1988年 5月 3日 登记 结婚 1989年 1月 25日 生育 女儿 王乙
+O O O O O B_Time I_Time O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 认为 原 被告 婚前 了解 不 草率 结婚 后 发现 双方 性格 不合 对待 生活 子女 教育 态度 不同 双方 生活 琐事 发生 争吵
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+长期 积怨 使 夫妻 关系 名存实亡 原 被告 至今 已 分居 6 年 有余 夫妻 感情 已 彻底 破裂 原告 要求 被告 离婚
+O O O O O O O O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O O
+原告 股票 账户 中 ST 中华 B30480 股 股票 资金 账户 中 港币 29408．84 元 原告 愿意 被告 半 所有
+B_PersonalProperty B_Wealth O O O O O O O O O O O B_PersonalProperty I_PersonalProperty O O O O O
+被告 广发 证券 上海 西藏 南路 证券 营业部 股票 账户 内 特变 电工 2928股 国旅 联合 30000 股 中创 信测 900 股 大众 公用 4700 股 信达 地产 100 股 航天 长峰 1500 股 中国 国航 28800 股 平煤 股份 32050 股 国投 新集 700 股 锦港 B 股 419 股
+B_Person O O O O O O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+上海市 黄浦区 迎勋北路 XXX 弄 XXX 号 XXX 室 夫妻 共同 财产 离婚 后 被告 无 钱 支付 原告 折价 款 被告 要求 房产权 原告 所有 原告 支付 被告 房价 一半 折价 款
+O O O O O O O O O O O O O O O O O O O O O O O B_Wealth O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty

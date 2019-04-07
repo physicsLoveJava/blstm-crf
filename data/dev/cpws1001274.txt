@@ -1,0 +1,12 @@
+原告 黄 某某 诉称 原 被告 2002年 认识 确立 恋爱 关系 2004年 6月 28日 高坪区 民政局 登记 结婚
+O O O O O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry
+同年 9月 14日 生育 子 唐 某某
+B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+婚后 夫妻 共同 生活 中 被告 生活 不 检点 双方 产生 矛盾 使 精神 上 受到 严重 打击
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2012年 4月 法院 起诉 请求 法院 判决 被告 离婚
+B_Time I_Time O B_DivorceLawsuit O O O O O
+法院 合法 传唤 被告 不 答辩 不 庭 法院 以此 判决 不准 被告 离婚
+O O O O O O O O O O O B_Judgment I_Judgment I_Judgment
+法院 起诉 请求 1 判 令 原 被告 离婚 2 婚生子 唐 某某 抚养 成人 被告 唐永强 四川省 每年 人均 支出 标准 一半 支付 抚养费 3 夫妻 存续 期间 共同 修建 小青瓦房 两 间 分 间 4 本案 诉讼 费用 全 被告 承担
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth O O O O O O O O O

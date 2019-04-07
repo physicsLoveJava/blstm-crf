@@ -1,0 +1,4 @@
+原被告系 夫妻 关系 2014年 9月 25日 天津市 河东区 民政局 依法 登记 结婚 婚后 2017年 8月 25日 生 女 东 贺怡 双方 婚姻 初期 感情 婚后 至今 双方 没有 建立 夫妻 感情
+O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O
+共同 生活 中 双方 性格 不合 争吵 发生 矛盾 原被告 婚前 缺乏 了解 婚后 感情 现 已经 分居
+O O O O O O B_FamilyConflict O O O O O O O O O O B_Separation

@@ -1,0 +1,4 @@
+原告 被告 均 系 再婚 自由 恋爱 1998年 11月 20日 登记 结婚 双方 婚前 缺少 了解
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通
+O O O O O O O O O O O O O O B_FamilyConflict O O

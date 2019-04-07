@@ -1,0 +1,6 @@
+原告 杨某 诉称 原 被告 2012年 7月 相识 建立 恋爱 关系 2013年 3月 登记 结婚
+O O O O O B_Time I_Time O B_Negated B_BeInLove O B_Time I_Time O B_Marry
+婚后 2013年 8月 1日 生育 女儿 沙 某某
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 缺乏 了解 婚后 被告 酗酒 赌博 原告 实施 家庭 暴力 还 原告 不 知情 情况 下 外 欠 下 债务 致 夫妻 感情 彻底 破裂
+O O O O O B_Person B_BadHabit B_BadHabit B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O

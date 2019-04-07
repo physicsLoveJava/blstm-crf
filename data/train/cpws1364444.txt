@@ -1,0 +1,14 @@
+原告 曾 婷诉 称 原 被告 2007年 10月 间 相互 认识 不久 后 确立 恋爱 关系 2008年 2月 同居 生活 同年 农历 11月 13日 农村 风俗 办理 酒席
+O O O O O O B_Time I_Time O O B_Know O O O B_BeInLove O O O O O O O O O O O O O
+2009年 月 日 生育 子 陈某青
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2013年 6月 17日 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry O O
+同居 生活 期间 特别 儿子 出生 后 双方 性格 差异 凸显 矛盾 不 断 被告 性格 暴躁 疑 嗜赌 命 原告 常常 工作 中 正常 异性 交往 规劝 被告 戒赌 经济 支出 事 被告 发生 口角 后 无端 遭到 被告 殴打 双方 感情 逐渐 淡薄 期间 亲朋 规劝 关系 仍 难于 改善 矛盾 不断 升级
+O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O
+2013年 8月 18日 双方 次 发生 争吵 后 被告 意愿 民政局 办理 离婚 手续 后 被告 反悔 原告 不但 婚没 成 还 民政局 遭到 被告 殴打 手机 抢夺 幸好 公安 民警 及时 赶到 才 避免 流血 事件 发生
+O O O O O O O O O O O O O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+2 原 被告 生 儿子 陈某 青归 原告 抚养 被告 月 付 抚养费 200 元 儿子 独立 生活 为止
+O O O B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O
+夫妻 间 吵闹 时有发生 原告 诉 被告会 赌博 不顾家 常 打骂 原告 情况 属实
+O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O B_Negated

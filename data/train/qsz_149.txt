@@ -1,0 +1,8 @@
+原 被告 2017年 经人介绍 相识 确立 恋爱 关系 同年 6月 29日 领取 结婚证 共同 生活
+O O B_Time O B_Know O B_BeInLove O O B_Time I_Time O B_Marry O O
+原被告 婚后 感情 双方 琐事 区别 对待 原告 前夫所生 女 争吵 打架
+B_Person O O O O O O O O O B_FamilyConflict B_DomesticViolence
+原告 孩子 忍让 没 想到 2018年 4月 25日 原被告 口角 发生 争执 被告 原告 拳打脚踢 原告 忍无可忍 随后 报警 搬 回 娘家
+O O O O O B_Time I_Time I_Time O O O O B_Person B_Person B_DomesticViolence O O O O O B_Separation I_Separation
+时至今日 原告 不但 没有 丝毫 悔改 原告 进行 多方 威胁 双方 已 达到 彻底 破裂 程度 无法 继续 一起 共同 生活
+B_Time O O O O O O O O B_DomesticViolence O O O O O O O O O O O

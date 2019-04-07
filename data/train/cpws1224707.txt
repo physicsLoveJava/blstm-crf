@@ -1,0 +1,6 @@
+原告 华某 诉称 原 被告 1999年 10月 26日 杭州市 滨江区 长河 街道 登记 结婚
+O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry
+婚前 了解 不够 婚后 生活 中 发现 双方 性格 差异 大 频繁 争吵 双方 已 处于 分居 状态
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O B_Separation O
+请求 判决 原 被告 离婚
+O O O O B_DivorceLawsuit

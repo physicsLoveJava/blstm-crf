@@ -1,0 +1,10 @@
+原 告诉 称 原被告 系 高中 同学 1998年 恋爱 分别 两地 工作 了解 不
+O O O O O O O B_Time B_BeInLove O O O O O
+×××× 年×× 月×× 日 登记 结婚 ×××× 年××月 21 生育 女 取名 徐某乙 现在 小学 三 年级 读书
+B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O
+原被告 婚前 缺乏 了解 婚后 性格 差异 大 家务 事吵闹
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 工作 被告 不 支持 原被告 已 夫妻 感情 破裂 分居 达 三 年 久
+O O O O O O O O O O B_Separation O B_Duration I_Duration O
+被告 辩称 原被告 双方 系 同学 1998年 相恋 ××××年 结婚 相处 达 四 年 深厚 感情 基础 婚后 双方 建立 夫妻 感情 原告 健身房 工作 后 原被告 夫妻 感情 出现 裂痕 双方 未 分居 现 仍 共同 生活
+O O O O O O B_Time B_BeInLove B_Time B_Marry O O O O O O O O O O O O O O O O O O O O O O B_Negated B_Separation O O O O

@@ -1,0 +1,4 @@
+2014年 7月 原 被告 网聊 相识 确立 恋爱 关系 2014年 12月 8日 双方 办理 结婚 登记 手续 后 举行 仪式 同居 生活 2015年 9月 28日 生 女儿 李梓萱 婚前 缺乏 了解
+B_Time I_Time O O O O O B_BeInLove O B_Time I_Time I_Time O O B_Marry O O O O O O O O O O O O O O O O
+婚后 原告 发现 被告 家庭 极 不 负 责任
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

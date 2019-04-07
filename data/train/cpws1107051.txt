@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 认识 双方 1995年 举行 婚礼 1997年 补办 结婚证
+O O O O O O B_Know O B_Time B_Marry I_Marry B_Time B_Marry I_Marry
+婚后 原 被告 1996年 生育长 女王 甲 1998年 生育 长子 王某 乙
+O O O B_Time B_Bear B_Gender I_Name B_Time B_Bear B_Gender B_Name I_Name
+2000年 被告 犯 抢劫罪 判 入狱 至今 商丘 监狱 服刑 被告 行为 已经 伤害 原、被告 之间 夫妻 感情
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 原告 请求 依法 判 令 原告 被告 离婚 婚生 子女 王某甲 王某 乙 原告 抚养 抚养费 自理
+O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

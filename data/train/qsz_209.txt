@@ -1,0 +1,10 @@
+原被告 1990年 10月 举行 婚礼 同居 生活 1992年 7月 13日 办理 结婚 登记
+O B_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+1991年 5月 21日 生育 长女 朱雪丽 2003年 5月 6日 生育 次女 朱雪莹
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 结婚 后 家庭 琐事 时常 争吵 打架
+O O O O O O B_FamilyConflict I_FamilyConflict
+感情 不和
+B_FamilyConflict I_FamilyConflict
+2015年 10月 原被告 发生 争吵 后 分居 生活
+B_Time I_Time O O O O B_Separation O

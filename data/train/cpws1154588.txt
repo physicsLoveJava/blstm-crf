@@ -1,0 +1,8 @@
+原告 李某 诉称 2011年 7月 原 被告 经人介绍 认识 简单 了解 2011年 8月 15日 登记 结婚
+O O O B_Time I_Time O O O B_Know O O B_Time I_Time I_Time B_Marry I_Marry
+2013年 2月 21日 生 男孩 段 礼纯 孩子 出生 后 原告 抚养
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+被告 不 不 问 还 打骂 原告 存在 家庭 暴力 原告 精神 上 造成 损害
+O O O O O B_FamilyConflict O O B_DomesticViolence I_DomesticViolence O O O O O
+原告 娘家 居住 夫妻 感情 确 已 破裂 特 法院 提起 诉讼 请求 依法 判 令 原 被告 双方 离婚
+B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O

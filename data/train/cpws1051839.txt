@@ -1,0 +1,4 @@
+原告 梁某 诉称 原 被告 经人介绍 1998年 4月 14日 登记 结婚 婚后 生育 子 张某乙 现年 12 岁
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+原告 曾 2010年 起诉 离婚 后 人民法院 调解 好 现 双方 仍 无法 继续 共同 生活 夫妻 感情 已经 破裂
+O O B_Time B_DivorceLawsuit O O B_Court B_Judgment I_Judgment O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 余甲诉 称 原 被告 2001年 5月 结婚 2002年 3月 生 女 名 余乙 婚前 缺乏 了解 婚后 缺乏 沟通 夫妻 感情 淡薄 女儿 出生 以来 双方 分房 居住 没有 正常 夫妻 生活 原告 曾 2012年 11月 提起 离婚 诉讼 法院 判决 驳回 原告 诉讼 请求
+O O O O O B_Time I_Time B_Marry B_Time I_Time B_Bear I_Bear O B_Name O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O
+请求 法院 判决 双方 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

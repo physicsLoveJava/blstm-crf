@@ -1,0 +1,12 @@
+原告 王某 起诉 称 原 被告 经人介绍 相识 1977年 农历 11月 19日 农村 习俗 举行 婚礼 后 夫妻 名义 共同 生活 至今 未 办理 结婚 登记
+O O O O O O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O O O O O O
+婚后 生育 四 女儿 长 女王 雪斌 次 女王 雪玲 三 女王 乙 四 女 王丙
+O O B_Bear O I_Gender O B_Name I_Name O B_Name I_Name I_Name O B_Name I_Name O
+婚后 双方 性格 不合 发生 纠纷 无法 共同 生活
+O O O O O O B_FamilyConflict I_FamilyConflict O
+被告 长期 沉迷 赌博 外出 不 不尽 家庭 义务 导致 夫妻 感情 彻底 破裂 双方 2006年 1月 分居 生活 今
+O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O B_Time I_Time I_Time O
+被告 2008年 提起 离婚 诉讼
+B_Time B_Person B_Time I_Time I_Time
+现 夫妻 感情 确 已 破裂
+I_DivorceLawsuit I_DivorceLawsuit O O O O

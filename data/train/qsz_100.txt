@@ -1,0 +1,6 @@
+原 被告 系 夫妻 关系 双方 2003年 经人介绍 相识 2004年 10月 8日 登记 结婚
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2004年 11月 30日 举行 结婚 仪式 婚后 2008年 11月 13日 生 子 郝 金泽
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+导致 婚后 感情 差 原告 酗酒 习惯 酒后 打骂 被告 存在 出轨 行为
+O O O O B_Person B_BadHabit O O B_DomesticViolence B_Person O B_Derailed O

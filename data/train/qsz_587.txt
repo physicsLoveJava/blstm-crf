@@ -1,0 +1,6 @@
+原被告 1995年 经人介绍 认识 1995年 10月 19日 登记 结婚 双方 均 系 再婚 婚后 无 子女
+O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry O O O
+双方 都 再婚 婚后 未 建立 真正 夫妻 感情
+B_Person O B_Remarry O O O O O O
+被告 生活 锁事 原告 争吵 双方 不 正常 沟通 交流 2011年 8月份 原告 实在 无法 被告 共同 生活 法院 起诉 要求 被告 离婚 被告 不 同意 央求 下 原告 申请 撤诉
+O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Person O O O O O B_Court B_DivorceLawsuit O O O O O O O O B_Judgment I_Judgment I_Judgment

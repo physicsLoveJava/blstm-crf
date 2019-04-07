@@ -1,0 +1,10 @@
+原告 曹某 诉称 原 被告 2005年 4月 底 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 张某 乙 现 原告 生活 就读 洪江区 中山 花园 幼儿园 双方 婚前 缺乏 了解 婚姻 基础 不 牢 婚后 性格 不合 生活 习惯 迥异 家庭 琐事 发生 争吵
+O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 2010年 年底 分居 今 互不 履行 夫妻 义务 夫妻 感情 确 已 破裂
+O B_Time I_Time B_Separation I_Time O O O O O O O O O
+双方 曾 协商 离婚 未 成 故现 法院 起诉 请求 判决 原 被告 离婚 2 原告 抚养 女儿 被告 每月 600 元 标准 支付 女儿 抚养费
+O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O
+被告 张某 甲辩 称 原告 陈述 双方 认识 结婚 登记 生育 子女 情况 事实 双方 无 夫妻 共同 财产 共同 债权 共同 债务 事实
+O O O O O O O B_Know B_Marry I_Marry B_Bear I_Bear B_Negated I_Negated O O O O O O O O O O
+婚后 双方 小 矛盾 夫妻 感情 未 破裂 不 存在 分居 情况
+O O O O O O O O B_Negated I_Negated B_Separation O

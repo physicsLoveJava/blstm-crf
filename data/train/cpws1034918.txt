@@ -1,0 +1,14 @@
+原告 毛某 起诉 称 原 被告 经人介绍 2009年 7月 23日 办理 结婚 登记 ×××× 年×× 月×× 日 生育 子 温某 乙
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear O B_Gender B_Name
+被告 原告 父母 极 不 尊重 恶语 相 原告 根本 体会 不 夫妻 间 关爱 家某 幸福
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+2012年 11月 29日 原告 曾 院 起诉 要求 离婚 驳回 诉讼 请求 之后 双方 关系 仍 未 好转 起诉 要求 原 被告 离婚
+O B_Time I_Time I_Time I_Time B_Person I_Person O B_DivorceLawsuit O O O I_Judgment I_Judgment I_Judgment O O O O O O O O
+夫妻 共同 财产 坐落 平阳县 鳌江镇 ××区 ×× 单××室 套 商品房 浙 c ×× 小轿车 辆 依法 进行 分割
+O O O O O O O O O O O O O B_Wealth I_Wealth O O O B_Wealth
+原告 次 起诉 要求 离婚 被告 表示 同意
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O
+原告 称 坐落 平阳县 鳌江镇 ××区 ×× 单××室 套 商品房 系 夫妻 共同 财产 不 事实 双方 根本 不 存在 该处 房产 原告 无 证据 表明 房屋系 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth O O O O O O O O
+浙 c ×× 小轿车 现 已 被告 已 50000 元 价格 变卖 用于 家 开支 原告 提出 该车 应 90000 元 价款 夫妻 共同 财产 进行 分割 被告 表示 同意
+O O B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O O B_Wealth O O O O O O O O O O O O O O O

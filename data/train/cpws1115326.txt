@@ -1,0 +1,4 @@
+原告 杨某 诉称 婚前 经人介绍 认识 1998年 11月 30日 依法 登记 结婚 婚初 夫妻 感情 婚后 1999年 12月 31日 生育 长子 张某 婚后 发现 两 人 性格 不合 没有 共同语言 家庭 琐事 吵闹 特别 近 年 夫妻 关系 进一步 恶化 2011年 秋天 临沭 县城 打工 分居 已 达 年 久 夫妻 关系 名存实亡 现 已 无 和好 要求 被告 离婚
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O O B_Time I_Time O O O B_Separation O O I_Duration I_Duration O O O O O O O O O O
+被告 张 某某 辩称 原告 起状状 中 述 婚姻 生育 子女 情况 属实 原告 主张 离婚 原因 无 事实 依据 维护 家庭 幸福 和谐 不 同意 原告 离婚
+O O O O O O O O B_Marry B_Bear I_Bear O B_Negated O O O O O O O O O O O O O O O

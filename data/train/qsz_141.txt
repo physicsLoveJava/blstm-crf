@@ -1,0 +1,10 @@
+原被告系 经人介绍 相识 2000年 4月 19日 登记 结婚 原被告 均 系 再婚 结婚 至今 未 生育 子女
+O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry O O O O O
+2016年 7月 原被告 家庭 琐事 M 发生 争吵 被告 携带 家中 钱款 离开 原告 处
+O O O O O O O B_FamilyConflict O O O O O O O
+原告 认为 双方 感情 已经 B- __ s 彻底 破裂 婚姻 关系 无法 维持 为此 原告 曾 2016年 武清区 人民法院 提起 离婚 诉讼
+O O O O O O O O O O O O O O O B_Person O B_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit
+被告 未 庭 原告 撤回 起诉
+O O O B_Judgment I_Judgment I_Judgment
+被告 飞% 却 未 回 原告 处 双方 继续 分居 生活
+O O O O O O O O O B_Separation O

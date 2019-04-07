@@ -1,0 +1,6 @@
+原 被告 系 自由 恋爱 2012年 12月 17日 河南省 清丰县 民政局 办理 结婚 登记 手续 领取 结婚证 共同 生活 婚后 未 生育 子女 无 共同 财产
+O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O O O O O O O O
+婚前 了解 少 婚后 原 被告 发现 双方 感情 不 投 生活 琐事 生气 吵架
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2013年 被告 出轨 外 居住 夫妻 感情 至此 彻底 破裂 无 和好
+O B_Person B_Derailed O O O O O O O O O

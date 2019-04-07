@@ -1,0 +1,10 @@
+原\ lj 被告 2002f 5 片 纶人 介绍 相识 建 恋爱 关系 2003年 农历 J 初八 举行 红奴 仪式 片 共 N 汀
+O O O B_Time O O O O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time O O O O O O O
+ff.l 名 宋紫叮 I.2003T8 11H 补办 登记 纤婚 结婚 后 原告 发现 被告 特强令 家中 经济 大权 令 山 人学 拉 原街 J 厂 l 块 !
+O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O
+鉴 l 述原 内 双方 发牛 争吵 原告 得以 酒 浇 愁
+O O O O O O B_FamilyConflict O O O O O
+被告 原告 酗酒 双方 发生 争吵 造成 大 感情 彻底 破裂 山 2017年 5月 15H'j 诉状 要求 离婚
+O O B_BadHabit O O B_FamilyConflict O O O O O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+天津市 武清 IX 人民法院 民事 判决书 2017 津0114 民 初 5451号 判决 驳回 原告 孙 国妹 诉讼 请求 不 准 离婚
+B_Court I_Court I_Court I_Court B_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O B_Judgment I_Judgment I_Judgment

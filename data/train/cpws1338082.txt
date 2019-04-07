@@ -1,0 +1,4 @@
+原告 史某 甲 起诉 称 原 被告 自由 恋爱 年 后 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 史某 乙 现 原告 共同 生活
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O
+2013年 9月 2日 晚 被告 原告 母子 出 家门 至此 夫妻 感情 彻底 破裂
+B_Time I_Time I_Time I_Time B_Person B_Person I_Person I_DomesticViolence I_DomesticViolence O O O O O

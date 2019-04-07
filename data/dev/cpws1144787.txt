@@ -1,0 +1,12 @@
+原告 陈某 起诉 称 原 被告 2005年 1月 26日 登记 结婚 2006年 5月 6日 生育 儿子 取名 夏 某某
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+生育 儿子 夏 某某 后 被告 夏某 外出 歌厅 酒吧 玩 外遇
+O O O O O B_Person O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Derailed
+2007年 6月 被告 依旧 我行我素 原告 2007年 7月 吴兴区 人民法院 起诉 要求 被告 离婚 后 被告 原告 保证 痛改前非 原告 考虑 儿子 年幼 决定 被告 次 机会 主动 撤回 起诉
+O O O O O B_Person B_Time I_Time B_Court I_Court B_DivorceLawsuit O O O O O O O O O O O O O O O O O B_Judgment I_Judgment
+2012年 12月 被告 以前 外 第三者 后 干脆 直接 外 居 不 回家
+O O B_Person O O O O O O I_Derailed I_Derailed O O
+双方 发生 激烈 争吵
+O O B_FamilyConflict I_FamilyConflict
+2013年 8月 28日 原告 回 娘家 居住 两 人 正式 分居 双方 感情 彻底 破裂 请求 法院 判 令 解除 原 被告 婚姻 关系
+B_Time I_Time I_Time O O O O O O O B_Separation O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+原告 周×× 诉称 1993年 原告 被告 相识
+O O O B_Time O O B_Know
+1994年 4月 8日 双方 开平市 塘口镇 办理 结婚 登记 1995年 1月 23日 生育 女儿 彭乙
+B_Time I_Time I_Time O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 被告 年 家庭 感情 事 争吵 不 休 相处 不 和睦
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 感情 恶化 被告 更 原告 恶言 相向 家庭 暴力 相 威胁 恐吓 原告 造成 严重 心理 创伤 产生 严重 心理 恐惧
+O O O B_Person O B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+双方 感情 已 破裂 无法 好 双方 已 2013年 9月 7日 分居 双方 已 离婚 事 进行 协商
+O O O O O O O O B_Time I_Time I_Time B_Separation O O O O O O
+双方 没有 共同 债务 需 处理
+O B_Debt I_Debt I_Debt O O

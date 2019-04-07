@@ -1,0 +1,8 @@
+原 被告 2003年 相识 确立 恋爱 关系 2003年 10月 19日 举行 结婚 典礼 共同 生活 2004年 3月 1日 天津市 武清区 民政局 办理 结婚 登记
+O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry
+2004年 12月 19日 生育 女 崔 严涵
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚初 原 被告 感情 尚 原 被告 婚前 相互 了解 不 透彻 感情 基础 薄弱 性格 冲突 大 双方 生活 中长期 家庭 琐事 发生 矛盾 争吵
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+以上 原因 致使 原被告 无法 继续 共同 生活 原 被告 夫妻 感情 逐渐 破裂 2018年 8月 分居
+O O O O O O O O O O O O O O B_Time I_Time B_Separation

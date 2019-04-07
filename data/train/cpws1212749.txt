@@ -1,0 +1,4 @@
+原告 芮某 甲诉 称 原 被告 经人介绍 相亲 认识 2013年 5月 9日 登记 结婚
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 被告 未 妻子 义务 外 第三者
+O O O O O I_Derailed I_Derailed

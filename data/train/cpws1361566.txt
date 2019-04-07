@@ -1,0 +1,6 @@
+原告 徐某 诉称 原 被告 二 人均 二婚 经人介绍 1995年 7月 11日 依法 登记 结婚
+O O O O O O O B_Remarry O B_Time I_Time I_Time O O B_Marry
+当时 原告 儿子 朱 某某 9 岁 婚前 被告 承诺 原告 孩子 抚养 成人 婚后 截然不同 被告 根本 不尽 义务 挣 钱 不 原告 母子花 冷眼 相对 动不动 打骂 原告 母子 原告 仅 种地 维持 二 人 生活 孩子 上学 工作 花销 均 原告 姐妹 处 钱
+O O B_Gender B_Name I_Name B_Age I_Age O O O O O B_Bear O O O B_Person O O O O O O O O O O O B_DomesticViolence B_Person I_Person O O O O O O O O O O O O O O O O
+维护 原告 合法 权益 请求 法院 依法 判 令 原被告 离婚 财产 依法 分割 诉讼 费用 被告 承担
+O B_Person O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

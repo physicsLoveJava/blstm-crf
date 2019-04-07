@@ -1,0 +1,8 @@
+原 被告 天津 职业 大学 上学 期间 相识 相恋
+O O O O B_Time I_Time I_Time B_Know B_BeInLove
+2016年 12月 12日 登记 结婚 婚后 2017年 7月 6日 育 子 张轶宸 现年 1 岁 零 1 月 原告 母 生活
+B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Gender O B_Age I_Age I_Age I_Age I_Age O O O
+婚后 原告 发现 被告 赌博 夜 不 归宿
+O O O B_Person B_BadHabit O O O
+为此 争吵 后 发现 被告 出轨 行为 导致 双方 感情 彻底 破裂 现 已 分居
+O B_FamilyConflict O O O B_Derailed O O O O O O B_Time O B_Separation

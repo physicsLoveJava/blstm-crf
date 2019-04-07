@@ -1,0 +1,2 @@
+原被告 经人介绍 2014年 5月 6口 结婚 婚后生 子 男孩 孙古胜 现 3 岁 6 月 原被告 双方 婚姻 基础 不 牢固 没有 深入 了解 被告 近年 无上进心 没有 进取心 每天 家 玩 电脑 手机 不 照顾 孩子 没有 家庭 责任感 双方 没有 生活 米源 双方 已经 分居 年 无法 生活 一起
+O O B_Time I_Time I_Time B_Marry B_Bear O B_Gender B_Name O B_Age I_Age I_Age I_Age O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

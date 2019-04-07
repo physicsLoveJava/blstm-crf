@@ -1,0 +1,6 @@
+原告 苏 某某 诉称 原 被告 经人介绍 相识 2008年 4月 27日 举行 结婚 仪式 2008年 11月 12日 领取 结婚 证书
+O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+婚后 育 子 取名 曹某
+O B_Bear B_Gender O B_Name
+婚后 被告 赌博 为此 双方 吵架 被告 原告 诉诸 家庭 暴力 导致 夫妻 感情 破裂
+O O I_BadHabit O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O B_FamilyConflict I_FamilyConflict I_FamilyConflict

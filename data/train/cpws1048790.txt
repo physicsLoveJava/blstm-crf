@@ -1,0 +1,4 @@
+2011年 2月 原告 回国 后 经人介绍 认识 被告
+B_Time I_Time O O O O B_Know O
+×××× 年×× 月××日 原 被告 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry

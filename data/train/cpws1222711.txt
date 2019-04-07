@@ -1,0 +1,2 @@
+原 告诉 称 被告 生气 打架 现 无法 一起 生活 要求 被告 离婚
+O O O O B_FamilyConflict B_DomesticViolence O O O O O O O

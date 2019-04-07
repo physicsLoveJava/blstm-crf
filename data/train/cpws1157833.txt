@@ -1,0 +1,8 @@
+2013年 3月 19日 双方 常宁市 婚姻 登记 服务 中心 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O O B_Marry O O
+婚后 被告 前 女友 保持 不 正当 男女 关系 致使 双方 争吵 不 断 分居 生活 至今 已 逾 七 月
+O O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O B_Separation O B_Time I_Time I_Time I_Time I_Time
+为此 请求 法院 判 令 原 被告 离婚
+O B_DivorceLawsuit O O O O O O
+被告阳 某某 辩称 被告 前 女友 保持 来往 普通 正当 朋友 交往 没有 同居 生活
+O O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O

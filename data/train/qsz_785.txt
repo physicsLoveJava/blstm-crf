@@ -1,0 +1,4 @@
+原 被告 2007年 自由 恋爱 相识 认识 三 月 后 2007年 11月 8日 办理 登记 结婚 2010年 4月 13日 生育 子 名 冯吵肥
+O O B_Time O O B_Know O O O O B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚前 了解 不够 婚后 常 生活 琐事 发生 争吵 最近 年 被告方 不能 妥善 处理 原告 父母 关系 二 人 发生 矛盾
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O

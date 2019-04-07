@@ -1,0 +1,6 @@
+原告 楼某 甲诉 称 原 被告 1990年 一起 工作 时 认识 之后 恋爱 ×××× 年××月 原 义乌市 稠城镇 人民政府 登记 结婚 婚后 生 子 楼 乙 现年 20 岁
+O O O O O O B_Time O O O B_Know O B_BeInLove B_Time I_Time O O O O O B_Marry O B_Bear B_Gender B_Name I_Name O B_Age I_Age
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 未 建立 真正 夫妻 感情 双方 时常 家庭 琐事 争吵 被告 曾 1996年 起诉 要求 离婚 后 家人 劝阻 后 撤诉
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+现 双方 夫妻 感情 已 完全 破裂 分居 已 5 年 无 好
+O O O O O O O B_Separation O B_Duration I_Duration O O

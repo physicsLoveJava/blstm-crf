@@ -1,0 +1,4 @@
+原告 陈某 起诉 称 原 被告 双方 夫妻 感情 不和 2012年 1月份 分居 生活 期间 被告 曾 夫妻 感情 破裂 为由 法院 起诉 离婚
+O O O O O O O O O O B_Time I_Time B_Separation I_Separation O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit
+法院 判决 双方 不准 离婚 夫妻 感情 未 好
+O O O B_Judgment I_Judgment O O O O

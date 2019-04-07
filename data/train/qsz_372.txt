@@ -1,0 +1,8 @@
+原 被告 2003年 相识 确立 恋爱 关系 2008年 4月 1日 登记 结婚
+O O B_Time B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry
+婚后 生育 女 李欣宇 现年 8 周岁
+O B_Bear B_Gender B_Name O B_Age I_Age
+时间 推移 夫妻 矛盾 明显
+O O O B_FamilyConflict O
+被告 二 人 发生 矛盾 时 原告 拳脚 相加 2018年 6月 26日 二 人 家庭 琐事 发生 争吵 后 被告 原告 实行 家庭 暴力 原告 为此 拨打 110 报警 公安 武清 分局 泉兴路 派出所 民警 出警 进行 调解 未果 后 原告 害怕 被告 进行 殴打 只得 回 父母 处 居住
+O O O O O O O O O B_Time I_Time I_Time O O O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O

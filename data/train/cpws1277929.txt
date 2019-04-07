@@ -1,0 +1,8 @@
+原告 危某 诉称 原 被告 经人介绍 订婚 于×××× 年×× 月×× 日 登记 结婚 2011年 9月 27日 婚生 女 齐 甲 现 原告 生活
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O B_Bear B_Gender B_Name I_Name O O O
+原 被告 婚前 相互 接触 少 婚姻 基础 差 婚后 二 人 性格 不合 家务 琐事 生气 吵架
+O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict
+双方 已 无法 再 一起 生活 夫妻 感情 确 已 破裂
+O O B_Separation I_Separation I_Separation I_Separation B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+要求 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

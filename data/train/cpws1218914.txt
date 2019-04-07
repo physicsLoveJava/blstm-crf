@@ -1,0 +1,8 @@
+原告 王某 诉称 被告 经人介绍 相识 2010年 3月 4日 登记 结婚 2010年 11月 16日 生育 女儿 周甲
+O O O O O O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 缺乏 了解 婚后 缺少 必要 沟通 性格 不合 生活 琐事 发生 分歧 被告 曾 原告 怀孕 期间 琐事 殴打
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_Person O O O B_DomesticViolence
+被告 游手好闲 不务正业 2010年 入室 抢劫 十堰市 茅箭区 人民法院 判处 十 年 有期徒刑 现 已 服刑 两 年
+O O O O I_BadHabit I_BadHabit O O O O O O O O O O O O
+夫妻 感情 已经 完全 破裂 无法 共同 生活
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

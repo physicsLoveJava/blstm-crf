@@ -1,0 +1,8 @@
+原被告 经人介绍 相识 2000年 10月份 登记 结婚
+O O O B_Time I_Time B_Marry I_Marry
+常常 琐事 争吵 打架
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+特别 原告 不 容忍 被告 动手 原告
+O O O O B_Person B_DomesticViolence B_Person
+特别 今年 正月初三 被告 出手 伤 原告 造成 原告 头部 受伤 被告 原告 伤 光 伤 原告 医院 缝 两 次 伤 原告 实在 无法 忍受 这种 非 人 生亨 双方 感情 确 破裂
+O O O O O O O O O O O B_Person B_Person I_DomesticViolence O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

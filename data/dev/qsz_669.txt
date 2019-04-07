@@ -1,0 +1,14 @@
+原被告 现 夫妻 关系 2001年 农历 10月 18日 双方 农村 风俗 举行 结婚 仪式 共同 生活
+O O O O B_Time I_Time I_Time I_Time O O O O B_Marry O O O
+2002年 8月 26日 生育 女孩 闻 佳瑶 2012年 9月 3日 生 男孩 闻 佳轩
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2005年 2月 17日 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry O O
+双方 居后 补办 结婚 登记 手续 后 段 时间 里 双方 争吵 夫妻 感情 尚
+O O O O O O O O O O O B_FamilyConflict O O O
+2010年 被告 脾气 变 异常 暴躁 动不动 殴打 辱骂 原告
+B_Time B_Person O O O B_BadHabit O B_DomesticViolence B_FamilyConflict B_Person
+2018年 5月 14日 5月 30日 不足 半 月 时间 里 被告 曾 两 次 殴打 原告 造成 原告 脸部 背部 受伤
+B_Time I_Time I_Time I_Time I_Time O O O O O B_Person O O O B_DomesticViolence O O B_Person O O O
+2018年 2月 30日 原被告 分居 现在 原被告 之间 已 毫无 夫妻 感情 可言
+I_Time I_Time I_Time O B_Separation B_Time O O O O O O O

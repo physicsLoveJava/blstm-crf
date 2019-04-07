@@ -1,0 +1,10 @@
+原告 李某 诉称 2012年 3月 原被告 经人介绍 后 相恋 同年 11月 23日 双方 绍兴县 民政局 登记 结婚 婚后 未 生育
+O O O B_Time I_Time O O O B_BeInLove O B_Time I_Time O O O B_Marry I_Marry O O O
+双方 婚前 缺乏 足够 了解 婚后 个性 不 常 生活 琐事 发生 争吵 使 夫妻 感情 未能 好 建立 婚后 不 月 被告 夜 不 归宿
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O
+嗣 后 原告 得知 被告 赌博 不良 嗜好 原告 好言 劝说 被告 答应 不 参与 赌博 出具 承诺书 份 被告 依旧 参与 赌博
+O O O O B_Person B_BadHabit O O O O O O O O O O O O O O O O O
+2013年 8月份 原被告 分居 生活 今
+B_Time I_Time O B_Separation O I_Time
+综 上 原告 认为 双方 之间 夫妻 感情 已 彻底 破裂
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

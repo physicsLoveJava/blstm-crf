@@ -1,0 +1,4 @@
+原告 郑某 诉称 原 被告 2009年 人 介绍 相识 2011年 4月 7日 登记 结婚 2011年 7月 1日 生育 子 郑某甲
+O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 认为 原 被告 婚前 缺乏 了解 婚后 未 建立 深厚 夫妻 感情 被告 离家 外出 打工 孩子 不 不 问 夫妻 感情 已经 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

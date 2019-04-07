@@ -1,0 +1,4 @@
+2011年 10月 17甘经 武清区 民政部门 登记 结婚 婚生 女儿
+B_Time I_Time I_Time O O O B_Marry B_Bear B_Gender
+婚前 了解 人 少 婚斤 发现 双方 性格 不 相投 被告长 J 顺家 _年 没有 原告 交纳 生活费 造成 争吵 发展 动 打架 最 严重 2018年 7月 25H 被告 被告 父母 共同 动 原告 使 原告 身体 上 伤 公安 部门 末 解决
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O B_Time I_Time I_Time B_Person I_Person I_Person O B_DomesticViolence B_Person O O O O O O O O O

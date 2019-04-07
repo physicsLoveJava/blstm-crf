@@ -1,0 +1,4 @@
+原 告诉 称 被告 2007年 腊月经人介绍 相识 谈婚 2008年 农历 二月 初二 登记 结婚 2008年 10月 12日 生 女 高 某某
+O O O O B_Time I_Time B_Know O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 谈婚 时间 短 缺少 了解 性格 差异 大 婚后 无法 建立 真正 夫妻 感情 被告 心胸 狭窄 无端 猜疑 不 关心 原告 双方 父母 亲属 从不 往来 原告 2012年 农历 二月 初六 外出 打工 今 夫妻 感情 已 彻底 破裂 夫妻 关系 名存实亡
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Separation I_Separation I_Time O O O O O O O O

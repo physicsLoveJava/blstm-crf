@@ -1,0 +1,10 @@
+原 告诉 称 被告 经人介绍 相识 2011年 xx 月 xx 日 登记 结婚 婚后 2011年 xx 月 xx 日生 男孩 取名 张某 甲 现 生活
+O O O O O B_Know B_Time I_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O
+被告 婚前 相处 时间 短 了解 少 婚后 发现 二 人 性格 不合 家务 琐事 吵闹
+O O O O O O O O O O O O O O O B_FamilyConflict
+被告 家庭 不 负 责任 孩子 不 不 问 挣 工资 都 偷偷 藏 从不 孩子 买 生活 必需品
+B_Person O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O
+2012年 xx 月份 原告 回 东北 老家 看望 父母 被告 不 不 问 声称 离婚
+O O O O O O O O O O O O O O B_DivorceLawsuit
+被告 辩称 原告 从未 吵 架 没有 原告 孩子 不 不 问 每月 挣 工资 都 用于 家庭 生活
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

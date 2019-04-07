@@ -1,0 +1,8 @@
+原告 许某 诉称 原 被告 2007年 5月 确定 恋爱 关系 2007年 12月 24日 登记 结婚
+B_Person O O O O B_Time I_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+婚后 2010年 6月 11日 生育 子 取名 计某
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 性格 不合 琐事 争吵 导致 夫妻 感情 彻底 破裂
+O O O O B_FamilyConflict O O O O O
+请求 判决 原 被告 离婚 婚生子 原告 生活 被告 每月 支付 1000 元 抚养费 共同 财产 依法 分割
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

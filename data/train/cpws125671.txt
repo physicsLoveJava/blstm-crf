@@ -1,0 +1,4 @@
+原告 李 某某 诉称 被告 共同 生活 中 琐事 被告 发生 矛盾 遭 被告 殴打 致 夫妻 感情 彻底 破裂 现 要求 离婚 抚养 孩子 被告 一次性 支付 孩子 抚养费 30000 元 夫妻 共同 财产 依法 均分 抚养 孩子 欠 债务 71500 元 被告 承担
+O O O O O O O O O O O B_FamilyConflict O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 祁 某某 辩称 原告 婚后 琐事 发生 矛盾 属实 夫妻 感情 未 破裂 不 同意 离婚
+O O O O O O O O B_FamilyConflict O O O O O O O O

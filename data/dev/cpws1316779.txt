@@ -1,0 +1,18 @@
+原告 李某 赐诉 称 原 被告 1994年 年初 认识 很快 同居 形成 事实 婚姻 关系
+O O O O O O B_Time I_Time B_Know O O O O O O
+2006年 4月 13日 双方 补办 结婚证
+B_Time I_Time I_Time O B_Marry I_Marry
+原 被告 同居 后生 儿子 李某 甲 女儿 李某乙 李某丙
+O O O B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name
+双方 缺乏 感情 基础 了解 不 够 深入 再 性格 不合 婚后 吵闹 打骂
+O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict
+原告 家庭 比较 贫困 生活 艰辛 被告 埋怨 原告 原告 发泄 生活 上 不满
+O O O O O O O B_FamilyConflict O O O O O O
+被告 性格 非常 暴躁 打骂 小孩 不 尊重 老人 还 离家 出走 丢 下 家 老小 不顾
+O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+被告 朱某 娣 辩称 原告 起诉 不 事实 不 同意 离婚
+B_Person I_Person I_Person O O O O O O O O
+事实 原告 家庭 不 负 责任 长期 外 女儿 女人 同居 被告 实施 家庭 暴力 无奈 之下 才 离家
+O B_Person O O O O O O I_Derailed I_Derailed I_Derailed O O B_DomesticViolence I_DomesticViolence O O O O
+小孩 房子 分割 同意 离婚
+O B_Wealth O O O

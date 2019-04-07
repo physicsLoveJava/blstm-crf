@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 ×× ×× 年×× 月×× 日 登记 结婚 双方 均 再婚
+O O O O O O O O O O B_Marry I_Marry O O O
+婚后 原 被告 没有 建立 夫妻 感情 两 人 常 家庭 琐事 生气 吵架
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

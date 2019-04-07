@@ -1,0 +1,30 @@
+原告 被告 经人介绍 相识 1997年 3月 登记 结婚
+O O O B_Know B_Time I_Time B_Marry I_Marry
+2002年 生 子 杨竣博
+B_Time B_Bear I_Gender B_Name
+原 被告 婚后 夫妻 感情 尚 共同 生活 段 时间 后 原告 发现 双方 性格 存在 大 差异 家庭 琐事 争吵 家庭 矛盾 不断 加深 2015年 年底 分居 今
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O B_Time I_Time B_Separation I_Time
+双方 长 时间 分居 无法 继续 共同 生活
+O O O B_Separation O O O O
+被告 1994年 经人介绍 相识 确立 恋爱 关系 1997年 3月 12日 登记 结婚 没有 举行 仪式 登记 后 共同 生活 2002年 8月 10日 婚生 子 杨竣博 现在 天津市 和平区 第五十五 中学 就读 高中 二 年级
+O B_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O O O B_Time I_Time I_Time B_Bear I_Gender B_Name O O O O O O O O O
+审 双方 都 初婚
+O B_Person O B_Remarry
+婚前 婚后 初期 感情 尚 2000年 生活 琐事 性格 父母 原因 双方 产生 矛盾 吵架
+O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict
+原 代 2015年 回家 不 在家 居住 回家 看看 孩子 认为 2015年 分居
+O O O O O O O O O O O B_Time B_Separation
+不 属实 没有 分居 生活 原告 工作 忙 需要 值班 原告 休息 回家
+O O B_Negated B_Separation O O O O O O O O O
+部队 套 军产 没有 产权证 房屋 2009年 交纳 30 万 元 房款 已经 交齐 没有 产权证 坐落 天津市 河北区 八 马路 双湖 花园 11-2502 号 名下 2007年 2008年 购买 坐落 天津市 河北区 昆纬路 北斗 花园 7-3-801 号 私产 房屋 套 产权 登记 被告 名下 房屋 总价款 120万 元 首 付 40万 元 贷款 80万 元 目前 房屋 没有 银行 贷款 被告 名下 套 坐落 天津市 南开区 东北角 艺术 公寓 1-2807 号 私产 房屋 房屋 没有 贷款
+O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O B_Price I_Price O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+共同 财产
+B_CommonProperty I_CommonProperty
+原 车牌号 津 HUH188 凯美瑞牌 小轿车 辆 登记 被告 名下
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+股票 被告 名下 现 价值 不 清楚 名下 没有 银行 存款
+B_Wealth O O O O O O O O O O
+审 双方 是否 共同 债权 债务
+O O O O B_Credit B_Debt
+均 没有
+O B_Negated

@@ -1,0 +1,4 @@
+原告 杨 某某 诉称 2006年 初 原被告 婚介所 介绍 认识 2006年 6月 27日 登记 结婚 双方 年龄 相差 大 婚后 感情
+O O O O B_Time I_Time O O B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O
+上 原被告 系 重组 家庭 现 关系 僵化 无法 沟通 双方 感情 确 已 破裂 无 好
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

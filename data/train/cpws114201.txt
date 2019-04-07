@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 经人介绍 于×××× 年×× 月 结婚 仓促 办理 结婚 登记 手续 双方 属于 二婚 婚前 缺乏 了解 婚后 原、被告 之间 未能 建立 未定 夫妻 感情 双方 性格 不和 生活 琐事 吵闹 被告 原告 使用 暴力 实在 不 继续 一起 生活 感情 彻底 破裂
+O O O O O O B_Time I_Time I_Time B_Marry O O O O O B_Person O B_Remarry O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_Person O B_DomesticViolence O O O O O O O O

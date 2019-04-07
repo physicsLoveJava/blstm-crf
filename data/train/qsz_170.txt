@@ -1,0 +1,6 @@
+2008年 10月 23日 原被告 天津市 蓟州区 民政局 领取 结婚证 婚后 没有 生育 子女
+B_Time I_Time I_Time O O O O B_Marry I_Marry O O O O
+原被告 结婚 前 没有 了解 对方 性格 不合 婚后 吵架 2018年 7月 1日 被告 离家 外出 双方 分居
+O O O O O O O O O B_FamilyConflict B_Time I_Time I_Time O O O O B_Separation
+2016年 原被告 所有 蓟州区 五百 户 镇 黑石岩村 82 号 房屋 政府 征收 得到 补偿 款 均 被告 领取 请求 法院 调取 补偿 协议 后 予以 分割
+O O O O O O O O O O B_CommonProperty B_Wealth I_Wealth O O O O O O O O O O O O O O

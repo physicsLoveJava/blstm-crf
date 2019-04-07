@@ -1,0 +1,2 @@
+原告 吕 某某 诉称 原告 被告 结婚 后 两 人 性格 不同 没有 共同语言 导致 两 人 感情 确 已 破裂 原告 请求 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

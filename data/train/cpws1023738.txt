@@ -1,0 +1,10 @@
+原告 王 某某 诉称 1995年 3月 原 被告 风俗 举行 结婚 仪式
+O O O O B_Time I_Time O O O O B_Marry O
+1996年 12月 10日 生育 女儿 李某 甲 2002年 3月 10日 生育 儿子 李某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O
+共同 生活 期间 被告 游手好闲 不务正业 回家 后 原告 提出 无理 要求 原告 稍 不 遭到 被告 毒打 致 原告 身体 带 伤 婚姻 生活 原告 无尽 痛苦
+O O O O B_BadHabit I_BadHabit O O O O O O O O O O B_Person B_DomesticViolence O B_Person O O O O O O O O
+被告 有时 离家 长 达 半 年 不 回 原告 人 打工 维持 家庭 生活
+O O B_Separation O O B_Duration I_Duration O O O O O O O O
+2013年 1月 22日 原告 法院 提起 离婚 诉讼 后 驳回 诉讼 请求
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment

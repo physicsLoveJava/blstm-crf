@@ -1,0 +1,6 @@
+原告 崔 某某 诉称 原 被告 1987年 9月 15日 珲春县 人民政府 登记 结婚 婚生 子 崔志伟 1988年 6月 16日 生
+O O O O O O B_Time I_Time I_Time O O O B_Marry B_Bear B_Gender B_Name B_Time I_Time I_Time O
+被告 不 懂得 勤俭持家 骂 人 性格 急躁 不 讲理 导致 夫妻 感情 完全 破裂 诉至法院 要求 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+被告 吕 某某 辩称 原告 述 不 符合 事实
+O O O O O O B_Negated I_Negated I_Negated

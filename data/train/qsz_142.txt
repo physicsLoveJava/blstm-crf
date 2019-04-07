@@ -1,0 +1,10 @@
+原被告 1984年 9月 24日 登记 结婚 同居 生活
+O B_Time I_Time I_Time B_Marry I_Marry O O
+婚后 生育 长女 于志芳 现年 31 岁 长子 于志伟 现年 29 岁
+O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+原被告 结婚 后 家庭 琐事 时常 争吵 打架
+O O O O O O B_FamilyConflict I_FamilyConflict
+原告 总是 采取 忍让 克制 态度 被告 却 丝毫 不 注重 夫妻 感情 培养 动手 殴打 原告
+O O O O O O B_Person O O O O O O O O B_DomesticViolence B_Person
+2016年 9月 原被告 发生 争吵 后 原告 回 Ag
+O O O O B_FamilyConflict O O O O

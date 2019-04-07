@@ -1,0 +1,8 @@
+原告 陈某 诉称 原被告 2006年 1月 16日 登记 结婚 2006年 6月 7日 育 子 名叫 曹某乙 现年 7 周岁
+O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age
+原告 曾 2012年 5月 起诉 离婚 后 妇联 调解 双方 同意 再 做 努力 维持 婚姻
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+原告 起诉 请求 1 判 令 原告 陈某 被告 曹某 离婚
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+原 被告 2006年 登记 结婚 同年 孩子 被告 珍惜 份 感情
+O O B_Time O B_Marry O O O O O O

@@ -1,0 +1,10 @@
+原告 柴 某某 诉称 原 被告 经人介绍 认识 时 被告 不 告知 前夫 生育 女 数 月 后 原告 得知 实情 双方 争吵 分手
+O O O O O O O O O B_Person O O B_Remarry O O O O O O O O O I_FamilyConflict I_FamilyConflict
+被告 性情 暴躁 常 琐事 大 发脾气 埋怨 怒斥 原告 双方 争吵
+B_Person B_BadHabit I_BadHabit O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+2011年 9月 2013年 10月 28日 原 被告 争吵 厮打 时 被告 原告手 脸 胸处 抓 伤
+B_Time I_Time B_Time I_Time I_Time O O O B_DomesticViolence O B_Person O O O O O
+2011年 10月 后 被告 常 带 儿子 回 娘家 居住 使 双方 长 时间 不 一起 导致 感情 基础 越来越 差
+B_Time I_Time O O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O
+2013年 11月 20日 被告 父母 原告 单位 大 闹 殴打 原告 致使 夫妻 感情 完全 破裂 请求 判 令 原 被告 离婚 婚生子柴 甲 原告 生活 被告 月 负担 抚养费 夫妻 财产 依法 分割
+B_Time I_Time I_Time B_Person O O O O O B_DomesticViolence O O O O O O O O O O O B_DivorceLawsuit B_Bear I_Name O O O O O O O O O O

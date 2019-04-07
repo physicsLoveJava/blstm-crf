@@ -1,0 +1,10 @@
+原告 唐 某某 诉称 2004年 6月 22日 原告 被告 眉县 婚姻 登记 机关 登记 结婚
+O O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry
+原告 系 初婚 被告系 再婚 带有 七 岁 男孩
+B_Person O B_Remarry B_Person B_Remarry O O O O
+2005年 6月 15日 原 被告 生育 女 取名 刘某 乙
+B_Time I_Time I_Time O O B_Bear I_Gender O B_Name I_Name
+结婚 后 被告 脾气 暴躁 动 不 动 原告 实施 家庭 暴力
+O O B_Person O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 原告 结合 后 长期 采取 暴力 方法 解决 夫妻 矛盾 致使 婚姻 走 尽头 现在 已 完全 破裂 原告 诉至法院 要求 依法 解除 原 被告 婚姻 关系 婚生 女 刘某 乙 原告 抚养 被告 支付 孩子 抚养费 夫妻 共同 财产 依法 分割
+O O O O O O O O O O O O O O O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O

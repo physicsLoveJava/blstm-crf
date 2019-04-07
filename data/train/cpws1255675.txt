@@ -1,0 +1,6 @@
+原告 周 某某 诉称 原 被告 1979年 经人介绍 认识 1982年 登记 结婚 原告 结婚证 遗失 昆山市 档案馆 结婚 申请书 上 登记 日期 1988年 12月 29日 属于 登记 错误 婚后 生育 女 取名 张 某某
+O O O O O O B_Time O B_Know B_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O B_Bear B_Gender O B_Name I_Name
+婚后 年 原 被告 相处 融洽 1996年 被告 迷恋 赌博 农活 家务 不 做 第三者 存在 不 正当 男女 关系 夫妻 感情 进一步 恶化 已 形 陌路
+O O O O O O O O O B_BadHabit O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O
+2009年 被告 主动 原、被告 家中 搬 出 导致 原、被告 分居 今
+B_Time O O O O O O O O B_Separation O

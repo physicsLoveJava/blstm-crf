@@ -1,0 +1,6 @@
+原告 钱 起诉 称 原告 1986年 上半年 经人介绍 被告 相识 后 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女 取名 薛某乙 现 已 成年
+O O O O O O O O O B_Know O O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O B_Age
+婚后 被告 毫无 家庭 观念 嗜赌 双方 难以 真诚 沟通 夫妻 感情 平淡 被告 游手好闲 不尽 为人之夫 为人 父 责 原告 无端 猜疑 进行 威吓 双方 住 屋檐 下 却 已经 多年 同房 异床 视为 仇人 导致 夫妻 感情 彻底 破裂
+O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 说 好吃懒做 赌博 说法 不 符合 实际
+O O O B_BadHabit O O O O

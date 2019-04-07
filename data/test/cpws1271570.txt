@@ -1,0 +1,12 @@
+原告 王某 甲诉 称 2005年 原告 被告 相恋 2006年 1月 12日 双方 婚姻 登记 机关 进行 结婚 登记 领取 结婚证
+O O O O B_Time O O B_BeInLove B_Time I_Time I_Time O O O O O B_Marry O O O
+2006年 11月 21日 生 儿子 取名 王某丁
+B_Time I_Time I_Time B_Bear I_Bear O B_Name
+原告 被告 相恋 时间 短 相互 了解 不够 双方 性格 上 存在 大 差异 双方 婚前 相互 沟通 还 婚后 沟通 难
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告善 猜疑 原告 异性 正常 接触 被告 说 原告 不 正当 关系 回家 后 原告 争吵 使 原告 无法 忍受
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 2月 29日 原告 起诉 法院 要求 离婚 被告 不 同意 离婚 法院 2012年 5月 8日 判决 不 准 离婚 之后 原告 被告 分居 今
+B_Time I_Time I_Time O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Time I_Time I_Time O O O O O O O B_Separation O
+原告 认为 被告 之间 感情 已经 破裂 无法 再 生活 一起
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

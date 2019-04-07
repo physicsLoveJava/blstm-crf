@@ -1,0 +1,12 @@
+原告 刘 某某 诉称 原 被告 1994年 3月 人 介绍 相识 同年 11月 25日 办理 结婚 登记 婚后 生育 子 女
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Bear I_Gender I_Gender
+双方 性格 不合 婚后 常 生活 琐事 相骂 打架 吵架 后 被告 离家 外出 走 月
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+2013年 8月 1日 外出 三 月 被告 突然 回来 双方 发生 争执 被告 持 刀 原告 右手 砍 伤 后 被告 不仅 不 救治 还 原告 金 项链 抢走
+O O O O O O O O O O O O B_Person O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O
+婚后 原告 脾气 暴躁 稍 言语 不 合 被告 骂 被告 实施 家庭 暴力
+O B_Person O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+双方 共同 生活 期间 原告 不 正当 男女 关系
+O O O O B_Person B_Derailed I_Derailed I_Derailed I_Derailed
+2013年 8月 原告 被告 负气 外出 女人 带 回 家 双方 产生 矛盾 争执 中 原告 劝说 父亲 打倒 被告 实在 受不了 原告 所作所为 一时 失去 理智 确实 刀 砍 伤 原告
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Negated I_DomesticViolence I_DomesticViolence I_DomesticViolence O

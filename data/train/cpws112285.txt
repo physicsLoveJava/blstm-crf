@@ -1,0 +1,6 @@
+原 告诉 称 原被告 1989年 结婚 婚后 生育 女 现 已 成年
+O O O O B_Time B_Marry O B_Bear I_Gender O O O
+原被告 双方 婚后 感情 不和 近些年 家庭 矛盾 突出 争吵 不 断 现 双方 分居 已 2 年 有余 感情 确 已 破裂 无 和好 早日 结束 思想 束缚 解除 精神 上 痛苦 协商 无 果 情况 下 依法 起诉 判如所请
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O
+分居 提出 离婚 以后 分 月
+B_Separation O O O O I_Duration

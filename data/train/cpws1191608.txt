@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 ×××× 年×× 月××日 郑州市 金水区 民政局 登记 结婚 2012年 7月 左右 购买 位于 郑州市 惠济区 宏达路 房屋 套 面积 146．5 平方米 首付款 30万 元 左右 产权 证号 郑房权 证字 第12×× 29
+O O O O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O
+2013年 原 被告 感情 出现 裂痕 争吵 后 导致 矛盾 恶化 夫妻 感情 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O
+依法 分割 共同 购买 位于 郑州市 惠济区 宏达路 房屋 请求 判决 被告 支付 房屋 价款 150000 元
+O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O
+位于 郑州市 惠济区 宏达路 6 号 院 5 号 楼 3 单元 23 号 房屋 母亲 赠与 不 夫妻 共同 财产 不 分割
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Negated O B_CommonProperty I_CommonProperty O O

@@ -1,0 +1,12 @@
+原告 成某 诉称 2010年 腊月 原 被告 农村 风俗 习惯 举行 典礼 仪式 被告系 男 女家 生活
+B_Person I_Person O O O O O O O O O O O O O O O
+2011年 4月 15日 原 被告 生育 女 取名 成 某某 现年 2 周岁 2011年 5月 9日 原 被告 补办 结婚证
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name I_Name O B_Age I_Age B_Time I_Time I_Time O O B_Marry I_Marry
+婚前 缺乏 了解 婚后 发现 被告 不 安心 在家 生活 赌博 不 履行 家庭 义务
+O O O O O B_Person O O O O B_BadHabit B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 外 打工 不管 挣钱 少 原告 交付 家中 事务 不 不 问 原告 女儿 生活 全 父母 接济
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+综 上 原 被告 婚姻 基础 差 婚后 未 建立 真正 夫妻 感情 现 诉至法院 请求 法院 判 令 原 被告 离婚 婚生 女 成 某某 原告 生活 被告 依法 承担 抚养费
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit O O O O O O O O O O O O O O O O O
+被告 白 某某 辩称 1 原 被告 已 分居 四 年 久 双方 感情 确 已 破裂 婚姻 名存实亡
+O O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O

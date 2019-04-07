@@ -1,0 +1,8 @@
+原告 姚某 诉称 原 被告 双方 2009年 11月 经人介绍 认识 2010年 3月 确定 恋爱 关系 2010年 9月 27日 登记 结婚
+O O O O O O B_Time I_Time O B_Know B_Time I_Time O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+2011年 8月 30日 生育 女儿 姚某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+性格 脾气 众多 因素 夫妻 间 矛盾 不 断 家庭 琐事 发生 争吵 夫妻 感情 逐渐 恶化
+O O O O O O O O O O O O B_FamilyConflict O O O O
+2012年 7月 夫妻 分居 今 双方 互不 往来 夫妻 关系 早已 名存实亡
+B_Time I_Time O B_Separation O O O O O O O O

@@ -1,0 +1,16 @@
+原告 丁 2000年 初 经人介绍
+O O B_Time I_Time O
+j 被告 相识 后 恋爱 谈婚 不 四 月 二 人 履行 结婚 登记 下续 草率 结婚 婚后 夫妻 人生 女 子 长女 名叫 薛忠羽 20018月 5日 出生 长子 薛俊捷 2007年 12月 18 | | 出生 被告 原告 怀孕 期间 被告 II 事情 付天 夜间 凌晨 2-3 点钟 才 回家 原告 了解 得知 被告 每天 晚 回家 根本 不 事情
+O B_Person B_Know O B_BeInLove B_Time I_Time I_Time I_Time O O O B_Marry I_Marry O O O O O B_Bear O O B_Gender O B_Name O O O B_Gender B_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+赌博 恶习 现今 原告 手机 了解 外面 找 刘孟 女人 关系 不 般
+B_BadHabit O O O O O O O O O O O O
+被告 右 2017年 6月份 法院 提起 离婚 诉讼
+B_Person O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit
+2017年 9月份 法院 开庭 原 \行 6 孩 太 小 不 i 意 离婚 法院 驳回 被告 离婚 诉求
+B_Time I_Time O O O O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+2017 9月 4 | 原被告 二 人 琐事 争吵 被告 原街 实施 家庭 暴力 烁 耳朵 侧鼓膜 毒打 穿孔
+O O O O O O O O B_FamilyConflict B_Person O O B_DomesticViolence I_DomesticViolence O O O O O
+被告 原告 伤 后 忘 知人向
+O B_Person O O O O
+x 超 pr 综 上 被告 配偶 还 同居 再 原告 实施 家暴 逼迫 原告 忍无可忍 被告 所作所为 导致 夫妻 感情 确 已 破裂
+O O O O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O

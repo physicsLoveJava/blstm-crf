@@ -1,0 +1,12 @@
+原告 宫某 诉称 原告 被告 外 打工 相识 2001年 5月 4日 溆浦县 民政局 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 刚 夫妻 关系 尚 2001年 9月 24日 生 下 儿子 舒博 之后 原 被告 家庭 琐事 争吵 家庭 原告 只好 忍让
+O O O O O B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O O O B_FamilyConflict O O O O
+2009年 双方 生育 女儿 取名 舒 欣
+B_Time O B_Bear B_Gender O B_Name I_Name
+原告 以为 生 下 女儿 后 被告 年龄 增长 脾气 变 缓和 被告 没有 改变 原告 实施 家庭 暴力
+B_Person O O O O O O O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2010年 8月 次 争吵 中 被告 原告 实施 家庭 暴力 被告 掐 住 原告 脖子 使 原告 昏厥
+B_Time I_Time O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O
+原告 被告 行为 感到 十分 寒心 被告 绝情 感到 绝望 便 离开 被告 分居 今
+O O O O O O O O O O O O O B_Separation I_Time

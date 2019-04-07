@@ -1,0 +1,8 @@
+原告 王×× 诉称 2006年 6月份 原告 被告 经人介绍 认识 订婚 当年 农历 腊月二十六 举行 结婚 典礼 2007年 9月 15日 生育 女 取名 赵×
+O O O B_Time I_Time O O O B_Know O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2008年 6月 9日 汶上县 民政局 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 原告 生计 补贴 家用 长期 外 打工 挣钱 吃 千辛万苦 被告 不务正业 游手好闲 偷懒成性 2010年 11月 被告 盗窃罪 上海市 浦东 新区 人民法院 判刑 年
+O O O O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O
+出狱 后 被告 仍 不 思悔改 不 求 进取 上网 聊天 女子 相识 带 回 家中 长期 姘居
+O O B_Person O O O O O O O O O O O O O B_Derailed I_Derailed

@@ -1,0 +1,8 @@
+原告 邓 XX 诉 称 原 被告 2008年 夏末 经人介绍 相识 恋爱 同年 11月 6日 南宁市 民政局 婚姻 登记处 登记 结婚
+O O O O O O O B_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry
+婚后 不久 被告 谢 XX 回 英国 居住 原告 申请 出国 团聚 未果 被告 不 愿意 回国 双方 感情 由此 破裂
+O O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O
+两 人 未 共同 生育 子女
+O O B_Negated O B_Bear O
+特 人民法院 起诉 请求 依法 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

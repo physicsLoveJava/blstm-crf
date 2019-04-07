@@ -1,0 +1,10 @@
+原 告诉 称 被告 1995年 9月份 经人介绍 认识 1996年 9月 20日 登记 结婚
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry
+1998年 5月 20日 生 女孩 盛乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+性格 不和 双方 发生 争吵
+B_FamilyConflict I_FamilyConflict O O O
+2013年 2月 分居 今
+B_Time I_Time B_Separation I_Time
+2013年 4月 诉 莱州市 人民法院 要求 被告 离婚 感情 破裂 证据 不足 申请 撤诉
+B_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O O O O B_Judgment I_Judgment

@@ -1,0 +1,12 @@
+2010年 10月 21山 原 被告 结婚 婚后 生育 女孩 取名 宋玉鑫 现年 5 周岁 现 被告 生活
+B_Time I_Time I_Time O O B_Marry O B_Bear B_Gender O B_Name O B_Age I_Age O O O
+婚后 双方 感情 尚 2015年 年底 双方 搬 入 新 城 楼房 后 双方 出现 矛盾 琐事 牛气
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2016年 5月份 后 双方 没有 正常 交流 沟通 2016年 8月 后 原告 被告 生气 吵架 搬 娘家 居住 被告 曾 提出 离婚 后 出 家人 劝说 原告 被告 好 11月份 末 双方 吵架 原告 搬 回 娘家 居住 至今 夫妻 感情 已 彻底 破裂
+O O O O O O O O B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O B_Time I_Time O O O B_Separation I_Separation I_Separation I_Separation B_Time O O O O O
+2017年 2月 原告 起诉 离婚 蓟州区 人 { 法 K 经百理 做出 审判决 驳回 原告 诉讼 请求
+B_Time I_Time B_Person B_DivorceLawsuit O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+婚后 双方 共同 财户 吉利轿 4. 辆 津 MDH527 登记 车主 原告 刘艳霞
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth O O O O O O
+2012年 拆迁 原告 户口 分得 新城 楼房 45 平米 楼房 应 原告 所有 。
+O O O O O O O B_Wealth I_Wealth I_Wealth O O O O

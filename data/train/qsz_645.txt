@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2011年 10月 14日 办理 结婚 登记 婚后 2012年 5月 19日 生育 长女 李子婷 2016年 11月 19日 生育 长子 李子睿 现 子女 原告 共同 生活
+O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O
+原 被告 婚后 感情 不和 家庭 琐事 争吵 双方 2017年 11月份 分居 今 双方 没有 来往 现 双方 感情 彻底 破裂 没有 好
+O O O O O O O B_FamilyConflict O B_Time I_Time B_Separation I_Time O O O O O O O O O O

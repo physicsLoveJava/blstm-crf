@@ -1,0 +1,4 @@
+原告 陈 某某 诉称 被告 经人介绍 认识 2007年 7月 被告 保姆 每月 支付 500 元 工资 后 被告 提出 结婚 2008年 12月 16日 登记 结婚
+B_Person I_Person I_Person O B_Person O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry
+均 系 再婚
+O O B_Remarry

@@ -1,0 +1,4 @@
+原 告诉 称 2009年 8月 原 被告 经人介绍 认识 仓促 结婚 后 感情 不 现 已 分居 两 年
+B_Person I_Person O B_Time I_Time O O O B_Know O O O O O O O B_Separation B_Duration I_Duration
+被告 性格 粗暴 家庭 暴力 婚后 不久 原 被告 闹 离婚 地步
+B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O

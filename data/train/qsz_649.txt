@@ -1,0 +1,12 @@
+原告 被告 2012年 5月 10日 登记 结婚 婚后 育 女 李姿涵 现年 6 岁
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+原告 2017年 2月 宁河区 人民法院 起诉 离婚
+B_Person B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit
+法院 未 予 判决 离婚
+O B_Judgment I_Judgment I_Judgment I_Judgment
+后 双方 分居 生活
+O O B_Separation I_Separation
+没有 往来 后 原告 2017年 10月 起诉 离婚 法院 夫妻 感情 未能 破裂 为由 未 予 判决 离婚
+O O O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+至今 双方 分居
+B_Time B_Separation I_Separation

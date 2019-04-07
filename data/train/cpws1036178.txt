@@ -1,0 +1,6 @@
+原告 顾某 诉称 原 被告 介绍 相识 ×××× 年×× 月××日 灌云县 民政部门 办理 结婚 登记
+O O O O O O O O O O O O B_Marry I_Marry I_Marry
+双方 婚前 缺乏 了解 婚后 发现 被告 平时 性格 粗暴 家庭 琐事 打骂 原告 被告 家庭 暴力 导致 原告 身心 受到 伤害 认为 夫妻 感情 已 破裂 无法 再 被告 共同 生活
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+原告 2013年 4月 1日 起诉 法院 要求 被告 离婚 法院 综合 方面 原因 判决 双方 不准 离婚
+O B_Time I_Time I_Time B_DivorceLawsuit B_Court O O O O O O O O O B_Judgment I_Judgment

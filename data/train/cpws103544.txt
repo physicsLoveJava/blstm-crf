@@ -1,0 +1,10 @@
+原告 李娜诉 称 被告 1992年 经人介绍 建立 婚姻 关系 双方 均 属 再婚
+O O O O O O O O O B_Person O O B_Remarry
+当初 婚恋 时间 短 原告 缺乏 被告 了解 草率 结婚 婚后 亦 未 建立 夫妻 感情 被告 家庭 无 责任心 不 承担 家庭 开支 实施 家庭 暴力 使 不 敢 回家 外租房 居住 长 达 5 年 久 曾 先后 人民法院 提起 11 次 离婚 诉讼 两 次 判决 不 准 离婚 后 夫妻 感情 未 得到 改善 却 恶化 现 夫妻 感情 已 完全 破裂 为此 请求 法院 依法 判 令 被告 离婚 孩子 教育 费用 双方 承担 一半 共同 财产 位于 西峰区 解放路 农行 家属楼 丽景 花园 16 幢 4 单元 102 号 楼房 套 夫妻 共同 财产 平均 分割
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O
+被告 简义芳 辩称 原告 经人介绍 认识 结婚 婚前 听说 原告 精神病 介绍人 说 原告 已 康复 结婚 后 发现 原告 仍 留 精神病 后遗症 认为 婚姻 感情 基础 夫妻 感情 出现 问题 原告 不 正当 男女 关系 造成 离婚 无 错方 依据 中华人民共和国 婚姻法 规定 请求 法院 判 令 原告 损害 赔偿 10万 元 原告 不 分 少 分 夫妻 共同 财产
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+夫妻 共同 财产 位于 解放路 农行 家属楼 套 原告 丽景 家园 购买 住房 套 18 幢 2-2-2 室 28万 元 存款 10万 元 基金 债权 16万 元
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price B_Wealth B_Price I_Price B_Credit B_Wealth B_Price I_Price
+被告 提出 丽景 家园 16 幢 4 单元 102 号 楼房 属于 母亲 李 某某 所有 不 夫妻 共同 财产
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty

@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 经人介绍 2007年 春天 相识 2009年 10月 21日 登记 结婚 2011年 6月 23日 生 子 张皓轩 现 被告 生活 双方 婚前 相距 遥远 生活 习俗 观念 行为 差距 大 尤其 婚后 双方 定居 争吵 不 断 严重 影响 夫妻 感情 双方 去年 分居 生活 夫妻 感情 确 已 破裂 请求 判 令 原 被告 离婚
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_Time B_Separation O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 田某 诉称 被告 经人介绍 2011年 5月 6日 登记 结婚 被告 均 再婚 婚前 缺乏 了解 结婚 比较 草率 婚后 未 生育 子女
+B_Person O O O O B_Time I_Time I_Time B_Marry I_Marry I_Person O B_Remarry O O O O O O O B_Negated B_Bear O
+婚后 共同 生活 中 曾 怀孕 意外 流产 被告 未 进行 照顾 还 发生 争执 2011年 11月 底 被告 争执 后 被告 分居 今
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Time I_Time I_Time O O O O B_Separation O
+夫妻 感情 已经 彻底 破裂 请 法院 依法 判决 被告 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

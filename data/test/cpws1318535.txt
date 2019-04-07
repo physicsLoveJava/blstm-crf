@@ -1,0 +1,12 @@
+原告 梅某 诉称 原 被告 广东 打工 时 相识 2006年 3月 12日 罗城 登记 结婚 2006年 10月 7日 生育 儿子 取名 银振超
+B_Person I_Person O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 性格 不合 相互 间 难以 相处 婚后 双方 生活 家庭 琐事 争吵 特别 被告 不思进取 不仅 没有 努力 赚钱 增加 家庭 经济 收入 还 参与 赌博 贷款 去 赌博 输 完 钱 后 广东 打工 一走了之 背 下 债务 全 原告 人 筹款 归还
+O O O O O O O O O O O O B_FamilyConflict O B_Person O O O O O O O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O
+2012年 原告 增加 家庭 经济 收入 广东 打工 被告 不仅 不 支持 还 污秽 语言 大 骂 原告
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O
+年 被告 系列 行为 深深 伤 透 原告 心 无 休止 争吵 最终 导致 夫妻 长期 分居 致使 夫妻 感情 已 完全 破裂 已 无 好
+O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O
+为此 2013年 3月 原告 诉至法院 请求 离婚 法院 判决 不 准 离婚 后 双方 感情 未 好转 进一步 恶化 原告 广东 打工 谋生 被告 打电话 威胁 殴打 原告 至此 原 被告 双方 夫妻 感情 已 彻底 破裂 已 无 和好
+O B_Time I_Time O B_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O O O O O
+遂 诉至法院 请求 判决 原 被告 双方 离婚 婚生 儿子 银振超 原告 生活 被告 每月 支付 抚养费 400 元
+O I_DivorceLawsuit O O O O O O O O O O O O O O O O O

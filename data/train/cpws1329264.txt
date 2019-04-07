@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 订婚 2007年 农历 12月 16日 举行 结婚 仪式 2008年 1月 15日 政府 登记 结婚 婚后 未 生育 子女
+O O O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time O O B_Marry O O O O
+原被告 婚姻 基础 差 婚后 常 生气 吵架 无法 共同 生活 2010年 1月 11日 被告 原告 吵架 后 回 娘家 居住 至今 不 夫妻 感情 彻底 破裂 原告 2012年 2月 20日 诉 本院 请求 被告 离婚 审理 判决 原被告 不 准 离婚 后 原被告 仍 未 和好 诉至法院 请求 被告 离婚
+O O O O O O O O O O O B_Time I_Time I_Time O O O O O O O B_Time B_Separation O O O O B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O

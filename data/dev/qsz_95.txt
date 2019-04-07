@@ -1,0 +1,12 @@
+原 被告 经人介绍 相识 2 年 后 1990年 10月 9日 登记 结婚 婚后 1992年 11月 26日 育 女 兰赘 结婚 原 被告 婚后 感情 尚 被告 2010年 至今 没有 正当 职业 长期 染 赌博 恶习 不 思 悔改
+O O O B_Know O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O B_Person O O O O O O O B_BadHabit O O O O
+被告 玩 百家乐 曾 2015年 原 被告 仅 套 住房 抵押 高利贷 家人 无奈 之下 被告 母亲 出资 抵押 房屋 赎回 原告 婚后 曾 长期 被告 陆续 偿还 债务 累计 达 30 余 万 元
+B_Person B_BadHabit I_BadHabit O O O O O O O O B_Person O O O O O O O O O O O O O O O O B_Debt O O B_Price I_Price I_Price I_Price
+被告 赌博 曾经 警方 抓获 教育 仍 屡教不改 常 家庭 琐事 争吵 打架
+B_Person B_BadHabit O O O O O O O O O B_FamilyConflict I_FamilyConflict
+原告 2017年 7月 28日 起诉 贵院
+B_Person B_Time I_Time I_Time B_DivorceLawsuit B_Court
+无奈 之下 原告 提出 撤诉
+O O O O B_Judgment
+半 年 以来 原被告 情况 依旧 | 分居 今
+B_Duration I_Duration O O O O O B_Separation I_Time

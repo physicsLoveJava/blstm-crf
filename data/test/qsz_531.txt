@@ -1,0 +1,12 @@
+原 被告 2007年 年底 经人介绍 相识 确立 恋爱 关系 2009年 8月 27日 举行 结婚 仪式 后 共同 生活
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O
+2010年 1月 21日 生育 女 刘鑫淼 2011年 11月 24日 补 办 结婚 登记 手续 2012年 11月 30日 生育 子 刘昊铭
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2009年 6月 底 原被告 一起 香河 选购 香江 逸景 A 区 9 号 楼 1 单元 1101 号 楼房
+O O O B_Person O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+被告 交 首 付 当时 贷款 二十 万 元 现 贷款 还 没有 还 清
+O O O O O B_Debt B_Price I_Price I_Price O O O O O O
+原 被告 婚后 共同 生活 期间 琐事 发生 争吵 2017年 6月份 被告 第三者 原告 被告 提出 离婚
+O O O O O O O O B_FamilyConflict B_Time I_Time B_Person I_Derailed O O O O
+2018年 7月 25日 原 被告 琐事 发生 矛盾 2018年 9月 1日 被告 姐姐 琐事 殴打 原告 被告 被告 父母 均 偏向 被告 姐姐
+O O O O O O O O B_Time I_Time I_Time B_Person I_Person O B_DomesticViolence B_Person O O O O O O O

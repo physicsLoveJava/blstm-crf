@@ -1,0 +1,8 @@
+原告 张某 诉称 被告 2010年 农历 11月 28日 举行 结婚 仪式 共同 生活 结婚 时 原告 娘家 陪嫁 32 英寸 熊猫 液晶 电视机 台 被子 两 床 被告方 购买 雅迪 电动车 原告 使用 同年 12月 办理 结婚 登记 手续
+O O O O O O O O O O O O O O O O O B_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Wealth I_Wealth B_PersonalProperty O B_Time I_Time O B_Marry I_Marry I_Marry
+2011年 11月 19日 生育 女儿 邹某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 共同 生活 期间 原告 外 打工 维持 生活 需 娘家 兄长 先后 借款 6300 元
+O O O O O O O O O O O O O B_Debt B_Price I_Price
+要求 原告 退还 结婚 时 给付 彩礼 55000 元 彩礼 42800 元
+O O O O O O B_Wealth B_Price I_Price O O O

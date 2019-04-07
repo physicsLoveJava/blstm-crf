@@ -1,0 +1,10 @@
+原告 李某 诉称 原 被告 经人介绍 相识 后 2009年 3月 2日 神木县 民政局 婚姻 登记 部门 登记 结婚
+B_Person I_Person O O O O B_Know O B_Time I_Time I_Time O O O O O B_Marry I_Marry
+婚后 2009年 12月 29日 生 女儿 李某 乙 2010年 5月 16日 生 儿子 李某丙
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+近 年 被告 无理 原告 家人 寻找 是非 打骂 原告 母亲 小孩 原告 孩子 一再 忍让 被告 跳楼 服毒 自杀 相 威胁
+O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O
+综 上 原 被告 夫妻 感情 已 完全 破裂 起诉 请求 人民法院 判 令 解除 原、被告 之间 夫妻 关系 婚生子 原告 生活 被告 负担 教育 抚养费
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit B_Court O O O O O O O O O O O O O O
+被告 辩称 原告 述 内容 不 实 原 告婚 后 感情 好 感情 好 才 生 两 孩子 前年 家里 分 钱 日子 富裕 后 事 婆媳 关系 不好 吵架
+O O O O B_Negated I_Negated I_Negated O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict

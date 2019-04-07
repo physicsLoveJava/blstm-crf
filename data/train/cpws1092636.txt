@@ -1,0 +1,4 @@
+原告 成某 诉称 原 被告 2002年 7月 14日 经人介绍 相识 于×××× 年×× 月××日 办理 结婚 登记 婚后 原告 于×××× 年×× 月××日生 女 取名 董佳某 于×××× 年×× 月××日生 子 取名 董某甲
+O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O B_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 感情 不和 双方 吵闹 不 断 被告 家庭 暴力 双方 感情 已 彻底 破裂
+O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

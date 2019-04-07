@@ -1,0 +1,8 @@
+芜湖县 民政局 登记 结婚 times
+O O B_Marry I_Marry O
+生育 子 取名 朱某乙
+B_Bear I_Gender O B_Name
+原 被告 婚前 没有 好 了解 双方 性格 严重 不 没有 建立 真正 夫妻 感情
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+婚后 被告 原告 争吵 打骂 原告 原告 无法 共同 生活 年 前 分居 生活 今
+O O B_Person I_FamilyConflict B_DomesticViolence B_Person O O O O I_Time I_Time B_Separation O I_Time

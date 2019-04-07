@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 网上 相识 三 月 于×××× 年×× 月×× 日 结婚 婚后 小事 吵架 被告 无理取闹 不 回家 辱骂 原告 长辈
+O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict

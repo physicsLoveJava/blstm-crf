@@ -1,0 +1,2 @@
+原告 被告 2005年 11月 30日 民政部门 登记 结婚 婚后 育 女 李子玉 现年 10 岁
+O O B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age

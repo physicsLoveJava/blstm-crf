@@ -1,0 +1,4 @@
+原告 柴某 诉称 1999年 原 被告 经人介绍 相识 后 建立 恋爱 关系 2002年 1月 8日 登记 结婚 2002年 8月 25日 生育 女孩 柴 某某
+O O O B_Time O O O B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 发现 双方 性格 不合 常 琐事 吵闹 2012年 10月 分居 今 原 被告 婚后 未 建立 夫妻 感情 双方 性格 不合 无 共同语言 为此 诉请 法院 判 令 原 被告 离婚 婚生 女孩 柴璐 原告 抚养 被告 支付 抚养费 婚后 财产 依法 分割
+O O O O O O O O B_Time I_Time B_Separation O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O

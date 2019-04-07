@@ -1,0 +1,6 @@
+后 生育 女孩 朱思思 现年 6 岁 2015年 6月 29日 双方 补办 结婚 证明
+O B_Bear B_Gender B_Name O B_Age I_Age B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+草率 结婚 导致 婚后 矛盾 不 断 被告 一言不合 动手 殴打 原告 原告 被告 机会 改过 被告 根本 不予 理睬 我行我素 原告 忍无可忍 情况 下 2017年 12月 4日 宁河区 人民法院 起诉 离婚 被告 无理 坚持
+O O O O O O O B_Person O O B_DomesticViolence B_Person O O O O O O O O O B_Person O O O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O
+法院 未 予 判决 离婚 时至今日 双方 分居 期间 被告 微信 里 威胁 骚扰 原告 原告 认为 被告 这种 行为 根本 原告 不 尊重 婚姻 不 尊重 这种 婚姻 没有 必要 再 维系 下去 。
+O B_Judgment I_Judgment I_Judgment I_Judgment B_Time O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O

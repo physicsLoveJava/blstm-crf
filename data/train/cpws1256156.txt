@@ -1,0 +1,10 @@
+原告 薛 某某 诉称 1983年 冬天 原 被告 媒人 介绍 相识 1984年 秋天 订婚 1984年 农历 9月 原被告 举行 结婚 典礼
+O O O O B_Time O O O O O B_Know O O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+婚后 被告 1985年 9月 28日 生长子 薛某 1988年 2月 17日 生 次子 薛某 1996年 6月 30日 生 女儿 薛晓瑞
+O O B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+2012年 秋天 被告 姐姐 5000 元 要求 共同 分割 债权
+O O O O O O O O O B_Credit
+共同 债务 30000 元 被告 不 知情
+O B_Debt O O O O O
+5000 元 债权 事实 同意 分割
+O O B_Credit O O O

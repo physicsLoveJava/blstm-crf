@@ -1,0 +1,8 @@
+原告 某某 诉称 原被告 1978年 相识 1979年 结婚 婚后生 女 边某
+B_Person I_Person B_DivorceLawsuit O B_Time B_Know B_Time B_Marry B_Bear B_Gender B_Name
+原被告 婚前 了解 不够 婚后 未 建立 夫妻 感情 自婚 后 被告 脾气 怪 异致 夫妻 关系 处在 非正常 状态 极 不 融洽
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O
+夫妻 关系 僵化 2005年 夫妻 分居 今 分居 后 日常 生活 自理
+O O O B_Time O B_Separation O O O O O O
+夫妻 共有 幸福 花园 钓鱼台 红旗 楼房 产 两 套 幸福 花园 房产 2011年 6月 95万 元 价格 出售 房款 存在 被告 名下 家庭 财产 生活 用品 均 被告 掌控 之中 。
+B_CommonProperty I_CommonProperty O O B_Wealth I_Wealth I_Wealth I_Wealth O O B_Wealth I_Wealth I_Wealth O O B_Price I_Price O O O O O O O O O O O O O O O

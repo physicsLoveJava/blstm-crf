@@ -1,0 +1,4 @@
+原告 杨 某某 诉称 原 被告 2003年 9月 16日 登记 结婚 婚生 子 周某 乙 2004年 9月 30日 生
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear I_Gender B_Name I_Name B_Time I_Time I_Time O
+2011年 原告 提起 诉讼 要求 离婚 吉林市 龙潭区 人民法院 审理 后 2011年 11月 23日 吉林市 龙潭区 人民法院 作出 2011 龙民 一初字 第883 号 民事 判决书 判决 原 被告 不准 予 离婚 判决 生效 后 原 被告 分居 今 双方 感情 没有 好转
+B_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Court O O B_Time I_Time I_Time O O O O O O O O O O B_Document O O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O

@@ -1,0 +1,16 @@
+原告 王某 甲诉 称 原告 被告 2008年 网络 认识 确定 男女 朋友 关系 不久 便 发现 被告 时常 喜欢 泡 K 歌 名 男生 关系 紧密 前往 厦门 居住 会面
+O O O O O O B_Time O B_Know O O O O O O O O O O O O O O O O O O O O O
+原告 架不住 被告 苦苦 哀求 实现 家人 期望 原告 完婚 原告 原告 抱 被告 愿意 改正 期望 被告 2010年 1月 22日 建立 婚姻 关系
+O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O
+无论 原告 相劝 被告 没有 丝 悔改 男人 发生 不 正当 关系 拒绝 告诉 原告 夜 不 宿 原因 消息 原告 稍 询问 便 破口 大 骂 原告 大打出手 严重 时 挥刀 威胁 原告
+O O O B_Person O O O O O B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_DomesticViolence I_DomesticViolence B_Person
+双方 2012年 6月 30日 正式 分居 至今 已经 近 年 期间 原告 要求 被告 进行 协议 离婚 被告 均 不 同意
+O B_Time I_Time I_Time O B_Separation O O O O O B_Person O O O O O O O O O
+综上 请求 判 令 解除 原告 被告 之间 婚姻 关系
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+原告 执着 珍惜 行为 感动 平日 原告 非常 疼爱 感情 深厚 两 人 恋爱 两 年 后 双方 深 了解 才 确立 婚姻 关系
+O O O O O O O O O O O O O B_BeInLove O O O O O O O O O O
+主要 列举 以下 1 原告 编造 婚前 婚后 常泡 友人 相聚 不 别的 男人 不 正当 关系 完全 没有 事实 依据 诬告 名誉 毁谤
+O O O O O O O O O O O O O O B_Derailed I_Derailed I_Derailed O O O O O O O
+三 原告 目前 分开 居住 两 人 感情 延续 未 原告 说 感情 破裂
+O O O B_Separation I_Separation O O O O O O O O O

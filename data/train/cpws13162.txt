@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 媒人 介绍 相识 于×××× 年×× 月×× 日 登记 结婚 婚后 生育 儿子 张某 乙（×××× 年×× 月××日 出生
+O O O O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name I_Name B_Time I_Time O
+原 被告 婚前 缺乏 了解 仓促 结婚 婚后 被告 外面 打牌 不 进 家 吃喝玩乐 不务正业
+O O O O O O O O B_Person I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 认为 原 被告 夫妻 感情 已 彻底 破裂 无 和好 结束 段 名存实亡 婚姻
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+现 请求 1 依法 判 令 原告 被告 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

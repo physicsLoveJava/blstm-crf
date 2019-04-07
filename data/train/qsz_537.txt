@@ -1,0 +1,8 @@
+原 被告 2016年 2月份 经人介绍 相识 后 确立 恋爱 关系 2016年 8月 4日 办理 结婚 登记 手续
+O O B_Time I_Time O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2017年 3月 18日 生育 女 刘薇
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2018年 1月 29日 原告 曾 感情 破裂 起诉 被告 要求 离婚
+B_Time I_Time I_Time B_Person O O O B_DivorceLawsuit O O O
+原告 得知 第一 次 离婚 诉讼 被告 不 同意 离婚 法院 不 判决 离婚 原告 半年 提起 次 离婚 诉讼 无奈 选择 撤回 起诉 见 2018 津0115 民 初 1237 号 民事 裁定书 原告 撤回 诉讼 后 被告 仍 原告 母女 不 不 问 不 支付 刘薇 抚养费 刘薇 2018年 5月 30日 法院 起诉 要求 被告 支付 抚养费
+O O O O O O O O O O O O O O O O O O O O O O B_Judgment I_Judgment O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O O O O O O O O O O O O O O O O O O O

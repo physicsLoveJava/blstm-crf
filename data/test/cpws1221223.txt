@@ -1,0 +1,12 @@
+原 告诉 称 1996年 春季 被告 经人介绍 认识 父母 包办 1997年 5月 1日 被告 乡 民政所 登记 结婚
+O O O B_Time I_Time O O B_Know O O B_Time I_Time I_Time O O O B_Marry I_Marry
+1998年 10月 2日 生 女孩 王某 甲 2004年 10月 19日 生 男孩 王某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 发生 争吵 被告 脾气 暴躁 自私 口吃 障碍 右眼 患 白内障 被告 看不起 嫌弃 不 治疗 眼病
+O O B_FamilyConflict B_Person B_BadHabit I_BadHabit B_BadHabit B_BadHabit I_BadHabit B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O O
+2006年 秋季 被告 大 吵 架 后 被告 去 湖北 打工 去 广东 打工 年 后 电话 联系 2007年 见 面 从来不 关心 钱 赌博
+O O O O O O O B_Person O O O O O O O O O O O O O O O O B_BadHabit
+2009年 春季 右眼 已经 看 不 见 东西 问 被告 钱 做 白内障 手术 被告 根本 不予 理睬 只好 光山 泼陂河 家 小 眼科 医院 做 手术 拖 时间 太 长 手术 没有 成功 现在 右眼 已 失明
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 分居 已经 八 年 夫妻 只 名分 决定 起诉 离婚
+O B_Separation O B_Duration I_Duration O O O O B_DivorceLawsuit I_DivorceLawsuit

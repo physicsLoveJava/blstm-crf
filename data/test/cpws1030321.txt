@@ -1,0 +1,8 @@
+原告 屠某 甲 起诉 称 原 被告 1995年 下半年 同居 1996年 10月 2日 生育 女 屠某 乙 现 已 独立 工作 生活 1997年 12月 20日 补办 结婚 登记 手续 ×××× 年×× 月××日 生育 女 屠某丙 曾用名 屠丁 现在 塘溪镇 坊前 幼儿园 就读
+O O O O O O O O O O B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time I_Time I_Bear B_Gender I_Name O O O O O O
+原 被告 婚后 感情 尚 2012年 上半年 被告 个性 突然 发生 变化 双方 发生 争吵 相 被告 还 离家 出走 最 长 次 离家 出走 长 达 7 月
+O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O B_Separation I_Separation O
+现 双方 夫妻 感情 确 已 破裂 请求 法院 判 令 原 被告 离婚 婚生 女儿 屠某 丙 原告 抚养 被告 每月 负担 抚养费 600 元 依法 分割 夫妻 共同 财产
+B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 2013年 3月 离家 原告 被告 被告 带 女儿 屠某 丙 回 广西 娘家 女儿 读 完 幼儿园 后 被告 回到 塘溪镇 家中
+O O O B_Time I_Time O O B_Person B_DomesticViolence B_Person O O O O O B_Separation I_Separation I_Separation I_Separation O O O O

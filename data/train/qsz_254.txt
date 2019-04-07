@@ -1,0 +1,2 @@
+原被告 2007年 初 举行 婚礼 同居 生活 2008年 2月 23日 登记 结婚 2008年 5月 16日 生育 长女 蒋天艺
+O B_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name

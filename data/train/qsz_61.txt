@@ -1,0 +1,8 @@
+2015年 6 7月份 被告人 经人介绍 认识
+B_Time I_Time I_Time O O B_Know
+2015年 12月 7日 办理 结婚 登记
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2016年 1月 20日 举行 结婚 典礼
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2016年 9月 12日 女儿 刘海菁 出生 婚后 月 被告 母亲 被告 怀孕 需要 保胎 为由 被告 接 回 娘家 居住 今
+B_Time I_Time I_Time B_Gender B_Name B_Bear B_Time I_Time O O O O O O O O O B_Separation I_Separation I_Separation B_Time

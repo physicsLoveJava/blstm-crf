@@ -1,0 +1,2 @@
+原告 岳某 诉称 原 被告 经人介绍 2003年 9月 15日 登记 结婚 婚后 感情 2004年 5月 30日 生 女儿 徐 某某
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name

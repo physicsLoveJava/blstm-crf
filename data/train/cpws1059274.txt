@@ -1,0 +1,4 @@
+原告 胡某 诉称 原 被告 2003年 10月 17日 登记 结婚 2007年 12月 17日 双方 婚生子王 某某 出生 小孩 出生 后 原告 带养
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time O B_Bear B_Name O O O O O O
+被告 结婚 后 大 男子 主义 逐步 显现 无端 猜疑 原告 原告 进行 殴打 原告 家人 大打出手
+B_Person O O O O O O O O O O O O O B_Person O B_DomesticViolence

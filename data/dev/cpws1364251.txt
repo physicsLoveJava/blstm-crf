@@ -1,0 +1,8 @@
+原告 王 某某 诉称 被告 1994年 经人介绍 相识 1994年 11月 24日 高阳县 邢南乡 登记 结婚 因婚 后 双方 性格 不合 争吵 打架 2003年 双方 分居 2007年 原告 起诉 驳回 诉讼 请求 夫妻 感情 没有 好转 至今 已经 分居 十 年 有余 夫妻 感情 确 已 彻底 破裂 请求 判决 离婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry O O O O O O O B_Time O B_Separation B_Time B_Person B_DivorceLawsuit B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O
+婚后生 男孩 王硕 现 已 17 周岁 存在 抚养 问题 自愿 选择 生活
+B_Bear B_Gender B_Name I_Name O B_Age I_Age O O O O O O
+现在 答辩 人 提出 离婚 出现 第三者 长 时间 第三者 联系 想 答辩 人 一时 糊涂 孩子 不 愿意 拆散 家 答辩 人 公婆 孩子 不 同意 离婚 请 法庭 判决 不予 离婚
+O I_Person I_Person O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O
+夫妻 关系 存续 期间 答辩 人 兄王 学增 二 人 合伙 织布厂 应 属 夫妻 共同 财产
+O O O O O O O O O O O I_Wealth O O O B_CommonProperty I_CommonProperty

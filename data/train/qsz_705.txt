@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 2011年 11月 18日 登记 结婚 婚后 育 子 王孟博 现年 9 岁
+O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict O O
+无法 达成 一致 意见 被告 一言不合 辱骂 殴打 导致 原告 伤痕 累累 原告 看 尚 年幼 一再 忍让 被告 根本 不知 悔改 我行我素
+O O O O B_Person O B_DomesticViolence I_DomesticViolence O B_Person O O O O O O O O O O O O O

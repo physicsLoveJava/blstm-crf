@@ -1,0 +1,4 @@
+原告 叶某 诉称 原 被告 1999年 4月 相识 恋爱 于×××× 年×× 月××日 办理 结婚 登记 双方 均 系 再婚 婚后 未 生育 子女
+O O O O O B_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O O O B_Remarry O O O O
+近 年 双方 常 家庭 经济 问题 发生 争执 特别 被告 患 脑溢血 病史 后 住院 治疗 病情 有所 好转 被告 心情 急躁 常 家庭 细小 事 争吵 不 休 致使 搬 回 儿子 家 居住 夫妻 感情 确 已 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,14 @@
+原 告诉 称 被告 1996年 相识 1997年 12月 2日 登记 结婚 1998年 8月 5日 生 二 女 分别 取 名丁 戊
+O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender I_Gender O O B_Name B_Name
+婚后 段 时间 夫妻 关系 尚 近 五 年 被告 脾气 性格 使 难以 接受 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 无端 怀疑 原告 第三者 发生 肢体 冲突 甚至于 大庭广众 下 殴打 原告 原告 不 伤害 被告 未 还手
+B_Person O O O O O O O O O O B_DomesticViolence B_Person O O O O O O
+去年底 双方 原告 朋友 交往 发生 争吵 原告 离家 出走 被告 分居 今
+B_Time O O O O O O O O O O B_Separation I_Time
+被告 辩称 原告 述 双方 结婚 生育 子女 情况 属实
+O O O O O B_Marry B_Bear I_Bear B_Negated I_Negated
+去年底 今 异性 离婚 后 原告 分居 异性 同居
+B_Time I_Time O O O O B_Separation O O
+原告 外 外遇 无法 容忍 为此 发生 争吵
+B_Person I_Derailed I_Derailed O O O O O

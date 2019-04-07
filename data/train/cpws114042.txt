@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2007年 经人介绍 相识 2010年 1月 16日 举行 婚礼 ×××× 年×× 月××日补办 结婚证
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 男孩 取名 张某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 感情 不 生气 吵架 现在 原 被告 夫妻 感情 确 已 破裂
+O O O O B_FamilyConflict O O O O O O O O

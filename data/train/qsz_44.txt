@@ -1,0 +1,12 @@
+原被告 2011年 7月 相识 2012年 4月 26日 登记 结婚 婚后 感情 2013年 8月 3日 生 子
+O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender
+名 邢雨田
+O B_Name
+原被告 婚前 感情 基础 薄弱 导致 双方 婚后 琐事 争吵 原被告 相处 期间
+O O O O O O O O O B_FamilyConflict O O O
+被告品 行不端
+B_BadHabit I_BadHabit
+被告 变本加厉 整夜 不 整天 游手好闲 始终 不 承担 家庭 责任 义务
+B_Person O B_BadHabit I_BadHabit O B_BadHabit O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+现 原被告 已经 分居 数 月 原告 认为 被告 已 无 和好 感情 彻底 破裂
+O O O B_Separation B_Duration I_Duration O O O O O O O O O

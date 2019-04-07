@@ -1,0 +1,8 @@
+2008年 10月 5日 原告 生 下 大儿子 潘某甲 2010年 7月 22日 原告 生 下 小儿子 潘某乙
+B_Time I_Time I_Time O B_Bear I_Bear O B_Name B_Time I_Time I_Time O B_Bear I_Bear O B_Name
+2011年 上半年 双方 登记 结婚
+B_Time I_Time O O B_Marry
+原 被告 婚前 缺乏 了解 婚后 被告 好逸恶劳 没有 家庭 观念 小孩 不 负 责任 殴打 原告 双方 感情 已 彻底 破裂
+O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 诉至法院 请求 人民法院 判 令 原 被告 离婚
+O B_DivorceLawsuit O O O O O O O

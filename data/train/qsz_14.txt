@@ -1,0 +1,4 @@
+原被告 双方 系 同学 关系 自由 恋爱 2008年 10月 15日 蓟州区 民政局 登记 结婚
+O O O O O O B_BeInLove B_Time I_Time I_Time O O O B_Marry
+婚后 育 女 取名 子琪 育 子 取名 济豪
+O B_Bear B_Gender O I_Name O B_Gender O I_Name

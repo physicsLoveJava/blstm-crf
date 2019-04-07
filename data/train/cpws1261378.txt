@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1996年 11月 26日 登记 结婚 1997年 10月 16日 生育 女 取名 李某 乙
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原告 被告 婚前 缺乏 了解 婚后 常 家中 琐事 发生 纠纷 被告 长期 外 人 生活 挣 钱 挥霍 外 从不 钱 回家
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O
+2012年 3月 原告 被告 纠纷 打架 原告 出走 被告 未 一起 共同 生活
+B_Time I_Time O O O O O O O B_Separation I_Separation I_Separation I_Separation
+家庭 财产 依法 分割 共同 债务 平均 分摊
+B_Wealth I_Wealth O O B_Debt I_Debt O O

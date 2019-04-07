@@ -1,0 +1,12 @@
+原告 邓某 甲诉 称 原 被告 经人介绍 2010年 6月 相识 2011年 3月 结婚
+B_Person O O O O O O B_Time I_Time B_Know B_Time I_Time B_Marry
+2011年 11月 15日 生 女儿 取名 邓 某乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2012年 10月 原告 同事 急用 需 原告 钱 原告 被告 保管 工资 存折 去 银行 取款 时 发现 原告 工资 存折 上 同年 8月 8日 被告 支取 4万 元 原告 询问 被告 款项 用途 去向 时 被告 斥责 原告 无权 过问 为此 双方 发生 争执 被告 借故 离家 出走 至今 未 查无音讯 父母 拒绝 提供 被告 离家 出走 后 信息 联系 方式
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_Separation I_Separation B_Duration I_Duration O O O O O O O O O O O
+1 请求 人民法院 判决 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原告 出院 后 被告 冷淡 借故 被告 争吵 争吵 中 动手 人 实施 家暴 迫使 被告 家 不
+B_Person O O B_Person O O O B_FamilyConflict O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O
+同事 陪同 下 被告 取 未 到期 20000 元 存款 原告 随后 原告 带 被告 朋友 开 家常馆 商量 离婚 事宜 协商 过程 中 被告 没有 同意 原告 要求 原告 突然 暴力 袭击 被告 双手 勒 住 被告 脖子 致 被告 窒息 昏厥 事后 准备 被告 送 回 娘家 被告 父母 不 愿意 接受 原告 被告 带 回家 原告 却 被告 丢 市中心 医院 不 治疗 溜之大吉 被告 清醒 后 才 通知 父母 治疗 后 接 回 家中 原告 未 被告 联系 未 家暴 道歉
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,2 @@
+原告 柳 某某 诉称 被告 均 系 再婚 婚后 性格 不合 被告 爱 打牌 家庭 照顾 少 原因 导致 夫妻 感情 彻底 破裂 要求 离婚
+B_Person O O O B_Person O O B_Remarry O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

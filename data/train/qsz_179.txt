@@ -1,0 +1,6 @@
+原 被告 1997年 经人介绍 相识 I998 年 10月 14日 办理 结婚 登记 手续 1998年 10月 16 门 举行 结婚 仪式 后 共同问/ l 活 2000年 1月 6H 孙元炅
+O O B_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time O O B_Marry O O O O O O O O O
+婚初 原 被告 感情 尚 n 后 生活巾 生活 琐事 发生 争吵 { 没 家庭 责任感 门 2001年 长期 在家 工作
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O
+2016年 8月 双方 争吵 后 原 不堪 忍受 被迫 离家 分居 今
+B_Time I_Time O O O O O O O O B_Separation I_Time

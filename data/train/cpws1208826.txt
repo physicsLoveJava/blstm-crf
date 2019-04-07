@@ -1,0 +1,6 @@
+原告 蔡某 甲 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 婚后 生育 长子 蔡某丙 幼子 蔡某丁 均 已 成家
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name B_Gender B_Name O O O
+原 被告 婚前 缺乏 了解 双方 性格 差异 大 遇 事 无法 沟通 家庭 琐事 吵架 致 原告 精神 受到 损害 原告 顾及 家庭 两 儿子 健康 成长 忍 再 忍
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+要求 被告 陈某 离婚 现 住房 两 间 坐落 石壁 脚庙 前头 半 分割 坐落 石壁 脚金 家 弄 房子 未 完工 土地 使用证 原告 应得 部分 赠与 被告 陈某 原 被告 经手 债权 债务 收益 归还
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Credit B_Debt O O

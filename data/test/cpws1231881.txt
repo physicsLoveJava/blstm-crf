@@ -1,0 +1,12 @@
+原告 李某 诉称 被告 2005年 经人介绍 认识 ×××× 年×× 月××日 办理 结婚 登记 手续 2008年 1月 31日 生 儿子 郭 某甲
+O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+后 发现 双方 性格 差异 太 大 常 生活 琐事 生气 吵架 被告 大打出手 严重 影响 夫妻 感情 培养
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict B_Person B_DomesticViolence O O O O O
+2012年 5月 27日 被告 生气 吵架 感情 不 正式 分居
+B_Time I_Time I_Time O O O O O O B_Separation
+2012年 6月 东昌府区 人民法院 提起 离婚 诉讼 法院 判决 不 准 离婚 判决 不 准 离婚 段 时间 里 被告 仍 无 悔改 意
+B_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O
+被告 和好 无望 诉至 贵院 请 依法 判 令 被告 离婚 婚生 儿子 抚养 被告 支付 抚养费 共同 财产 依法 分割 被告 承担 诉讼 费用
+O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O O O O O
+原告 次 系 次 起诉 法院 判决 双方 离婚 要求 抚养 孩子 原告 依法 支付 抚养费 郭步凡 出生 今 父母 照料 孩子 花费 生活 都 父母 负责 年 孩子 父母 建立 深厚 感情 不 开 原告 婚后 聊城 经营 饰品店 经营 所得 全部 原告 掌管 原告 依法 应 经营 利润 分配 一半
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth O O O O O O O O O O O O

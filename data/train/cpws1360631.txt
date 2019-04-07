@@ -1,0 +1,4 @@
+原告 高某 诉称 2009年 8月 27日 原 被告 登记 结婚 双方 性格 差异 大 婚后 家庭 琐事 争吵 未 建立 夫妻 感情 原告 认为 双方 已 无 再 共同 生活 现 提起 诉讼 请求 依法 判 令 原 被告 离婚 依法 分担 夫妻 共同 债务
+O O O B_Time I_Time I_Time O O O B_Marry O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O O O O O O O O O B_DivorceLawsuit O O O O O O O O O B_Person O B_Debt
+被告 信某 辩称 被告 认为 原、被告 之间 夫妻 感情 没有 破裂 好 被告 不 同意 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

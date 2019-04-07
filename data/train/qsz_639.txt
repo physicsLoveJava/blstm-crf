@@ -1,0 +1,4 @@
+原告 被告 一起 上班 相识 2008年 7月 22日 登记 结婚 婚后 育 子 郑力朗 现年 10 岁
+O O O O O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 草率 结婚 婚后 被告 赌博 酗酒 原告 实施 家暴 不尽 应 家庭 义务 原告 忍受 不 双方 2010年 4月 22日 协议 离婚 后 被告 后悔 想 复合
+O O O O O O O B_Person B_BadHabit B_BadHabit B_Person O B_DomesticViolence O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 被告 经人介绍 相识 1991年 11月 双方 习俗 举行 结婚 仪式
+O O O B_Know B_Time I_Time O O B_Marry I_Marry I_Marry
+后 W4 年 9月 8日 补办 婚姻 登记 手续
+O B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry O
+婚后 生育 两 子 长子 李润成 次子 李润宝 现 均 已 成年 原被告 双方 结婚 初期 感情 尚 后 家庭 琐事 发生 口角 无法 继续 共同 生活
+O B_Bear O O B_Gender B_Name B_Gender B_Name O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 长期 酗酒 还 打骂 原告
+B_Person O B_BadHabit O B_FamilyConflict O
+现 原被告 已经 分居 原告 回到 娘家 居住 被告 置之不理
+O O O B_Separation O O O O O O

@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原 被告 1993年 12月 1日 江油 市政府 登记 结婚
+O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 原 被告 性格 不合常 家庭 琐事 争吵 被告 原告 不闻不问 不尽 夫妻 义务 原告 生病 被告 不予 理会
+O O O O O O O B_FamilyConflict O O O O O O O O O O O
+2010年 6月 原告 被迫 外出 至今 双方 分居 长 达 三 年 夫妻 感情 已经 彻底 破裂 为此 原告 提起 诉讼 请求 判 令 原 被告 离婚
+O O O O O O O B_Separation O O B_Duration I_Duration O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

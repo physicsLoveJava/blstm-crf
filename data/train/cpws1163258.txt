@@ -1,0 +1,8 @@
+原告 李美 红诉 称 原告 被告 2001年 12月 认识 2002年 3月 3日 登记 结婚 2003年 1月 生育 女儿 邓 甲 2006年 生育 儿子 邓 某乙
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name B_Time B_Bear B_Gender B_Name I_Name
+结婚 今 原告 被告 两地 分居 婚后 相处 时间 加 不 超过 年
+B_Time I_Time O O O B_Separation O O O O O O O
+原告 得知 被告 吸毒 广东 强制 戒毒 被告 至今 未 改变 吸毒 习惯
+O O O B_BadHabit O O O O O O O O O
+2011年 4月 8日 原告 江南区 人民法院 起诉 被告 要求 离婚 被告 不 庭 法院 感情 尚未 破裂 判决 不 准 离婚
+B_Time I_Time I_Time O O B_Court B_DivorceLawsuit O O O O O O O O O O O B_Judgment I_Judgment I_Judgment

@@ -1,0 +1,8 @@
+2000年 原 被告 经人介绍 相识 确立 恋爱 关系
+B_Time O O O O O B_BeInLove O
+2002年 7月 4日 登记 结婚 婚后 生育 儿子 秦泽坤 现年 15 周岁
+B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+婚姻 初 夫妻 感情 尚 矛盾 好 搬 城里 生活 后 被告 原告 逐渐 冷淡 正常 夫妻 生活 都 推 三 阻四
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2017年 10月 7日 晚 原告 朋友 告知 天津市 东丽区 看见 被告 原告 连夜 赶到 东丽区 军粮城 住宅 小区 发现 被告 男子 住宅 内 原告 朋友 报警 军 粮城 派出所 出警 了解 此事
+O O O O O O O O O O O O O O O O O O O B_Person O I_Derailed I_Derailed O O O O O O O O O

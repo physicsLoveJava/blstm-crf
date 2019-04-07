@@ -1,0 +1,4 @@
+原告 吴某 诉称 原 被告 2011年 10月 人 介绍 相识 于×××× 年×× 月×× 日 登记 结婚 于×××× 年×× 月×× 日 生育 女儿 名俞 某乙
+O O O O O B_Time I_Time O O O O O O O O B_Marry O O O O B_Bear O B_Name I_Name
+同年 10月 28日 被告 原告 租房 里 物品 摔 破 后 离去 造成 房东 损失
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

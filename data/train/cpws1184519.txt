@@ -1,0 +1,8 @@
+原告 肖某 诉称 原 被告 婚前 缺乏 足够 沟通 了解 家长 催促 下 仅 相识 4 月 情况 下 原 被告 便 草率 结婚
+O O O O O O O O O O O O O O B_Know O O O O O O O O O
+原告 发现 被告 买 地下 六 合彩 恶习 少 寄 钱 回家
+O O B_Person I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O
+原告 认为 夫妻 双方 性格 差异 大 常 家庭 小事 争吵 未 建立 夫妻 感情
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 遂 诉至法院 请求 法院 判 令 原 被告 离婚
+B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

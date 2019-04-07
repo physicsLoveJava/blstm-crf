@@ -1,0 +1,4 @@
+原 告诉 称 原告 被告 经人介绍 相识 依法 登记 结婚 婚后 于×××× 年×× 月××日生 男孩 取名 杨某甲 现 已 成年
+O O O O O O O O O O O B_Time I_Time B_Bear B_Gender O B_Name O O O
+原 被告 婚后 家务 琐事 发生 争执 导致 双方 感情 不和 被告 1996年 外出 打工 原告 分居 今 原 被告 夫妻 感情 彻底 破裂 再 无 和好
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_Time O O O B_Separation O O O O O O O O O O

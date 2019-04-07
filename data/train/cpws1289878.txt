@@ -1,0 +1,8 @@
+原告 陈 某某 诉称 原 被告 1954年 5月 4日 安徽 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+双方 先后 生育 三 儿子 现 均 已 成家立业 独立 生活
+O O B_Bear O B_Gender O O O O O O
+被告 曾 2011年 6月 27日 遭到 原告 肆意 欺凌 辱骂 虐待 殴打 诉至法院 索要 扶养费 法院 驳回 诉讼 请求
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+被告 已经 81 岁 婚后 50 年 期间 双方 夫妻 感情 好 生活 中 矛盾 没有 大 问题
+O O O O O O O O O O O O O O B_FamilyConflict O O O

@@ -1,0 +1,12 @@
+原告 尹某 诉称 被告 2009年 5月 人 介绍 相识 同年 9月 1日 农村 习俗 举行 婚礼
+O O O O B_Time I_Time O O B_Know O B_Time I_Time O O O B_Marry
+婚后 分别 外 打工 2011年 11月 27日 大冶市 殷祖镇 购买 套 房屋 2012年 2月 1日 大冶市 婚姻 登记处 补办 结婚 手续
+O O O O O O O O O O O B_Wealth O O O O O O O B_Marry O
+被告 参与 赌博 不顾 家庭 没有 丈夫 责任 迫使 2012年 8月 法院 起诉 离婚 法院 审理 后 判决 不准 许 离婚
+O O B_BadHabit O O O O O O B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment
+之后 俩 没有 好且 分居 生活 今
+O O O O B_Separation O I_Time
+只好 人民法院 起诉 要求 被告 离婚
+O O B_DivorceLawsuit O O O
+被告 徐某 辩称 原告 尹某 系 再婚 双方 夫妻 感情 好 不 同意 离婚
+O O O O O O B_Remarry O O O O O O O

@@ -1,0 +1,12 @@
+原 被告 2006年 5月 相识 99年 12月 21日 共同 生活 2010年 1月 21日 生子 贾浩宇 D 年 1月 j 扣 登记 结婚
+O O B_Time I_Time B_Know O O O O O B_Time I_Time I_Time B_Bear B_Name O O O O O O O
+原 被告 登记 结婚 后 原告 发现 被告 心胸 狭隘 性格 偏激 生活 琐事 原告 吵闹 打架 致使 双方 关系 日趋 恶化
+O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O B_FamilyConflict I_FamilyConflict O O O O O
+被告 却 得寸进尺 无事生非 原告 吵闹 殴打 原告
+B_Person O O O O B_DomesticViolence I_DomesticViolence B_Person
+被迫 2018年 8月 26日 回到 娘家 居住
+O B_Time I_Time I_Time B_Separation I_Separation O
+原告 认为 原 被告 性格 格格不入
+O O O O B_FamilyConflict I_FamilyConflict
+原告 特 提起 离婚 诉讼
+B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

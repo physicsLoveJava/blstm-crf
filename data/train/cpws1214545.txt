@@ -1,0 +1,6 @@
+原告 李某 诉称 2008年 4月 原 被告 经人介绍 相识 2008年 9月 8日 耀州区 民政局 婚姻 登记 管理 中心 登记 结婚 婚后 无 子女
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O O O O O O B_Marry I_Marry O O O
+双方 婚前 缺乏 了解 婚后 无法 沟通 时常 家庭 生活 琐事 发生 争吵
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+长 时间 没有 回家 原告 不 理 被告 朋友 家人 说 无果 致 被告 认为 双方 感情 未 破裂 还 继续
+O O O O O O O O O O O O O O O O B_Negated I_Negated I_Negated O O

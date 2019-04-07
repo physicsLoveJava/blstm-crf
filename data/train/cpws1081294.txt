@@ -1,0 +1,6 @@
+原告 李某 诉称 原 被告 介绍 相识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 生育 子 张某乙
+O O B_Bear B_Gender B_Name
+婚后 双方 家庭 生活 琐事 发生 吵
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

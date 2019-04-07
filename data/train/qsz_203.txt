@@ -1,0 +1,4 @@
+原被告 双方 经人介绍 相识 2007年 5月 2日 民间 习俗 举行 结婚 仪式 同居 生活 2007年 5月 21日 天津市 蓟州区 民政局 登记 结婚 2009年 7月 15日 育 子 取名 马子 越 2012年 11月 15日 育 女 取名 马玉萱
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原被告 双方 系 经人介绍 相识 婚后 感情 日常 生活 琐事 争吵 2018年 4月 底 琐事 争吵 后 被告 索性 搬 回 娘家 居住 今 分居 生活 今 致使 原被告 双方 感情 彻底 破裂
+O O O O O O O O O O B_FamilyConflict B_Time I_Time I_Time O B_FamilyConflict O O O O B_Separation I_Separation O I_Time O O O O O O O O O

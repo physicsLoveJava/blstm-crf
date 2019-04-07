@@ -1,0 +1,4 @@
+结婚 后 双方 性格 不合 无法 共同 生活 夫妻 感情 已经 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 11月 被告 原告 母亲 八十 岁 生日 时 闹事
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

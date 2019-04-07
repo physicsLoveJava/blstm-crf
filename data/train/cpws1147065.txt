@@ -1,0 +1,2 @@
+离婚 被告 征地 补偿款 4．3万 元 劳动 收入 6万 元 原告 处 保管 该款 应 依法 分割
+O O B_Wealth I_Wealth B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O O O O O O O

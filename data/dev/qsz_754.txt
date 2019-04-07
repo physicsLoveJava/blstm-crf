@@ -1,0 +1,8 @@
+原 被告 双方 2010年 5月份 经媒人 介绍 相识 相处 段 时间 后 2011年 阴历 2月份 农村 风俗 举行 结婚 仪式 共同 生活
+O O O B_Time I_Time O O B_Know O O O O O O O O O O O O O O
+2011年 4月 15日 蓟州区 民政局 领取 结婚证 2011年 6月 16日 生婚 生长 女 韩名妍 现年 7 周岁
+B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Bear O B_Gender B_Name O B_Age I_Age
+22013年 4月 29日 生婚 生长子 韩秉轩 现年 5 周岁
+B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+原 被告 双方 结婚 后 生活 琐事 生气 打架 每次 打架 被告 都 原告 浑身 青肿 为此 原告 被告 协商 离婚 事宜 2018年 8月 14日 原被告 双方 达成 离婚 协议 原告 想 儿子 韩秉轩 被告 不 同意 原 被告 双方 未 达成 协议 原告 2018年 8月 14日 晚 回 娘家 居住 今
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Person O B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Separation I_Separation I_Separation O

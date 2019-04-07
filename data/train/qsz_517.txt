@@ -1,0 +1,6 @@
+2012年 原 被告 相识 确立 恋爱 关系
+B_Time O O B_Know O O O
+2014年 9月 19日 生 女儿 杨爱依
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2016年 8月 18日 补办 结婚 登记 手续 婚后 双方 感情
+B_Time I_Time I_Time O B_Marry O O O O O

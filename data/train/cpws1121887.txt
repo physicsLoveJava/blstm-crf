@@ -1,0 +1,12 @@
+原告 起诉 称 原 被告 1997年 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚 婚后 夫妻 感情
+O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O O O
+×××× 年×× 月×× 日 生育 子 陈某乙
+B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name
+双方 婚前 了解 不够 草率 结婚 婚后 发现 夫妻 双方 性格 不合 夫妻 长期 分居
+O O O O O O O O O O O O O B_Separation I_Separation
+被告 答辩 称 原 被告 相识 结婚 生育 儿子 事实
+O O O O O B_Know B_Marry B_Bear I_Bear I_Negated
+原告 起诉 称 双方 婚前 了解 不够 草率 结婚 婚后 发现 夫妻 双方 性格 不合 夫妻 长期 分居 不 事实
+O O O O O O O O O O O O O O O O B_Separation I_Separation B_Negated I_Negated
+原 被告 2005年 还 共同 建造 房屋 幢 原 告诉 称 双方 夫妻 关系 存续 期间 无 实际 共同 财产 不符
+O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O O O O O O O O O O O O O

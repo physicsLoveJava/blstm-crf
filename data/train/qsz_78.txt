@@ -1,0 +1,2 @@
+原被告 1991年 人 介绍 相识 1991年 12月 29日 举行 结婚 仪式 同居 生活 2003年 生育 子 刘霄宇 婚后 感情 2018年 3月 22日 被告 合同 诈骗 罪 南开区 法院 判处 有期徒刑 3 年 4 月 现 双方 感情 确 已 破裂 l 请 贵院 依法 判 令 请
+O B_Time O O B_Know O O O O O O O O B_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

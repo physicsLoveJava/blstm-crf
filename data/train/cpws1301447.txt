@@ -1,0 +1,4 @@
+原告 李Χ Χ 诉称 原 被告 Χ Χ 年 Χ Χ 月 Χ Χ 日 登记 结婚 2012年 生育 女 Χ Χ Χ
+O O O O O O O O O O O O O O O O B_Marry O B_Bear O O O O
+女儿 出生 后 双方 感情 淡化 矛盾 加深 双方 2012年 9月 分居 今
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O

@@ -1,0 +1,6 @@
+原告 张磊 诉称 被告 武晓静 2009年 5月 6日 登记 结婚 婚后 夫妻 感情 2011年 6月 8日 生育 男孩 张 梓程 婚前 缺乏 足够 了解 婚后 发现 双方 性格 不和 家庭 琐事 吵闹 不 共同 生活 最近 两三 年 更 严重 夫妻 两 人 发生 吵 闹 公安 机关 报警 三 次 夫妻 关系 名存实亡 为此 原告 张磊 2012年 诉至法院 请求 判决 原 被告 离婚 法院 审理 判决 双方 不准 离婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O B_Person O B_Time B_DivorceLawsuit O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+原 被告 双方 2008年 认识 建立 恋爱 关系 2009年 结婚 双方 婚姻 基础 相当 牢固
+O O O O O O O O O B_Marry O O O O O
+原 告 之间 不 存在 性格 不合 琐事 争吵 事 原 告 之间 矛盾 不 双方 问题 原告 母亲 挑起 原告 母亲 嫉妒 二 人 之间 感情 原告 母亲 说 不 原 被告 一起 生活 原告 曾 说 母亲 不 高兴 生活 没法 张磊 提起 离婚 诉讼 后 促使 双方 感情 好 被告 找到 原告 四 舅 说 原告 曾 被告 回家 发生 矛盾 原告 被告 撵 回家 原告 母亲 逼迫 原告 被告 送 回家 原告 次 提起 离婚 诉讼 后 原告 未 法院 催问 都 原告 母亲 催问 起诉 离婚 不 原告 本意 原告 母亲 真实 意思 原告 母亲 达到 拆散 原 被告 目的 答辩 人 住处 砸 锁 无理取闹 不 原、被告 之间 发生 吵闹 事件 已经 报警 处理
+O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

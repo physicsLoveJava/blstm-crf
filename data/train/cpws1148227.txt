@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1986年 相识 恋爱 1986年 12月 2日 登记 结婚
+O O O O O B_Time B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+婚后 常 家庭 琐事 发生 矛盾 夫妻 关系 不和 夫妻 感情 已 破裂 现 请求 法院 判 令 原 被告 离婚
+O O O O O B_FamilyConflict O O O O O O O O O O O O O O O

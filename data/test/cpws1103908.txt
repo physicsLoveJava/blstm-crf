@@ -1,0 +1,14 @@
+原告 巴×诉 称 被告 鲍× 2006年 经人介绍 相识 2007年 9月 3日 登记 结婚 婚后 未 生育 子女
+B_Person O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Negated B_Bear O
+婚后 家庭 琐事 发生 争吵 被告 我家人 发生 争吵
+O O O O B_FamilyConflict O O O B_FamilyConflict
+2012年 7月 终于 发生 最 不 愿意 看到 幕 被告 在家 母亲 弟弟 发生 争执 出手 弟弟 伤
+O O O O O O O O O B_Person O O O O O O I_Person I_DomesticViolence
+被告 感情 实在 无法 维持 曾 2012年 7月 15日 法院 起诉 离婚 2012年 8月 24日 法院 判决 驳回 诉讼 请求
+O O O O O O B_Time I_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment
+该案 发 回 重 审 后 再三 慎重 考虑 仍 无法 被告 维持 份 感情 现 请求 判 令 被告 鲍× 离婚
+O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+依法 分割 夫妻 共同 财产 吉利牌 轿车 部 19000 元 共同 债务 2000 元 共同 存款
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth B_Price I_Price O B_Debt B_Price I_Price B_CommonProperty B_Wealth
+被告 鲍× 辩称 上次 法院 判决 后 回到 家里面 实施 冷 暴力 断 水 断电 母亲 插门 不 进 门 找 大队
+B_Person O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O

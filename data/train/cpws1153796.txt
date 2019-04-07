@@ -1,0 +1,4 @@
+原告 张某 诉称 原被告 2011年 10月份 经人介绍 认识 2012年 4月 18日 登记 结婚 婚后 两 人 吵
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O B_FamilyConflict
+2013年 7月 22日 原被告 琐事 发生 争吵 分居
+O O O O O O O B_Separation

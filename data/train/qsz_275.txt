@@ -1,0 +1,6 @@
+原 被告 2009年 夏 人 介纠 相识 同年 底 结婚 婚后 感情 不 睦 2010年 生 女儿 王梦涵
+O O B_Time O O O B_Know O O B_Marry O O O O B_Time B_Bear B_Gender B_Name
+中士 双方 性格 差异 发生 口角 难 共同语言
+O O O O B_FamilyConflict I_FamilyConflict O O
+更 令 原告 不 容忍 被告 沾染 赌博 恶习 此举 债 原告 偿还 赌债 已 住房 做 抵押 贷款 使 牛活吏 加 雪上加霜
+O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2013年 2月 25日 办理 结婚 登记 婚后 未 生育 子女
+O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O
+原 被告 工资 全部 被告 掌管 原告 需要 钱 被告 不 双方 发生 争吵 被告 原告 无端 猜疑 严重 伤害 原告 感情 原告 2018年 5月 15日 回 娘家 居住 今
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O B_Time I_Time I_Time O B_Separation I_Separation I_Duration

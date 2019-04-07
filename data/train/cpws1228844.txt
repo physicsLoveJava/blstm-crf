@@ -1,0 +1,12 @@
+原告 徐某 甲诉 称 被告 1990年 底 相识 恋爱 1991年 5月 举行 结婚 仪式 后 共同 生活 1993年 9月 16日 补办 结婚 登记 1994年 1月 10日 生 子 徐 某某
+O O O O O B_Time O B_Know B_BeInLove B_Time I_Time B_Marry I_Marry I_Marry O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 月 被告 盗窃 犯事 自残
+O O B_Person B_BadHabit O O
+心灵 扭曲 被告 时常 无端 找茬 发火
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 夫妻 感情 已经 破裂 请求 法院 判决 1 原 被告 离婚
+O O O O O O O O O O O B_DivorceLawsuit
+2 盐城市 亭湖区 某某 新园 幢 1105室 住房 依法 分割
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O
+3 夫妻 共同 债务 原 被告 半 承担
+O O O B_Debt O O O O

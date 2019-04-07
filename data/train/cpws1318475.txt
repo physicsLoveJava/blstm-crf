@@ -1,0 +1,10 @@
+原告 谢某 起诉 称 原 被告 2004年 结识 于×××× 年×× 月×× 日 生育 女儿 唐某乙 后于 ×××× 年×× 月××日 原告 老家 内蒙古 登记 结婚
+B_Person I_Person B_DivorceLawsuit O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O B_Time I_Time I_Time O O O B_Marry I_Marry
+共同 生活 双方 生活 琐事 争吵 不 断
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+婚后 被告 染上 赌博 恶习
+O B_Person O B_BadHabit O
+被告 去年 8月 12日 工地 上 摔 下来 造成 腰部 骨折 原告 义无反顾 照顾 被告 被告 却 无端 猜忌 原告 时常 打骂 原告
+O O O O O O O O O O O O O O O B_Person O O O O O B_DomesticViolence B_Person
+依法 分割 位于 嘉善县 魏塘 街道 永安里 64 幢 1 单元 501室 房屋 市值 约 40万
+O O O O O O O O O O O O B_Wealth O O O

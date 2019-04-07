@@ -1,0 +1,8 @@
+原告 吴某 诉称 原 被告 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚 婚后生 女 吴艳 现 25 岁 已 工作
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender B_Name O B_Age I_Age O O
+原告 常年 外 工作 被告 不尽 儿媳 义务 常年 不 探望 老人 致 双方 婚姻 裂痕 进一步 加深
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2008年 今 双方 分居 处于 冷战 状态
+B_Time O O B_Separation O O O
+近 4 年 被告 均 拒绝 原告 女儿 一起 回 原告 父母 家 吃 年夜饭
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,6 @@
+原告 被告 经人介绍 2011年 认识 2012年 2月 14日 登记 结婚 2012年 11月 3日 生育 男孩 取名 周俊辰
+O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 感情 被告 脾气 大 变 坏 情形 原告 家事 争吵
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2018年 1月 24日% % 回到 娘家 居住 今
+O B_Time I_Time I_Time O B_Separation I_Separation I_Separation I_Time

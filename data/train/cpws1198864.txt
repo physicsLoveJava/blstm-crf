@@ -1,0 +1,10 @@
+原告 王某 甲诉 称 2010年 4月 原 被告 经人介绍 相识 不久 后 确立 恋爱 关系
+O O O O B_Time I_Time O O O B_Know O O O O O
+2012年 2月 27日 原 被告 生育 男孩
+B_Time I_Time I_Time O O B_Bear B_Gender
+2012年 5月 7日 原 被告 正式 登记 领取 结婚证
+B_Time I_Time I_Time O O O O O B_Marry
+双方 购房 生 孩子 问题 发生 争执
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 12月 24日 原告 曾经 起诉 离婚 法院 判决 双方 不准 离婚
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment

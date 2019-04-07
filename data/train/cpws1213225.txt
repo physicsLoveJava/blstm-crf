@@ -1,0 +1,8 @@
+原告 张 某某 诉称 原 被告 2011年 3月 相识 虚拟 网络 世界 短暂 恋爱 后 2011年 4月 26日 登记 结婚 2012年 生育 女儿
+O O O O O O B_Time I_Time B_Know O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear B_Gender
+婚前 了解 不够 婚后 不久 双方 便 家庭 琐事 发生 争执
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 尹某 甲辩 称 原告 诉讼 事实 不符 时至今日 母女 依然 深爱 无时无刻 不 盼望 回家 相处 日子 里 丈夫 没 做到 十全十美 过错 再 次 机会 定当 加倍 努力
+O O O O O O I_Negated I_Negated O O O O O O O O O O O O O O O O O O O O O O
+原告 说 骗 户口 结婚 征地 不 属实
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_Negated I_Negated

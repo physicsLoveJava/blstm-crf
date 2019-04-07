@@ -1,0 +1,6 @@
+原告 刘某 诉称 原 被告 1997年 经人介绍 想 识 恋爱 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女 取名 明某 乙
+O O O O O B_Time O O O B_BeInLove B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 原 被告 缺乏 了解 婚后 被告 缺点 暴露 参与 赌博 违法 行为 家庭 亲人 不 负 责任 严重 伤害 夫妻 感情 2010年 12月 10 原告 曾 起诉 离婚 法院 主持 调解 和好 后 至今 双方 情况 依旧 夫妻 感情 确 已 破裂 要求 被告 离婚 小孩 原告 生活 被告 支付 抚养费 夫妻 共同 财产 依法 分割
+O O O O O O B_Person O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Court O B_Judgment I_Judgment O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O
+被告 明某 甲 辩称 原 告诉 称 被告 赌博 吸毒 家庭 暴力 不 属实 没有 证据 证明
+O O O O O O O B_Person B_BadHabit I_BadHabit B_DomesticViolence I_DomesticViolence B_Negated I_Negated O O O

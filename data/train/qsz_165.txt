@@ -1,0 +1,2 @@
+原被告 2018年 4月 初 经人介绍 相识 建立 恋爱 关系 双方 f2018 年 6月 30U 办理 结婚 登 i 手续
+O B_Time I_Time I_Time O B_Know O B_BeInLove O O B_Time I_Time I_Time I_Time O B_Marry O O O

@@ -1,0 +1,10 @@
+双方 丁 2000年 白行 相识 不久 发展 恋爱 关系 丁 2003年 10月 1H 登记 结婚 2007年 5月 16日 婚牛 女 郭诉 乔山牛 2010年 3月 16日 婚生子 郭 语熙 出生
+O O B_Time O B_Know O B_BeInLove I_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Bear B_Name I_Name B_Time I_Time I_Time B_Bear B_Name I_Name O
+打算 去 外地 发展 事业 原告 小太 愿意 由此 双方 发牛 矛盾 冷战 口 原告 同意 被告 去 外地 谋职 要求 被告 说 不 去 外地 被告 原告 冷漠
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict O O O O O O O O O O O O O O O O
+2017年 10月 原 被告 说话 吵架
+O O O O O B_FamilyConflict
+今年 8J9 日夜间 12 点 被告 勒令 原告 收拾 屋子 原告 头施 暴力 威胁 道 不 收拾 别 想 睡觉
+B_Time I_Time I_Time I_Time I_Time B_Person O O O O B_Person B_DomesticViolence I_DomesticViolence O O O O O O O
+原 被告 矛盾 重重 夫妻 感情 彻底 破裂 近 H 双方 已 分居
+O O O O O O O O O O O O B_Separation

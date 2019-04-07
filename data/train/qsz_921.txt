@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2007年 7月 30日 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry
+婚后 生育 子 柴金旺 现 11 周岁
+O B_Bear B_Gender B_Name O B_Age I_Age
+特别 近 年 被告 常年 赌博 原告 耐心 相劝 无济于事
+O O O B_Person O B_BadHabit O O O O

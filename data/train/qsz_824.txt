@@ -1,0 +1,6 @@
+原 被告 系 夫妻 关系 1991年 夫妻 名义 共同 生活 1992年 6月 20日 生育 子 温 静越 1995年 2月 21日 原 被告 民政局 办理 结婚 登记 手续
+O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+原 被告 婚后 感情 2015年 6月 原告 发现 被告 存在 婚外情 原 被告 发生 严重 矛盾 已 导致 婚姻 感情 彻底 破裂 当月 原告 搬 现 住址 居住 单告 分居 生活 今
+O O O O B_Time I_Time O O B_Person O B_Derailed O O O O O O O O O O O B_Time O O O O O O B_Separation O I_Time
+2015年 7月 原告 蓟州区 人民法院 起诉 离婚 贵院 驳回 原告 诉求
+B_Time I_Time B_Person B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment

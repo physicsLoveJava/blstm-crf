@@ -1,0 +1,4 @@
+原告 潘某 诉称 原 被告 2012年 7月 6日 登记 结婚 婚后 生育 子 黄 XX
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 双方 争吵
+O O O O I_FamilyConflict

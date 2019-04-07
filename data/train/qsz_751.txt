@@ -1,0 +1,12 @@
+原告 经人介绍 被告 相识 2017年 4月 27日 蓟州区 民政局 被告 领取 结婚证 共同 生活 2017年 11月 23日 生育 女儿 鑫瑶 原被告 双方 无 共同 财产 无 共同 债务
+O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender I_Name O O O O O O O O
+婚后 男方 大 男子 主义 性格 粗暴 狂傲 自大 态势 十分 猖狂 酗酒 成性 严重 家庭 暴力 行为
+O B_Person B_BadHabit I_BadHabit I_BadHabit B_BadHabit I_BadHabit B_BadHabit I_BadHabit B_BadHabit I_BadHabit I_BadHabit B_BadHabit I_BadHabit O B_DomesticViolence I_DomesticViolence O
+原告 怀孕 早期 被告 原告 进行 打骂 造成 原告 先兆性 流产 不得 已 床 上 静卧 长 达 两 月 久
+O O O B_Person B_Person O B_DomesticViolence O O O O O O O O O O O O O O
+原告 软弱 被告 变本加厉 孕中期 孕晚期 原告 动手 扇耳光 踢 拖拽 抓 头发 原告 脑袋 炕 上 撞 大声 质问 原告 服 不 服
+O O B_Person O O O B_Person B_DomesticViolence O O O O O O O O O O O O O O O O
+2018年 2月 21日 大年 初六 晚上 被告 外出 喝酒 九点 原告 照顾 孩子 饭 都 未 吃 打电话 央求 被告 回家 被告 回家 敲门 嫌 原告 开门 慢 更 嫌 原告 电话 催 酒 未 尽兴 开门 后 被告 张口 骂 态势 十分 器张 更 动手 原告 原告 已经 求饶 被告 依然 暴力 不止
+B_Time I_Time I_Time I_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O O O O O O B_DomesticViolence B_Person O O O O O O O
+至此 原 被告 夫妻 感情 彻底 破裂 早日 结束 痛苦 婚姻 2018年 2月 26日 原告 依法 人民法院 提起 诉讼 请求 判 准 离婚 调解 2018年 3月 1日 天津市 蓟州区 人民法院 出具 2018 津0119 民 初 3082 号 民事 裁定书 准予 原告 撤诉
+O O O O O O O O O O O B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Time I_Time I_Time B_Court I_Court I_Court O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment

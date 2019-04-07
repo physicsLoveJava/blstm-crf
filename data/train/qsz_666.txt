@@ -1,0 +1,6 @@
+2016年 6月 12日 复婚
+O O O B_Remarry
+婚生 女孩 周明杰 子 周 梓峻
+B_Bear B_Gender B_Name B_Gender B_Name I_Name
+婚后 二 人 常 生活 琐事 发生 争吵 无法 继续 生活 一起
+O O O O O O O B_FamilyConflict O O O O

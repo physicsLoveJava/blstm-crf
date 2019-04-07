@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 双方 2009年 8月份 认识 当年 11月 27日 领取 结婚证
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 2010年 12月 26日 生 女儿 张某甲 今年 3 周岁
+O B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+婚后 日子 里 双方 生活 琐事 吵闹 导致 感情 破裂 为此 进行 协商 种种 原因 未能 达成 一致 意见 百般无奈 之下 依法 起诉 敬请 人民法院 依法 参照 本案 事实 相关 法律 规定 依法 解除 双方 婚姻 关系 孩子 原告 抚养 被告 承担 抚养费 每月 500 元 诉讼 费用 被告 承担
+O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O B_DivorceLawsuit O B_Court O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 辩称 分居 没有 年 才 三 月
+O O B_Separation O I_Duration O B_Duration I_Duration

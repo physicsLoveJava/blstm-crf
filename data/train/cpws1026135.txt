@@ -1,0 +1,4 @@
+原告 李某 诉称 原告 被告 经人介绍 2011年 12月 上海 认识 不到 5 月 相处 相互 不 了解 情况 下 于×××× 年×× 月××日 举行 结婚 仪式 5月 4日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time O B_Know O O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O
+2012年 10月 原被告 双方 分居 今 夫妻 关系 名存实亡 夫妻 感情 彻底 破裂
+B_Time I_Time O O B_Separation I_Time O O O O O O O

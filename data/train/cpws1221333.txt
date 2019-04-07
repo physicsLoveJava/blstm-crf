@@ -1,0 +1,6 @@
+结婚 婚后 三 子女 长子 林树凡 现年 38 岁 次子 林密凡 现年 33 岁 女儿 林耐凡 现年 31 岁 三 子女 均 已 成家
+B_Marry O I_Bear I_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age O O O O O
+结婚 38 年 双方 性情 不合 被告 性情 粗暴 发生 争执 致使 原告 离家 出走 今
+O O O O O O B_Person B_BadHabit I_BadHabit O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict O
+请求 法院 判 令 原 被告 离婚
+O O O O O O B_DivorceLawsuit

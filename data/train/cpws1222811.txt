@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 经人介绍 相识 恋爱 于×××× 年×× 月×× 日 登记 结婚 婚后 生育 子 名颜 某乙
+O O O O O O B_Know B_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name

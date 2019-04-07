@@ -1,0 +1,2 @@
+原告 常某 诉称 请求 法院 判 令 被告 离婚 夫妻 共同 财产 依法 分割 婚生 女 跟随 生活 被告 承担 相应 抚养费
+B_Person O O B_DivorceLawsuit B_Court O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原 被告 2012年 2月 28日 登记 结婚
+O B_Person I_Person B_DivorceLawsuit O O B_Time I_Time I_Time O B_Marry
+2013年 3月 25日 生育 女孩 马某 甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 性格 不合 婚后 家务 琐事 产生 矛盾 被告 有时 殴打 原告
+O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O B_Person O B_DomesticViolence B_Person

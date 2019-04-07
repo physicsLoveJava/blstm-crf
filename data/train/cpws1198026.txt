@@ -1,0 +1,4 @@
+原告 薛某 诉称 被告 2000年 12月 5日 办理 结婚 登记 未 生育 子女
+O O O O B_Time I_Time I_Time O B_Marry O O O O
+2009年 阴历 8月 19日 被告 娘家人 接 回去 后 至今 未 去 次 被告 都 说 不 回去 离婚 离婚
+B_Time I_Time I_Time I_Time B_Separation I_Separation I_Separation I_Separation O B_Time O O O O O O O O O O

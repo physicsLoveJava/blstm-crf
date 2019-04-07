@@ -1,0 +1,4 @@
+原 告诉 称 双方 自由 恋爱 结婚 婚后 生育 2 儿女
+O O O O O O O O B_Bear O B_Gender
+家庭 琐事 生气 无法 共同 生活 要求 被告 离婚 每人 抚养 1 孩子 互不 负担 抚养费 依法 分割 共同 财产 诉讼费 被告 负担
+O O I_FamilyConflict O O O O O O O O O O O O O O O O O O O O

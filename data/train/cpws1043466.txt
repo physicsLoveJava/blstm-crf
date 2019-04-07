@@ -1,0 +1,4 @@
+原告 李某 诉称 婚后 吴某 家庭 不 负 责任 尤其 喝酒 后 情绪 失控 行为 更 难以 承受 判决 不 准 离婚 后 双方 关系 未 改善 夫妻 感情 已经 破裂 要求 吴 离婚
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O
+被告 吴某 辩称 双方 相识 后 夫妻 名义 同居 生活 办理 结婚 登记 前 期间 李某 购买 翻建 房屋 装修 花费 10万 余 元 钱款 现 李某 房屋 拆迁 分配 二 套 住房 17万 余 元 补偿 款 李某 却 年老体弱 需要 照顾 时 提出 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth O O O O O O O O

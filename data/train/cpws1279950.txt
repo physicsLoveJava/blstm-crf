@@ -1,0 +1,4 @@
+原告 李 某某 诉称 原告 被告 经人介绍 2013年 1月 10日 政府 登记 结婚 双方 都 再婚 被告 带 女孩 今年 13 岁 原告 前妻 男孩 原告 抚养
+B_Person I_Person I_Person O O B_Person O B_Time I_Time I_Time O B_Marry I_Marry O O B_Remarry O O O O O O O O O O O
+婚前 缺乏 了解 婚后 没有 建立 夫妻 感情 被告 性格 个别 属于 好吃懒做 人 农活 一点 都 不 干 原告 原告 孩子 漠不关心 只 关心 孩子 家里 不 做饭 做饭 吃 根本 不 原告 孩子 想 找 对象 照顾 好 孩子 原告 外出 打工 挣钱 养家 事与愿违 现 家庭 完全 分离 状态 5月份 被告 不 原告 一起 住 只 孩子 一起 睡 现在 夫妻 感情 已 彻底 破裂 今后 根本 没有 一起 生活 请求 判 令 被告 离婚
+O O O O O O O O B_Person O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

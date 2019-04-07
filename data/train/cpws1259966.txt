@@ -1,0 +1,12 @@
+原告 罗艳 妃诉 称 2002年 2月 原告 经人介绍 被告 认识 后 同居 生活
+O O O O B_Time I_Time O O O B_Know O O O
+2004年 1月 23日 生育 长子 罗 吴杰 2004年 2月 2日 登记 结婚 婚后 被告 原告 家 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Marry I_Marry O O O O O
+2010年 4月 5日 生育 次子 罗 吴实
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 婚后 都 没有 夫妻 感情 共同 生活 期间 被告 性格 恶劣 脾气 不好 殴打 原告 长期 赌博 问 原告 钱 不 原告 实施 殴打 扬言 伤害 原告 家人 还 殴打 原告 父亲 三 次
+O O O O O O O O O O O O O O O O B_DomesticViolence O O B_BadHabit O O O O O O O O O O O O O O O O O
+原告 长期 外遇 原 告诉 称 被告 实施 家庭 暴力 行为 全部 虚假
+O O O O O O O O B_DomesticViolence I_DomesticViolence O O O
+被告 亦 无 赌博 现象 工厂 考勤 记录 职工 宿舍 摄像头 证
+O O O B_BadHabit O O O O O O O O

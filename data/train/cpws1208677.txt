@@ -1,0 +1,6 @@
+原告 裴某 甲诉 称 被告 2001年 相识 2003年 12月 17日 登记 结婚 2004年 6月 19日 生 子 裴某乙 现 一起 生活
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+被告 婚后 小事 大 骂 导致 夫妻 感情 破裂
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2013年 7月 底 奶奶 去世 原告 突然 说 不 正常 还 说 不 敢 一起 生活 分屋 居住 期间 原告 一起 住
+B_Time I_Time I_Time O O O O O O O O O O O O O B_Separation O O O O O

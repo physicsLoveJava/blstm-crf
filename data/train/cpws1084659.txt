@@ -1,0 +1,2 @@
+原告 潘 XX 诉称 原 被告 2009年 7月 结婚 婚后 生育 男孩 X 双方 婚前 缺乏 了解 感情 基础 薄弱 生活 环境 生活 习惯 都 不同 双方 发生 争吵 尤其 被告 性格 古怪 脾气 暴躁 原告 现 被告 长期 外 原告 根本 找 不 人 双方 分居 已 二 年 夫妻 感情 已 完全 破裂 法院 起诉 请求 依法 判决 原 被告 离婚
+O O O O O O B_Time I_Time B_Marry O B_Bear B_Gender I_Name O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Person O O O O B_Person O O O O O O O O O O B_Separation O B_Duration I_Duration B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

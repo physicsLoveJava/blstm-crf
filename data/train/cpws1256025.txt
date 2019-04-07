@@ -1,0 +1,2 @@
+原告 王某 诉称 原 被告 婚前 缺乏 了解 感情 基础 薄弱 被告 性格 暴躁 原告 恶语 相 动手 致 夫妻 感情 破裂 请求 判 令 被告 离婚 依法 分割 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O B_Wealth I_Wealth

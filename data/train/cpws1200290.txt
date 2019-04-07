@@ -1,0 +1,8 @@
+原告 胡 某某 诉称 原 被告 双方 经人介绍 相识 2002年 8月 26日 办理 结婚 登记
+O O O O O O O O O O O O O B_Marry O
+2004年 2月 生长子 杨 2006年 7月 16日 生 次子 杨某甲
+B_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 性格 不合 琐事 发生 争吵 被告 殴打 原告 原告 心灵 造成 痛苦 亲戚 邻居 调解 原告 现 感到 和好无望 遂 诉至法院 请求 判 令 1 原 被告 离婚
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O
+被告 杨 某某 辩称 原告 所述 不 事实
+O O O O O O B_Negated O

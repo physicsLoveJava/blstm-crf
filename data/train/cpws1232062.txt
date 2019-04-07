@@ -1,0 +1,6 @@
+原 告诉 称 原被告 外地 打工 期间 认识 自由 恋爱 双方 ×××× 年×× 月×× 日 登记 结婚 婚后生 女儿 取名 马涵予
+O O O O O O O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender O B_Name
+原被告 自由 恋爱 结婚 时间 短 双方 了解 不 深 婚后 感情 家庭 琐事 争吵 被告 还 女子 暧昧 关系
+O O O O O O O O O O O O O O B_FamilyConflict B_Person O O I_Derailed I_Derailed
+为此 原告 要求 被告 离婚 婚生 女儿 原告 抚养 被告 依法 承担 抚养费
+O O O O B_DivorceLawsuit O O O O O O O O

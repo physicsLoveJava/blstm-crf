@@ -1,0 +1,12 @@
+原告 魏某 起诉 称 原 被告 ×××× 年×× 月×× 日 诸暨市 枫桥镇 人民政府 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 儿子 蒋某乙 蒋某丙 现年 12 岁
+O O O O O O B_Time I_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Name O B_Age I_Age
+2003年 原 被告 性格 脾气 不 合 家庭 琐事 发生 争吵 夫妻 感情 出现 裂痕
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O
+2005年 被告 女子 不 正当 男女 关系 严重 伤害 原告 感情 原告 曾 诸暨市 人民法院 起诉 离婚 后和好
+O B_Person O I_Derailed I_Derailed I_Derailed I_Derailed O O O O B_Person O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O
+被告 未 改变 2011年 染 上 赌博 恶习 至今 负债 几十万 元
+O O O O O O B_BadHabit I_BadHabit O O O O
+原告 无法 被告 共同 生活 2012年 6月 被告 分居 生活
+O O O O O B_Time I_Time O B_Separation O
+原告 认为 被告 夫妻 感情 已 破裂 夫妻 关系 已 名存实亡 现 原告 起诉 请求 判决 原 被告 离婚 婚生 儿子 人 抚养 依法 分割 共同 财产 两 间 三 层 楼 屋 两 间 平房 九台 剑杆机
+O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O

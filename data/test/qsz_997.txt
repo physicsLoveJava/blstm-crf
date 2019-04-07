@@ -1,0 +1,6 @@
+原告 系 再婚 原 被告 2015年 12月 人 介绍 相识 同居 生活 子女 已 长大成人 原 被告 2016年 3月 蓟州区 民政局 登记 结婚
+B_Person O B_Remarry O O B_Time I_Time O O B_Know O O O O O O O B_Time I_Time O O B_Marry I_Marry
+双方 没有 婚姻 基础 认识 时间 短 结婚 草率 相互 缺乏 了解 被告 脾气 暴躁 2016年 结婚 以后 4月 8月份 被告 曾经 动 三 次 菜刀 还 跟踪 威胁 诬蔑 原告 名声 非法 限制 原告 人身 自由
+O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit O O O O O B_Person O O O O O O O O O O O O O O O O
+原告 实施 家庭 暴力 双方 矛盾 不可 调和 感情 早已 名存实亡 原告 身体 欠佳 2013年 患 甲状腺 肿瘤 三 次 手术 现 已 痊愈 每天 不 开 药物 维持 经济 条件 十分 拮据 维护 受害人 合法 权益 平安 康复 正常人 生活 摆脱 家暴 带来 精神 肉体 痛苦 中华人民共和国 婚姻法 相关 规定 蓟州区 人民法院 提起 民事 诉讼 要求 依法 解除 原 被告 婚姻 关系 希望 人民法院 支持 原告 诉讼 请求
+B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

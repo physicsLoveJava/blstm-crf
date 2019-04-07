@@ -1,0 +1,30 @@
+原被告 天津 音乐 学院 学习 期间 相识 毕业 后 确立 恋爱 关系 年 后 1996年 7月 29日 登记 结婚
+O O O O O O B_Know O O B_BeInLove I_BeInLove I_BeInLove O O B_Time I_Time I_Time B_Marry I_Marry
+1996年 10月 1日 举行 结婚 仪式
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+婚后 双方 性格 矛盾 逐渐 暴露 被告 生活 琐事 原告 吵架
+O O B_FamilyConflict I_FamilyConflict O O O O O O B_FamilyConflict
+长期 家庭 暴力 致使 原告 忍无可忍
+O B_DomesticViolence I_DomesticViolence O O O
+原告 无奈 2017年 3月 2日 起诉 离婚 贵院 2017 津0104 民初 2438 号 民事 判决书 判决 不予 离婚
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+之后 原被告 双方 分居 无 联系 今 请 贵院 依法 判决 离婚
+O O O B_Separation O O O O O O O O
+答 没有 和好 2017年 2月 1日 被告 分居 生活 今 双方 没有 联系 被告 被告 没有 缘由 被告 打人 已经 成 习惯 现在 人 外 居住 孩子 被告 在家 生活 走 时 都 没有 带走
+O O O B_Time I_Time I_Time O B_Separation O I_Time O O O B_Person B_Person O O O O O O O O O O O O O O O O O O O O
+审 原告 是否 共同 财产 情况
+O O O B_CommonProperty I_CommonProperty O
+答 新都 大厦 房屋 内 TOYAMA 英昌 钢琴 架 液晶 彩色 电视机 两 台 双 开门 电冰箱 台 抽油烟机 台 洗衣机 台 烤箱 微波炉 台式 电脑 和声器 书柜 床 两 张 沙发 套 地柜 两 大衣柜 餐桌 书桌 空调 三 台 现在 住房 内 仁恒 房屋 内 雅马 钢琴 架 单 开门 电冰箱 台 电冰柜 台 洗衣机 台 微波炉 笔记本 电脑 台 床 两 张 沙发 套 大衣柜 餐桌 书桌 中央 空调 组 现在 住房 内
+O O O O O B_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth B_Wealth B_Wealth I_Wealth B_Wealth B_Wealth B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth B_Wealth B_Wealth B_Wealth I_Wealth I_Wealth O O O O O O B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O
+被告 名 下车 牌照 号津 GY8833 卡罗拉牌 小轿车 辆 被告 驾驶 被告 购买 奥迪 小轿车 辆 现 被告 驾驶 具体 情况 不 清楚 没有
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O B_Wealth I_Wealth I_Wealth O O O O O O O O
+答 上次 庭审 时 被告 称 存款 50 万 元 外债 河北区 仁恒 房屋 贷款 约 60 万 元
+O O O O O O B_Wealth O O O O O O B_Debt I_Debt O B_Price I_Price I_Price
+答 套 被告 名下 坐落 天津市 南开区 卫津路 万德庄 大街 西南 侧 新都 大厦 3-1-804 号 私产 房屋 房屋 没有 贷款 房屋 建筑 面积 92.61 平方米 现 房屋 空闲 套 原告 名下 天津市 河北区 仁恒 河滨 花园 17-1-2104 号 房屋 房屋 建筑 面积 105 平方米 房 贷款 现 房屋 被告 孩子 居住
+O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O
+被告 相识 时间 登记 结婚 时间 婚后 生育 子女 情况 均 属实 分居 时间 属实 上次 原告 曾 起诉 离婚 属实 法院 驳回 后 双方 没有 和好 恋爱 期间 婚后 夫妻 感情 好 原告 讲 发生 矛盾 事实 属实 不 属实 现 同意 离婚
+O B_Know O B_Marry I_Marry O O B_Bear O O O B_Negated B_Separation O B_Negated O B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Negated O B_Judgment O O O O O O O O O O O O O O O O O O O O O
+答 属实 2018年 7月 卡罗拉 小轿车 卖 卖 19200 元 买 辆 奥迪 A6 车牌照 号津 GY8833 没 变 登记 名下 现 驾驶 该车 朋友 钱 30万 元 出资 8万 元 购买 该车 款 共计 38万 元
+O O O O O O O O O O O O O O O O O O O O O O O O B_Person I_Debt B_Price I_Price O O O O O O O O O
+答 原来 存款 509000 元 处 现在 没有 1 偿还 2017年 2月 2018年 7月 期间 17 月 房屋 贷款 每月 1万 元 共计 17万 元 2 孩子 课外 班 补课费 每月 2400 元 共 16 月 计 38400 元 3 孩子 生活 费用 每月 3000 元 共计 17 月 计 51000 元 4 孩子 房子 日常 费用 3000 元 上述 共计 支出 265400 元 再 扣除 买 车 花费 8万 元 现 共 剩余 17万 元 外债 60 余 万 元 房屋 贷款
+O O B_Wealth B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Price I_Price I_Price I_Price B_Debt I_Debt

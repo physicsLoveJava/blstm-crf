@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 1989年 10月 部队 相识 后 恋爱 接触 时间 少 相互 不 十分 了解 情况 下 1990年 4月 7日 结婚
+O O O O O B_Time I_Time O B_Know O O O O O O O O O O O B_Time I_Time I_Time B_Marry
+婚后 原告 被告 思想 性格 生活 习惯 存在 巨大 差异 争吵
+O O O O O O O O O O B_FamilyConflict
+1991年 5月 17独生女 薛岑 出生
+B_Time I_Time B_Gender B_Name B_Bear
+2007年 被告 原告 父母 房产 过户 原告 人 不满 先后 原告 原告 父母 大 吵 大 闹 武力 威胁 致使 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+原告 2008年 6月 至今 被告 分居
+O B_Time I_Time O O B_Separation
+原告 1989年 相识 恋爱 不 存在 不 十分 了解
+O B_Time B_Know B_BeInLove O O O O O
+1999年 没有 部队 提出 离婚 没有 原告 父母 武力 威胁 属于 正常 夫妻 吵架
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2010 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time B_Negated B_Marry
+×××× 年×× 月×× 日 生育 女孩 李某 乙
+B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+双方 认识 时间 短 婚前 缺乏 了解 婚后 没有 建立 真正 夫妻 感情 生气 吵架 被告 一点 家庭 琐事 原告 实施 家庭 暴力 导致 原被告 夫妻 感情 彻底 破裂 无 和好
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O

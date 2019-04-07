@@ -1,0 +1,4 @@
+原告 张某 甲诉 称 原被告 属于 包办 婚姻 婚后 感情 淡化 志向 异 夫妻 双方 时常 吵闹 无法 沟通 2007年 双方 琐事 扯筋 后 分居 生活 今
+O O O O O O O O O O O O O O O O O O O B_Time O O O O B_Separation O I_Time
+现 原被告 夫妻 感情 已 破裂 特 起诉 被告 离婚 婚生 子女 抚养 法院 依法 判决 婚后 无 共同 财产 债权 债务 8000 元 被告 归还
+O O O O O O O O O O O O O O O O O O O O O B_Debt B_Price I_Price O O

@@ -1,0 +1,8 @@
+储 某某 诉称 2012年 5月 原告 干姐 介绍 认识 被告 相识 仅 三 天 原 被告 便 一同 去 民政局 办理 婚姻 登记
+O O O B_Time I_Time O O O B_Know O B_Time I_Time I_Time I_Time O O O O O O B_Marry I_Marry I_Marry
+最近 次 2013年 9月 15日 原告 喉部 被告 掐 伤 导致 入院 治疗
+O O B_Time I_Time I_Time B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+婚姻 关系 存续 期间 原 被告 负 共同 债务 朋友 借款 2．8万 元 原告 弟 董俊 借款 1．4万 元 应当 共同 债务 原 被告 共同 承担
+O O O O O O O O B_Debt O O B_Price I_Price O O O B_Debt B_Price I_Price O O O O O O O
+婚后 俩 人 按揭 购买 跃汽车 辆 价值 5万 元 应当 夫妻 共同 财产 依法 分割
+O O O O O I_Wealth I_Wealth O B_Price I_Price O O O O O O

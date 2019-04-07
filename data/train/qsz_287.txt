@@ -1,0 +1,16 @@
+原告 被告 2014年 年初 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 2014年 6月 9日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 婚后 未 生育 子女
+O O B_Negated B_Bear O
+双方 举办 婚礼 后 第四 天 便 回 娘家 居住 生活 今
+O O O O O O O B_Separation I_Separation I_Separation O I_Time
+原告 曾 2014年 起诉 被告 离婚 该案 上诉审 重 审 最终 判决 原告 被告 不 准 离婚
+B_Person O B_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 曾 半 年 前 起诉 离婚
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+随后 撤回 起诉
+O B_Judgment I_Judgment
+始终 处于 分居 状态
+O O B_Separation O

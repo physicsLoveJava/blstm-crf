@@ -1,0 +1,8 @@
+原告 孙某 甲诉 称 被告 经人介绍 订婚 1995年 4月 同居 生活
+O O B_DivorceLawsuit I_DivorceLawsuit O B_Know O O O O O
+1996年 3月 16日 生 男孩 孙某丙 现在 外 打工 2006年 2月 16日 生 女孩 孙某
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告系 外地人 脾气 性格 生活 方式 差异 大 处于 吵吵闹闹 中 现 无法 共同 生活
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict O O O O O
+被告 孙某 乙辩 称 原告 1995年 4月 24日 政府 登记 结婚 结婚证 证
+O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O

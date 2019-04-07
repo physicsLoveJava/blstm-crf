@@ -1,0 +1,10 @@
+原被告 2013年 5月 自由 恋爱 关系 2014年 初 同居 生活
+O B_Time I_Time I_BeInLove I_BeInLove I_BeInLove O O O O
+2018年 2月 2日 办理 结婚 登记
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+原被告 均 系 再婚 原被告 结婚 后 感情
+B_Person O O B_Remarry O O O O
+2018年 7月 家庭 琐事 被告 原告 母亲 发生 矛盾 导骂 原告 母亲
+O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict O O
+原被告 分居 生活 被告 还 声称 原告 离婚
+O B_Separation O O O O O O

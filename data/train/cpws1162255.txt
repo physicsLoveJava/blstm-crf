@@ -1,0 +1,8 @@
+农村 风俗 结婚 同居 至今 未 办理 结婚 登记 手续 同居 后 1994年 3月 10日 生长 女 唐某丁
+O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+1999年 8月 16日 生次 女 唐某丙
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2003年 8月 18日 生 儿子 唐某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+近 年 两 人 生活 琐事 打架 生气 现 孩子 抚养 问题 特 起诉 要求 次女 生活 儿子 被告 生活 抚育费 自理
+O O O O O O B_DomesticViolence O O O O O O B_DivorceLawsuit O O O O O O O O

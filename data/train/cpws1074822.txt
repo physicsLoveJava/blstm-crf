@@ -1,0 +1,6 @@
+原告 姜某 甲诉 称 原 被告 经人介绍 2009年 9月 相识 没有 深刻 了解 情况 下 便于 ×××× 年×× 月××日草率 登记 结婚
+O O O O O O O B_Time I_Time B_Know O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 于×××× 年×× 月×× 日 生育 女孩 姜某 乙
+O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 性格 差异 大 双方 脾气 不 家务 琐事 争吵 打闹 被告 极 不 负 责任 家庭 孩子 不 不 问 孩子 母亲 一手 带 大 被告 无故 离家 出走 原告 劝说 被告 却 仍 恶习 不 改 2012年 11月份 带走 孩子 原告 分居 今 导致 夫妻 感情 彻底 破裂 无 好 原 被告 婚姻 关系 已 名存实亡
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

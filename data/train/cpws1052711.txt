@@ -1,0 +1,8 @@
+原告 张某 诉称 原被告 经人介绍 相识 后 2002年 11月 29日 绍兴县 齐贤镇 人民政府 登记 结婚
+O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+2004年 7月 2日 生育 女儿 张 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+结婚 初期 感情 2009年 时 被告 工作 单位 异性 同事 有染 原告 发觉 后 被告 不仅 没有 认错 还 一意孤行
+O O O B_Time O B_Person O O B_Derailed I_Derailed I_Derailed O O O O O O O O O
+2012年 6月 男人 去 富阳 工作 两 人 分居 今
+B_Time I_Time O O O O O O B_Separation I_Time

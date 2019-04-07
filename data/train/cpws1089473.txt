@@ -1,0 +1,10 @@
+原告 陈某 起诉 称 原 被告 经人介绍 认识 2012年 1月 18日 登记 结婚 2012年 1月 19日 民间 习俗 举行 婚礼 原告 共 支付 被告 彩礼 礼包 共计 460359 元
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O I_Wealth I_Wealth B_Price I_Price
+2012年 6月 被告 离家 出走 至此 原告 失去 联系
+B_Time I_Time I_Time I_Time O I_Separation O O O
+原告 曾 2012年 10月 9日 提起 离婚 诉讼 判决 驳回 离婚 诉讼 请求 后 双方 仍 未能 好
+O O B_Person B_Time I_Time I_Time I_Time I_Time I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O
+二 被告 返还 原告 彩礼 460395 元
+O O O O O B_Wealth I_Wealth
+被告 沈某 答辩 称 原 告诉 称 不 属实 被告 不 同意 离婚
+I_Price O O O O O O O O O O O O

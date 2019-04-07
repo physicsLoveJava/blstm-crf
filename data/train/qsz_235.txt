@@ -1,0 +1,8 @@
+原被告 1989年 2 经人介绍 相识 建立 婚姻 关系 当月 24日 举行 结婚 仪式 共同 生闷
+O B_Time I_Time O B_Know O O O O O O O O O O
+1990年 2月 婚生女
+B_Time I_Time B_Bear
+名叫 蒙蒙 今年 28 岁 已经 独立 生活 1990年 8月 补办 结婚 登记 原告系 再婚 原被告系 经人介绍 相识 无 感情 基础 婚后 未 建立 夫妻 感情 婚后 被告 殴打 原告 原告 为此 报警 求救
+O I_Name O B_Age I_Age O O O B_Time I_Time O B_Marry O O O O O O O O O O O O O O O B_Person B_DomesticViolence O B_Person O O O
+2009年 原告 { 身 安全 选择 被告 分垦 至今 已经 10 年 久
+O O O O O O O B_Separation O O B_Duration I_Duration O

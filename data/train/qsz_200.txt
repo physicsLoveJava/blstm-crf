@@ -1,0 +1,4 @@
+原被告 2014年 初 经人介绍 相识 建立 恋爱 关系 2014年 8月 12 办理 结婚 登记 手续
+O B_Time O O B_Know O B_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O
+双方 均 系 再婚 婚后 未 生育 子女
+B_Person O O B_Remarry O O O O

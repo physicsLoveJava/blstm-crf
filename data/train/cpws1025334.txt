@@ -1,0 +1,4 @@
+原告 姜某 甲诉 称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 婚后生 子 姜旭坤
+O O O O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Bear B_Gender B_Name
+婚后 被告 酗酒 嗜好 喝 必 醉 无法 共同 生活
+O O B_BadHabit I_BadHabit O O O O O O

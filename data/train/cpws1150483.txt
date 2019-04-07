@@ -1,0 +1,4 @@
+原告 魏某 诉称 1990年 1月 原 被告 自由 恋爱 1992年 10月 1日 登记 结婚 1993年 8月 举行 婚礼 1994年 2月 27日 生 女王 某乙
+O O O B_Time I_Time O O O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 缺乏 足够 了解 婚后 未 建立 真正 夫妻 感情 双方 常 生活 琐事 发生 纠纷 原告 曾 2012年 9月 沛县 人民法院 起诉 被告 离婚 经沛县 人民法院 主持 调解 被告 和好 机会 被告 未能 珍惜 至今 双方 仍 未能 好
+O O O O O O O O O O O O O O O O O B_FamilyConflict B_Person O B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O I_Judgment I_Judgment I_Judgment O O O O O O O O

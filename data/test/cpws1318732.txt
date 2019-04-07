@@ -1,0 +1,16 @@
+原 告诉 称 原 被告 2000年 经人介绍 认识 2001年 2月 19日 登记 结婚 婚后 儿子 出生
+B_Person I_Person O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Gender B_Bear
+原 被告 感情 婚后 发生 争吵 矛盾 逐步 加深
+O O O O O B_FamilyConflict O O O
+被告 生活 不 检点 原告 非常 气愤 提出 离婚 双方 2011年 3月 23日 签订 离婚 财产 协议 子女 抚养 协议
+B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O
+11月份 原告 想 被告 商谈 孩子 婚姻 维持 下去 被告 找 人 殴打 恐吓 原告 原告 头 砸 伤
+O O O O O O O O O B_Person O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2012年 1月份 被告 起诉 要求 离婚 原告 同意 离婚 身体 原因 未 庭 法院 2012 钢民 初字 第61号 判决书 判决 不 准 离婚
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O B_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+综 上 原 被告 夫妻 感情 早已 破裂 婚姻 关系 早已 名存实亡 故诉 贵院 请 依法 判决
+O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O
+信用卡 审批 以后 原 被告 家庭 生活 公司 运营 透 支出 20万 元 现金
+O O O B_Person I_Person O O O O O O O O O
+2011年 11月份 原告 离家 出走 致使 被告 无力 偿还 债务
+O O O O O O O O O B_Debt

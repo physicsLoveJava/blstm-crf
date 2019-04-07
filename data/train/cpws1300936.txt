@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 婚后 1998年 2月 18日 生 男孩 某某
+O O O O O O B_Know O O O O O O O B_Time I_Time I_Time B_Bear O I_Name
+婚后 二 人 感情 尚 被告 性格 比较 内向 不好 沟通 疑心 太 重 已 养成 酗酒 恶习 酒后 还 时常 原告 大打出手 长期 缺乏 沟通 信任度 不够 夫妻 关系 非常 紧张 原告 认为 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 章某 诉称 原 被告 2005年 12月 7日 登记 结婚
+O O O O O B_Time I_Time I_Time O B_Marry
+婚后 2010年 6月 27日 生育 女 取名 金 某滢
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 结识 源于 父母 未经 了解 登记 结婚 婚前 未 建立 感情 基础 婚后 原告 发现 被告 性格 偏执 无法 好 沟通 双方 性格 不合 2010年 8月 分居 今 感情 已 彻底 破裂 原告 起诉 要求 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原 被告 目前 尚 共同 债权 债务 没有 处理 完毕
+O O O O B_Credit I_Credit B_Debt O O O

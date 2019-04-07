@@ -1,0 +1,8 @@
+原告 黄 某某 诉称 原 被告 深圳 打工 时 相识 2002年 3月 29日 洞口县 登记 结婚
+O O O O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+2002年 12月 24日 生育 男孩 薛 甲 2005年 生育 女儿 薛某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time B_Bear B_Gender B_Name
+婚后 性格 不合 常 家庭 琐事 发生 矛盾 被告 赌博 恶习 原告 好心 规劝 被告 不但 不 听 招 暴力 致使 原告 身心 受到 伤害
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit O O O B_Person O O O O B_DomesticViolence O B_Person O O O
+2012年 8月 原告 离开 被告 双方 分居 生活 期间 原 被告 协议 离婚 小孩 抚养 达 不 成 一致 意见 未果 原 被告 婚姻 关系 存续 期间 修建 房屋 座 现 夫妻 感情 已 完全 破裂 请求 判决 原 被告 离婚 小孩 薛某 甲 原告 抚养 薛某乙 被告 抚养 共同 财产 占 一半
+B_Time I_Time O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O B_Wealth I_Wealth O O

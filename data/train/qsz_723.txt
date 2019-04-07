@@ -1,0 +1,10 @@
+原 被告 经人介绍 相识 2015年 11月 19日 登记 结婚
+O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+被告 2015年 8月
+O B_Time I_Time
+原告 说 回 娘家 去 不 回
+O O B_Separation I_Separation O O O
+原告 为此 联系 被告 被告 首薛 拒笔 为此 原告 2017年 12月 8日 宁间区 人民法院 起诉 南婚 被告 未 庭
+O O O O O O O O B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O
+法院 未 判决 南婚 时至今日 双方 分 后 满 两 年 久 无服系 工 不 履行 夫妻 义务 夫妻 感情 无 存
+O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O

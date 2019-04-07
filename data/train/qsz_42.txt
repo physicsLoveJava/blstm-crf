@@ -1,0 +1,10 @@
+原被告 经人介绍 相识 自由 恋爱 2014年 5月 9日 登记 结婚
+O O B_Know O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+原被告 均 系 再婚 婚后 无 子女
+B_Person O O B_Remarry O O O
+婚后 价值观 差异 大 双方 发生 矛盾 被告 不 放心 原告 母亲 帮助 带 孩子 母亲 看 孩子 去 武清 杨村 哥哥 家 住 长 达 两 年 久 平时 不 联系 打电话 钱 夫妻 感情 逐渐 淡漠
+O O O O O O B_FamilyConflict O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation B_Duration I_Duration I_Duration I_Duration I_Duration O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+特别 2017年 2月 14日 房子 卖 以后 更 加深 双方 矛盾 使 原本 淡漠 夫妻 感情 荡然无存 夫妻 感情 彻底 破裂 已 无 好
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+原告 特 依法 提起 诉讼 请求 人民法院 查明 事实 基础 上
+B_Person O O B_DivorceLawsuit I_DivorceLawsuit O B_Court O O O O

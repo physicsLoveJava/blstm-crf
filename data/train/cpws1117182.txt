@@ -1,0 +1,24 @@
+原告 张某 甲诉 称 2011年 2月 19日 被告 张某 乙 举办 结婚 仪式 洛川县 民政局 办理 结婚 登记 手续
+B_Person O O O B_Time I_Time I_Time O O O O O O O O B_Marry I_Marry I_Marry I_Marry
+被告 婚前 感情 基础 薄弱 婚后 被告 猜 疑心 特重 时常 酗酒 闹事 实施 家庭 暴力 割腕 自杀 相 威胁 致 离家 出走
+O O O O O O B_Person O O O O B_BadHabit I_BadHabit O B_DomesticViolence I_DomesticViolence O O O O O O O
+共同 债务 欠 父亲 张某丙 47000 元 妹 张某丁 6000 元 吴某 2000 元 朋友 宋某 4000 元
+O B_Debt O I_Person I_Person B_Price I_Price I_Person I_Person B_Price I_Price B_Person B_Price I_Price I_Person I_Person B_Price I_Price
+被告 招商 中信 交通 银行卡 中 透支 14000 元 共计 73000 元
+O B_Person I_Person I_Person I_Person O B_Debt B_Price I_Price O O O
+共同 财产 某某 装饰 门市 处 位于 某某 市 某某 区 某某 村 现门市 物品 价值 20000 元 陕＊＊＊＊＊号 奇瑞 瑞虎牌 小轿车 辆 已 付 36000 元
+B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O B_Price I_Price I_Price I_Price I_Price B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price I_Price
+共同 债权 舅 王某 欠 3000 元 移动 公司 欠 10000 元
+O B_Credit I_Person I_Person O B_Price I_Price B_Person I_Person O B_Price I_Price
+被告 张某 乙辩 称 原告 述 结婚 时间 属实 婚后 原告 无 子女 婚后 感情 好 带 原告 旅游 没有 原告 实施 家庭 暴力
+O O O O O O O O O O O O O O O O O O O B_Negated O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+原告 说 共同 财产 属实 车 款 付 36000 元 属实 车款 总共 99800 元
+O O O O B_Negated O O O O O B_Negated O O O O
+不 欠 吴 2000 元
+B_Negated B_Debt B_Person O O
+妹 钱 已 归还 还 7000 元 债务 都 属实
+I_Debt I_Debt O O O O O B_Debt O B_Negated
+共同 债务 欠 邵 甲处 25000 元 邵某 乙义 35000 元 爸 张某 62000 元 孙某 15000 元 小柯 26000 元
+B_Debt I_Debt O B_Person I_Person B_Price I_Price B_Person I_Person B_Price I_Price I_Person I_Person B_Price I_Price B_Person B_Price I_Price B_Person B_Price I_Price
+共同 债权 移动 公司 欠 10000 元 属实 王某 应 欠 4500 元
+B_Credit I_Credit B_Person I_Person O O O B_Negated B_Person O O B_Price I_Price

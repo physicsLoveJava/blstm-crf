@@ -1,0 +1,4 @@
+原告 蔡×诉 称 2012年 10月 孙× 经人介绍 相识 同年 12月 18日 登记 结婚 均 系 再婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O B_Remarry
+婚前 缺少 相互 了解 性格 脾气 各异 婚后 共同 生活 中 常 生活 琐事 发生 吵 致使 之间 夫妻 感情 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O

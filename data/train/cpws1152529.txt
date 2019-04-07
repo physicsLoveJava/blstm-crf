@@ -1,0 +1,2 @@
+原告 高鹏 伟诉 称 原 被告 经人介绍 相识 2010年 7月 26日 结婚 婚生子 高梓 钰生 2011年 3月 7日 原、被告 双方 婚前 缺乏 了解 仓促 结婚 婚后 未 建立 夫妻 感情 双方 生活 琐事 发生 矛盾 无 好 无法 共同 生活 导致 感情 破裂
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry B_Bear B_Name I_Name B_Time I_Time I_Time O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O

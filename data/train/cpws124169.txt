@@ -1,0 +1,10 @@
+原告 陈 某某 诉称 被告 1988年 腊月经人介绍 相识 1989年 春节 过后 双方 外出 务工
+O O O O O B_Time O B_Know O O O O O O
+1990年 正月初五 结婚 当年 腊月女儿 陈某甲 出生 1997年 儿子 陈某 乙 出生
+B_Time I_Time B_Marry O B_Gender B_Name B_Bear B_Time B_Gender B_Name I_Name B_Bear
+婚前 双方 缺乏 了解 草率 结婚 婚后 双方 性格 不 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O B_FamilyConflict
+被告 付 某某 辩称 原告 1987年 经人介绍 相识 交往 两 年 后 1990年 举行 结婚 典礼 不久 女儿 陈某甲 出生
+O O O O O B_Time O B_Know O O O O B_Time O B_Marry O O B_Gender B_Name B_Bear
+1990年 1997年 原 被告 双方 洛阳 江苏 徐州 共同 生活 1997年 儿子 陈某 乙 出生
+O O O O O O O O O O B_Time B_Gender B_Name I_Name B_Bear

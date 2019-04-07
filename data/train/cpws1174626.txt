@@ -1,0 +1,4 @@
+原告 丁 某某 诉称 原 被告 婚前 了解 不够 草率 结婚 婚后 双方 性格 不合 常 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict
+被告 性格 暴躁 原告 拳打脚踢 夫妻 感情 已经 破裂 请求 法院 判 令 原 被告 离婚 婚生子 被告 生活 被告 抚育
+B_Person O O O B_DomesticViolence O O O O O O O O O O O O O O O O

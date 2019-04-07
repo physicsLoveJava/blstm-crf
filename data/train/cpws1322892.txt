@@ -1,0 +1,8 @@
+原告 郭 某某 诉称 原告 被告 薛 某某 介绍 认识 双方 2007年 5月 登记 结婚 婚后 2010年 生育 女 取名 郭某甲
+B_Person I_Person I_Person O O O O O O B_Know O B_Time I_Time B_Marry I_Marry O B_Time B_Bear B_Gender O B_Name
+女儿 出生 后 不久 被告 性格 大 变 家 不 回 弃 孩子 不顾
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 行为 致原 被告 感情 彻底 破裂 无 好 请求 判决 1 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O
+3 夫妻 共同 债务 共同 承担
+O B_Person O B_Debt O O

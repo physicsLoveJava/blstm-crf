@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2011年 7月 经人介绍 相识 双方 交往 3 月 后 2011年 10月 27日 登记 结婚 2012年 7月 24日 生育 子
+O O O O O B_Time I_Time O B_Know O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender
+现原 被告 已 分居 年 期间 未 再 联系 已 形 陌路 感情 已 彻底 破裂 诉至法院 请求 判 令 1 原 被告 离婚
+O O O B_Separation I_Duration O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

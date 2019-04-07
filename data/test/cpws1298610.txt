@@ -1,0 +1,6 @@
+原告 张 某某 诉称 1990年 原告 被告 朋友 介绍 相识 1991年 1月 29日 办理 结婚 登记 手续 婚后 生育 女儿 代 甲 现年 22 岁 已婚 儿子 代某 乙 现年 16 岁 原、被告 夫妻 双方 婚前 缺乏 了解 草率 结婚 婚后 不 注意 培养 感情 被告 不但 不 管家庭 打骂 原告 原告 亲戚 朋友 劝解 被告 毫不 悔改 依旧 我行我素
+O O O O B_Time O O O O B_Know B_Time I_Time I_Time O B_Marry O O O B_Bear O B_Name I_Name O O O O O B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008年 8月 原告 不堪 被告 打骂 离家 出走 彭水 县城 打工 租房 居住 没有 回 被告 家 目前 为止 原 被告 分居 达 4 年 久 夫妻 感情 已 完全 破裂 原告 解脱 名存实亡 婚姻 2012年 8月 27日 彭水县 人民法院 起诉 要求 离婚 彭水县 人民法院 开庭 审理 认为 原、被告 双方 感情 没有 达 完全 破裂 程度 仍 和好 2012年 9月 24日 2012 彭法民 初字 第02361 号 民事 判决书 判决 不准 予 离婚
+O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+彭水县 人民法院 判决 不准 予 离婚 后 今 原 被告 双方 仍 分居 今 没有 和好
+O O O O O O O O O O O O B_Separation O O O

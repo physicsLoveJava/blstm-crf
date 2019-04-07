@@ -1,0 +1,10 @@
+原告 毛某 起诉 称 1993年 上半年 原告 毛某 姐姐 介绍 被告 黎某 认识 之后 确定 恋爱 关系
+O O O O B_Time I_Time O O O O O O B_Know O O B_BeInLove O
+×××× 年×× 月×× 日 登记 结婚
+B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 长女 黎晨 现 已 成年 ×××× 年×× 月×× 日 生育 次子 黎 某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2008年 被告 外遇 双方 发生 争吵 家庭 矛盾 难以 调和 被告 家庭 不尽 责任 女儿 儿子 生活 不 不顾 家庭 生活 重担 都 原告 承担
+B_Time B_Person B_Derailed O O O O O O O O O O O O O O O O O O O O O O
+2011年 2月份 原告 被告 分居 至今 2 年 久
+B_Time I_Time O O B_Separation B_Time B_Duration I_Duration I_Duration

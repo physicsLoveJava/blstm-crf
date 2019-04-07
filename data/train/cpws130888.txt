@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 系 经人介绍 相识
+O O O O O O O B_Know
+2008年 5月 13日 登记 结婚 原 被告 婚前 感情 基础 不好 婚后 生活 琐事 发生 口角 原告 认为 双方 感情 已经 破裂 无法 再 继续 生活 下去 要求 被告 离婚
+B_Time I_Time I_Time O B_Marry O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

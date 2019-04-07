@@ -1,0 +1,8 @@
+原告 邓 某某 诉称 原告 被告 2009年 农历 3月 12日 农村 风俗 举行 结婚 仪式 2010年 2月 25日 补 办 结婚 登记
+O O O O O O B_Time I_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time O O B_Marry I_Marry
+原告 曾 2012年 12月 21日 起诉 法院 请求 判决 被告 离婚 法院 2013 奉法 民初字 第00015 号 民事 判决书 判决 驳回 原告 诉讼 请求
+O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+判决 之后 原 被告 未 共同 生活 无 联系
+O O O O B_Separation I_Separation I_Separation O O
+原告 现 诉至法院 请求 判 令 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O

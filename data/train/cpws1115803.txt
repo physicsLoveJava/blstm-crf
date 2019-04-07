@@ -1,0 +1,4 @@
+原告 吴某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 男 女 原 被告 婚后 感情 未 建立 真正 夫妻 感情 家庭 琐事 争吵 不 休 现在 双方 已 分居 生活 夫妻 感情 已 完全 破裂
+O B_Bear I_Gender I_Gender O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 马某 诉称 2004年 下半年 原告 发现 被告 异性 暧昧 短信 双方 发生 争吵 夫妻 关系 僵持 2006年 上半年
+O O O O O O O B_Person I_Derailed I_Derailed I_Derailed O O B_FamilyConflict O O O O O
+双方 居住 原告 父母 家 家务 均 原告 父母 承担 女儿 亦 原告 父母 照料 被告 搓 麻将 女儿 照料 甚 少
+O O O O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit O O O O
+2013年 10月 30日 双方 婚姻 子女 抚养 问题 发生 争吵 争吵 中 被告 殴打 原告
+O O O O O O O O O B_FamilyConflict O O B_Person B_DomesticViolence B_Person
+现原 被告 夫妻 感情 彻底 破裂 原告 诉请 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit
+被告 张 某某 辩称 婚后 夫妻 关系 好 无 被告 异性 关系 暧昧 发生 争吵 事
+O O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O

@@ -1,0 +1,8 @@
+原 告诉 称 被告 媒人 介绍 订婚 农村 习惯 典礼 同居 ×××× 年×× 月××日 办理 结婚 登记
+O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+2010年 6月 10日 出生 长 女 叫樊 冰冰 2012年 9月 25日 出生 二 女儿 樊冰洁 现 两 女儿 被告 生活
+B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O O O
+婚前 缺乏 了解 导致 婚后 吵闹 生气 尤其 2013年 3月 家务 琐事 吵闹 被告 分居 今
+O O O O O O O O B_Time I_Time O O O O B_Separation I_Duration
+之前 被告 矛盾 父亲 调和 被告 酒后 父亲 伤 被告 家人 我家 大 吵 大 骂
+O O O O O O O I_Person O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

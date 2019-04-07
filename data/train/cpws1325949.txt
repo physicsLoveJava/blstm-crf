@@ -1,0 +1,14 @@
+原告 赵越诉 称 原告 被告 经人介绍 认识 2010年 9月 26日 邢台市 桥西区 民政局 登记 结婚 领取 男 女 家 光荣证 被告 原告家 上门 女婿 2011年 11月 1日 生育 女儿 赵梓萌
+B_Person I_Person O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2013年 2月 7日 被告 半夜 带 财物 偷偷 离家 抛弃 妻子 至今 未
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O
+2010年 9月 原 被告 登记 结婚 2011年 1月 14日 举行 婚礼 被告 上门 女婿 结婚 所有 费用 婚房 都 原告 父母 承担
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+婚前 接触 时间 短 了解 不 深 婚后 才 发现 被告 十分 懒惰 心胸 狭窄 原告 父母 不 尊重 不 孝敬
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+生活 环境 生活 习惯 差异 导致 原、被告 双方 发生 口角 夫妻 矛盾 不断 增多 被告 父母 干涉 夫妻 矛盾 升级
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+至此 原 被告 夫妻 感情 已经 彻底 破裂 现 诉至法院 要求 1 原告 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit O O O O O
+原告 述 骗婚 说 更 无稽之谈 结婚 时 父母 赵 越 订 婚礼 6000 元 彩礼 6000 元 两 姐姐 赵越 1600 元 典礼 当天 我方 亲戚 随礼 总共 20000 元 原告 说 逃避 结婚 需 费用 不 符合 实际
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Negated I_Negated I_Negated

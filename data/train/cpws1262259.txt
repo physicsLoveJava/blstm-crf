@@ -1,0 +1,12 @@
+原告 张×1 诉 称 2004年 4月 申× 自由 恋爱 后 2006年 8月 30日 登记 结婚
+O O O O B_Time I_Time O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+2008年 5月 8日 生育 子 张博玮
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 结婚 前 缺乏 了解 婚后 家庭 琐事 发生 矛盾 2009年 10月 申× 不再 同居 生活
+O O O O O O O O O B_FamilyConflict B_Time I_Time O B_Separation I_Separation I_Separation
+2012年 12月 曾 起诉 要求 申× 离婚 法院 判决 驳回
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment
+被告 申× 辩称 张×1 诉 双方 相识 结婚 孩子 张博玮 情况 属实
+O O O O O O B_Know B_Marry B_Bear I_Bear O O
+结婚 后 确 家庭 生活 琐事 发生 矛盾 已 不 和好 同意 离婚
+O O O O O O O B_FamilyConflict O O O O O

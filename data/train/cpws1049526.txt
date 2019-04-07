@@ -1,0 +1,4 @@
+原告 张×1 诉 称 共同 生活 中 张×2 遇 事 不 商量 父母 不够 尊重 双方 性格 不 常常 家庭 琐事 经济 问题 发生 争吵
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+张×1 起诉 离婚 主要 原因 受到 家人 影响 公婆 非常 尊重 孩子 还 小 父母 离婚 孩子 造成 大 伤害
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

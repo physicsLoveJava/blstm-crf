@@ -1,0 +1,6 @@
+原 被告 2005年 11月 8日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+婚后生 女 名叫 王 雨欣 13 岁 生育 男孩 名叫 王浩翔 5 岁 原 被告 婚前 了解 甚 少 草率 结婚
+B_Bear B_Gender O B_Name I_Name B_Age I_Age B_Bear B_Gender O B_Name B_Age I_Age O O O O O O O O
+生活 中 原 被告 没有 共同语言 家庭 琐事 吵架 人 劝解 无济于事
+O O O O O O O O B_FamilyConflict O O O

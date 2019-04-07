@@ -1,0 +1,8 @@
+原 被告 2015年 9月份 手机 聊天 相识 相处 段 时间 后 2016年 3月 10日 蓟州区 民政局 领取 结婚证 共同 生活
+O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O
+2016年 12月 9日 生婚 生长 女 张思桐 原 被告 共同 生活 期间 生活 琐事 生气 吵架
+B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O O O O O B_FamilyConflict I_FamilyConflict
+次 吵架 被告 都 动手 殴打 原告 原 被告 共同 生活 段 时间 正是 原告 怀孕期 哺乳期 被告 毫不 顾及 原告 特殊 时期 殴打 原告 2019年 4月 11日 力 右 厌牛 活琐 韦原 牛 发牛 争吵 被告 殴打 原告
+O O B_Person O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O O O O O O O B_Person B_DomesticViolence B_Person
+原告 随后 娘家 居住 生活 今
+O O O B_Separation O O

@@ -1,0 +1,6 @@
+原告 焦某 诉称 原 被告 2005年 春天 经人介绍 相识 后 2005年 5月 10日 举行 结婚 仪式 2009年 3月 2日 补办 结婚 登记 双方 均 系 再婚
+B_Person O O O O B_Time I_Time O B_Know O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Person O O B_Remarry
+婚后 双方 脾性 不 常 琐事 发生 吵 闹 被告 原告 实施 家庭 暴力 原告 儿子 不尽 抚养 义务 现 双方 感情 已 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O
+请求 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 2009年 10月 29日 登记 结婚 双方 均 系 再婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Remarry
+被告 婚前 表现 特别 好 婚后 改 往日 温柔 无端 生事 钱 看 特别 重要 为此 双方 发生 口角
+B_Person O O O O O O O O B_BadHabit I_BadHabit O O O O O O O B_FamilyConflict
+2010年 8月 11日 家庭 琐事 发生 争吵 原告 被告 养子 伤 头部 打断 两 根 肋骨
+B_Time I_Time I_Time O O O B_FamilyConflict O B_Person I_Person O O B_DomesticViolence O O O
+被告 不尽 夫妻 扶 养 义务 原告 已经 无法 继续 被告 一起 生活 现 诉至法院 要求 解除 原 被告 婚姻 关系 双方 婚前 房屋 产权 所有
+O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+被告 赔偿 原告 25000 元 14000 元 系 婚后 共同 存款 11000 元 系 被告 砸 坏 原告 婚前 物品 赔偿 不 要求 被告 赔偿
+O O O O O B_Wealth I_Wealth O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O O O

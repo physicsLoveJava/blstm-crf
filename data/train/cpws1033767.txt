@@ -1,0 +1,4 @@
+原告 赵 某某 诉称 原 被告 2007年 8月 13日 珲春市 民政局 婚姻 登记处 登记 结婚 婚后 育 女 徐某甲
+O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O B_Bear I_Gender B_Name
+婚后 家庭 琐事 争吵 被告 殴打 原告 现 已 感情 破裂
+O O O O B_Person B_DomesticViolence B_Person O O O O

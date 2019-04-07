@@ -1,0 +1,6 @@
+原告 王 某某 诉称 原 被告 2004年 10月 人 介绍 相识
+O O O O O O B_Time I_Time O O B_Know
+2005年 12月 22日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 性格 不和 常 生活 琐事 发生 争吵 致使 两 人 关系 不 睦
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

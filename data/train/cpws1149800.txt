@@ -1,0 +1,6 @@
+原告 李 某某 诉称 2010年 3月 15日 原 被告 经人介绍 登记 结婚
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+双方 婚前 缺乏 了解 婚后 夫妻 感情 不好 被告 大 男子 主义 思想 严重 原告 不尽 夫妻 义务 患 生理 疾病 致使 夫妻 感情 已 完全 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2012年 6月 25日 原告 曾 法院 起诉 要求 被告 离婚 法院 判决 不 准 离婚 后 被告 威吓 原告 原告 娘家人 双方 根本 无法 一起 生活 为此 请求 法院 依法 判决 原告 李 某某 被告 陈 某某 离婚 共同 财产 依法 分割
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O O O O O

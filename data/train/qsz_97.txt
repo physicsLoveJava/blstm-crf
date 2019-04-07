@@ -1,0 +1,8 @@
+原被告 2000年 11月 8日 登记 结婚 2005年 5月 10日 生育 女孩 李若宁 李若宁 原告 生活 婚前 了解 不够 婚后 感情
+O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O
+2012年 10月 曾 起诉 离婚
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit
+2012年 11月 左右 被告 彻底 原告 失去 联系
+B_Time I_Time O O O B_Person B_Separation I_Separation
+被告 2001年 至今 未 付 原告 费用 孩子 抚养费 未 付
+B_Person O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O

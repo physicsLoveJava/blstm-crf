@@ -1,0 +1,8 @@
+原告 吴某 起诉 称 原 被告 2003年 经人介绍 认识 2005年 初 确立 恋爱 关系
+O O O O O O B_Time O B_Know B_Time O O B_BeInLove O
+×××× 年×× 月×× 日 生育 儿子 谢某 乙 期间 原告 生活 困难 依靠 娘家 父母 兄长 帮助
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O
+2008年 被告 刑满释放 落实 小孩 户口 双方 ×××× 年×× 月××日补办 结婚 登记
+O O O O O O O B_Time I_Time B_Marry I_Marry I_Marry
+现 双方 已 分居 两 年 夫妻 感情 已 完全 破裂
+O O O B_Separation B_Duration I_Duration O O O O O

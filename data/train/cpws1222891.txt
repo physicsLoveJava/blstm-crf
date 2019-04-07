@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2010年 农历 10月 17日 风俗 举办 结婚 仪式 2011年 5月 5日 补办 登记 结婚 婚后 生育 男孩 赵某甲
+O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name
+双方 性格 差异 常 小事 争吵 被告 脾气 暴躁 常 原告 实施 家庭 暴力
+O O O O O B_FamilyConflict B_Person B_BadHabit I_BadHabit O O O B_DomesticViolence I_DomesticViolence
+2013年 7月 原告 后 回 娘家 居住 今
+B_Time I_Time O O B_Separation I_Separation I_Separation I_Time
+双方 没有 建立 良好 夫妻 感情 继续 共同 生活 已 不 起诉 要求 判决 原 被告 离婚
+O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+依法 原告 分割 夫妻 共同 财产 3万 元 家庭 共同 财产 3万 元
+O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O O O B_Wealth I_Wealth

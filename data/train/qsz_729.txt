@@ -1,0 +1,2 @@
+c02 年月日 原被告 登记 结婚 73 年月 1日 宁河区 人民法院 判决 离婚 原因 被告 原告 安施 家庭 展力 导致 夫妻 感情 彻定 破裂
+O O O O O O O O O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O

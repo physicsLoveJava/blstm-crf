@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 1990年 5月 人 介绍 相识 恋爱 1994年 10月 15日 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry
+1995年 9月 9日 被告 生育 长女 1999年 11月 13日 被告 生育 次女 2001年 6月 20日 被告 生育 子
+B_Time I_Time I_Time O B_Bear B_Gender B_Time I_Time I_Time O B_Bear B_Gender B_Time I_Time I_Time O B_Bear B_Gender
+原 被告 婚后 夫妻 感情 好 后 双方 性格 不和 常 琐事 发生 吵架 打架 导致 双方 分居 生活 达 十 年 久
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_Separation O O B_Duration I_Duration I_Duration
+为此 被告 2010年 5月 起诉 要求 离婚 未果
+O B_Person B_Time I_Time B_DivorceLawsuit O B_Judgment I_Judgment
+被告 辩称 夫妻 分居 十几 年 事实 原告 跑 找 不 才 回 娘家 生活
+O O O B_Separation B_Duration I_Duration O O O O O O O O O

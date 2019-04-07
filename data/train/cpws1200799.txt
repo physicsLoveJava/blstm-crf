@@ -1,0 +1,8 @@
+原告 单某 诉称 2010年 12月 原 被告 介绍 相识 ×××× 年×× 月××日 办理 结婚 登记 手续
+O O O B_Time I_Time O O O B_Know O O O O B_Marry O O
+婚后 双方 发现 生活 工作 中 性格 处世 态度 差异 大 生活 习惯 完全 不同 交流 少 未能 建立 感情
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+×××× 年×× 月×× 日 儿子 戴 某乙 出生 后 被告 仍 不 改 不良 习气 双方 吵架 使 原告 身心 受到 伤害 被告 还 原告 母子 实施 家庭 暴力
+O O O O B_Gender B_Name I_Name B_Bear O O O O O O O O O O O O O O B_Person O B_Person O O B_DomesticViolence I_DomesticViolence
+被告 双方 结婚 生育 孩子 事实 没有 异议
+O B_Marry I_Marry B_Bear I_Bear O B_Negated I_Negated

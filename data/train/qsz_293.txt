@@ -1,0 +1,8 @@
+原 被告 2013年 经人介绍 相识 确立 恋爱 关系 2014年 同居 生活 2015年 5月 8口 补办 结婚 登记
+O O B_Time O B_Know O B_BeInLove O O O O B_Time I_Time I_Time O B_Marry O
+婚后 被告 找茬 原告 发生 争吵 原告 考虑 建立 家庭 不 容易 一再 忍让 被告 变本加厉 无故 原告 进行 殴打
+O B_Person B_FamilyConflict O O B_FamilyConflict O O O O O O O O O B_BadHabit O B_Person O B_DomesticViolence
+建立 不 正当 关系 2017年 8月份 武清区 人民法院 提起 诉讼 后 法院 判决 不 准 离婚
+B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O
+法院 判决 准 离婚 后 被告 不知 悔改 原告 偶遇 夜晚 被告 案外人 溜湾 时 被告 原告 殴打 致 伤
+O O O O O O O O O O O O O O O B_Person B_Person B_DomesticViolence O O

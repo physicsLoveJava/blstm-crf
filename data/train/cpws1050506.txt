@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2010年 9月 2日 登记 结婚 婚后 生育 男孩 现年 2 岁 原告 残疾 生活 需 家人 照顾
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O B_Age I_Age O O O O O O
+被告 长期 不 原告 不 履行 丈夫 应 法定 义务
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 辩称 原告 经人介绍 2010年 9月 2日 登记 结婚 婚后 总是 不 打招呼 跑 回家 不久 后生 男孩 现 2 岁
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O B_Bear B_Gender O B_Age I_Age

@@ -1,0 +1,4 @@
+原 被告 1990年 初 经人介绍 相识 19909月 1 | | |
+O O O O O B_Know O O O O O
+后 被告 1991年 底 高 家 H 走 至少 夫
+O O B_Time I_Time O O O O O B_Separation

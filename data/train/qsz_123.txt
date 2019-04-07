@@ -1,0 +1,4 @@
+原被告 2000年 秋人 经人介绍 柑识 建立 恋爱 关系 婚前 感情 般 2003年 7月 26日 双方 登记 结婚
+O B_Time I_Time O O O B_BeInLove O O O O B_Time I_Time I_Time O O B_Marry
+2005年 9月 19日 双方 婚生 男孩 韩朔 原被告 结婚 以后 家务 琐事 发生 矛盾 尤其 近 年 以来 双方 矛盾 激化 双方 没有 共同 话言 争吵 打闹 原告 尤法 忍受
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O O

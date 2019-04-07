@@ -1,0 +1,16 @@
+原被告 均 系 再婚
+B_Person O O B_Remarry
+原 被告 2014年 9月 28日 相识 确立 恋爱 关系 2014年 12月 3日 办理 结婚 登记 手续
+O O B_Time I_Time I_Time B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+同年 12月 举行 结婚 仪式 共同 生活
+B_Time I_Time B_Marry I_Marry I_Marry O O
+2015年 6月 21日 生育 女 取名 孙莹
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 夫妻 感情 般 琐事 发生 争吵 夫妻 感情 逐渐 产生 裂痕
+O O O O O O B_FamilyConflict O O O O O
+2015年 2月份 双方 争吵 过程 中 被告 不顾 原告 当时 怀孕 仍 出手 殴打 原告 原告 维护 婚姻 关系 .- 直 忍受
+B_Time I_Time O O O O B_Person O O O O O O B_DomesticViolence B_Person O O O O O O O
+之后 夫妻 关系 存续 期间 被告 数次 殴打 原告
+O O O O O B_Person O B_DomesticViolence B_Person
+原被告 之间 已经 不 共同 生活 夫妻 感情 确 已 破裂 原告 婚姻法 民事 诉讼法 相关 法律 规定 提起 离婚 诉
+O O O O O O O O O O O B_Person O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

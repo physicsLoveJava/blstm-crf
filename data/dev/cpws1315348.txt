@@ -1,0 +1,10 @@
+原告 莫甲 诉称 原 被告 1987年 相识 恋爱 1987年 5月 4日 登记 结婚 1989年 6月 6日 生育 子 名莫乙
+O O O O O B_Time B_Know B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 双方 发生 矛盾 被告 还 教唆 儿子 殴打 原告 粗暴 对待 原告 母亲 严重 伤害 夫妻 感情
+O O O O O O O B_Person O O B_Person B_DomesticViolence B_Person O O O O O O O O
+原告 曾 2011年 7月 2012年 10月 两 次 法院 提起 离婚 诉讼 后 均 判决 不予 离婚
+O O B_Time I_Time B_Time I_Time O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+现 双方 感情 仍 未 好转 原告 第三 次 诉至法院 要求 判 令 原告 被告 离婚
+O O O O O O O O O B_Court O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原 被告 仅 套 面积 40 平方米 房屋 现 房屋 被告 儿子 原告 母亲 共同 居住 离婚 被告 无 住房 无力 支付 原告 房屋 折价 款
+O O O I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O O

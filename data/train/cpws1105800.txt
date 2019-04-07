@@ -1,0 +1,8 @@
+原告 李娜 李 某某 诉称 2002年 3月 原告 被告 家 饭馆 打工 时 被告 相识 后 被告 家人 欺骗 原告 原告 被迫 被告 2002年 11月 28日 登记 结婚
+O O O O O B_Time I_Time O O O O O O O B_Know O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+双方 分别 2003年 6月 6日 2008年 11月 5日 生育 儿子 畅夷凡 畅某 甲 女儿 畅 涵畅 某乙
+O O B_Time I_Time I_Time B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name I_Name B_Gender B_Name I_Name I_Name
+婚后 生活 期间 原告 超负荷 劳动 遭受 被告 殴打 致使 原告 身患 疾病 被告 不 原告 治疗
+O O O B_Person O O O B_Person B_DomesticViolence O O O O O O O O
+原告 认为 原、被告 夫妻 感情 已 破裂 诉至法院 请求 离婚
+B_Person O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

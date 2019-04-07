@@ -1,0 +1,12 @@
+原告 凌某 甲 起诉 称 原 被告 经人介绍 认识 于×××× 年××月 16日 登记 结婚 ×××× 年×× 月×× 日 生育 子 凌某 乙
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear O B_Gender B_Name
+被告 脾气 暴戾 生活 吝啬 平时 家庭 琐事 指责 谩骂 原告
+O O O O O O O O O O B_FamilyConflict
+原告 不堪 折磨 已 2013年 8月 28日 搬 下 沙 住处
+O O O O O B_Time I_Time I_Time I_Time I_Time B_Separation
+原告 认为 现 双方 感情 已 完全 破裂 根本 无 和好 诉至法院 请求 判决 原告 被告 离婚
+I_Separation O O O O O O O O O O O O O O O O
+原告 起诉状 中 陈述 错误 双方 2009年 认识 两 年 相处 ×××× 年×× 月 登记 结婚 2012年 生育 子
+O O O O O O O O O O O B_Know I_Know O O O O O O
+本院 双方 当事人 陈述 确认 有效 证据 认定 本案 事实 原 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 凌某 乙
+O O O O O O O O O O O O O O O O O O O O O O O O B_Negated O

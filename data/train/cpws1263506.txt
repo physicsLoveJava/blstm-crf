@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2011年 1月 6日 登记 结婚 婚前 来往 少 了解 不够 婚后 发现 双方 性格 不合 没有 共同语言 琐事 争吵
+O O O O O B_Time I_Time I_Time O B_Marry O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 好吃懒做 酗酒 赌博 没有 好 生活 习惯 双方 发生 矛盾 被告 为此 殴打 原告
+O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O
+原告 认为 双方 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 无 好 要求 被告 离婚 被告 返还 原告 陪嫁 物品
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O

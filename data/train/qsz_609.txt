@@ -1,0 +1,10 @@
+2009年 9月 28日 原 被告 办理 结婚 登记 2014年 6月 4日 生育 子 单俊磊
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 家庭 琐事 争吵
+O O O B_FamilyConflict
+被告 动手 殴打 原告 手 持 镐 菜刀 威胁 原告
+B_Person O B_DomesticViolence B_Person O O O O O O
+2017年 9月 8日 回 娘家 居住
+B_Time I_Time I_Time B_Separation I_Separation I_Separation
+原告 2017年 9月 20日 人民法院 提起 离婚 诉讼 被告 亲属 劝说 被告 表示 悔改 情况 下 原告 孩子 2017年 10月 9日 撤回 起诉
+B_Person B_Time I_Time I_Time B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O

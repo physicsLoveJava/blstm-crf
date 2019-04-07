@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 1983年 经人介绍 相识 同年 农村 风俗 办理 结婚 酒 未 进行 结婚 登记
+O O O O O B_Time O B_Know O O O O O O O O O O
+婚后 生育 三 共同 子女 刘杏然 刘唤云 已 成年 刘依婷 现 原告 生活 在校 读书
+O B_Bear O O O B_Name B_Name O O B_Name O O O O O
+原 被告 婚后 争吵 不 断 已 分居 十几 年 被告 殴打 原告 不 关心 原告
+O O O O O O O B_Separation B_Duration I_Duration B_Person B_DomesticViolence B_Person O O O
+今年 5月 被告 猜疑 原告 不 正当 关系 殴打 原告 双方 没有 见面
+O O B_Person O O O O O B_DomesticViolence B_Person O O O
+原 被告 夫妻 感情 已 彻底 破裂 原告 特 法院 起诉 请求 依法 判决 准许 原 被告 离婚
+O O O O O O O B_Person O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O

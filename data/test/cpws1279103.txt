@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 相识 于×××× 年×× 月××日 典礼 同居 ×××× 年×× 月××日 办理 结婚 登记 双方 均 系 再婚
+B_Person I_Person O O B_Person O B_Know B_Time I_Time I_Time B_Marry O B_Time I_Time I_Time O B_Marry I_Marry O O O B_Remarry
+×××× 年×× 月××日 被告生 女孩 李某 丙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 家庭 不 负 责任 实施 家庭 暴力 生气 争吵 分居 2011年 农历 正月 17日 双方 争吵 分居 今
+B_Person O O O O O B_DomesticViolence I_DomesticViolence B_FamilyConflict I_FamilyConflict B_Separation B_Time I_Time I_Time I_Time O O O I_Time
+被告 辩称 原告 都 再婚 ×××× 年×× 月××日 办理 结婚 登记 婚后 还 算合 原告 带 女儿 李某 乙 视为 亲生 夫妻 相互 女儿 李某丙 出生 使 夫妻 和气
+O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O O O O O
+家庭 非常 负责 原告 起诉 离婚 不 原告 真实 意思 原告 称 2011年 农历 正月 17日 双方 争吵 分居 今 不 事实 原告 达到 目的 编造 事实 2012年 农历 正月 17日 夫妻 双方 商量 外出 打工 事 说 成 2011年 农历 正月 17日 双方 争吵
+O O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict

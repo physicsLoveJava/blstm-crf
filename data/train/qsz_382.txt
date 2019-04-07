@@ -1,0 +1,10 @@
+双方 2012年 6月份 经人介绍 确立 恋爱 关系
+O B_Time I_Time O O B_BeInLove O
+双方 2012年 11月 7日 登记 结婚 同居 生活
+O B_Time I_Time I_Time O B_Marry O O
+原 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+夫妻 2013年 6月 16日 生育 子 杨宇潼
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+夫妻 间 生活 琐事 发生 争吵
+O O O O B_FamilyConflict I_FamilyConflict

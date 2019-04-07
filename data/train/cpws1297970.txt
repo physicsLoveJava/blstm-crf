@@ -1,0 +1,6 @@
+原告 阚某 诉称 被告 2001年 相识 2003年 4月 29日 登记 结婚
+O O O O B_Time B_Know B_Time I_Time I_Time O B_Marry
+双方 婚前 婚后 四 五 年 间 感情 尚 最近 两 年 被告 常 家务 琐事 发生 争吵 殴打
+O O O O O O O O O O O O O O O O O O B_DomesticViolence
+被告 武某 辩称 原告 2001 夏天 相识 2003年 4月 29日 登记 结婚
+O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry

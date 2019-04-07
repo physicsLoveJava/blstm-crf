@@ -1,0 +1,18 @@
+原 告诉 称 原 被告 1993年 经人介绍 相识 1995年 10月 江安县 仁和乡 人民政府 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time O O O B_Marry I_Marry
+1998年 3月 生育长 女王 甲 现在 江安县 汉安 中学 读书 2009年 7月 生育 次子 王某 乙 现在 江安镇 新苗 幼儿园 读书
+B_Time I_Time B_Bear B_Gender B_Name O O O O O B_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+婚后 双方 性格 不和 家庭 琐事 发生 吵架 打架
+O O O O O O O B_FamilyConflict I_FamilyConflict
+2005年 5月 被告 原告 衣服 撕烂 全身 淤青
+O O B_Person B_Person O O B_DomesticViolence I_DomesticViolence
+2011年 10月 被告 偷 原告 经营款 原告 发现 制止 时 双方 发生 打架
+O O O O O O O O O O O O B_DomesticViolence
+2012年 9月 双方 协商 离婚 财产 分割 意见 不一 被告 原告 大打出手 原告 左手 扭伤 原告 全身 抓 伤
+O O O O O O O O O B_Person B_Person B_DomesticViolence O O O O O O O
+江安镇 华夏 小区 按揭 购买 套 住房 共同 债务 92000 余 元 应 依法 分割
+O O O O O I_Wealth I_Wealth O B_Debt B_Price I_Price I_Price O O O
+没有 原告 没有 原告 实施 家庭 暴力
+O O O O O B_DomesticViolence I_DomesticViolence
+生活 中 矛盾 发生 纠纷 都 原告 先 动手 出于 自卫 阻止
+O O O O O O B_Person O B_DomesticViolence O O O

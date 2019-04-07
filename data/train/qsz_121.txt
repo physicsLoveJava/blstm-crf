@@ -1,0 +1,4 @@
+原被告 1998年 3J16 日 登记 结婚 1999年 1 片 8LI 婚生 女孩 下 欣 忙 现年 19 岁
+O B_Time I_Time I_Time O B_Marry B_Time O O O B_Bear B_Gender B_Name I_Name I_Name O B_Age I_Age
+H 前 原 { 家庭 琐事 争吵 打架 闹 矛盾 持续 多年 双方 均 不 引 相 谅解 共同 上 活
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O

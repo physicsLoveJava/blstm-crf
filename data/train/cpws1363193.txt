@@ -1,0 +1,12 @@
+原告 罗某 诉称 原被告 2009年 8月 人 介绍 相识 恋爱 2009年 12月 7日 登记 结婚 2010年 7月 1日 生育 儿子 李某 昇
+O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+综 上 原被告 感情 确 已 破裂 至今 双方 已 没有 好
+O O B_Person O O O O O O O O O
+请求 法院 判 令 1 原告 被告 离婚
+O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O
+被告 李某 辩称 原被告 2009年 8月 朋友 介绍 认识 确立 恋爱 关系 双方 了解 深入 后 才 2009年 12月 7日 登记 结婚
+O O O O B_Time I_Time O O O O B_BeInLove O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 2010年 7月 1日 生育 儿子 李某 昇 夫妻 感情 融洽
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O
+原告 曾 2013年 4月 诉至法院 要求 离婚 后 撤回 起诉
+B_Person O B_Time I_Time I_DivorceLawsuit O O O O O

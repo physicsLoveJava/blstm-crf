@@ -1,0 +1,10 @@
+原 告诉 称 被告 2010年 农历 12月 30日 当地 习俗 举行 婚礼 2012年 1月 5日 洛峪镇 人民政府 补办 结婚 登记 手续
+B_Person I_Person O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O
+2012年 农历 1月 16日 生 男孩 马某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 家 看 不 不仅 辱骂 还 实施 家庭 暴力
+B_Person O O O O O O O B_DomesticViolence I_DomesticViolence
+诉至法院 要求 1 判 令 被告 离婚
+B_DivorceLawsuit O O O O O O
+被告 辩称 没有 原告 实施 家庭 暴力 原告 去年 辱骂 父母 只 扇 巴掌
+O O B_Negated O O B_DomesticViolence I_DomesticViolence O O O O O O O

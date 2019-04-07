@@ -1,0 +1,18 @@
+原 告诉 称 原 被告 1993年 乾县 马连镇 民政 工作站 登记 结婚
+O O O O O B_Time O O O O B_Marry I_Marry
+婚后 双方 性格 不合 生活 方式 价值 观念 极 不 协调 常 为此 争吵
+O O O O O O O O O O O O O B_FamilyConflict
+考虑 孩子 原告 原谅 被告 被告 意识 错误 不但 未 改正 近 年 严重 2013年 7月 15日 双方 分居 今
+O O O O O B_Person O O O O O O O O B_Time I_Time I_Time O B_Separation O
+前不久 被告 还 原告 伤 原告 110 报警 夫妻 感情 彻底 破裂 诉至法院 请求 1 判 令 原 被告 离婚
+O O O B_Person I_DomesticViolence O O O O O O O B_DivorceLawsuit O O O O O O O
+3 婚内 夫妻 共同 财产 2005年 经营 至今 西安市 碑林区 嘉雷 商店 被告 经营 原告 由此 丧失 财产 利益 期待 利益 一次性 补偿 30000 元
+O O O B_CommonProperty I_CommonProperty O O O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O
+被告 2012年 出资 80000 元 户籍 所在地 宅基地 上 建造 2 层 楼房 被告 所有 被告 原告 补偿 40000 元
+B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Person O O O O
+2012年 7月 11日 97000 元 购买 发动机 号 3361216 马自达牌 小轿车 原告 所有 原告 被告 补偿 30000 元
+O O O B_Price I_Price O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O
+原 婚后 共同 购买 两 套 尚未 取得 房产证 房屋 1 套 位于 莲湖区 桃园北路 沣景 新苑 小区 5 号 楼 原告 使用
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O
+双方 未 分居 生活
+O B_Negated B_Separation O

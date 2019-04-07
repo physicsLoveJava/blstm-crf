@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2014年 4月 17日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 领取 结婚证 共同 生活 2015年 6月 8日 生育 男孩 杨耀阳
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 导致 原、被告 双方 婚后 发现 性格 不合 没有 建立 真正 感情 生气 吵架 原 被告 长期 分居 夫妻 感情 已 完全 破裂 没有 和好
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O O B_Separation O O O O O O O

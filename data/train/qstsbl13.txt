@@ -1,0 +1,22 @@
+原 被告 双方 1999年 底 经人介绍 相识 2000年 9月 27日 天津市 河西区 人民政府 登记 结婚 原告 系 初婚
+O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Person O B_Remarry
+被告 再婚
+B_Person B_Remarry
+2001年 8月 19日 原、被告 双方 婚生 女 郑沐涵 出生 现年 17 岁 现 高中 就读
+B_Time I_Time I_Time O O B_Bear B_Gender B_Name O O B_Age I_Age O O O
+原 被告 双方 婚前 缺乏 了解 相识 不满 年 登记 结婚 婚后 双方 性格 不合 常 家庭 琐事 发生 矛盾 尤其 2017年 双方 矛盾 进一步 升级 频繁 发生 语言 肢体 冲突 2017年 12月 26日 原告 被迫 带 女儿 搬 出 共同 居住 房产 外租房 今
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time O O O O B_Separation I_Separation O O O O I_Time
+被告 不 同意 原告 全部 诉讼 请求 第一 双方 结婚 已经 近 20 年 婚姻 基础 感情 好 被告系 再婚 原告 知晓 情况 婚后 双方 没有 更 伤害 感情 矛盾 2017年 孩子 管理 教育 上 双方 发生 分歧 家庭 矛盾 都 不足以 影响 双方 感情 应该 冷静 思考 原告 离家 被告 考虑 原告 冷静 一下 应该 很快 回来 双方 产生 矛盾 被告 一时 不 冷静 情况 原告 要求 原告 表示 歉意 不 同意 离婚 婚生 女 已经 17 岁 明年 高考 被告 希望 顾全 家庭 大局 女儿 安心 学习 女儿 曾经 被告 讲 不 愿意 父母 离婚 综上 被告 认为 双方 感情 尚未 破裂 不 同意 离婚
+O O O O O O O O O O O O O O O O O O B_Person B_Remarry O O O O O O O O O O B_Time O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 双方 1999年 底 经人介绍 认识 2000年 9月 27日 登记 结婚 快 登机 被告 告诉 之前 次 短暂 婚姻 没有 举办 婚礼 临近 婚期 被告 说 家人 不 同意 件 事 告诉 婚后 才 发现 被告 前妻 婚礼 仪式 2001年 8月 19日 双方 婚生 女 出生 现 读 高二 被告 正式 问题 无法 沟通 交流 被告 性格 焦虑 暴躁 动手 人 长 时间 被告 重要 事情 无法 沟通 婚后 十几 年 家庭 重大 事情 上 都 无法 被告 交流 只能 交流 无关紧要 小事
+O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Bear I_Bear O O O O O O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O
+原 2017年 12月 26日 分居 天 家里 正式 搬 居住 之前 已经 次 大 暴力 事件 当天 被告 签署 离婚 协议 条件 房产 财产 全部 被告 所有 之外 还 赔偿 500万 元 没有 同意 转天 清早 女儿 考试 期间 被告 说 不 签署 协议 不 进 家门 无奈 之下 请 被告 父母 过来 才 进 家门 后 被告 发 微信 恐吓 此事 还 经历 海泰 派出所 调解 当天 离开 家 外 居住
+O B_Time I_Time I_Time B_Separation O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+当时 只 口角 争 没有 动手 人 发生 争吵 都 发生 这种
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+原 没有 之前 发生 矛盾 都 被告 提起 离婚 从不 敢 提起 离婚 上次 被告 提出 离婚 协议 已经 算是 比较 正式 提起 被告 之间 发生 争执 2016年 12月 31日 中午 发生 婚姻 中 最 严重 婚姻 暴力 教育 女儿 被告 谩骂 一再 谨慎 被告 交流 被告 完全 不 听 张开手 没头没脸 身上 抽 推 门 外面 被告 回去 日本 军刀 孩子 卧室 门口 大声 喊 爸爸 不要 过程 中 看到 被告 眼光 里 没有 感情 特别 凶残 孩子 哭 当时 没有 报警 孩子 现场 怕 孩子 看到 心理 伤害 当时 自拍 留 证据
+O O O O O O O O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O B_Person O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+没有 起诉 离婚
+B_Negated B_DivorceLawsuit I_DivorceLawsuit
+证据 1 结婚证 证明 原 被告 登记 结婚 时间 证据 2 被告 原告发 短信 截屏 两 张 证明 被告 曾 威胁 原告 人身 安全 导致 夫妻 感情 确 已 破裂 证据 3 被告 原告 发 微信 语音 截屏 张 证明 目的 证据 2 证据 4 天津市 滨海 西区 公安局 海泰 派出所 出具 情况 说明 张 110 警情 现场 处置单 证明 原被告 双方 曾 发生 家庭 矛盾 导致 原告 受到 人身 威胁 2017年 12月 26日 被告 原告 净身 出 家门 最终 民警 协调 才 允许 原告 部分 物品 取 走 双方 未 再 联系 夫妻 感情 确 已 破裂 已 无 和好
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2001年 6月 21日 登记 结婚 婚生 子 陈某甲
+B_Person I_Person O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender B_Name
+婚后 夫妻 感情 不好 2005年 10月 12日 离婚 离婚 后 子女 抚养 问题 复婚 复婚 后 矛盾
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_Remarry O O I_FamilyConflict
+2012年 2月 经济 问题 发生 争执 被告 母亲 出 家门 分居 今 要求 被告 离婚 要求 抚养 子女 要求 被告 每月 付 抚养费 700 元 房屋 共同 所有 抵押 房屋 贷款 债务 共同 承担 财产 平均 分配
+O O O O B_FamilyConflict I_FamilyConflict O O O O B_Separation O O O O O O O O O O O O O O O O O B_Debt I_Debt I_Debt O O O O O O

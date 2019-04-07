@@ -1,0 +1,4 @@
+原 被告 系 经人介绍 相识 2005年 农村 习俗 举办 结婚 仪式 共同 生活 2006年 11月 30日 生育 女孩 刘馨悦 2008年 7月 29日 蓟州区 民政局 补办 结婚 登记 手续 领取 结婚证 2009年 12月 20日 生育 男孩 刘鑫鹏
+O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 发现 夫妻 感情 不和 常常 家庭 琐事 生气 吵架 被告 原告 张口 骂 伸手
+O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence

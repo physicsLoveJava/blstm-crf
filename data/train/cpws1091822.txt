@@ -1,0 +1,6 @@
+原告 郭 某某 诉称 被告 2012年 正月 十八日 举行 结婚 仪式 后 九岘乡 人民政府 补办 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O O O O O O B_Marry I_Marry I_Marry
+婚前 缺乏 了解 婚姻 基础 差 婚后 未能 建立 真正 夫妻 感情 现 已 无法 再 共同 生活
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+起诉 要求 被告 离婚 要求 被告 返还 彩礼 78000 元 首饰 折价 款 12000 元
+O O O O O O O B_Wealth B_Price I_Price B_Wealth I_Wealth I_Wealth B_Price I_Price

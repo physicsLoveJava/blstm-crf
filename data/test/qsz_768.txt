@@ -1,0 +1,14 @@
+原 被告 媒人 介绍 2001年 6月份 农村 习俗 举行 婚礼 同居 生活
+O O O O B_Time I_Time O O B_Marry I_Marry O O
+2005年 10月 4日 补办 结婚证 2002年 12月 13日 牛 子 王鑫
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 原告 结婚 以来 异性 不轨 行为 导致 原、被告 双方 感情 破裂
+B_Person O O O I_Derailed I_Derailed I_Derailed O O O O O
+原告 2015年 12月 28日 贵院 起诉 离婚
+B_Person B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit
+撤诉 后 被告 仍 无 悔改 意 原告 2016年 7月 22日 法院 提起 诉讼 贵院 2016 津0225 民初 8520 号 民事 判决书 驳回 原告 诉讼 请求
+O O O O O O O B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+原告 2017年 4月 28日 起诉 离婚 贵院 天津市 蓟州区 人民法院 2017 津0119民初 5355 号 民事 判决书 驳回 原告 诉讼 请求
+B_Person B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+现时 原被告 双方 已 分居 两 年 双方 无 和好 意 夫妻 感情 已 彻底 破裂 原告 贵院 起诉 离婚
+O O O O B_Separation O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 被告 1990年 年底 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know O B_BeInLove O
+双方 1991年 7月 26日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+生活 琐事 发生 争吵 夫妻 间 根本 无 共同语言 被告 家庭 无 责任感 可言 导致 夫妻 关系 越发 紧张 无法 沟通
+O O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+被告 2015年 2月 3日 离家 出走 双方 失去 联系 至今 未 回
+O B_Time I_Time I_Time B_Separation I_Separation O O O B_Time O O

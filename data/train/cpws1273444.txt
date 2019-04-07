@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1994年 12月 人 介绍 相识 恋爱 1995年 5月 15日 登记 结婚 1995年 12月 28日 生 子 取名 谢 某某
+O O O O O B_Time I_Time O O B_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear I_Bear O B_Name I_Name
+双方 性格 不合 生活 琐事 发生 矛盾 致使 夫妻 感情 业已 破裂
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 诉至法院 要求 判 令 原 被告 离婚
+O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

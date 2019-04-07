@@ -1,0 +1,10 @@
+原 告诉 称 2007年 10月 人 介绍 被告 相识 同年 12月 24日 登记 结婚 12月 25日 举行 结婚 仪式
+B_Person I_Person O B_Time I_Time O O O B_Know O B_Time I_Time B_Marry I_Marry O O O O O
+性格 嗜好 不 发生 争吵 争吵 后 被告 借故 离家 出走 住 娘家 日 不
+O O O O B_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O O O
+2011年 11月 被告 离家 外出 分居 今 夫妻 感情 名存实亡
+B_Time I_Time O O O B_Separation O O O O
+2012年 6月 被告 起诉 要求 离婚 现 要求 被告 离婚 要求 被告 返还 彩礼 23800 元 金 戒指 项链 耳环价款 2000 余 元
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Wealth B_Price I_Price B_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price
+现 要求 原告 负担 33000 元 债务
+O O O O B_Price I_Price B_Debt

@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2014年 9月 25日 民政部门 登记 结婚 婚后 育 女 兰惠然 现年 4 岁
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见
+O O O O O O O O O B_FamilyConflict O O O O O O
+现 二 人 吵架 被告 已经 带 孩子 回到 娘家
+O O O B_FamilyConflict O O O O O O

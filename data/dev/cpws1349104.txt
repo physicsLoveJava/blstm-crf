@@ -1,0 +1,12 @@
+原告 王 某某 诉称 原 被告 1996 经人介绍 认识 1999年 9月 14日 登记 结婚
+O O O O O O O O B_Know O O O O B_Marry
+2010年 5月 被告 殴打 原告 次
+O O B_Person B_DomesticViolence B_Person O
+2012年 5月 被告 殴打 原告 致使 原告 无法 被告 共同 生活 双方 夫妻 感情 已 彻底 破裂
+O O O O B_Person O O O O O O O O O O O O
+请求 法院 依法 判 令 原 被告 离婚 家庭 财产 中 双方 共同 建造 南院 原告 所有 共同 翻 建 北院 被告 所有 鲁 E27007 客车 依法 分割 诉讼 费用 被告 负担
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O
+2 原告 所述 大部分 不 属实 原告 称 北院 应 被告 前 妻 财产 北院 进行 修缮 期间 原 被告 尚未 结婚
+O O O O O O O O B_Wealth O O O O O O O O O O O O O
+3 购买 中巴 客车 钱 主要 婚前 被告 自有 车辆 变卖 所得 客车 被告 合伙 经营
+O O O O O O O O O O O O B_Wealth B_Person O O

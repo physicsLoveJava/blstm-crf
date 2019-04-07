@@ -1,0 +1,4 @@
+原 告诉 称 被告 2006年 10月 举行 婚礼 后 补办 结婚 登记 手续 2007年 6月 生 女 黄 某某
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Marry I_Marry I_Marry O B_Time I_Time B_Bear B_Gender B_Name I_Name
+2009年 6月 生 子 黄某 婚后 刚 二 人 感情 还 后 家庭 琐事 天天 生气 吵架 夫妻 感情 破裂 要求 被告 离婚 婚生 两 子女 原告 抚养 被告 支付 抚养费
+B_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

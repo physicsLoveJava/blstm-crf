@@ -1,0 +1,10 @@
+原告 谢某 珠诉 称 原 被告 2002年 1月 自由 相识 后 恋爱 不久 同居 生活 2004年 8月 22日 生育 小孩 黎 某珊
+O O O O O O B_Time I_Time O B_Know O B_BeInLove O O O B_Time I_Time I_Time B_Bear O B_Name I_Name
+2006年 10月 23日 原 被告 自愿 办理 结婚 登记 手续 同年 11月 26日 生育 小孩 黎某 虹
+B_Time I_Time I_Time O O O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear O B_Name I_Name
+婚后 双方 性格 不合 家庭 生活 琐事 发生 争吵 被告 还 原告 实施 家庭 暴力
+O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict B_Person O O O B_DomesticViolence I_DomesticViolence
+2009年 10月 双方 分居 生活 至今 已 4 年 原 被告 夫妻 感情 已 破裂
+B_Time I_Time O B_Separation O B_Time O B_Duration I_Duration O O O O O O
+原告 起诉 法院 要求 被告 离婚 婚生 小孩 黎 某珊 原告 抚养 婚生 小孩 黎某 虹 被告 抚养 小孩 抚养费 原 被告 负担
+O O O O O B_DivorceLawsuit O O O O O O O O O O O O O O O O O

@@ -1,0 +1,12 @@
+2011年 9月 28日 自由 恋爱 后 登记 结婚 婚后 被告 户籍 迁入 原告 处
+B_Time I_Time I_Time O B_BeInLove O B_Marry I_Marry O O O O O O
+被告 爱好 喝酒 每次 酒后 醉意 找茬 原竹 生气
+B_Person B_BadHabit I_BadHabit O O O O O O
+被告 好逸 恶劣 不 担当 家庭 重担
+B_Person B_BadHabit I_BadHabit O O O O
+致使 整个 家庭 生活 陷入 困境 为此 双方 吵 不 休
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2017年 11月份 原被告 琐事 产生 口角 双方 分居 生活 今 夫妻 感情 确 已 破裂
+B_Time I_Time O O O O O I_Separation O I_Time O O O O O
+共同 生活 中 原被告 未 创置 财产 现有 债务 达 2.5万 元 未能 清偿
+O O O O O O O O B_Debt O B_Price I_Price O O

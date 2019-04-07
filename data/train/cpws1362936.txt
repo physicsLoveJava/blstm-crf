@@ -1,0 +1,16 @@
+原 告诉 称 2010年 12月 31日 原告 陈晓阳 被告 熊明经 媒人 介绍 认识 第一 天 见面 被告 欺骗 原告 说 房子 至今 原告 还 不 知道 被告 房 无 房
+O O O B_Time I_Time I_Time O O O O O O B_Know O O O O O O O O O O O O O O O O O
+2011年 7月 20日 原 被告 摆 酒 结婚 岳父母 还 出 5000 元 席钱
+B_Time I_Time I_Time O O O O B_Marry O O O O O O
+2012年 5月 3日 生 儿子 熊奕钦
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 结婚 后 被告 原告 实施 家庭 暴力 原告 发病 时 重重 原告 头 当时 原告 已 怀孕 八 月 次 原告 被告 工资 交给 原告 时 被告 动手 原告
+O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O B_Person B_DomesticViolence B_Person
+两 人 结婚 后 2011年 9月 2013年 1月 被告 共 收入 31491 元 买 摩托车 支出 5445 元 被告 20000 元 现金 价值 2622 元 金 戒指 转 走 其间 被告 搞摩 出租 罚款 2000 元
+O O O O O O O O O O O O O O O O O O O B_Price I_Price B_Wealth O B_Price I_Price B_Wealth I_Wealth O O O O O O O O O
+2万 元 现金 金 戒指 事情 岳父 岳母 都 炒股 投资 5000 元 炒股 被告 开摩 出 车祸 后 赔偿 几千 元
+B_Price I_Price B_Wealth O O O O O O O O O O O O O O O O O O O
+3 婚前 财产 6万 元 现金 退还
+O B_PersonalProperty I_PersonalProperty B_Price I_Price B_Wealth O
+4 婚后 共同 收入 卖 日杂 收入 2万 元 31000 元 摩 收入 6880 元 婚礼 酒店 赔偿款 人情 收入 10万 元 左右 岳 父母 卖 房子 装修款 2万 元 婚后 分 两 套 房子 共 150 平方 竹根潭村 9 村民 组 安置 小区 2 栋 4 单元 301 302 号
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth B_Price I_Price B_Price I_Price B_Wealth I_Wealth B_Price I_Price O B_Wealth I_Wealth B_Wealth I_Wealth B_Price I_Price O O O O O B_Wealth B_Price I_Price O O B_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O

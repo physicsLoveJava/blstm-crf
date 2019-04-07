@@ -1,0 +1,4 @@
+原 告诉 称 2009年 原 被告 经人介绍 相识 2010年 11月 18日 登记 结婚 婚后 未 生育 子女
+O O O B_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O
+婚前 缺乏 了解 婚后 夫妻 感情 不和 2012年 8月 15日 被告 回 娘门 居住 今 现 夫妻 关系 名存实亡 无法 继续 共同 生活 请求 判 令 被告 离婚 依法 分割 财产 返还 彩礼款 18700 元 被告 承担 诉讼 费用
+O O O O O O O B_Time I_Time I_Time O B_Separation I_Separation I_Separation I_Time O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 网络 相识 异地 相处 后 2011年 5月 登记 结婚
+O O O O O O O O O O O O O B_Marry
+婚后 原 被告 性格 不合 致 双方 问题 看法 处理 上 存在 大 分歧 争吵 不 断
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict

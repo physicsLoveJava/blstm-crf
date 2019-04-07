@@ -1,0 +1,8 @@
+原告 吴 某某 诉称 原 被告 2001年 初 同居 生活 2001年 10月 13日 生育 儿子 宋磊 2002年 12月 1日 旬邑县 城关镇 人民政府 补办 登记 结婚
+O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O B_Marry I_Marry
+期间 原 被告 来往 少 被告 孩子 不闻不问
+O O O B_FamilyConflict I_FamilyConflict O I_FamilyConflict I_FamilyConflict
+被告 宋 某某 辩称 原告 诉 双方 同居 生活 生子 登记 结婚 均 属实
+O O O O O O O O O B_Bear B_Marry I_Marry O B_Negated
+双方 无 夫妻 共同 财产 夫妻 共同 债务 10000 元 坚 不 同意 离婚
+O O O O O B_Person B_Debt I_Debt B_Price I_Price O O O O

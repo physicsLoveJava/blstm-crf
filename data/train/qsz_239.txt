@@ -1,0 +1,10 @@
+原 被告 2012年 5月 相识 2012年 11月 19日 天津市 武清区 民政部门 办理 结婚 登记 手续
+O O B_Time I_Time B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry O
+2013年 7月 23日 生 子 取名 刘宸玮 现 被告 一起 共 问 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O
+婚初 原 被告 感情 尚 后 原 被告 性格 迥异 生活 中 发生 矛盾
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2014年 6月 原 被告 分居 生活
+B_Time I_Time O O B_Separation O
+原 告 之间 已 无 共 N 语言 原告 2017年 6月 6日 诉 武清区 人民法院 请求 离婚 武清区 人民法院 判决 不 准 离婚
+O O O O O O O O B_Person B_Time I_Time I_Time O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment

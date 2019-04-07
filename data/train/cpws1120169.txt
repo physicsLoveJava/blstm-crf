@@ -1,0 +1,8 @@
+原告 吕某 诉称 2005年 原 被告 同学 介绍 相识 两 人 当年 年底 同居 2008年 8月 7日 登记 结婚
+O O O B_Time O O O O B_Know O O O O O B_Time I_Time I_Time B_Marry I_Marry
+原 被告 发生 争吵
+O O B_FamilyConflict I_FamilyConflict
+2013年 8月 27日 晚 7点 左右 原告 被告 前 妻 事情 电话 里 骂 被告 母亲 看见 后 去 被告 家里 告诉 被告 女儿 被告 女儿 女婿 还 原告 进行 殴打
+O O O O O O O O O O O O O O O O O O O O O O O O B_Person I_Person I_Person O B_Person B_DomesticViolence I_DomesticViolence
+2 坐落 本溪 满族 自治县 住宅 价值 35．5万 元 处 原告 所有 夫妻 共有 债务 平均 承担
+O O B_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price O O O O O O O O

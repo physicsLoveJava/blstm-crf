@@ -1,0 +1,6 @@
+原 被告 2010年 7月 网络 相识 2012年 2月 14日 办理 婚姻 登记 手续 共同 生活
+O O O O O B_Know O O O O B_Marry I_Marry O O O
+婚后 2013年 10月 27日 生育 女 孙梦瑶 四周 岁 现 双方 感情 确 已 破裂 具体 理由 1 沟通 交流 困难
+O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Age I_Age O O O O O O O O O O O O
+2 双方 琐事 发生 口角 争吵
+O O O O B_FamilyConflict B_FamilyConflict

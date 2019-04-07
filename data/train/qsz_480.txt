@@ -1,0 +1,14 @@
+原被告 均 系 再婚 双方 婚后 无 子女
+B_Person O O B_Remarry O O O O
+原被告 经人介绍 2017年 2月份 相识 确立 恋爱 关系
+O O B_Time I_Time B_Know O O O
+2017年 6月 7日 双方 领取 结婚证 共同 生活
+B_Time I_Time I_Time O B_Marry I_Marry O O
+时间 推移 原告 发现 被告 原告 谎话 连篇 没有 原告 当做 妻子 双方 家庭 琐事 经济 问题 发生 矛盾
+O O O O B_Person O B_BadHabit I_BadHabit O O O O O O O O O O O
+被告 其子 当兵 需要 钱 为由 原告 处 借款 30000 元
+O O O O O O B_Person O B_Debt B_Price I_Price
+双方 发生 激烈 矛盾
+O O B_FamilyConflict I_FamilyConflict
+2018年 5月份 双方 琐事 发生 矛盾 双方 分居 今
+B_Time I_Time O O O O O B_Separation I_Time

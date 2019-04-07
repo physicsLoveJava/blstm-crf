@@ -1,0 +1,14 @@
+原告 沈某 起诉 称 原 被告 1996年 初 相识 后 相恋 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time O B_Know O O B_Time I_Time I_Time I_Time O B_Marry
+×××× 年×× 月××日 双方 生育 女 名虞 某乙
+B_Time I_Time I_Time O B_Bear I_Gender B_Name I_Name
+×××× 年×× 月××日 双方 生育 子 名虞 某丙
+B_Time I_Time I_Time O B_Bear I_Gender B_Name I_Name
+原 被告 感情 基础 双方 个性 不 时有 争吵
+O O O O O B_FamilyConflict I_FamilyConflict O O
+2012年 以来 被告 张 某某 发生 不 正当 男女 关系 屡教不改 严重 影响 夫妻 感情
+B_Time I_Time O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O
+现 原告 诉至法院 要求 被告 离婚
+O O B_DivorceLawsuit O O O
+被告 虞某 甲 答辩 称 原 被告 已 共同 生活 十八 年 夫妻 间 家庭 琐事 偶 分歧 在所难免 根本 不 存在 原告 陈述 影响 夫妻 感情 事实
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Derailed

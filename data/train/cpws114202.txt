@@ -1,0 +1,6 @@
+原告 翟某 甲诉 称 被告 经人介绍 登记 结婚 婚后 生气 吵架 没有 建立 夫妻 感情 2012年 春节 后 被告 娘家 居住 拉 回 嫁妆
+O O O O O O B_Marry I_Marry O B_FamilyConflict I_FamilyConflict O O O O B_Time I_Time O O I_Separation I_Separation O O O
+2012年 10月 9日 原告 曾 法院 提起 离婚 诉讼 未 获 准许
+B_Time I_Time I_Time B_Person O O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment
+3 要求 原告 支付 共同 生活 期间 被告 治病 花 医疗费 8944．06 元
+O O B_Person O O O O O O O B_Credit B_Price I_Price

@@ -1,0 +1,6 @@
+原告 张某 起诉 称 原 被告 1989年 人 介绍 相识 1990年 农历 1月 5日 农村 习俗 举行 婚礼 后 夫妻 名义 共同 生活 至今 未 办理 结婚 登记 ×××× 年×× 月×× 日 生育 儿子 陈某乙
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O O O O O O B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender
+原 被告 婚后 未能 建立 夫妻 感情 双方 发生 纠纷 被告 原告 实施 家庭 暴力 儿子 周岁 时 原告 左手 骨折 至今 留下 后遗症
+O O O O O O O O O O O B_Person B_Person I_Person O I_DomesticViolence I_DomesticViolence O O O O O O O
+双方 2011年 3月 分居 生活 今 被告 2012年 提出 离婚 现 夫妻 感情 确 已 破裂
+O O B_Time I_Time I_Time B_Separation O I_Time O O O O O O O O

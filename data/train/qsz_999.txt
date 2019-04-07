@@ -1,0 +1,4 @@
+原 被告 2013年 经人介绍 相识 后 确立 恋爱 关系 2013年 腊月十九 农村 习俗 举报 结婚 仪式 2014年 3月 18日 蓟州区 民政局 登记 结婚 婚后 未 生育 子女
+O O B_Time O B_Know O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time O O B_Marry I_Marry O O O O
+结婚 初 双方 感情 尚 婚后 被告 未 工作 家庭 生活 不 负 责任 原告 婚后 苦心经营 小吃 生意 维持 家庭 生活
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 王 某某 诉称 被告 经人介绍 1996年 相识 当年 登记 结婚 婚前 缺乏 被告 了解 草率 结婚
+O O O O O O B_Time B_Know B_Time O B_Marry O O O O O O
+婚后 1996年 阴历 11月 9日 生 女孩 取名 王某甲
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+共同 生活 期间 小事 发生 争吵 争吵 被告 胡说 外面 有人 被告 这种 没有 一点 情况 下 胡说八道 使 忍 再 忍 孩子 根本 不 想 离婚 这种 名存实亡 夫妻 感情 实在 难以忍受 特 人民法院 提出 离婚 诉讼 请求 1． 依法 判决 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+2． 婚生 女儿 抚养 抚养费 自理
+O B_Bear O O O O

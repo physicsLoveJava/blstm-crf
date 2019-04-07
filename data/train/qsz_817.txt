@@ -1,0 +1,8 @@
+原 被告 系 再婚
+B_Person I_Person O B_Remarry
+2006年 3月 9日 原 被告 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 婚生 生育 女 王轩 2007年 8月 16日 出生
+B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry O O O B_Bear B_Gender B_Name B_Time I_Time I_Time O
+婚前 缺少 了解 婚后 发现 双方 感情 不和 常 家庭 琐事 吵架 被告 原告 张口 骂 动手
+O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2018年 1月 28日 口角 被告 原告 右眼 伤 致使 双方 矛盾 升级 导致 夫妻 感情 彻底 破裂
+B_Time I_Time I_Time O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O

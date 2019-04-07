@@ -1,0 +1,16 @@
+原告 陈 XX 诉称 1992年 11月 6日 原被告 自愿 南川区 民政部门 登记 结婚
+O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry
+双方 介绍 相识 不久 便 结婚 感情 基础 差 双方 未 生育 子女 发生 争吵 被告 还 时常 殴打 原告 原告 忍受 无奈 1995年 1月 28日 抱养 女 取名 杨 某某 被告 不 满意 总 认为 孩子 不 亲生 外 玩乐 不 关心 原告 女儿
+O O O O O O O O O O O O O O O B_Person O O B_DomesticViolence O B_Person O O O O O O O O O O O O O O O O O O O O O O O O
+2010年 正月 被告 外出 双方 分居 生活 今 原告 人 抚养 孩子 还 房屋 揭款
+B_Time I_Time O O O B_Separation O O O O O O O O O
+原告 对外 借款 共计 40000 元 陈某甲 借款 12000 元 陈某乙 借款 8000 元 陈某丙 借款 20000 元
+O O O O B_Price I_Price O O O O O O O O O O O O
+原告 知道 被告 对外 债务 具体 金额 不 清楚
+O O O O B_Debt O O O O
+双方 2010年 正月 分居 至今 事实 属实 原告 被告 出家
+O O O B_Separation O O O O O O
+原告 对外 债务 被告 只 认可 30000 元
+O O B_Debt O O O O O
+被告 债务 85000 元 妹妹 杨某甲 借款 35000 元 妹妹 杨某乙 借款 15000 元 父亲 杨某丙 借款 35000 元
+O B_Debt O O O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原被告 均 系 再婚 2011年 12月份 原被告 经人介绍 相识 2012年 1月 5日 双方 自愿 办理 结婚 登记 后 共同 生活 原被告 婚后 未 生育 子女
+B_Person O O B_Remarry B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry O O O O O O O O O
+原被告 之间 夫妻 感情 原被告 婚前 相互 了解 不够 成婚 仓促 原被告 之间 令 常 家庭 琐事 发生 争吵 导致 双方 之间 逐渐 出现 矛盾 激化
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O

@@ -1,0 +1,8 @@
+原 告诉 称 原被告 2010年 11月 4日 东阿县 民政局 登记 结婚 婚后 原告 2011年 8月 30日 生 女孩 取名 王梦琪
+O O O O B_Time I_Time I_Time O O O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 发现 二 人 感情 不和 时常 家庭 琐事 生气吵闹
+O O O O O O O O O B_FamilyConflict
+2013年 春节 后 二 人 吵闹 原告 回 娘家 居住 至此 夫妻 感情 已经 完全 破裂 请求 判 令 被告 离婚 婚生 女孩 王梦琪 原告 抚养 被告 承担 抚养费 依法 分割 夫妻 共同 财产
+B_Time I_Time I_Time O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O
+查明 原告 刘某 被告 王某 经人介绍 2010年 1月 相识 2010年 11月 4日 二 人 东阿县 民政局 登记 结婚 同年 农历 10月 16日 举行 婚娶 仪式 原告 陪 送 嫁妆 宗 被子 十 床 褥子 床 小刀牌 电动车 辆 皆 原告 处
+O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O

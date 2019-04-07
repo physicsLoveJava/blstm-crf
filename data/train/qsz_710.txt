@@ -1,0 +1,4 @@
+原告 被告 2010年 2月 8日 登记 结婚 婚后 育 子 孙明洋 现年 12 岁
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name B_Age I_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见 被告 父母 原告 被告 事情 都 参与 意见 导致 原告 被告 长期 吵架 原告 孩子 无 人 看管 所有 没有 去 工作 专心 在家 照顾 孩子 被告 被告 不 挣 工资 放在 家里 原告 花 分 都 找 被告 伸手 生活 导致 双方 矛盾 越来越 深 已经 无法 一起 继续 生活 。
+O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 杜 某某 诉称 被告 2001年 10月 人 介绍 相识 2003年 12月 22日 登记 结婚 婚后 感情 2004年 10月 21日 生育 女儿 吕某
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 被告 了解 不够 草率 结婚 婚后 发现 被告 嫖娼 不务正业 苦心 规劝 仍 劣行 不 改
+O O O O O O O O B_Person B_Derailed O O O O O O O
+被告 吕 某某 辩称 不 同意 离婚 希望 原告 看 小孩 份 上 再 次 机会
+B_Person I_Person I_Person O O O O O O O O O O O O O

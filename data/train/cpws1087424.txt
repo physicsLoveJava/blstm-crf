@@ -1,0 +1,6 @@
+原告 吴 某某 诉称 2000年 年初 经人介绍 相识 恋爱 2000年 年底 农村 风俗 举办 结婚 仪式 2001年 1月 8日 扬州市 江都区 宜陵镇 人民政府 领取 结婚证 2003年 3月 3日 生 女 吴 某某 现年 10 周岁 就读 扬州市 江都区 宜陵镇 小学
+O O O O B_Time I_Time O B_Know B_BeInLove O O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Age I_Age I_Age O O O O O
+夫妻 双方 共同 生活 初期 双方 感情 尚 时间 推移 性格 差异 渐 显 没有 共同语言 被告 性格 暴躁 被告 只 看重 金钱 不 重视 夫妻 沟通 交流
+O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+现 已 分居 1 年 夫妻 感情 已 彻底 破裂 诉至法院 要求 被告 离婚
+O O B_Separation B_Duration I_Duration B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

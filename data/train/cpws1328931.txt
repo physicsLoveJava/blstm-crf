@@ -1,0 +1,4 @@
+原告 诉称 原 经人介绍 相识 1989年 5月 1日 登记 结婚 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 常 琐事 发生 纠纷 发展 夫妻 感情 破裂
+O O O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+为此 特 贵院 提出 离婚 请求 希望 法院 依法 判决 原 被告 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

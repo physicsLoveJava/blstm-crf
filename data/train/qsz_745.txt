@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 1989年 12月 21日 蓟州 区别山镇 人民政府 民政所 办理 结婚 登记 手续 领取 结婚证 共同 生活 婚后 生育 子 女 均 已 成年 结婚 初期 原被告 夫妻 感情 尚 时间 推移 被告 不良 习惯 显露
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry O O O B_Bear B_Gender B_Gender O O O O O O O O O O O O O O O
+被告 喝酒 为生 不 思 挣钱 养家 长期 醉酒 喝 醉 后 惹是生非
+B_Person O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit B_BadHabit I_BadHabit O O O O

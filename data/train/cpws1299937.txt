@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2002年 经人介绍 认识 2003年 2月 24日 登记 结婚 2004年 11月 8日 生 子 xx
+O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender I_Name
+原 被告 婚前 缺乏 了解 感情 基础 差 婚后 发生 争吵
+O O O O O O O O O O B_FamilyConflict

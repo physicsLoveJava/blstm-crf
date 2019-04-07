@@ -1,0 +1,2 @@
+原告 孙某 诉称 双方 系 经人介绍 认识 恋爱 婚后 吴 脾气 暴躁 发生 争吵 打架 现 已 分居 五 月 夫妻 感情 逐渐 冷淡 夫妻 感情 已经 破裂 要求 离婚
+O O O O O O B_Know B_BeInLove O O O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O O

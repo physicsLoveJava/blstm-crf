@@ -1,0 +1,6 @@
+原告 陈某 诉称 原被告 2012年 正月 初六 人 介绍 相识 同年 正月 二十八日 订婚 2012年 5月 9日 登记 结婚
+O O O O B_Time I_Time I_Time O O B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry
+双方 结婚 初期 产生 矛盾 常 琐事 吵架 结婚 半 年 后 被告 搬 回 娘家 居住 生活 今
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time I_Time O B_Separation I_Separation I_Separation I_Separation O I_Time
+2013年 4月 24日 原告 法院 起诉 要求 离婚 法院 2013年 5月 10日 判决 不 准 离婚
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment

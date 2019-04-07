@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 1987年 12月 14日 登记 结婚 婚后 生育 两 女儿 大 女儿 已 成年 二 女儿 马某 甲 现年 17 周岁
+O O O O O O O O O O B_Marry O B_Bear B_Gender I_Gender O O B_Age I_Age O O O O B_Age I_Age I_Age
+原 被告 婚后 感情 婚前 原告 被告 了解 不够 婚后 发现 被告 家庭 暴力 倾向 无缘无故 打骂 原告 被告 整日 酗酒 原告 劝说 被告 均 不予 理睬
+O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O B_BadHabit O O O O O O
+原告 实在 无法 忍耐 被告 行为 已 导致 夫妻 感情 已 破裂 原告 诉至法院 要求 离婚 依法 分割 夫妻 共同 财产
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit O O O O O O O

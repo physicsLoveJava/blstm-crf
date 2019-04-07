@@ -1,0 +1,8 @@
+原告 吴某甲 起诉 称 被告 前 次 婚姻 中 ×××× 年×× 月×× 日 生育 女儿 吴某丙 原告 被告 ×××× 年×× 月经 人 介绍 相识 同居 ×××× 年×× 月 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 吴 某丁
+O O O O O O O O O B_Time I_Time I_Time I_Time B_Bear O B_Name O O B_Time I_Time I_Time O O B_Know O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear O B_Name I_Name
+被告 不务正业 夜 不 宿 家人 亲人 不 负 责任 2011年 9月 协议 离婚 后 亲朋好友 劝说 2012年 10月 29日 复婚 复婚 后 被告 吴某乙 仍 劣性 不 改 还 变本加厉 打骂 原告
+O B_BadHabit B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence
+被告 复婚 后 所作所为 已 严重 伤害 夫妻 感情 双方 性格 不合 现 夫妻 感情 已 完全 彻底 破裂 夫妻 关系 已 名存实亡
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 夫妻 感情 已经 破裂 无法 好 同意 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O

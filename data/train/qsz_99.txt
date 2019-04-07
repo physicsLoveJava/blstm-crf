@@ -1,0 +1,8 @@
+双方 2006年 经人介绍 认识 建立 恋爱 关系 2007年 登记 结婚
+O B_Time O B_Know O B_BeInLove O B_Time B_Marry I_Marry
+婚后生 男孩 兰德毅
+B_Bear B_Gender B_Name
+琐事 争吵 被告 常常 殴打 原告
+O O B_Person O B_DomesticViolence B_Person
+原告 认为 被告 婚后 所作所为 严重 伤害 大 妻 感情 双方 性格 个合 夫妻 感情 彻底 破裂 夫妻 关系 名存实亡
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O

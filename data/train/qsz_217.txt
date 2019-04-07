@@ -1,0 +1,10 @@
+原被告 经人介绍 认识 后 建立 恋爱 关系
+O O B_Know O B_BeInLove I_BeInLove I_BeInLove
+双方 2016年 10月 30日 武清区 民政局 登记 结婚
+O B_Time I_Time I_Time O O B_Marry I_Marry
+双方 婚后 没有 生育 子女
+O O B_Negated B_Bear O
+原被告 婚后 发现 性格 差异 大 琐事 争吵 影响 夫妻 感情
+O O O O O O O B_FamilyConflict O O O
+现 双方 已经 分居 生活
+O O O B_Separation O

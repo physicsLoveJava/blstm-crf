@@ -1,0 +1,10 @@
+谢某 诉称 原 被告 2011年 6月 人 介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+双方 草率 结婚 婚姻 基础 不 牢 婚后 双方 常 家庭 琐事 发生 争吵 矛盾 日趋 激烈 被告 曾 提出 原告 离婚 写 离婚 协议书 份
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O
+2013年 2月 11日 被告 离家 出走
+O O O O B_FamilyConflict I_FamilyConflict
+现 原告 长期 认真 思考 决定 被告 离婚 请求 法院 判 令 准予 原 被告 离婚
+O B_Person O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+原告 婚姻 存续期 内 领取 房屋 征迁款 181234 元 应 夫妻 共同 财产 予以 分割
+O O O O O B_Wealth I_Wealth B_Price I_Price O O B_CommonProperty I_CommonProperty O O

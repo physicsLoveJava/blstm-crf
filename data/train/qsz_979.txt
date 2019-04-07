@@ -1,0 +1,4 @@
+原告 被告 经人介绍 相识 双方 交往 两 月 左右 2015年 12月 25日 办理 结婚 登记 手续
+O O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+原被告 婚姻 关系 存续 期间 共同 生育 长子 杨凯淇 2016年 10月 15日 出生 原被告 结婚 后 感情 尚 原告 生育 孩子 后 被告 找 借口 不 回家 原告 哺乳期 内 原告 儿子 不尽 抚养 照顾 义务
+O O O O O O B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O O

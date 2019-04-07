@@ -1,0 +1,6 @@
+原告 郭×诉 称 被告 2009年 7月 29日 登记 结婚 婚后 双方 无 子女
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+婚后 被告 不 履行 家庭 义务 不 尊重 异性 不 正当 关系 常常 侮辱 严重 影响 夫妻 感情
+O O O O O B_FamilyConflict O O I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O
+婚后 曾 共同 湖北省 宜昌市 夷陵区 购买 住房 套
+O O B_CommonProperty I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

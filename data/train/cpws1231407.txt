@@ -1,0 +1,8 @@
+原告 程某 诉称 原告 程某 被告 李某 甲 经人介绍 认识 2008年 7月 订婚 2008年 农历 12月 20日 举行 婚礼
+O O O O O O O O O B_Know O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+2010年 3月 27日 生 女孩 李某 乙 现在 跟着 原告 程某 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+原告 程某 被告 李某 甲 2010年 7月 12日 郓城县 民政局 办理 结婚 登记 婚前 了解 少 婚后 没有 建立 良好 夫妻 关系 再 两 人 性格 不合 事情 意见 分歧 大
+O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 被告 李某 甲 离婚
+O O O O B_DivorceLawsuit

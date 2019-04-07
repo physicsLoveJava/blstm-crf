@@ -1,0 +1,8 @@
+原被告 2007年 10月 自由 恋爱 关系 2009年 初 举行 婚礼 2009年 4月 14日 办理 结婚 登记
+O B_Time I_Time I_BeInLove I_BeInLove I_BeInLove B_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2009年 9月 11日 生育 长女 刘贞鑫 2013年 9月 9日 生育 长子 刘贞蒂
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 结婚 初期 感情 尚 好 2016年 底 以来 双方 家庭 琐事 争吵 打架 感情 不和
+O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O
+2017年 3月 15日 原被告 打架 后 被告 回 娘家 居住
+B_Time I_Time I_Time O B_FamilyConflict O O B_Separation I_Separation I_Separation

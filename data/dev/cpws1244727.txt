@@ -1,0 +1,12 @@
+原告 陈 xx 诉称 原 被告 1999年 12月 经人介绍 认识 恋爱 双方 2000年 5月 18日 冷水滩区 蔡市镇 登记 结婚
+O O O O O O B_Time I_Time O B_Know B_BeInLove O B_Time I_Time I_Time O O O B_Marry
+2003年 8月 1日 生 男孩 取名 卿 xx
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2007年 7月份 被告 外地 开 货车 后 被告 外 常 发生 不 正当 关系 2009年 5月 29日 被告 还 原告 出具 份 保证书
+O O O O O O O B_Person O O O B_Derailed I_Derailed I_Derailed O O O O O O O O O
+二 原告 离婚 原因 不 被告 外 别人 不 正当 关系 真正 原因 原告 第三者
+O O O O O O O O O O O O O B_Person B_Derailed
+2． 位于 冷水滩区 春江 市场 二 栋 306 号 房子 被告 所有 用于 儿子 将来 结婚
+O O O O O O O O O B_Wealth O O O O O O
+3． 双方 夫妻 存续 期间 所得 钱 全 原告 管理 结婚 2011年 12月 25日 双方 共有 存款 291942．04 元 存款 属于 夫妻 共同 财产 应 人 一半 原告 分割 14．6万 元 被告
+O O O O O O O O O O O O O O O B_CommonProperty B_Wealth B_Price I_Price O O O O O O O O O O O O O

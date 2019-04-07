@@ -1,0 +1,2 @@
+原告 王某 诉称 被告 2006年 相识 2009年 1月 6日 登记 结婚 婚后 生育 子 名 李明宇
+O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O B_Name

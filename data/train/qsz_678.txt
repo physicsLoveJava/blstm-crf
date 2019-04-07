@@ -1,0 +1,2 @@
+2012年 原 被告 相识 双方 2013年 月 4日 办理 结婚 登记 2014年 2月 2日 生育 长子 马诗博 2016年 10月 9日 生育 长女 马悦桐
+B_Time O O B_Know O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name

@@ -1,0 +1,12 @@
+原 被告 经人介绍 相识 双方 均 系 再婚
+O O O B_Know B_Person O O B_Remarry
+2010年 2月 3日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 婚后 无 共同 生育 子女
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O O B_Negated O B_Bear O
+婚前 缺乏 了解 婚后 发现 夫妻 感情 不合
+O O O O O O B_FamilyConflict I_FamilyConflict
+被告 懒惰 成天 无所事事 酗酒 成性 被告 原告 家庭 不 负 责任
+B_Person O O O B_BadHabit O O O O O O O
+双方 性格 不合 原、被告 双方 家庭 琐事 生气 吵架
+O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict
+2018年 5月份 原告 离家 外出 打工 原被告 双方 至今 分居 五 月 久 夫妻 感情 已 彻底 破裂
+B_Time I_Time O O O O O O B_Time B_Separation B_Duration I_Duration O O O O O O

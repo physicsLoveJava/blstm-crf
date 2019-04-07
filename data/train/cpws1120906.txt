@@ -1,0 +1,6 @@
+原告 王某 诉称 被告系 经人介绍 相识 相识 月 后 2008年 3月 24日 唐海县 民政局 婚姻 登记处 依法 登记 结婚
+O O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry I_Marry
+婚后生 女 刘一睿 现 三 周 半
+B_Bear I_Gender B_Name O B_Age I_Age I_Age
+双方 婚前 缺乏 了解 草率 结婚 致使 婚后 家庭 琐事 争吵 不 休 现 已 分居 年 半 久
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation I_Duration I_Duration O

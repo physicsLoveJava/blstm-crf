@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 相识 2010年 5月 1日 举行 结婚 仪式 ×××× 年×× 月××日 枣强县 民政部门 补办 结婚 登记 手续 ×××× 年×× 月×× 日 生育 女孩 取名 贾 某乙 现 跟随 被告 生活
+O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O
+2012年 农历 3月 被告 分居 今 导致 感情 完全 破裂 诉至法院 请求 法院 依法 判 令 被告 离婚
+B_Time I_Time I_Time O B_Separation I_Time O O O O O O O O O O O O
+被告 辩称 原 被告 经人介绍 相识 2009年 8月 双方 确立 恋爱 关系 之后 原告 去 外地 工作 工作 期间 原 被告 每天 都 上网通 电话 慢慢 建立 深厚 感情 基础
+O O O O O O B_Time I_Time O O B_BeInLove O O O O O O O O O O O O O O O O O O O
+2010年 5月 双方 感情 牢固 基础 举行 结婚 仪式 婚后 感情 好 尤其 女儿 贾某乙 出生 使 原 被告 相互 鼓励 共同 进步
+B_Time I_Time O O O O B_Marry I_Marry I_Marry O O O O O O O O O O O O O O

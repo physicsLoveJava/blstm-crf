@@ -1,0 +1,14 @@
+2003年 11月 原 被告 经人介绍 相识 2004年 农历 腊月初三 民间 风俗 举行 婚礼 共同 生活
+B_Time I_Time O O O B_Know B_Time I_Time I_Time O O O B_Marry O O
+2006年 7月 19日 民政 机关 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry O O
+2005年 11月 25日 原告 生长 女 张鑫杨 2008年 9月 22日 原告 生长子 张君豪
+B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Bear B_Name
+原告 欲 外出 打工 时 被告 加 坚决 反对 原 被告 为此 生气 打架 夫妻 感情 产生 裂报
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+原告 为此 曾 先后 三 次 被告 分居 72 被告 每次 都 表示 改过 同意 家中 财权 交给 原告 每次 原告 原谅 被告 后 被告 史 加 变本加厉 原告 家中 不仅 没有 财权 更 基者 被告 不 原告 外出 曾 次 原告 反锁 家中 致使 原 被告 夫妻 感情 破裂 原告 被告 彻底 心灰意冷
+O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 曾 2017年 3月 贵院 提起 离婚 诉讼 贵院 审理 做出 判决 驳回 原告 诉讼 请求
+O O B_Time I_Time O O O O O O O O O O O O
+原 被告 没有 联系 感情 彻底 破裂 无 和好
+O O B_Separation I_Separation O O O O O

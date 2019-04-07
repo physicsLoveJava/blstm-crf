@@ -1,0 +1,4 @@
+原告 傅某 诉称 双方 恋爱 时间 短 缺乏 了解 感情 基础 薄弱 婚后 双方 缺乏 信任 沟通 性格 不合 琐事 争吵
+O O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict
+夫妻 感情 已经 完全 破裂 现 要求 1 判 令 傅某 嵇某 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

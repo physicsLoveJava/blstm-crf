@@ -1,0 +1,10 @@
+原被告 2004年 3月 人 介绍 相识 确立 恋爱 关系 2005年 夏季 登记 结婚 原告 系 再婚
+O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time O B_Marry B_Person O B_Remarry
+原被告 婚后 育 子 取名 刘鑫东 2007年 1月 5日 出生. 原被告 婚后 性格 不同 没有 共同语音 之间 时常 争吵 打架 感情 不和 原告 总是 采取 忍让 克制 态度 被告 却 丝毫 不 注重 夫妻 感情 培养 家庭 不尽 责任 辱骂 殴打 原告 致使 双方 感情 破裂 为此 原被告 2014年 民政部门 协议 离婚
+O O B_Bear B_Gender O B_Name O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O O O O O O O B_Person O O O O O O O O O O O B_DomesticViolence B_Person O O O O O O O O O O
+后 亲朋 劝说 原被告 2016年 9月 30日 重新 办理 结婚 登记
+O O O O B_Time I_Time I_Time O O B_Marry O
+复婚 后 被告 仍 恶习 不 改 致使 原被告 之间 矛盾 越来越 深 感情 彻底 破裂 为此 原告 曾 2017年 8月 武清区 人民法院 提起 离婚 诉讼 后 该院 2017 津0114 民 初9918 号 民事 判决书 驳回 原告 诉讼 请求
+O O O O O O O O O O O O O O O O O B_Person O B_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+双方 仍 分居 生活 不 好 婚姻 关系 P 名存实亡
+O O B_Separation O O O O O O O

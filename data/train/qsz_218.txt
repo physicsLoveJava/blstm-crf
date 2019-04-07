@@ -1,0 +1,6 @@
+原 被告 1994年 经人介绍 相识 确立 恋爱 关系 1996年 举行 仪式 后 问居 生活 1997年 12月 1口 生育 子赵凯 1998年 3月 25 口 补 办 结婚 登记 手续
+O O B_Time O B_Know O B_BeInLove O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+原 被告 婚后 感情 般 2014年 8月份 原、被告 琐事 产生 矛盾 争吵 打架 后 原告 发现 被告 保持 不 正当 关系 夫妻 感情 逐渐 破裂 被告 家庭 孩子 不尽 义务 没有 责任感 夫妻 之间 难以 沟通
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_Person B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O
+2015年 初 被告 离家 至今 未 现 双方 已经 分居 两 年
+B_Time I_Time O O B_Time O O O O B_Separation B_Duration I_Duration

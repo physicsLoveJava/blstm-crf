@@ -1,0 +1,12 @@
+原 告诉 称 原告 2001年 3月 人 介绍 被告 认识 见 面 后 父亲 令 媒妁 言 撮合 下 同年 6月 26日 浦阳镇 人民政府 领取 结婚证
+O O O O B_Time I_Time O O O B_Know O O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+×××× 年×× 月×× 日 生 下 女儿 张某 乙 2007年 5月 生 下 儿子 张某丙
+B_Time I_Time I_Time I_Time B_Bear O B_Gender B_Name I_Name B_Time I_Time B_Bear O B_Gender B_Name
+婚前 双方 缺乏 了解 感情 基础 薄弱 双方 学识 生活 环境 生活 习惯 不同 被告 家庭 极 不 负责 懒惰成性 家里 东西 都 不 整理 家务事 不 做 被告 内衣 内裤 都 原告 年迈 母亲 洗 平时 生活 不 检点 沉溺 赌博 夜 不 宿 女儿 儿子 教育 极 少 说是 漠不关心 被告 怀疑 心 严重 无端 指责 原告 外遇 造谣中伤 损坏 原告 名誉 被告 姐妹 强势 干预 家庭 生活 原告 恶语 相加 加重 原告 精神 压力
+O O O O O O O O O O O O O O B_Person O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+结婚 以来 生活 习惯 赌博 恶习 原因 吵架 少 夫妻 生活 2012年 1月 分居 没有 夫妻 生活
+O O O O O O O B_FamilyConflict O O O B_Time I_Time B_Separation O O O
+2013年 正月 被告 赌博 原因 吵架 外出 至今 未
+B_Time I_Time O O O B_Separation I_Separation O O
+现 原告 诉至法院 要求 依法 判 令 1 原告 被告 离婚
+O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

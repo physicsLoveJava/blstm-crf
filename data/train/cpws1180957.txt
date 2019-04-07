@@ -1,0 +1,4 @@
+原告 刘某 诉称 被告 2002年 经人介绍 相识 2004年 12月 8日 登记 结婚 婚后 生育 子
+O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear I_Gender
+被告 婚前 感情 婚后 家庭 琐事 吵闹 致使 感情 破裂 已 无法 继续 共同 生活
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

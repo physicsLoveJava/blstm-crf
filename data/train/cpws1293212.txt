@@ -1,0 +1,4 @@
+原告 袁某 诉称 被告 经人介绍 认识 相识 后 双方 感情 不 甚 和睦 碍于 介绍人 朋友 说 双方 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Know O O O O O O O O O O O O O O O O O B_Marry
+被告 不 不 问 不 信任
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

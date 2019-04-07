@@ -1,0 +1,12 @@
+原告 孙某 诉称 原被告 1996年 6月 相识 谈婚 1999年 9月 28日 登记 结婚
+O O O O B_Time I_Time B_Know O B_Time I_Time I_Time B_Marry I_Marry
+2001年 6月 13日 婚生 女 名 冯 某实
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 家庭 成长 环境 差异 大 个性 不同 婚后 生活 中 显露 双方 冷战 不 断 致使 原告 身心 受到 损害 夫妻 感情 淡薄
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+原被告 之间 生活 家庭 认识 不同 没有 共同 生活 目标 兴趣 爱好 造成 根本性 无法 交流 双方 长期 漠然 无语 导致 夫妻 感情 完全 破裂
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+维护 原告 合法 权益 特 法院 提起 诉讼 请求 法院 依法 解除 原被告 之间 婚姻 关系 婚生 女 原告 共同 生活 被告 每月 支付 800 元 抚养费 依法 分割 夫妻 共同 财产
+O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O
+被告 冯某 辩称 被告 不 同意 离婚 双方 感情 好 不 存在 原告 诉状 中 称 感情 破裂 情况
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

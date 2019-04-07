@@ -1,0 +1,10 @@
+原告 林某 起诉 称 原 被告 ×××× 年×× 月经 人 介绍 相识 于×××× 年×× 月×× 日 订婚
+O O O O O O B_Time I_Time I_Time O O B_Know O O O O O
+×××× 年×× 月××日 双方 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+2012年 12月 双方 分居 生活
+B_Time I_Time O B_Separation O
+二 返还 原告 价值 45200 元 婚前 嫁妆
+O O B_Person O B_Price I_Price B_PersonalProperty B_Wealth
+原告 回 娘家 分居 生活 具体 争吵 时间 已经 记不清 原告 回 娘家 后 回来
+O O O B_Separation O O O O O O O O O O O

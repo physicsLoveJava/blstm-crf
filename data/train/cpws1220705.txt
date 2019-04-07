@@ -1,0 +1,12 @@
+原告 尚×诉 称 原 被告 2008年 1月 23日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2009年 1月 26日 双方 育 女 宋京京
+B_Time I_Time I_Time O B_Bear B_Gender B_Name
+被告 赌博成性 酗酒 缺乏 家庭 责任感
+B_Person B_BadHabit I_BadHabit B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 还 毫无 依据 怀疑 原告 外遇 双方 争吵
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict
+原告 曾 2012年 起诉 离婚 后 法院 驳回 原告 诉讼 请求
+B_Person O B_Time B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment O O O
+现 要求 解除 原、被告 双方 婚姻 关系 女儿 宋京京 原告 抚养 被告 每月 付 生活费 500 元
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O

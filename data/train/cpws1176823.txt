@@ -1,0 +1,16 @@
+原告 李 某某 诉称 原告 经人介绍 被告 认识 94年 10月 9日 办理 结婚 登记
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry
+1995年 农历 正月 十五日 生育 长子 取名 孙某 甲
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+2001年 农历 11月 17日 生育 次子 取名 孙某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 双方 性格 不和 常 家庭 琐事 吵架
+O O O O O O O B_FamilyConflict
+原告 2008年 外出 打工 已 实际 分居 六 年 久 夫妻 关系 已 名存实亡
+O O O O O O B_Separation B_Duration I_Duration O O O O O
+被告 孙 某某 辩称 原告 未 被告 离婚 情况 下 同居 生活 生育 女孩 原告 坚持 离婚 应 赔偿 被告 精神 抚慰金 3万 元
+O O O O B_Person O O O O O I_Derailed I_Derailed O O O O O O O O O O O O
+两 儿子 未 抚养 义务 家中 房子 均 被告 借款 建
+O O O O O O B_Wealth O B_PersonalProperty O O
+目前 尚 欠 外债 近 7万 元
+O O O B_Debt O B_Price I_Price

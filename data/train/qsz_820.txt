@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 f2008 年 11月 14日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 婚生 2009年 10月 15日 生育 长女 赵琪瑜 2011年 农历 10月 29日 生育 长子 赵国旺
+O O O O B_Time I_Time I_Time I_Time O O O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 少 结婚 后 原、被告 双方 发现 性情 不 投 生气 吵架
+O O O O O O O O O O O O B_FamilyConflict
+被告 外遇 原告 张口 骂 动手 夫妻 感情 已 彻底 破裂
+B_Person I_Derailed B_Person O O I_DomesticViolence O O O O O
+现原 被告 分居 已 达 两 年 未 和好
+O O B_Separation O O B_Duration I_Duration O O

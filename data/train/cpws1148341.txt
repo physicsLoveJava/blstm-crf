@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 ×× ×× 年×× 月××日 莱西市 民政局 登记 结婚 婚生 女孩 葛某 甲 现年 10 岁 男孩 葛某 乙 现年 3 岁
+O O O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry B_Bear B_Gender B_Name I_Name O B_Age I_Age B_Gender B_Name I_Name O B_Age I_Age
+婚后 原、被告 琐事 发生 争执 现 夫妻 双方 感情 已 完全 破裂 请求 法院 依法 判 令 1 原 被告 离婚 婚生 女孩 葛某 甲 原告 抚养 男孩 葛某 乙 被告 抚养 子女 抚养费 双方 负担 原告 葛某甲 每月 周 周日 探望 次
+O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

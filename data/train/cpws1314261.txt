@@ -1,0 +1,12 @@
+原告 卢 X 红诉 称 原告 被告 经人介绍 认识 自由 恋爱 后 1981年 2月 25日 广西 平果县 马头镇 民政办 登记 结婚
+O O O O O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry
+双方 性格 不和 婚后 生活 琐事 吵架
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+夫妻 共同 生活 期间 被告 比较 强势 脾气 暴躁 原告 实施 家庭 暴力 曾经 原告 伤 原告 为此 曾 平果县 马头 派出所 报警
+O O O O B_Person O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O
+原告 认为 被告 行为 使 原告 身心 受到 伤害 双方 夫妻 感情 已经 完全 破裂 无法 继续 共同 生活 原告 分别 1997年 2003年 2008年 2009年 人民法院 提起 诉讼 请求 被告 离婚 法院 判决 不准 予 双方 离婚 原告 撤诉 后 双方 矛盾 激化 夫妻 感情 未 改善
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Time B_Time B_Time B_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O
+为此 原告 现 再 次 人民法院 起诉 请求 法院 判决 原告 被告 离婚 婚生 女儿 王 X 跟随 原告 生活 婚生 儿子 王 X 栋 跟随 被告 生活 夫妻 共同 财产 中 位于 平果县 旧糖厂 旧 三 栋 C 座 X 号 房 原告 所有 电冰箱 台 电动车 辆 被告 所有
+O O O O O B_Court O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Wealth O B_Wealth O O O
+原告 1997年 以来 四 次 人民法院 起诉 请求 法院 判决 原告 被告 离婚 事实 被告 没有 打骂 原告 殴打 原告
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_Negated B_Person O B_DomesticViolence B_Person O O

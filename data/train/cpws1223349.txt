@@ -1,0 +1,10 @@
+原 告诉 称 被告 2009年 6月 人 介绍 相识 风俗 订立 婚约
+O O O O B_Time I_Time O O B_Know O O O
+被告 我家 举行 结婚 仪式 后 三 天 2012年 1月 3日 无故 离家 出走 9月 1日 回家 后 无端 制造 夫妻 矛盾 家庭 矛盾 婚姻 关系 名存实亡
+O O B_Marry I_Marry O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2012年 起诉 离婚 金台区 人民法院 判决 不准 予 双方 离婚
+B_Time B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment O O
+宣判 后 被告 不 珍惜 好 机会 2012年 12月 1日 持械 闹事 公安 机关 处理
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O
+没有 殴打 原告 父母 父母 家 后 原告 父母 不 父母 进 家门 才 发生 冲突 原告 哥哥 还 人
+O O O O O O O O O O O O O O O O B_Person I_Person O O

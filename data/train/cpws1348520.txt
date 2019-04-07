@@ -1,0 +1,8 @@
+原告 李某 诉称 原 被告 经人介绍 19XX 年 X 月 X 日 登记 结婚 20XX 年 X 月 XX 日 生育 大 女儿 20XX 年 X 月 XX 日 生育 二 女儿
+O O O O O O B_Time I_Time I_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear O B_Gender B_Time I_Time I_Time I_Time I_Time I_Time O O B_Name
+被告 不尽 家庭 义务 婚后 家务 琐事 争吵 致 夫妻 感情 破裂
+O O O O O O O B_Separation I_Separation O O O
+原告 曾 20XX 年 X 月 XX 日 起诉 离婚 后 被告 不 同意 离婚 撤回 起诉 双方 分居 生活
+B_Person O B_Time I_Time I_Time I_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O B_Separation O
+请求 法院 依法 判 令 1 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 系 经人介绍 认识 2002年 9月 3日 登记 结婚 2003年 6月 13日 生 女孩儿 名 杨某甲
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原告 婚前 被告 缺乏 了解 导致 婚后 被告 原告 辱骂 殴打 原告 以为 忍让 被告 性格 慢慢 改善 增进 夫妻 感情 却 事与愿违 特别 2003年 原 被告 生育 女 后 被告 暴躁 性格 不但 没有 结婚 时间 推移 生育 女儿 有所 丝毫 改观 变本加厉 原告 更 谩骂 殴打 原告 想 被告 解除 段 没有 感情 婚姻 考虑 孩子 能够 健康 成长 家庭 便 忍受 被告 欺辱 直到 2012年 6月份 原告 被告 发生 争吵 后 被告 便 没有 回家 使 原 被告 夫妻 感情 彻底 破裂 再 无 和好
+O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O B_Time O O B_Bear B_Gender O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+判 令 原 被告 离婚 应当 判 令 婚生 女 杨某 甲 被告 抚养 原告 每月 应 付 抚养费 600 900 元 女儿 18 岁 周岁 时 止 孩子 出生 没有 离开 被告
+O O O O O O O O O O O O O O O O O O O O O O I_Age I_Age I_Age I_Age I_Age I_Age O O O O O

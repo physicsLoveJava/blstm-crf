@@ -1,0 +1,16 @@
+原告 施 X 霞诉 称 2007年 初 原告 被告谢 X 茂 经人介绍 相识 未经 深入 交往 同居 同年 4月 6日 登记 结婚
+O O O O O B_Time I_Time O O O O O B_Know O O O O O B_Time I_Time B_Marry I_Marry
+原 被告 均 再婚 婚前 儿女
+B_Person I_Person O B_Remarry O O
+原 被告 婚前 认识 时间 短 相互 了解 不够 时间 推移 原告 发现 被告 性格 古怪 两 人 不能 信任 矛盾 不 断 家庭 小事 争吵 不 休
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 疑心 重 怀疑 原告 生活 作风 问题 无故 制造 事端 恐吓 原告 导致 原告 精神 紧张 进一步 加剧 夫妻 关系 恶化
+O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+原 被告 再 婚后 不久 原告 才 知道 被告 沉迷 赌博 债主 每次 上门 追 债 都 原告 还债 年 间 原告 被告 偿还 8000 元 赌债
+O O O O O O O O B_Person O B_BadHabit O O O O O O O O O O O O O O O O
+被告 没有 稳定 工作 年 没有 家庭 提供 生活费 家庭 全部 开支 均 原告 摆卖 一点 纸宝 蜡烛 微薄 收入 维持 生活
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+原告 婚姻 已 完全 失望 现存 婚姻 关系 已经 名存实亡 夫妻 感情 完全 破裂
+B_Person O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+特 法院 提起 诉讼 判决 准予 原告 施 X 霞 被告谢 X 茂 离婚
+O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O

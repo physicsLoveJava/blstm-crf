@@ -1,0 +1,6 @@
+原告 被告 2001年 相识 北京 2006年 7月 天津 蓟州区 民政局 登记 结婚
+O O B_Time B_Know O B_Time I_Time O O O B_Marry I_Marry
+婚后 2011年 生 子
+O B_Time B_Bear B_Gender
+无 共同语言 平时 少 沟通 2016年 12月 双方 分居 2017年 年初 回到 湖南 定店 今己 年 有余
+O O O O O B_Time I_Time O B_Separation O O O O O O O O

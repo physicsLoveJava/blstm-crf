@@ -1,0 +1,6 @@
+原 被告 双方 经人介绍 相识 2015年 11月份 登记 结婚 婚后 双方 遇 事 不 进行 沟通 交流
+O O O O O B_Time I_Time B_Marry I_Marry O O O O O O O O
+导致 生气 吵架
+O B_FamilyConflict I_FamilyConflict
+后 双方 2017年 1月 6日 进行 结婚 登记 登记 月 后 2月 6日 双方 吵架 分居 生活 今 分居 期间 无 往来 交流
+O O B_Time I_Time I_Time O B_Marry I_Marry O O O B_Time I_Time O O B_Separation O O O O O O O

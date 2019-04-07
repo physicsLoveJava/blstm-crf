@@ -1,0 +1,16 @@
+原告 邬某 起诉 称 原 被告 2010年 7月 1日 登记 结婚 2011年 1月 24日 育 女 张继文
+O O B_DivorceLawsuit O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 夫妻 两地 分居
+O O O B_Separation
+被告 家庭 琐事 殴打 原告 为此 写 下 保证书
+B_Person O O B_DomesticViolence B_Person O O O O
+被告 置 保证 不顾 继续 殴打 原告
+B_Person O O O O B_DomesticViolence B_Person
+后 被告 苦苦 哀求 原告 同意 复婚 2013年 2月 27日 登记 结婚
+O B_Person O O B_Person O O O O O I_Remarry I_Remarry
+复婚 后 被告 仍 不 珍惜 夫妻 感情 生活 琐事 原告 发生 争吵 离婚 要挟
+O O O O O O O O O O O O B_FamilyConflict O O
+结婚 以来 被告 原告 辱骂 殴打 离家 出走 系列 行为 已 原告 继续 维持 段 婚姻 彻底 失去 信心 夫妻 感情 已 完全 破裂 诉至法院 请求 判决 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O
+夫妻 双方 确 家庭 琐事 发生 争吵 被告 未 殴打 原告
+O O O O O O O O I_DomesticViolence I_DomesticViolence O

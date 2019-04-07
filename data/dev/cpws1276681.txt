@@ -1,0 +1,10 @@
+原告 周 XX 诉称 原 被告 1996年 2月 人 介绍 相识 1997年 9月 登记 结婚 1999年 3月 生育 子 周 XX
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time O B_Marry B_Time I_Time B_Bear O B_Name I_Name
+2003年 被告 单位 辞职 经商 后 家庭 孩子 关心 逐渐 减少 夫妻 感情 疏远
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2004年 分房 居住
+B_Time B_Separation I_Separation
+2011年 10月 2012年 6月 原告 曾 提起 诉讼 要求 离婚 均 未果
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+原告 认为 双方 夫妻 感情 已 破裂 提起 诉讼 要求 被告 离婚 婚生子 原告 共同 生活 被告 每月 支付 抚育费 人民币 以下 币种 1 500 元 婚后 财产 依法 分割
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O

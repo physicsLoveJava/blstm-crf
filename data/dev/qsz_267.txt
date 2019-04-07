@@ -1,0 +1,8 @@
+原被告丁 2010年 初 经人介绍 相识片 建立 恋爱 关系 2010年 5月 原告 被告 米 天津 巾武 消区 杨村镇 经营 砂 不料 丁 201I12J 14II 生育 子 郭 章浩
+O B_Time I_Time O B_Know O B_BeInLove O O O O O O O O O O O O O O O O B_Bear B_Gender B_Name I_Name
+2013年 5月 21日 补 办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry
+常 生活 琐事 争吵 打架 被告 平日 不 务 止业 原告 施 家脏 暴力 原告 怀孕 期间 仍 实施 家庭 暴力 常 原壮 生命 造成 威胁 原巴 报警 公安 武清 分局 卜朱庄 派出所 山警 没有 制止 被告 暴刀 行为 原告 2017年 2月 起诉 被告 离婚 武清区 人民法院 2017 汴 0l14 民初 1503 号 判决书 判决 准 离婚
+O O O B_FamilyConflict I_FamilyConflict B_Person O O O O B_Person O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court O O O O O O B_Document O I_Judgment I_Judgment
+判决 后 双方 仍 没有 好衣示 原告 起诉 丁被告 好 意思 原告 撤诉
+O O O O O O B_Person I_DivorceLawsuit O O O B_Judgment I_Judgment

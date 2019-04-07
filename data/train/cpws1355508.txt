@@ -1,0 +1,4 @@
+原告 查 某某 诉称 原 被告 双方 1982年 自由 相识 恋爱 1987年 11月 21日 登记 结婚 1989年 2月 24日 生 子 名洪博 现 已 成年
+B_Person I_Person I_Person O O O O B_Time O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Gender O O O
+现 双方 性格 不合 夫妻 感情 完全 破裂 无 好 诉至法院 请求 依法 判 令 1 原 被告 双方 离婚
+O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O

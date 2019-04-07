@@ -1,0 +1,8 @@
+原告 黄某 甲诉 称 原 被告 系 自由 恋爱 1989年 4月 登记 结婚 生育 二 小孩
+O O O O O O O O O B_Time I_Time B_Marry I_Marry O O O
+2009年 被告 回家 后 沉迷 打牌 赌博 听 不 进 原告 劝告 导致 原、被告 夫妻 感情 淡薄
+O B_Person O O O B_BadHabit I_BadHabit O O O O O O O O O O
+原告 曾 法院 两 次 起诉 离婚 未果
+B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment
+现 双方 夫妻 感情 破裂 原告 请求 法院 判 令 原 被告 离婚 婚生 小孩 黄某 乙 原告 抚养 不 要求 被告 承担 小孩 抚养费 夫妻 共同 财产 被告 所有 夫妻 共同 债务 被告 负责 偿还
+O O O B_FamilyConflict I_FamilyConflict O O O O O O O O B_Bear O B_Name I_Name O O O O O O O O O O O O O O O O O O O

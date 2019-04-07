@@ -1,0 +1,4 @@
+原告 柏某 诉称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 婚后 感情
+O O O O O O B_Know B_Time I_Time I_Time I_Time O B_Marry O O
+孩子 已 成家 原告 决意 被告 解除 婚姻 关系 请求 准予 原被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

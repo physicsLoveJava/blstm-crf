@@ -1,0 +1,4 @@
+原告 宋某 诉称 原 被告 均 系 再婚
+O O O B_Person I_Person O O B_Remarry
+原告 曾 2013年 1月 21日 法院 提起 离婚 诉讼 法院 判决 不 准 离婚 后 双方 仍 未 和好 夫妻 感情 彻底 破裂
+O O B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O

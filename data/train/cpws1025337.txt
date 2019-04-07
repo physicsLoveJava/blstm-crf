@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 双方 20XX 年 X 月经 人 介绍 相识 20XX 年 X 月 登记 结婚 婚后 未 生育
+O O O O O O B_Time I_Time I_Time I_Time O O B_Know B_Time I_Time I_Time I_Time O B_Marry O B_Bear I_Bear
+婚后 双方 家庭 琐事 发生 争吵 发生 夫妻 之间 正常
+O O O O O B_FamilyConflict O O O O

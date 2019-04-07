@@ -1,0 +1,10 @@
+原告 封 某某 诉称 原 被告 经人介绍 相识 三 天 便于 2009年 11月 27日 登记 结婚 婚后 被告 2010年 3月 湖南省 常德市 公安局 逮捕 之后 涉嫌 组织 领导 传销 活动 判刑 2 年
+O O O O O O O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O
+原告 曾 2013年 1月 南岸区 人民法院 起诉 离婚 后 南岸区 人民法院 2013年 2月 27日 作出 2013 南法 民初字 第03183 号 民事 判决书 判决 驳回 封 某某 诉讼 请求
+O O B_Time I_Time O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O B_Time I_Time I_Time O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+现 原告 起诉 要求 判决 原 被告 离婚
+O O I_DivorceLawsuit O O O O O
+被告 某某 辩称 原 被告 均 系 再婚
+O O O O O O O B_Remarry
+双方 2009年 11月 朋友 介绍 相识 后 2009年 11月 27日 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry

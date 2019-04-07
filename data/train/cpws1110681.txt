@@ -1,0 +1,6 @@
+原告 欧某 诉称 原被告 经人介绍 相识 农村 风俗 举行 婚礼 1997年 4月 26日 生 儿子 欧甲 ×××× 年×× 月××日补办 结婚 登记 结婚
+O O O O O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time B_Marry I_Marry O O
+婚前 缺乏 了解 婚后 性格 不合 常 家庭 琐事 发生 吵闹
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+原告 曾 2010年 起诉 离婚 被告 不 同意 未能 离开 双方 分居 生活 夫妻 感情 已 彻底 破裂
+O O B_Time B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment O B_Separation O O O O O O

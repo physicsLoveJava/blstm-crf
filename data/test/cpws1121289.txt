@@ -1,0 +1,18 @@
+原告 贺 某某 诉称 原 被告 均 系 再婚
+O O O O B_Person I_Person O O B_Remarry
+原 被告 2006年 夏天 认识 不 长 时间 同居 生活 2008年 5月 21日 定边县 民政局 登记 结婚 2008年 农历 2月 20日 生 男孩 取名 高某 现 5 周岁
+O O B_Time I_Time B_Know O O O O O B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age
+2008年 9月份 贺圈 集镇 小学 附近 盖 北 房 5 间 东房 间
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+家中 现有 债务 欠 原告 父亲 36500 元 欠 原告 妹妹 8000 元
+O O B_Debt O B_Person I_Person B_Price I_Price O B_Person I_Person B_Price I_Price
+债权高 某某 5000 元 丁 某某 11000 元
+B_Credit B_Person B_Price I_Price B_Person I_Person B_Price I_Price
+被告 家庭 暴力 恶习 原告 恐惧 中 度日 日盛一日 原告 提出 离婚 请求 儿子 原告 抚养 被告 承担 抚养费 家庭 财产 依法 分割
+B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O
+被告 高 某某 辩称 原告 述 双方 均 系 再婚 双方 再 婚前 子女 双方 认识 时间 同居 时间 登记 结婚 时间 生育 儿子 高某 时间 盖房 时间 均 属实
+O O O O O O O O O O O O O O O B_Know I_Know O O B_Marry I_Marry I_Marry B_Bear I_Bear I_Bear I_Bear O O O B_Negated
+欠 原告 父亲 36500 元 属实 欠 原告 妹妹 贺敏 14万 元 已 还 欠据 未 抽 回 现 只 欠 8000 元
+B_Debt B_Person I_Person O O B_Negated B_Debt B_Person I_Person I_Person O O O O O O O O O O O O O
+高 某某 5000 元 属实
+B_Person I_Person O O B_Negated

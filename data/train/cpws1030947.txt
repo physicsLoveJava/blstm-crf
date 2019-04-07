@@ -1,0 +1,22 @@
+原告 杨某 甲诉 称 ×××× 年×× 月 原告 媒人 介绍 被告缪 认识 恋爱 于×××× 年×× 月××日 福安市 民政局 办理 结婚 登记 领取 结婚证 结婚证 字号 010704720 号 ×××× 年××月 间 民间 风俗 结婚
+O O O O B_Time I_Time I_Time O O O O B_Know B_BeInLove B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O O O
+×××× 年×× 月 双方 生育 男孩 不久 病故
+B_Time I_Time I_Time O B_Bear B_Gender O O
+2009年 11月 生 下次 女 取名 杨子梁
+B_Time I_Time B_Bear I_Bear B_Gender O B_Name
+原告 被告 媒人 介绍 认识 认识 时间 短 性格各异 婚姻 基础 差 家庭 琐事 发生 争吵 被告 常 动手 殴打 原告 导致 夫妻 感情 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict B_Person O O B_DomesticViolence B_Person O O O O
+被告 离家 出走 双方 分居 达到 4 年 久
+O O O O B_Separation O B_Duration I_Duration O
+双方 已 无法 好 原告 2011年 10月 28日 福安市 人民法院 提起 离婚 诉讼 福安市 人民法院 2012 安民 初字 第30 号 判决 不准 原 被告 离婚
+O O O O B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+2012年 2月 28日 原告 宁德市 中级 人民法院 提起 上诉 宁德市 中级 人民法院 2012 宁民 终字 第279号 判决 维持 原判
+B_Time I_Time I_Time B_Person B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O B_Judgment I_Judgment
+被告 缪某 辩称 原 被告 经人介绍 认识 恋爱 结婚 沟通 了解 于×××× 年×× 月 领取 结婚证
+O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+二 原告 诉 双方 婚后 被告 常吵 闹 不休 遗弃 子女 殴打 原告 均 属 无稽之谈 原告 没有 证据 证明
+O O O O O B_Person O O O O O B_DomesticViolence B_Person O O B_Negated O O O O
+2008年 被告 生育 男孩 先天性 疾病 母亲 不 科学 抚养 下 3 月 后 夭折
+B_Time O B_Bear B_Gender O O O O O O O O O O O
+2009年 生育 女孩 失望
+B_Time B_Bear B_Gender O

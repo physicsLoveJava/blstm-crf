@@ -1,0 +1,8 @@
+原告宫 某某 诉称 原 被告 2006年 3月 相识 2007年 2月 22日 确立 恋爱 关系 后 2008年 济宁市 金乡县 民政局 登记 结婚 2009年 5月 21日 女儿
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time B_BeInLove I_BeInLove I_BeInLove O B_Time O O O B_Marry I_Marry O O O O
+双方 生活 环境 习惯 思想 价值 观念 大 不 相同 感情 基础 薄弱
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+被告 济南 原告 共同 生活 后 家庭 琐事 经济 问题 子女 教育 问题 原告 争吵 不 断 原 被告 长期 分房 居住 现 已 分居 感情 破裂
+O O O O O O O O O O O O O O O O O O O B_Duration O O O O B_Separation B_FamilyConflict I_FamilyConflict
+当时 原 被告 两地 分居 原告 父亲 不 赞成 原 被告 结婚 被告 已经 怀孕 原告 深厚 感情 双方 最终 登记 结婚
+O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O

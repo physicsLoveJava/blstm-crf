@@ -1,0 +1,10 @@
+原告 邓 某某 诉称 原 被告 1991年 登记 结婚 婚后 1992年 10月 生育 女 陈甲 1994年 1月 生育 次女 陈乙
+B_Person I_Person I_Person B_DivorceLawsuit O O B_Time O B_Marry O B_Time I_Time B_Bear B_Gender B_Name B_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 长期 打骂 原告 儿女 长期 酗酒 被告 行为 严重 影响 夫妻 感情
+O B_Person O B_FamilyConflict O O O B_BadHabit O O O O O O
+共同 分担 夫妻 关系 存续 期间 债务
+O O O O O O B_Debt
+财产 还 包括 新政 学府 小区 住房 套 登记 大 女儿 名下
+O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O
+暴力 赌博 酗酒 情况 不 实
+B_DomesticViolence B_BadHabit I_BadHabit O O O

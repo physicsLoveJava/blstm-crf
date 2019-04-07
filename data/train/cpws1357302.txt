@@ -1,0 +1,4 @@
+原告 孟 某某 诉称 被告 经人介绍 相识 后 登记 结婚 婚后 双方 性格 不和 生活 琐事 发生 矛盾 被告 脾气 暴躁 公婆 不 敬 现 两 人 关系 恶化 夫妻 感情 破裂 诉至法院 要求 被告 离婚 要求 婚生 女孟 2 某某 抚养
+O O O O O O B_Know O O B_Marry O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O B_Bear B_Gender B_Name I_Name O
+被告 王 某某 辩称 原告 婚前 婚后 感情 好 公婆 不 敬 说话 声音 大
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

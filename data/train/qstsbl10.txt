@@ -1,0 +1,22 @@
+原 被告 双方 2015年 10月 人 介绍 相识 建立 恋爱 关系
+O O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2016年 12月 23日 登记 结婚 婚后 无 子女
+B_Time I_Time I_Time B_Marry I_Marry O B_Negated B_Bear
+婚后 被告 人 自私 由此 原 被告 产生 矛盾 逐步 激化
+O O O O O O O B_FamilyConflict I_FamilyConflict O O
+原 被告 2015年 10月 人 介绍 相识 后 确立 恋爱 关系 2016年 12月 23日 登记 结婚 双方 均 系 初婚 婚后 无 子女
+O O B_Time I_Time O O B_Know O B_BeInLove I_BeInLove I_BeInLove O O O B_Marry I_Marry B_Person O O B_Remarry O B_Bear I_Bear
+第一 次 诉讼 被告 曾 起诉 次
+O O O B_Person O B_DivorceLawsuit O
+均 双方 2018年 1月 分居
+O O B_Time I_Time B_Separation
+坐落 天津市 河西区 黑牛城道 太湖路 交口双迎里 10-4-2501 属于 共同 财产 首付 父母 出 属于 财产 共同 偿还 借款 部分 属于 双方 共同 财产 公积金 账户 余额
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O B_CommonProperty I_CommonProperty B_Wealth O O O I_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth
+房屋 属于 共同 财产 父母 支付 款项 属于 双方 赠与 不 属于 财产 逾期 交付 房屋 违约金 属于 共同 财产
+B_Wealth O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth O O O B_Negated I_Negated I_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth O B_CommonProperty I_CommonProperty
+欠 天津 银行 贷款 婚礼 酒席 定金 3万 余 元
+B_Debt B_Person I_Person O O O O O O O
+原告 认可 双方 共同 生活 。贵院 2018 津 0103 民初 4793 号 页 行 明确 写 明 双方 2018年 1月 分居
+O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation
+1 结婚证 份 证明 夫妻 关系 2 不动产 预告 登记 证明 住房 公积金 组合 借款 抵押 合同 天津市 商品房 买卖 合同 证明 房屋 原告 财产 被告 无关 被告代 原告 偿还 贷款 债权 债务 关系 3 收据 五 页 婚庆 合同 两 页 宴会 合同 四页 证明 债务 属于 共同 债务 4 庭审 记录 证明 没有 共同 生活
+O O O O O O O O O O O O O O O O O O O O O O B_Wealth B_Person I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

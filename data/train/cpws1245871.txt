@@ -1,0 +1,8 @@
+原告 戈某 诉称 原 被告 2004年 初 经人介绍 相识 恋爱 2004年 4月 14日 结婚 2005年 4月 生 子 戈 某某
+O O O O O B_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry B_Time I_Time B_Bear I_Gender B_Name I_Name
+原被告 双方 恋爱 时间 短 婚前 缺乏 了解 结婚 后 感情 不 特别 双方 矛盾 激化
+O O O O O O O O O O O O O O B_FamilyConflict O
+判决 后 双方 继续 分居 矛盾 激化 现 双方 感情 确 已 破裂 没有 和好
+O O O O O B_FamilyConflict O O O O O O O O O
+依法 分割 共同 财产 价值 10万 元 别克 轿车 价值 8万 元 大众 轿车
+O O B_Wealth I_Wealth O O O O O O O O O O

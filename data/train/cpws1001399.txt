@@ -1,0 +1,4 @@
+原告 施某 起诉 称 原 被告 系 自由 恋爱 结婚 相识 相处 多年 感情 尚 好 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O B_BeInLove B_Marry O O O O O O O O O O B_Marry I_Marry
+2013年 3月 原告 发现 被告 外遇 后 原谅 被告 被告 却 不知 悔改 严重 伤害 夫妻 感情
+B_Time I_Time O O O I_Person B_Derailed I_Derailed O O O O O O O O O

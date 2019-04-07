@@ -1,0 +1,16 @@
+原告 高 XX 诉称 2001年 11月 22日 被告 张 XX XX 市 XX 区 民政局 登记 结婚 婚后 双方 性格 不合 家庭 琐事 争执 吵闹 无法 共同 生活 2012年 2月份 被告 张 XX 返回 娘家 居住
+O O O O B_Time I_Time I_Time O O O O O O O O O B_Marry O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation
+2009年 12月 30日 法院 提起 离婚 诉讼 法院 作出 2010 河民 初字 第329 号 民事 判决 未 准予 离婚
+B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O B_Judgment I_Judgment I_Judgment
+2011年 5月 11日 法院 起诉 离婚 法院 作出 2011 河民 初字 第1440 号 民事 判决 未 准予 离婚
+B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O B_Judgment I_Judgment I_Judgment
+2012年 6月份 XX 市 中级 人民法院 提起 上诉 时值 外出 打工 青海省 格尔木 天气 恶劣 交通 不便 无法 庭 2012年 7月 13日 XX 市 中级 人民法院 作出 撤销 上诉 申请
+B_Time I_Time B_Court I_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O
+已 2008年 10月份 分居 今 长 达 五 年 久 夫妻 感情 确 已 破裂 确 无 和好
+O B_Time I_Time B_Separation O O O B_Duration I_Duration O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+特 贵院 第三 次 提出 离婚 请求 请求 法院 准予 离婚 诉讼 费用 被告 张 XX 承担
+O B_Court O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+被告 张 XX 辩称 不 同意 原告 高 XX 离婚 原告 高 XX 婚前 感情 好 婚后 生活 非常 幸福 2003年 1月 生 男孩 高 XX 2008年 8月 生 女孩 高 X
+O O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time B_Bear B_Gender B_Name I_Name
+二 原告 高 XX 构成 重婚罪 2008年 10月份 原告 高 XX 便 离家 出走 多年 不 回家 新疆 格尔木 开 家 五金店 女 公开 夫妻 名义 同居
+O B_Person O O O O B_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O O O O O I_Derailed I_Derailed I_Derailed

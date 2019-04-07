@@ -1,0 +1,10 @@
+1993年 11月 16日 蓟州区 民政局 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+1994年 4月 4日 生育 女儿 张婉宜 已 成年 2006年 8月 13日 生育 儿子 张涵
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚姻 生活 中 被告 无故 打骂 原告 照顾 女儿 原告 忍让 2015年 8月 28日 被告 殴打 原告 原告 报警
+O O O B_Person O B_DomesticViolence B_Person O O O O B_Time I_Time I_Time B_Person B_DomesticViolence B_Person O O
+被告 原告 变本加厉 2015年 10月 30日 被告 殴打 原告 原告 生命 健康 受到 严重 威胁
+O O O B_Time I_Time I_Time B_Person B_DomesticViolence B_Person O O O O O O
+无奈 原告 人民法院 起诉 离婚
+O B_Person O B_DivorceLawsuit I_DivorceLawsuit

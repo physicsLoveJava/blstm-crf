@@ -1,0 +1,4 @@
+原告 刘 某某 诉称 被告 婚前 认识 时间 短 便 草率 结婚 婚后 双方 性格 不合 争吵 被告 平时 外 务工 每年 家庭 寄 钱 不足 一万 元 无法 满足 孩子 上学 家庭 日常 开支 2013年 以来 被告 分文 未 家庭 寄 钱 家庭 孩子 不 不 问
+O O O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 陈 某某 辩称 认为 原告 要求 离婚 理由 原告 心中 人 不 夫妻 感情 破裂 原告 逼 离婚
+O O O O O O O O O O B_Derailed I_Derailed O O O O O O O

@@ -1,0 +1,6 @@
+原告 韦 某某 诉称 原 被告 2002年 4月 广东 东莞市 打工 期间 认识 恋爱 四 月 后 2002年 9月 15日 宁乡县 沙田乡 人民政府 登记 结婚 同年 9月 18日 农村 习俗 举行 婚礼
+O O O O O O B_Time I_Time O O O O B_Know O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O
+2003年 7月 31日 生育 儿子
+B_Time I_Time I_Time B_Bear B_Gender
+后 被告 沉溺 六合彩 赌博 家庭 不闻不问 双方 家庭 琐事 发生 争吵 原告 一气之下 2003年 12月 回 广西 贵 港 老家 生活 分居 今
+O O O B_BadHabit I_BadHabit O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Time I_Time O O O O O O B_Separation O

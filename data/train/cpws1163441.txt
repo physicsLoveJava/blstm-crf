@@ -1,0 +1,10 @@
+生育 子 章某 乙
+B_Bear I_Gender B_Name I_Name
+2011年 10月 原告 已经 无法 再 忍受 长期 争吵 家庭 冷 暴力 决心 被告 分居 现 处于 分居 状态 被告 行为 已 严重 伤害 原告 感情 导致 双方 感情 已经 完全 破裂
+B_Time I_Time O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O
+维护 原告 合法 权益 诉 贵院 请 依法 裁判 原 被告 离婚
+O O O O B_DivorceLawsuit O O O O O O O
+原 被告 同学 1989年 确定 恋爱 关系 属于 自由 恋爱 感情 基础 牢固
+O O O B_Time O B_BeInLove O O O O O O O
+生育 子 章某 乙
+B_Bear I_Gender B_Name I_Name

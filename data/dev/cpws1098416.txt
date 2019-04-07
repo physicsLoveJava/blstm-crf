@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 父母 包办 订婚 原告 不 同意 桩 婚姻 恋爱 期间 被告 发生 争吵
+O O O O O O O O O O O O O O O O O B_FamilyConflict
+后 父母 强迫 下 登记 结婚
+O O O O B_Marry I_Marry
+×××× 年××月 生育 男孩 取名 卫某 乙 现 已 成年 参加 工作
+B_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age O O
+被告 性格 内向 双方 家庭 压力 结合 婚后 双方 少 沟通 感情 争吵 平凡
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+原告 常年 外地 打工 被告 在家 带 孩子 被告 从不 主动 电话 联系 原告 原告 生活 费用 时 才 电话 联系
+O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O
+2010年 底 孩子 成人 原告 被告 正式 分居 生活
+B_Time I_Time O O O O B_Separation I_Separation I_Separation
+2011年 4月份 原告 第一 次 舒城县 人民法院 起诉 要求 离婚 人民法院 判决 不准
+B_Time I_Time B_Person O O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment

@@ -1,0 +1,4 @@
+原告 胥某 诉称 原 被告 2005年 3月 3日 大邑县 民政局 登记 结婚
+O O B_DivorceLawsuit O O B_Time I_Time I_Time O O B_Marry I_Marry
+2006年 1月 3日 生育 子 胥某 甲 婚后 原、被告 性格 不合 生活 琐事 发生 争吵 争吵 生活 中原 告 之间 没有 建立 夫妻 感情 夫妻 争吵 打架 闹 离婚 现象 时常 发生
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O B_FamilyConflict O O O O O O O O O B_Person O B_DomesticViolence O O O O O

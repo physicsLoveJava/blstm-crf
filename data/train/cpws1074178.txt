@@ -1,0 +1,6 @@
+原 告诉 称 1999年 8月份 原 被告 打工 相识 后 自由 恋爱 成婚 被告 入赘 原告 家 生活
+O O O B_Time I_Time O O O B_Know O O O O O O O O O
+2001年 3月 18日 生育 子 取名 芦某 乙
+B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+2002年 10月 16日 双方 泾阳县 民政局 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O B_Marry O O

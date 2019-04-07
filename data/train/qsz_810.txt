@@ -1,0 +1,4 @@
+2009年 初 原被告 相识 2011年 10月 31日 原告 被告 天津市 蓟州区 民政局 领取 结婚证 2010年 1月 26日 生育 婚生子 潘鹤天 婚后 两 人 感情 不好 原被告 吵架 2017年 12月 底
+B_Time I_Time O B_Know B_Time I_Time I_Time O O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O B_FamilyConflict B_Time I_Time I_Time
+原告 离开 蓟州区 侯家营 南付屯村 被告 分开 居住 。
+O O O O O O B_Separation I_Separation O

@@ -1,0 +1,8 @@
+原告 苏×× 诉 称 原 被告 2012年 1月 29日 经人介绍 相识 2012年 2月 27日 登记 结婚 婚后 无 子女
+O O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Negated B_Bear
+2013年 3月 21日 第一 次 起诉 离婚 后撤诉
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment
+现 起诉 要求 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 刘×辩 称 原告 述 相识 结婚 未 生育 子女 情况 属实
+O O O O O B_Know B_Marry O B_Bear O O B_Negated

@@ -1,0 +1,4 @@
+原 被告 系 经人介绍 相识 2005年 12月 28日 登记 结婚 2006年 生育 长女 李育萱 2009年 生前 次女 李润楠
+O O O O B_Know B_Time I_Time I_Time O B_Marry B_Time B_Bear B_Gender B_Name B_Time B_Bear B_Gender B_Name
+婚后 双方 感情 不和 双方 常 生活 琐事 生气 吵架 2017年 1月 30日 双方 产生 纠纷 原告 生气之下 搬 回 娘家 居住 被告 分居 今
+O O O O O O O O O B_FamilyConflict B_Time I_Time I_Time O O B_FamilyConflict O O O B_Separation I_Separation I_Separation O O I_Time

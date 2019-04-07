@@ -1,0 +1,8 @@
+原告 姚 某某 诉称 2003年 经人介绍 被告 订婚 2004年 12月 13日 结婚 婚前 没有 良好 婚姻 基础 婚后 夫妻 感情 不好 孩子 出生 后 被告 好吃懒做 不 出门 赚钱 整天 不务正业 上网
+O O O O O O O O B_Time I_Time I_Time B_Marry B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+劝 却 打骂 摔 东西 手机 还 放 煤气 威胁 使 不堪 忍受 使 夫妻 关系 进一步 恶化
+O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O
+不 愿意 共同 生活 下去 便于 2011年 4月份 被告 分居 今
+O O O O O O B_Time I_Time O B_Separation O
+被告 无婚 前 基础 婚后 没有 培养 夫妻 感情 夫妻 感情 彻底 破裂 无 好
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

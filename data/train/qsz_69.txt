@@ -1,0 +1,12 @@
+原 被告 经人介绍 相识 2003年 8月 7H 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+双方 性格 不介 家庭 琐半 发牛 争吵 最终 导致 感情 破裂 2009午 9月 14日 协议 离婚
+O O O O O O B_FamilyConflict O O O O O O O O O
+门 双力 家长 撮合 原 被告 2013年 8月 7日 复婚
+O O O O O O B_Time I_Time I_Time B_Marry
+复婚 后 原 告 之间 吵闹 越发 严重
+O O O O O B_FamilyConflict O O
+原告 离家 租 房 居住 201610月 诉 贵院
+B_Person O O O O B_Time B_DivorceLawsuit O
+后 法院 判决 不 准 离婚
+O O O B_Judgment I_Judgment I_Judgment

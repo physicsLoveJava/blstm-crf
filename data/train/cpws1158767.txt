@@ -1,0 +1,6 @@
+原告 张某 甲诉 称 原 被告 2005年 7月 20日 遵化 市民 政局 登记 结婚 婚前 缺乏 了解 婚后 感情 特别 双方 性格 不和 缺乏 沟通 没有 共同语言 被告 原告 缺乏 信任 家庭 暴力 原告 进行 打骂
+O O O O O O B_Time I_Time I_Time O O O O B_Marry O O O O O O O O O O O O O B_Person B_Person O O B_DomesticViolence I_DomesticViolence O O O
+原告 解除 痛苦 婚姻 现 依据 中华人民共和国 婚姻法 第32 条 规定 起诉 要求 判决 原告 被告 离婚
+B_Person O O O O O O O O O O B_DivorceLawsuit O O O O O
+被告 王 某某 辩称 1 原告 述 不 符合 事实 双方 自由 恋爱 后 结婚 被告 没有 原告 猜疑 家庭 暴力 行为 感情 原告 起诉 之后 被告方 家属 找到 原告 求 和好 原告 态度 坚决 被告 现 同意 离婚
+O O O O O O O O O O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O

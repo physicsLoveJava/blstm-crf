@@ -1,0 +1,4 @@
+原告 寿某 甲诉 称 原 被告 ×××× 年×× 月××日 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 儿子 寿某 丙
+O O O O O O B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time I_Time B_Bear O B_Name I_Name
+婚后 双方 常 生活 琐事 争吵 久而久之 双方 觉得 性格 脾气 已 完全 不合 矛盾 逐渐 深化 致使 夫妻 感情 破裂 已 没有 和好
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,8 @@
+2005年 4月 27日 原 被告 经人介绍 未经 登记 举行 结婚 仪式 婚后 生 女孩 祥见 诉请 婚前 原告 被告 缺乏 了解 婚后 年 原告 发现 被告 精神 不 正常 生活 琐事 辱骂 欧 原告 后 原告 得知 被告 16 岁 时 患 精神病 原告 无法 被告 正常 交流 被告 不 外出 打工 挣钱 养家 家庭 生活 全 原告 打工 维持 更 原告 难以忍受 被告 怀疑 原告 外遇 限制 原告 人身自由 被告 父母 看 不 原告
+B_Time I_Time I_Time O O O O O O B_Marry O O B_Bear B_Gender O O O O O O O O O B_Person O O O O O O O B_DomesticViolence I_DomesticViolence O O O O B_Person O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O B_Derailed O O O O O O O O
+被告 母亲 原告 找事 欧 原告
+B_Person O O O B_DomesticViolence B_Person
+2013年 12月 21日 被告 母亲 无故 欧 原告
+B_Time I_Time I_Time B_Person I_Person O B_DomesticViolence B_Person
+教唆 被告 毒打 原告 原告 实在 无法 忍受 被告 家人 折磨 回 宁夏 泾源县 娘家 居住 今 2014年 10月份 被告 泾源县 原告 家中 原告 协商 离婚 言语 不 被告 欧打 原告 父亲 后 被告 回家 之后 原、被告 再 无 联系
+O B_Person B_DomesticViolence B_Person O O O O O O O O O O B_Separation I_Separation I_Time O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person I_Person O O O O O O O O

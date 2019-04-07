@@ -1,0 +1,4 @@
+2012年 底 原 被告 网络 相识 之后 确立 恋爱 关系 2013年 9月 12日 登记 结婚 婚后 生育 儿子 屈元昊 现年 4 周岁
+B_Time I_Time O O O B_Know B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+结婚 初 夫妻 感情 尚 小 矛盾 化解 好景不长 结婚 两 年 之后 家庭 琐事 争吵 竟 成 家庭 便饭 主要 原因 性格 不合 原告 性格 率直 被告 性格 内向 执捌
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O

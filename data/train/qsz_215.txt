@@ -1,0 +1,6 @@
+2003年 10月 原 被告 朋友 介绍 相识 后 确定 恋爱 关系 双方 2005年 8月 日 武清 民政局 登记 结婚
+B_Time I_Time O O O O B_Know O O B_BeInLove O O B_Time I_Time I_Time O O O B_Marry
+同年 10月 1日 举行 结婚 仪式 后 同居 生活 2006年 6月 23日 生育 子 杜炎磊
+O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚前 缺乏 深入 了解 导致 缺乏 感情 基础 婚后 双方 序擦 不 断 发生 争吵 原告 曾 想 被告 沟通 均 无 米 双方 理 出 发生 争吵 现 原告 认为 被告 行为 已经 导致 原告 尤法 继续 正常 生活 原被告 双方 感情 已经 彻底 破裂 无 和好 双方 协议 离婚 未 米 原 告诉 人民法院 请求 人民法院 依法 判决
+O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

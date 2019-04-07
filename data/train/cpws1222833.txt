@@ -1,0 +1,8 @@
+原告 杜 某某 诉称 董 某某 2002年 经人介绍 相识 2004年 正月 农村 风俗 举行 结婚 仪式 同年 农历 十月份 登记 结婚
+O O O O O O B_Time O B_Know B_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry
+2005年 11月 10日 生育 儿子 董甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 董 某某 常 生活 琐事 发生 矛盾 双方 没有 共同语言 导致 夫妻 感情 彻底 破裂 没有 和好 请求 法院 依法 判决 1 判 令 董 某某 离婚
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+3 夫妻 共同 财产 二 间 三 层 砖 混 结构 房屋 栋 要求 平均 分割
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O

@@ -1,0 +1,2 @@
+原告 被告 经人介绍 相识 1986年 11月 当地 民政部门 登记 结婚 婚后 子女 均 已 成年
+O O O O B_Time I_Time O O B_Marry I_Marry B_Bear I_Bear O O B_Age

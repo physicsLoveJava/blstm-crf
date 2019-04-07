@@ -1,0 +1,4 @@
+原告方 某某 诉称 原 被告 1997年 5月 7日 宁津县 婚姻 登记处 登记 结婚 2001年 1月 生 下 儿子 方某 甲
+O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time B_Bear O B_Gender B_Name I_Name
+近 年 原被告 家庭 琐事 性格 差异 发生 激烈 冲突 原告 家庭 完整 忍让 无奈 被告 始终 不 理解 不 信任 原告 原被告 之间 矛盾 不断 升级
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O

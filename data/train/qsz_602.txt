@@ -1,0 +1,10 @@
+2012年 3月 6日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+婚后 育 子 徐文浩
+O B_Bear B_Gender B_Name
+现年 6 岁
+O B_Age I_Age
+打工 挣 钱 不 原告 原告 需要 钱 还 张口 被告 被告 一言不合 动手 殴打 原告 导致 原告 伤痕 累累 曾经 报警 处理
+O O O O O O O O O O O B_Person O O B_DomesticViolence B_Person O O O O O O O
+2017年 7月 双方 吵架
+B_Time I_Time O B_FamilyConflict

@@ -1,0 +1,4 @@
+原告 张 某某 诉称 被告 2010年 2月 4日 举行 婚礼 共同 生活 2010年 5月 20日 庆城县 白马铺乡 人民政府 补办 结婚证
+O O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+婚前 缺乏 了解 婚后 双方 性格 差异 大 常 生活 琐事 发生 矛盾 现 无法 共同 生活 诉请 被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

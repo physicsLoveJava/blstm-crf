@@ -1,0 +1,6 @@
+原 被告 2005年 5月 人 介绍 相识 2006年 6月 18日 办理 结婚 登记 手续
+O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O
+2016年 10月 3口 举行 结婚 仪式 同居 生活
+O O O O B_Marry O O O
+2007年 2月 7日 原 被告 育 女 取名 王优璇 现 已 满 11 周岁 原告 共同 生活
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name O O O B_Age I_Age O O O

@@ -1,0 +1,10 @@
+原告 丘某 萍诉 称 原 被告 1995年 10月 结婚 婚后 生育 两 女儿
+O O O O O O B_Time I_Time B_Marry B_Time B_Bear B_Gender B_Gender
+生育 女儿 关系 夫妻 双方 闹 矛盾
+O O O O O B_FamilyConflict I_FamilyConflict
+被告 性格 暴躁 打骂 原告 被告 人 后 认错 次 写 次 保证书
+B_Person O O B_DomesticViolence B_Person O O O O O O O O
+原告 忍无可忍 2012年 11月 起诉 要求 被告 离婚 法庭 调解 下 撤回 起诉
+O O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+原 被告 同班 同学 双方 自由 恋爱 多年 1995年 10月 16日 办理 结婚 登记 手续
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry

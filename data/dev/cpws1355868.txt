@@ -1,0 +1,12 @@
+原 告诉 称 被告 2011年 1月 人 介绍 订婚 2011年 2月 举行 结婚 仪式 2011年 5月 28日 生 男孩 取名 闫某丙 2012年 2月 10日 补办 结婚 登记
+B_Person I_Person O O O O O O O B_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time O B_Marry O
+婚后 双方 脾气 性格 不合 生活 琐事 发生 争执 被告 脾气 暴躁 长期 实施 家庭 暴力
+O O O O O O O O B_FamilyConflict O O O O O O O
+2013年 6月 17日 被告 卖 陪嫁 摩托车 事 发生 争执 板凳 头部 身上 击打 后 父母 送 陇县 人民 医院 治疗 被告 至今 不理不睬
+B_Time I_Time I_Time B_Person O O O O O B_FamilyConflict O O O B_DomesticViolence O O O O O O O O O O
+现 要求 被告 离婚 孩子 闫某丙 被告 抚养
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+被告 辩称 原告 自由 恋爱 订婚 结婚 时间 都 合适 婚后 生 子 取名 闫某丙
+B_Person O O O O O O O O O O O O O O
+2013年 6月 17日 原告 原告 鼻子 打破 住院 情况 不 知道
+B_Time I_Time I_Time B_Person O O B_DomesticViolence O O O O

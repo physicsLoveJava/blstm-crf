@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 双方 2006年 1月 自行 相识 2006年 3月 确定 恋爱 关系 2006年 12月 26日 登记 结婚 婚后 2011年 5月 17日 生育 子 唐 xx
+O O O O O O B_Time I_Time O B_Know B_Time I_Time O B_BeInLove O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 双方 关系 尚 性格 不和 屡 家庭 琐事 发生 矛盾
+O O O O O O O O O O B_FamilyConflict
+2012年 8月 被告 搬 回 父母 家 居住 分居 今
+O O O O O O O O B_Separation O
+双方 之间 矛盾 现在 已经 无法 调和 夫妻 感情 确 已 破裂 无 好 原告 诉至法院 要求 判 令 1 解除 原 被告 婚姻 关系
+O O B_FamilyConflict O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+依法 分割 夫妻 共同 财产
+O O O B_Wealth I_Wealth

@@ -1,0 +1,8 @@
+原告 潘 某某 诉称 双方 婚前 缺乏 了解 性格 差异 大 婚后 逐渐 产生 分歧 矛盾 琐事 争吵 不 断
+O O O O O O O O O O O O O O O B_FamilyConflict O B_FamilyConflict O O
+2013年 3月 双方 分居
+B_Time I_Time O B_Separation
+双方 夫妻 感情 确 已 破裂 请求 法院 判 令 原 被告 离婚
+O O O O O O O O O O O O B_DivorceLawsuit
+二 判 令 婚生子 潘某 乙 原告 抚养
+O O O B_Bear B_Name I_Name O O

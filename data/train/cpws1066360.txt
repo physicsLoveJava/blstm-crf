@@ -1,0 +1,8 @@
+原 告诉 原 被告 1991年 1月 登记 结婚 均 系 再婚 婚后 无 子女
+O O O O B_Time I_Time O B_Marry O O O O O O
+婚前 了解 少 婚后 感情 不好 被告 常 家庭 琐事 原告 吵架 现 原告 实在 无法 被告 共同 生活 感情 彻底 破裂 现诉 人民法院 请求 判 令 原告 被告 离婚
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O
+被告 辩称 原告 诉 房屋 1976年 时 福利 房 1991年 结婚 1998年 原告 邻居 吵架 住 不 下去 该房 换 位置 当年 房改 被告 交 房改 款 房屋 被告 婚前 财产 不 应 进行 分割
+O O O O O O O O O B_Time B_Marry O O O O O O O O O O O O O O O O O O O O O O O O
+眼睛 原告 瞎 现在 原告 钱 攒 够 房子 买 子女 成才 起诉 离婚 想 甩开 原告 遗弃
+O B_Person I_DomesticViolence O O O O O O O O O O O O O O O

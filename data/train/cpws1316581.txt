@@ -1,0 +1,2 @@
+原 告诉 称 被告 感情 不 婚后 常 生活 琐事 生气 导致 夫妻 感情 破裂 要求 被告 离婚 孩子 抚养 分割 共同 财产
+O B_DivorceLawsuit I_DivorceLawsuit O B_FamilyConflict I_FamilyConflict B_Marry O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

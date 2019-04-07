@@ -1,0 +1,8 @@
+原告 许某 诉称 原 被告 2010年 登记 结婚 婚后 生育 女
+O O O O O B_Time O B_Marry O B_Bear B_Gender
+原告系 二婚 前夫 生 女孩 丽丽 原 被告 生活
+O B_Remarry O O O O O O O
+被告 家庭 琐事 打骂 原告 导致 夫妻 感情 确 已 破裂 现 原告 提起 离婚 诉讼 请求 判决 原 被告 离婚
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+分割 夫妻 共同 财产 20000 元 村委 搬迁 款 120000 元
+O O B_Wealth I_Wealth I_Wealth B_Price O O O B_Price I_Price

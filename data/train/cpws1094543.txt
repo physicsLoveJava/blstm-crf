@@ -1,0 +1,2 @@
+原告 乔某 诉称 被告 2005年 4月 结婚 婚前 了解 不够 共同 生活 期间 争吵 打架 现 夫妻 感情 已经 破裂 要求 离婚 抚养 孩子 家庭 财产 被告 所有 债务 被告 承担
+O O O O B_Time I_Time B_Marry O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_DivorceLawsuit I_DivorceLawsuit O B_Bear B_Wealth I_Wealth B_Person O B_Debt B_Person O

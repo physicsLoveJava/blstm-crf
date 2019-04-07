@@ -1,0 +1,10 @@
+原告 毛 某某 诉称 原被告 经人介绍 相识 恋爱 后 2006年 2月 19日 登记 结婚 婚后 男 女方
+O O O O O O B_Know B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O O O
+2006年 12月 8日 生育 女 毛某 甲 2010年 7月 15日 生育 子 彭某乙
+B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name B_Time I_Time I_Time B_Bear I_Gender B_Name
+被告 个性 强 常 家人 吵架 被告 长期 沉醉 赌博 之中 欠 赌债 致使 夫妻 感情 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O
+2012年 原告 曾 诉至法院 法院 2012 岳池 民初 870 号 民事 判决书 判决 驳回 原告 诉讼 请求
+B_Time B_Person O B_DivorceLawsuit O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+现 原被告 已 分居 三 年 完全 符合 婚姻法 三十二 条 规定 请求 判决 原被告 离婚
+O O O B_Separation B_Duration I_Duration O O O O O O O O O O

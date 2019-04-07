@@ -1,0 +1,10 @@
+原告 张 某某 诉称 原告 被告 以前 同学 双方 2010年 9月 21日 举行 结婚 仪式 2010年 10月 15日 榆林市 榆阳区 民政局 领取 结婚证
+O O O O O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+婚前 双方 缺乏 了解 感情 基础 薄弱 双方 生活 环境 生活 习惯 思想 行为 不同 没有 共同语言 尤其 被告 非常 严重 大 男子 主义 恶言 恶语
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O
+为此 被告 原告 吵架 闹事
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 被告 分居 年 没有 共同 生活 下去 意义 2012年 2月 16日 原告 提出 离婚 诉讼 请求 撤诉 被告 未 回家 原告 共同 生活 感情 已经 彻底 破裂
+O O B_Separation I_Duration O O O O O O O O O O O O O O O O O O O O O O O O
+被告 赵 某某 辩称 原告 起诉 理由 子虚乌有 夫妻 之间 应 相互 扶持 原告 说 双方 缺乏 了解 不 事实
+O O O O O O O O O O O O O O O O O O B_Negated I_Negated

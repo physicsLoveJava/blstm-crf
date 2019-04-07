@@ -1,0 +1,8 @@
+原被告 双方 2011年 武清区 民政局 办理 结婚 登记 手续
+O O B_Time O O B_Marry I_Marry I_Marry I_Marry
+原告 4 2013年 7月 6口 生育 子 取名 沙怡博 现年 5 岁
+O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O B_Age I_Age
+被告 平时 家庭 活 中 大 男 主义 不 尊重 原告 酒后 无故 殴打 原告 破坏 夫妻 感情
+B_Person O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O B_DomesticViolence B_Person O O O
+原告 9月 初 被告 再 次殴打 原告 后 回到 娘家居什 仝 今 目前 双方 处士 分居 状态
+O B_Time I_Time B_Person O B_DomesticViolence B_Person O B_Separation I_Separation B_Time I_Time O O O B_Separation O

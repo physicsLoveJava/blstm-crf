@@ -1,0 +1,4 @@
+原被告 之间 2016年 2月 26日 武清区 民政部门 批准 再婚
+O O B_Time I_Time I_Time O O O B_Marry
+被告 2017年 7月 回 娘家 不 至今 未 谋面
+O B_Time I_Time B_Separation I_Separation I_Separation O O O

@@ -1,0 +1,14 @@
+原 被告 1991年 办理 结婚 登记 手续 后 同居 共同 生活 婚初 感情 好
+B_Person B_Person B_Time B_Marry I_Marry I_Marry O O O O O O O O
+后 双方 性格 不 投
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+年 争吵 中 度过
+O B_FamilyConflict O O
+感情 破裂 20b6 年月 办理 离婚 手续 后 2015年 10月 8日 办理 复婚 手续
+O O O O O O O O O O O O B_Remarry O
+双方 性格 差异 大 生活 琐事 发生 矛盾
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+更 恶劣者 被告 动手 殴打 原告
+O O O B_FamilyConflict I_FamilyConflict O
+2018年 5月 25日 被告 原告 吵闹 殴打 原告 原告 殴打 甲状 软骨 骨折 处 伤情 原告 住院 后 被告 原告 不闻不问 不予 照顾 平时 原告 夫妇 钱 都 掌握 被告 手中 原告 只得 钱 住院 治疗
+B_Time I_Time I_Time B_Person O B_FamilyConflict O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O

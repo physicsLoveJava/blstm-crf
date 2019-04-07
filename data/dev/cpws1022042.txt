@@ -1,0 +1,14 @@
+原告 黄 某某 诉称 原 被告 双方 2004年 8月 间 经人介绍 相识 3 月 后 便 同居 生活 2006年 12月 22日 惠东县 民政局 登记 结婚
+O O O O O O O B_Time I_Time O O B_Know O O O O O O B_Time I_Time I_Time O O O B_Marry
+双方 2006年 8月 7日 生子 陈某 乙 2009年 11月 21日 生 子 陈某丙
+O B_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 性格各异 常 家庭 琐事 吵闹 被告 殴打 原告 夫妻 感情 疏远
+O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person O O O
+被告 从未 管理 家庭 生活 外花 天 包养 情妇 家中 生活 全 原告 打工 维持
+B_Person O O O O O O B_Derailed I_Derailed O O O O O O
+2012年 5月 16日 被告 外 情妇 鬼 混 时 原告 抓获 被告 不但 不 认错 殴打 原告 致使 原告 遍体鳞伤
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O
+避免 恶性 事件 发生 原告 当天 携子 回 娘家 今
+O O O O O O O B_Separation I_Separation I_Time
+被告 外 没有 包养 情妇 原告 外遇 找 借口
+O O O O O B_Person B_Derailed O O

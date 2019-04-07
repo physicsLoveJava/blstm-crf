@@ -1,0 +1,8 @@
+原告 曹 X 诉称 被告 2005年 7月 经人介绍 相识 同年 11月 结婚 同居 2006年 2月 补办 登记 手续 婚后生 男孩 何某 2007年 2月 5日 生 缺乏 婚前 了解 草率 结婚 婚后 常 家庭 琐事 口角 打架 没有 共同语言
+O O O O O B_Time I_Time O B_Know B_Time I_Time B_Marry O B_Time I_Time B_Marry I_Marry I_Marry B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O O O O O O O B_FamilyConflict O O
+后 琐事 被告 动手 推 摔 右手 摔 伤
+O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+事后 被告 不闻不问 分居 今
+O O O B_Separation O
+2012年 7月 初 离婚 提起 诉讼 绥 中 法院 2013年 5月 2日 2013 绥民 前 初字 第00143 号 民事 判决 不 准 离婚 现 过去 半 年 双方 未能 好 二 次 起诉 离婚 请 法院 依法 判定 被告 离婚
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Time I_Time I_Time O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O

@@ -1,0 +1,8 @@
+原告 谢某 诉称 原告 被告 1999年 11月 认识 自由 恋爱 2001年 3月 19日 自愿 登记 结婚 2000年 8月 31日 生育 女王 甲 2008年 6月 27日 生育 女王 某乙
+O O O O O B_Time I_Time B_Know O B_BeInLove B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚初 感情 被告 喜欢 打牌 家庭 忽略 照顾 双方 为此 争吵 致使 夫妻 感情 已 破裂
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 起诉 法院 要求 被告 离婚 婚生 女王 某甲 王某 乙 原 被告 人 抚养 双方 互不 支付 抚养费 夫妻 共同 财产 依法 分割
+O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O
+认为 夫妻 婚初 感情 尚 被告 承认 偶 打牌 导致 夫妻 矛盾 主要 原因 被告 经营 生意 失败 原告 外面 第三者 致使 夫妻 感情 破裂 同意 离婚
+O O O O O O O O O O O O O O O O O O B_Person O I_Derailed O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O

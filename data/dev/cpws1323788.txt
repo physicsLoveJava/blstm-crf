@@ -1,0 +1,16 @@
+原 告诉 称 被告 经人介绍 2011年 5月 13日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚前 缺乏 了解 草率 结婚 婚后 发现 原被告 没有 共同语言
+O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 生活 琐事 吵闹 还 动手 殴打
+B_Person O O B_FamilyConflict O O B_DomesticViolence
+2012年 10月 法院 起诉 要求 离婚 法院 判决 不准 被告 离婚 后 没有 联系 往来
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O
+被告 婚姻 现在 根本 没有 好 起诉 法院 请求 判 令 原被告 离婚 返还 嫁妆 被告 承担 债务 30000 元 要求 被告 负担 诉讼 费用
+O O O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O
+被告 辩称 原告 诉 根本 不 事实 原告 婚姻 索取 财物 骗婚
+O O O O O B_Negated I_Negated O O O O O
+2010年 12月份 经人介绍 原告 相识 了解 原告 感情 倍增
+B_Time I_Time O O B_Know O O O O
+原告 索取 巨额 彩礼款 致使 家庭 困难 债台高筑 至今 五万 余 元 债务 没有 偿还
+O O O O O O O O O B_Price I_Price I_Price B_Debt O O

@@ -1,0 +1,4 @@
+原告 马翠 杨诉称 原被告 经人介绍 认识 2011年 1月 7日 登记 结婚 婚后 无 子女
+O O O O O O B_Time I_Time I_Time O B_Marry O O O
+婚后 二个 月 原被告 感情 不 分居 今 被告 2011年 曾经 起诉 要求 离婚 现 双方 已经 没有 继续 共同 生活 必要
+B_Time I_Time I_Time O O O B_Separation O O O O O O O O O O O O O O O

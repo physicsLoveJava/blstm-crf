@@ -1,0 +1,10 @@
+原 被告 J'2012 年 8月份 自行 相识 建立 恋爱 关系 丁 2013年 4J24 口 履行 结婚 夺 记 续 20135月 2 | | 共同 汀
+O O B_Time I_Time I_Time O B_Know O O O O O O O O O O O O O O O O O O
+婚后 感情 般 T2014 年 3月 6日 生 女
+O O O B_Time I_Time I_Time I_Time B_Bear B_Gender
+原 被告 婚后 时常 发 { I 角 被告 竹常 负气 回 娘家 屠住儿 川 尚勉强 维持 婚姻 2017年 春节 过后 正川 初二 被告 l 生活 琐事发 争执 被告 次 负 离家 烁告 劝说 尤果 情况 卜 被告 执意 原告 离婚 片 双方 婚后 购置 坐洛广 天津市 武清 IX 杨村镇 富民 坦小 | XI7-1702 号 房屋 山售 F 获取 净值款 110 万 儿 擅门 存入 名 F 双方 爵 2018年 1月 分居
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O B_Person B_CommonProperty I_CommonProperty O O O O O O O O O O B_Wealth O O O O B_Price I_Price O O O O O O O B_Time I_Time B_Separation
+鉴卜 l 述 事实 原告 曾 Y2017 午 9月 I | | 起诉 人民法院
+O O O O B_Person O B_Time I_Time I_Time O O O B_DivorceLawsuit B_Court
+大津山 武消 | X 人民法院 2017年 I0J24H 2017 津0114 民 初 0629 号 民事 判决书 驳回 原告 诉讼 请求 判决 后 今 双方 毫无 好 诚意
+O O O O O O O O O O O O O O B_Document B_Judgment I_Judgment I_Judgment O O O O O O O O

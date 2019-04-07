@@ -1,0 +1,2 @@
+原告 刘 某某 诉称 被告 经人介绍 相识 后 不久 登记 结婚 婚前 了解 不够 婚后 性格 不合 没有 共同语言 家庭 琐事 吵架 被告 酗酒 后 还 动手 不尽 家庭 义务 导致 夫妻 感情 破裂 要求 被告 离婚
+O O O O O O O O O B_Marry I_Marry O O O O O O O O O O B_FamilyConflict B_Person O O O O O O O O O O O O O O

@@ -1,0 +1,2 @@
+原 告诉 称 2000年 9月 经人介绍 被告 刘 某某 相识 2001年 2月 5日 登记 结婚 2002年 生育 小孩 刘某 甲 原 被告 婚前 缺乏 了解 双方 年龄 相差 大 两 人 思想 存在 代沟 琐事 发生 争执 被告 动手 殴打 原告 现 夫妻 感情 名存实亡 请求 人民法院 依法 判决 原 被告 离婚 婚生子 刘某 甲 原告 抚养 被告 承担 抚养费 本案 诉讼 费用
+O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear O B_Name I_Name O O O O O O O O O O O O O O O O O B_Person O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O

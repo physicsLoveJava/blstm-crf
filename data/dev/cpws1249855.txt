@@ -1,0 +1,12 @@
+原 告诉 称 原 被告 2011年 3月 22日 登记 结婚 婚后 无 子女 婚后 初期 双方 感情 尚 好 后 家务 琐事 发生 争吵 被告 原告 曾 2012年 2月 9月 分别 起诉 离婚 后 均 撤诉
+O O O O O O O O B_Marry I_Marry O O O O O O O O O O O O O O B_Person B_Person O B_Time I_Time B_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment
+原被告 今年 5月 分居 现 原告 仍 本市 东城区 管村 号 院建 予园 小区 号 楼×层×室 两居室 以下 简称 建 予园 房屋 居住 双方 夫妻 感情 确 已 破裂 原告 诉至法院 要求 离婚
+O B_Time I_Time B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+夫妻 共同 财产 另诉 处理
+O B_Wealth I_Wealth O O
+被告 辩称 原告 述 结婚 未 生 子女 事实 历次 诉讼 属实
+O O O O B_Marry O O O O O O O
+原告 曾 出示 证明 锦州 居住 说明 双方 2012年 9月 4日 已经 分居 被告 诉 争房 内 居住
+O O O O O O O O O O O O B_Separation O O O O O
+建 予园 房屋 系 被告 婚前 财产 约定 上 被告 签名 约定 内容 亦 属 赠与 行为 房产 目前 未 做 变更 登记 时 被告 表示 撤销 赠与
+O O O O O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O

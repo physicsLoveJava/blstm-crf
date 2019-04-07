@@ -1,0 +1,4 @@
+原 被告 2010年 天津市 武清区 民政部门 批准 登记 结婚 婚生 男儿
+O O B_Time O O O O O B_Marry B_Bear B_Gender
+名叫 杨德鸣 7 周岁
+O B_Name B_Age I_Age

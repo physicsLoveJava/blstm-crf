@@ -1,0 +1,4 @@
+原告 单某 诉称 被告 经人介绍 相识 1998年 办理 结婚 登记 手续
+O O O O O O B_Time O B_Marry O O
+婚后 生育 两 孩子 性格 不合 吵闹 夫妻 感情 确 已 破裂 现 请求 法院 判决 被告 离婚
+O B_Bear O O O O B_FamilyConflict O O O O O O O O O O O

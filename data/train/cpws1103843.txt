@@ -1,0 +1,6 @@
+原告 吴某 诉称 原 被告 系 自由 恋爱 2006年 1月 29日 自愿 办理 登记 结婚 手续 于×××× 年×× 月×× 日 生育 女 取名 叶某 乙
+O O O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear O O O B_Name
+婚初 夫妻 感情 尚 婚后 原、被告 双方 家庭 琐事 争吵 导致 夫妻 感情 破裂 原告 诉至法院 请求 判 令 准许 原 被告 离婚
+O O O O O O O O O O B_FamilyConflict O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚生 女儿 叶某 乙 被告 抚养 独立 生活 时 止 抚养费 被告 负担
+I_DivorceLawsuit O O O O O O O O O O O O

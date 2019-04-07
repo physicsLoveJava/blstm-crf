@@ -1,0 +1,4 @@
+原告 郭某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚 双方 未 举行 结婚 仪式 没有 共同 生活
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O O O
+被告 曾 2013年 4月 18日 起诉 要求 原告 离婚 5月 16日 开庭 时 告知 被告 撤诉
+O O B_Time I_Time I_Time B_DivorceLawsuit O O O O O O O O O B_Judgment

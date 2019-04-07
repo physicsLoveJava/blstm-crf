@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 认识 相互 还 不 甚 了解 情况 下 ×××× 年×× 月××日草率 登记 结婚 于×××× 年×× 月×× 日 生育 男孩 取名 杨某乙
+O O O O O O B_Know O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 2012年 1月 正式 原告 分居 2012年 6月 原告 曾 诉至法院 被告 离婚 后 种种 原因 原告 撤诉 原 被告 并未 和好 现 双方 感情 确 已 破裂 原告 诉至法院 诉讼 请求 1 依法 判 令 原告 被告 离婚
+O B_Time I_Time O O B_Separation B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment O O O O O O O O O O O O O O O O O O O O O

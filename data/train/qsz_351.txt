@@ -1,0 +1,6 @@
+原 被告 系 夫妻 关系 2014年 初 双方 经人介绍 相识 建立 恋爱 关系
+O O O O O B_Time I_Time O O B_Know O B_BeInLove O
+2015年 8月 12日 登记 结婚 婚后 生育 子 杨铭洋
+B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name
+孩子 自幼 至今 原告 父母 照管 原告 脾气 不好 双方 长 家庭 琐事 发生 争吵 被告 平日 里 喜好 吸烟 酗酒 每日 上班 夜 不 宿 原告 问 原因 被告 谎称 回 娘家 时间 长 原告 结合 被告 行为 发现 被告 外 外遇 行为 双方 常 此事 发生 争吵
+O O O O O O O O O O O O O O B_FamilyConflict B_Person O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O B_Person O B_Derailed I_Derailed O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 系 经人介绍 于×××× 年 登记 结婚 婚前 不 甚 了解 婚后 二 人 性格 脾气 差异 大 双方 发生 矛盾 没有 建立 真正 夫妻 感情 婚生 子女 出生 未 改善 原 告 之间 夫妻 感情
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+特别 使 原告 不 容忍 被告 本村 妇女 发生 不 正当 关系 外 逃8 年 后 判刑 1 年 被告 出狱 后 仍 不 思悔改 整天 好吃懒做 孩子 不 不 问 致使 两 孩子 跑 河 中 玩耍 溺水 身亡
+O O O O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O

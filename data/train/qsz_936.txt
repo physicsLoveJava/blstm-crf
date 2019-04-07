@@ -1,0 +1,4 @@
+原被告 1999年 人 介绍 相识 确立 恋爱 关系
+O B_Time O O B_Know O B_BeInLove O
+2001年 4月 24日 登记 结婚
+B_Time I_Time I_Time O B_Marry

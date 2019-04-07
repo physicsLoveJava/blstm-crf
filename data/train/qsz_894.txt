@@ -1,0 +1,2 @@
+原 被告 2012年 5月 7日 经人介绍 领取 结婚证 之后 举行 结婚 仪式 共同 生活 婚后 被告 脾气 暴躁 双方 常 生活 琐事 生气 吵架 严重 婚后 年 之后 原告 没有 怀孕 被告 便 原告 不满 稍 不 如意 动手 殴打 原告 夫妻 关系 不 睦 2017年 6月份 原告 怀孕 后 胎儿 发育 不 正常 问题 双方 发生 争执 分居 今
+O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O B_Person O O O O O O O B_DomesticViolence B_Person O O O O B_Time I_Time O O O O O O O O O O O B_Separation I_Time

@@ -1,0 +1,12 @@
+原 告诉 称 原 被告 经人介绍 认识 2011年 3月 30日 办理 结婚 登记
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+×××× 年×× 月×× 日 生育 子 取名 仇某 乙
+O O O O B_Bear B_Gender I_Gender B_Name I_Name
+孩子 出生 后 夫妻 双方 性格 不合 出现 矛盾
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 10月 10日 被告 儿子 带 回 娘家 双方 分居 今
+B_Time I_Time I_Time I_Time O O O O O O B_Separation
+被告 辩称 夫妻 感情 好 原告 父母 施加 压力 致 夫妻 感情 出现 不好
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 同意 孩子 被告 抚养 成人 被告 同意 离婚
+I_FamilyConflict O O O O O O O O

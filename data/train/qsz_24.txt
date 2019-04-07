@@ -1,0 +1,6 @@
+原被告系 夫妻 关系 1985年 4月 8日 登记 结婚 1986年 4月 4日 生育 女 周名元 现 已 参加 工作
+O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+丁 夫妻 感情 却 已 破裂 多年 分居
+O O O O O O O B_Separation
+原告 曾 2017年 3月 13日 河西 法院 起诉 被告 离婚 后 法院 审理 2017年 5月 22日 下达 2017 津0103 民初 3278 号 民事 判决书 驳回 原告 诉讼 请求 双方 次 好 机会 长 达 半 年 时间 里
+B_Person O B_Time I_Time I_Time O O B_DivorceLawsuit O O O O O B_Time I_Time I_Time O O O O O O O O B_Judgment O O O O O O O O O O O O O

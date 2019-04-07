@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1996年 8月 下旬 相识 1997年 3月 30日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+1997年 10月 18日 生育 女孩 熊 甲 2002年 9月 21日 生育 男孩 熊 某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 未 建立 爱情 婚后 常 琐事 发生 争吵 致 夫妻 感情 不 和睦
+O O O O O O O O O O B_FamilyConflict O O O O O
+特别 被告 脾气 暴躁 喜怒无常 无缘无故 不 掂 轻重 殴打 原告
+O O O O O O O O O B_FamilyConflict O

@@ -1,0 +1,6 @@
+原告 张某 诉称 2007年 秋 原 被告 经人介绍 认识 2008年 5月 19日 登记 结婚 双方 2009年 7月 17日 婚生 女 取名 张 某某
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+结婚 初期 夫妻 感情 尚 后 生活 琐事 原 被告 争吵 严重 影响 夫妻 感情
+O O O O O O O O O O B_FamilyConflict O O O O
+2011年 7月 19日 原 被告 协议 离婚 后迫 原告 父母 压力 考虑 孩子 问题 原告 被告 2012年 3月 22日 复婚
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

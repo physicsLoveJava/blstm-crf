@@ -1,0 +1,4 @@
+原告 韦世 X 诉称 原 被告 2011年 经人介绍 认识 2012年 5月 18日 登记 结婚 原告 被告 家 入赘 2012年 7月 22日 生育 女儿 潘琳 X
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 感情 基础 不 牢 婚后 性格 不合常 家庭 琐事 争吵 原告 被告 家 受到 歧视 被告 出 家门
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O

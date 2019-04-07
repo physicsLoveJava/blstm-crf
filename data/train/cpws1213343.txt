@@ -1,0 +1,12 @@
+原告 叶某 起诉 称 ×××× 年×× 月××日 原被告 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry I_Marry
+×××× 年×× 月×× 日 生育 子 取名 林某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+1986年 生育 次子 取名 林某丙
+B_Time B_Bear B_Gender O B_Name
+原被告 夫妻 长期 吵架 被告 吵架 中 原 结婚证 撕毁
+O O B_FamilyConflict I_FamilyConflict O O O O O O
+被告 长 时 原告 实施 家庭 暴力 作风 不 检点 闹 离婚 四五 次 被告 立 保证书 恶习 难 改 导致 夫妻 无法 共同 生活
+B_Person O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O
+被告 女人 聊聊 事实 原告 方先 别人 染
+B_Derailed I_Derailed I_Derailed I_Negated O O O O

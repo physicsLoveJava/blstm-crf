@@ -1,0 +1,4 @@
+原告 刘 某某 诉称 被告 婚后 共同 生活 中 脾气 性格 不合 被告 酗酒 赌博 恶习 为此 双方 发生 吵闹 纠纷 被告 未 做 丈夫 做 父亲 责任
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person I_BadHabit I_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+2009年 3月 被告 分居 生活 今 期间 互不 履行 夫妻 义务
+I_Time I_Time O B_Separation O I_Time O O O O O

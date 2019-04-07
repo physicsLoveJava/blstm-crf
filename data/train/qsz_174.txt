@@ -1,0 +1,4 @@
+原被告 2005年 冬天 经人介绍 相识 建立 恋爱 关系 2006年 2月 27日 双方 登记 结婚 2006年 10月 15日 双方 婚 生长 女王 粘源 2015年 7月 17日 婚生次 女王 希原 原被告 婚前 相识 时间 短 没有 建立 感情 基础 结婚 以后 家务 琐事 发生 矛盾 尤其 近 年 以来 双方 矛盾 激化
+O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Bear I_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+被告 无故 原告 发生 矛盾 世娘家 居住 原告 无法 忍受 造成 双方 感情 彻底 破裂
+O O O B_FamilyConflict I_FamilyConflict B_Separation I_Separation O O O O O O O O

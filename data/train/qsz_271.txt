@@ -1,0 +1,8 @@
+原被告 2001年 5月 人 介绍 相识 建立 恋爱 关系
+O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2001年 12月 20日 双方 登记 结婚 2002年 11月 6日 双方 婚生 男孩 翟子豪 原被告 婚前 相识 时间 短 没有 建立 感情 基础
+B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Bear I_Gender B_Name O O O O O O O O O
+结婚 以后 家务 琐事 发生 矛盾
+O O O O O B_FamilyConflict
+双方 没有 共同语言 争吵 打闹 原告 无法 忍受 造成 双方 感情 彻底 破裂
+O O O B_FamilyConflict I_FamilyConflict O O O O O O O O

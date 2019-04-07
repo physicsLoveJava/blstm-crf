@@ -1,0 +1,8 @@
+原告 应某 起诉 称 原 被告 经人介绍 相识 1994年 3月 21日 原 宁海县 梅林乡 人民政府 登记 结婚
+O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry
+×××× 年×× 月××日 生育 子 取名 金某 乙
+B_Time I_Time I_Time O I_Bear B_Gender O B_Name
+双方 2012年 3月 分居 今
+O B_Time I_Time I_Time B_Separation
+现 原告 起诉 要求 判 令 1． 准予 原 被告 离婚
+B_Time O O O O O O O O O O

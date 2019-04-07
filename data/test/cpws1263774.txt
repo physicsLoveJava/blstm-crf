@@ -1,0 +1,14 @@
+原告 杨某 诉称 2010年 10月 13日 原告 杨某 被告 鲍某 登记 结婚 婚后 感情 好
+O O O B_Time I_Time I_Time O O O O O B_Marry O O O
+2012年 4月 9日 生育 子 取名 鲍某甲
+B_Time I_Time I_Time B_Bear O O B_Name
+孩子 出生 后 被告 性格 发生 变化 原告 进行 殴打 第一 次 原告 坐月子 期间 办 满月 酒 事 殴打 原告
+O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+次 原告 坐月子 后 原告 要求 回 娘家 遭到 被告 拒绝 双方 发生 争执 被告 殴打 原告
+O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+第三 次 2012年 12月 24日 双方 发生 争执 被告 外婆 家 殴打
+O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 仍 不 思悔改 行为 以往
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 请求 被告 离婚 小孩 原告 抚养 教育 被告 每月 支付 儿子 不 低于 工资 收入 30％ 抚养费 结婚 时 原告 娘家 陪嫁 嫁妆 生活 物品 原告 所有
+B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O

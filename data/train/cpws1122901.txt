@@ -1,0 +1,6 @@
+原告 薛×诉 称 被告 2011年 2月 人 介绍 相识 同年 7月 9日 登记 结婚 2012年 2月 14日 生育 子 薛×2
+B_Person O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name
+婚后 琐事 双方 发生 矛盾 2013年 4月 曾 起诉 离婚 后撤诉 双方 关系 未 好转 诉至法院 要求 离婚 孩子 抚育 被告 每月 付 400 元 抚育费 婚后 财产 TCL32 寸 液晶 电视 台 电视 柜 被告 所有 存款 归我所有
+O O O I_FamilyConflict I_FamilyConflict B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Judgment O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth O O B_Wealth O
+被告 张×辩 称 婚后 琐事 闹 矛盾
+O O O O O I_FamilyConflict I_FamilyConflict

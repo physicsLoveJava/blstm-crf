@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2006年 底 经人介绍 相识 恋爱 次年 5月 办理 结婚 登记 手续 同年 8月 生 子 许焕麟
+O O O O O B_Time I_Time O B_Know B_BeInLove B_Time I_Time O B_Marry O O B_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 不 深 草率 结婚 婚后 原、被告 家庭 琐事 争吵 夫妻 感情 已经 破裂 起诉 要求 离婚
+O O O O O O O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_DivorceLawsuit

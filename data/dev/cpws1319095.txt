@@ -1,0 +1,12 @@
+原告 王 某某 诉称 原 被告 2004年 4月 20日 结婚 婚后 生育 女儿 吕 某某
+B_Person I_Person I_Person O O O B_Time I_Time I_Time B_Marry O B_Bear B_Gender B_Name I_Name
+2004年 2月 18日 被告 父母 支付 61400 元首 付 双方 购买 套 位于 宜昌市 团结路 16-104 号 房屋 登记 双方 共有 婚后 双方 共同 还贷
+O O O O O O O O O O O O O O O O O B_Wealth O B_CommonProperty I_CommonProperty O O O O
+2012年 5月 23日 原告 贵院 提请 离婚 诉讼 贵院 2012年 7月 30日 依法 判决 驳回 原告 诉讼 请求
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment I_Judgment
+被告 长期 迷恋网 游戏 醉酒 不尽 丈夫 父亲 责任 义务 不 注重 夫妻 感情 生活 沟通 原 被告 夫妻 感情 已经 破裂 无法 挽回
+B_Person O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O
+诉至法院 请求 1 判决 原 被告 离婚
+I_DivorceLawsuit O O O O O O
+被告 吕某 辩称 原告 述 不 符合 事实
+O O O O O B_Negated I_Negated I_Negated

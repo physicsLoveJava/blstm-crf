@@ -1,0 +1,6 @@
+原告 施 海燕 诉称 丁赛君 2011年 5月 登记 结婚 婚后 生育 女丁 某某
+B_Person O O O O B_Time I_Time O B_Marry O B_Bear B_Gender B_Name
+后 双方 性格 不合 常 琐事 发生 矛盾 无法 继续 共同 生活
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 夫妻 感情 已 彻底 破裂 诉请 要求 离婚 丁 某某 负责 抚养 丁赛君 承担 抚养费 判 令 丁赛君 返还 购 车 款 100000 元
+O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth B_Price I_Price

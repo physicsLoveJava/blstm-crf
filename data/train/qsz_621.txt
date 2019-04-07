@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2002年 12月 23日 办理 结婚 登记 婚后 生育 长女 冯颖 2003年 1月 30日 出生 生育 次女 冯煊雅 2010年 10月 24日 出生 现 原告 共同 生活
+O O O O B_Time I_Time I_Time O B_Marry O O B_Bear B_Gender B_Name O O O O O O B_Name O O O O O O O O
+2016年 被告 外出 夜 不 宿 原告 发现 被告 婚外情
+O O O O O O O O B_Person B_Derailed
+2017年 4月 17日 原告 曾 人民法院 提起 离婚 诉讼 2017年 8月 21日 人民法院 判决 不准 原告 被告 离婚 后 被告 离家 仍 未 孩子 不闻不问 不尽 家庭 义务 现在 外 养 别人 孩子 被告 行为 严重 影响 夫妻 感情 导致 感情 彻底 破裂 无 好
+B_Time I_Time I_Time B_Person O B_Court O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O O O O O

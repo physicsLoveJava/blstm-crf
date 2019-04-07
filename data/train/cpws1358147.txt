@@ -1,0 +1,8 @@
+原 告诉 称 被告 1984年 结婚 双方 均 再婚 婚前 子女
+O O O O B_Time B_Marry O O B_Remarry O O
+1988年 单位 分配 套 住房 朝阳区 南太平庄 北巷 1 号 楼 2 单元 502 双方 居住
+O O O O B_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O
+被告 辩称 原告 1983年 经人介绍 相识 婚前 双方 子女
+O O O O O B_Know O O O
+双方 1984年 11月 9日 登记 结婚 现在 已 29 年
+O B_Time I_Time I_Time O B_Marry O O O O

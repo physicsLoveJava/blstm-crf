@@ -1,0 +1,8 @@
+2009年 原被告 经人介绍 相识 建立 恋爱 关系 2010年 6月 举行 结婚 仪式 共同 生活 2017年 3月 3日 补办 结婚 手续
+B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time B_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Marry I_Marry I_Marry
+双方 均 系 再婚 至今 没有 共同 子女
+B_Person O O B_Remarry O O O O
+婚后 双方 家庭 琐事 发生 争吵 动手 被告 沾染 酗酒 恶习 酒后 原告 实施 打骂 致使 双方 夫妻 感情 早已 破裂
+O O O O O B_FamilyConflict B_FamilyConflict B_Person O B_BadHabit O O B_Person O B_DomesticViolence O O O O O O
+2017年 补办 结婚 手续 后 被告 仍 不知 悔改 致使 没有 和好
+B_Time B_Marry I_Marry I_Marry O O O O O O O O

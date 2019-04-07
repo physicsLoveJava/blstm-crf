@@ -1,0 +1,10 @@
+原告 邵主庆 诉称 原被告 2006年 下半年 被告 姑妈 介绍 认识 2007年 12月 10日 民政部门 登记 结婚
+B_Person I_Person O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+被告 婚前 隐瞒 癫痫病史 原告 进行 欺骗 隐瞒 婚后 久 治 不 愈 现 夫妻 关系 已 名存实亡 夫妻 感情 彻底 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+维护 原告 合法 权益 特 法院 提起 诉讼 请 法院 依法 判决 原被告 离婚
+O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+被告 分担 医疗费 债务 1万 元
+O O O B_Debt B_Price I_Price
+原告 诉 事实 不符 离婚 理由 不 表现 以下 两 点 原告 被告 患 癫痫病 事实 不 知情 予以 认可 接受 不 存在 婚前 隐瞒 病史 说
+O O B_Negated I_Negated O O O O O O O O O O O O O O O O O O O O O O O

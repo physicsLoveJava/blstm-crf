@@ -1,0 +1,4 @@
+原 告诉 称 原被告 1994年 经人介绍 相识 后 确立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月××日生 子 名叶 乙 现在 舒城县 中学 初三 就读
+O O O O B_Time O O O O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+婚后 原被告 生活 琐事 争吵 最近 年 逐渐 升级 导致 夫妻 感情 逐渐 破裂 原被告 已 2010年 五月 节后 分居 今
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_Time I_Time I_Time B_Separation O

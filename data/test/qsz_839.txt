@@ -1,0 +1,16 @@
+原告 系 再婚
+B_Person O B_Remarry
+2012年 原被告 经人介绍 相识 双方 2012年 4月份 举行 结婚 仪式 共同 生活 2013年 4月 18日 蓟县 民政局 补办 结婚 登记
+B_Time O O B_Know O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+2014年 1月 1日 生育 婚 生长 女许 甜甜
+B_Time I_Time I_Time B_Bear O O B_Gender B_Name
+双方 婚后 感情 双方 共同 生活 期间 生活 观念 不同 处理 家庭 孩子 教育 方面 问题 上 皆 存在 大 分歧 双方 长期 争吵 家庭 矛盾 逐渐 尖锐
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+双方 矛盾 加大 无法 再 继续 沟通 相处 原告 2016年 9月份 搬 娘家 居住 被告 分居
+O O O O O O O O O B_Time I_Time O O O O B_Separation
+原告 2016年 11月份 起诉 离婚 贵院 2016年 12月 15日 作出 2016 津0225 民 初 12380 号 民事 判决 驳回 原告 诉讼 请求
+B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+六 月 期满 后 原告 2017年 7月份 起诉 离婚
+O O O O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+后 原告 撤诉 法院 2017年 7月 26日 作出 2017 津0119 民 初7665 号 裁定书
+O O B_Judgment O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document

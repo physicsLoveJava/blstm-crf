@@ -1,0 +1,14 @@
+原告 唐 某某 诉称 原 被告 1997年 10月 人 介绍 认识 后 恋爱 1999年 10月 6日 登记 结婚 2000年 10月 21日 生育 儿子 成 某乙
+O O O O O O B_Time I_Time O O B_Know O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 婚后 被告 打牌 赌博 家庭 琐事 产生 矛盾
+O O O O B_Person B_BadHabit I_BadHabit O O O B_FamilyConflict
+小孩 刚 出生 不久 原 被告 发生 打架
+O O O O B_Person I_Person O B_DomesticViolence
+小孩 岁 时 原告 便 去 河北 务工 每年 回家 次 回家 后 被告 只 问 钱 双方 争吵 不 休
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 1． 依法 判决 准予 原 被告 离婚
+O O O O O O O B_DivorceLawsuit
+3． 婚后 财产 座落 栏杆村 先锋组 砖 混 结构 房屋 中 四 间 房屋 原告 所有
+O O O O O O O O O O O B_Wealth I_Wealth I_Wealth O O
+被告 打牌 不 赌博
+O I_BadHabit I_BadHabit I_BadHabit

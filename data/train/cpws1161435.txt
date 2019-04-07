@@ -1,0 +1,10 @@
+原告 梅某 甲诉 称 被告 王某 1998年 12月 经人介绍 结婚 结婚 当天 吵架 2002年 生育 女 梅某乙
+O O O O O O B_Time I_Time O B_Marry O O O B_Time B_Bear I_Gender B_Name
+婚后 双方 吵架 还 曾经 大打出手 现 感情 已经 彻底 破裂
+O O O O O B_DomesticViolence O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 判 令 被告 离婚
+B_DivorceLawsuit O O O O
+被告 王某 甲 辩称 同意 原告 离婚 离婚 原因 原告 2011年 发生 婚外情 之后 使用 家庭 暴力
+O O O O O O O O O O B_Time O B_Derailed O O B_DomesticViolence I_DomesticViolence
+考虑 原告 离婚 前 转移 隐匿 财产 行为 请求 判决 共同 财产 XXXX 处 住房 套 归我所有
+O O O O O O O O O O B_Wealth I_Wealth O O B_CommonProperty O O

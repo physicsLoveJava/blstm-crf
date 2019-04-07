@@ -1,0 +1,10 @@
+原告 王 某某 诉称 原告 1986年 被告 结婚 婚后 年 夫妻 感情 好 生 两 女儿 现 已 成家立业
+O O O O O B_Time O B_Marry O O O O O B_Bear O B_Gender O O O
+小女 出生 后 夫妻 吵架 感情 逐渐 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+97年 两 人 外出 浙江 打工 打工 期间 被告 不 上班 吃喝嫖 赌 好逸恶劳 不 听 劝阻 变本加厉 原告 拳打脚踢 夫 妇 不 正常 关系
+O O O O O O O O B_Person I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O B_Person B_DomesticViolence O O B_Derailed I_Derailed I_Derailed
+双方 分居 已 久 没有 家庭 夫妻 关系
+O B_Separation O O O O O O
+原告 曾 法院 起诉 离婚 诉讼 法院 判决 不准 许 双方 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court O B_Judgment I_Judgment I_Judgment I_Judgment

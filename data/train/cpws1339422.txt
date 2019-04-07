@@ -1,0 +1,10 @@
+原告龙 xx 诉 称 2011年 4月 中旬 原 被告 经人介绍 相识 相恋 随后 被告 怀孕
+O O O O B_Time I_Time I_Time O O O B_Know B_BeInLove O O O
+双方 2011年 6月 13日 登记 结婚 因原 被告 系 闪婚 婚前 了解 不够 草率 结婚 婚后 感情 不合
+O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O
+2012年 1月 13日 生 下 子 龙 xx 原 以为 儿子 出世 双方 感情 有所 转机
+B_Time I_Time I_Time B_Bear O B_Gender B_Name I_Name O O O O O O O O
+依法 分割 夫妻 共同 财产 湘 LE4283 号 面包车
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth
+被告 黄 x 辩称 2011年 原 被告 相识 原告 追求 下 2011年 6月 13日 登记 结婚 婚后 原告 态度 巨变 被告 怀孕 期间 冷漠 毫不 关心
+O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O

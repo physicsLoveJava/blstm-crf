@@ -1,0 +1,14 @@
+原 被告 1995年 初 媒人 介绍 相识 相处 段 时间 后 1995年 5月份 农村 风俗 举行 结婚 仪式 共同 生活
+O O B_Time I_Time O O B_Know O O O O B_Time I_Time O O B_Marry I_Marry I_Marry O O
+1996年 1月 21日 生长 女 鞠雅新
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 1998年 蓟州区 民政局 领取 结婚证
+O O B_Time O O B_Marry I_Marry
+2004- 年 10月 26日 生长子 鞠轩辕 现年 14 周岁
+B_Time I_Time I_Time I_Time B_Bear B_Name O B_Age I_Age
+2013年 9月 3日 原 被告 蓟州区 民政局 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry I_Marry
+原告 回家 后 发现 被告 二 年 半 时间 里 欠 300 万 元 债务
+O O O O B_Person O O O O O O B_Price I_Price I_Price B_Debt
+不仅如此 被告 原告 非常 冷漠 2018年 7月 初 原告 回 娘家 居住 至今 不
+O O O O O B_Time I_Time I_Time O B_Separation I_Separation I_Separation B_Time O

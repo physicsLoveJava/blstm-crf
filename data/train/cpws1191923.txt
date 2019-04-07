@@ -1,0 +1,8 @@
+原告 郝某 诉称 2011年 1月 31日 原被告 媒人 介绍 相识 订婚 2011年 5月 27日 办理 结婚 登记 手续 同年 5月 31日 农村 风俗 举行 婚礼
+O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O
+原被告 婚前 缺乏 了解 系 父母 做 主草率 结婚 婚后 性格 不合 生气 吵架 婚后 共同 生活 中 未 建立 夫妻 感情 特别 被告 没有 家庭 责任心 原告 家庭 不 不 问
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+2011年 7月 双方 生气 后 原告 回 娘家 居住 双方 分居 今 分居 期间 被告 未 去 接 原告 双方 夫妻 感情 已 彻底 破裂
+B_Time I_Time O O O O O O O O B_Separation B_Time O O O O O O O O O O O O O
+被告 王某 辩称 原告 婚前 一定 了解 婚后 性格 不合 生气 2011年 7月 前 两 人 曾 生气 矛盾 已经 调和 2011年 7月 原告 矛盾 调 后 回到 娘家 居住 双方 分居 今
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O

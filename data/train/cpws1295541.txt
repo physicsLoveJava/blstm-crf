@@ -1,0 +1,6 @@
+原告 孙 某某 诉称 2005年 2月 爱人 病 去世 后 人 介绍 2005年 10月 3日 被告 相识 2006年 1月 4日 登记 结婚 男 女家落户
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+房屋 建成 后 被告 嫌 孩子 不 挣钱 殴打 孩子 共同 生活 中 被告 无故 寻事 殴打
+O O O O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+今年 7月 14日 孩子 病 去 看 时 回家 晚 被告 辱骂 持 刀 斧 行凶 致 身上 处 受伤
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O

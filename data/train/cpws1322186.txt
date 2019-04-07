@@ -1,0 +1,8 @@
+原告 起诉 称 原 被告 厂 里 上班 认识 2000年 7月 17日 绍兴县 夏履镇 人民政府 登记 结婚
+B_Person O O O O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry
+2001年 生育 女 取名 周叶琴 现年 13 岁
+B_Time B_Bear B_Gender O B_Name O B_Age O
+去年 分居 以来 被告 原告 母女 不闻不问 不 女儿 生活费
+B_Time B_Separation O O O O O O O O
+现 起诉 要求 判 令 1 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

@@ -1,0 +1,12 @@
+原被告 2014年 1月 3日
+O B_Time I_Time I_Time
+登记 结婚
+B_Marry I_Marry
+2014年 8月 27日 生育 子 尹晟权
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 性格 各异 没有 共同语言 生活 琐事 长期 吵架 不能 培养 夫妻 感情 生活 上 被告 妻子 孩子 不 不 理 没有 做 丈夫 父亲 应 责任
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+被告 具有 严重 家庭 暴力 倾向 殴打 原告 原告 无法 忍受 2016年 8月 起诉 离婚 后 调解 原告 念及 孩子 尚 小 原谅 被告
+B_Person O O B_DomesticViolence I_DomesticViolence O O B_Person B_Person O O B_Time I_Time B_DivorceLawsuit O O O O O O O O O O
+和好 后 被告 依旧 没有 改变 原告 变本加厉 现 原被告 双方 处于 分居 状态
+O O O O O O O O O O O O B_Separation O

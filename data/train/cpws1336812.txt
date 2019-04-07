@@ -1,0 +1,8 @@
+原告 吴某 诉称 原告 被告 ×××× 年×× 月×× 日 结婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry
+婚生 子 王某 乙 ×××× 年×× 月××日 出生
+B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O
+主要 原因 被告 原告 怀孕 生子 哺乳 期间 发生 严重 婚外情
+O O B_Person O O O O O O B_Derailed I_Derailed
+双方 共同 居住 房屋 原告 单位 建 员工 分房 分期付款 全 原告 公积金 承担 首付款 债务 10万 元 原告 负责 原告 要求 原告 所有
+O O O O O O O O O O O B_Person O O O B_Debt B_Price I_Price O O O O O O

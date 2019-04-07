@@ -1,0 +1,10 @@
+2012年 原 被告 相识 相恋 2014年 7月 2门午 大津市 西青区 婚姻 登记处 领取 结婚证
+B_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O O B_Marry
+2015年 1 片 6I 原 被告 生有.女 名 杭依慧 现 原告
+B_Time I_Time I_Time I_Time O O B_Bear O B_Name O O
+原 被告 婚前 感情 尚 婚后 家庭 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+2015年 被告 赌博成性 欠 下 L 额 赌资 原告 劝阻 无效 尤 奈提 H 离婚 分居
+O B_Person B_BadHabit O O O O O O O O O O O O O
+2016年 卜 半 年 二 人 分 屈爷 今
+B_Time O O O O O B_Separation B_Time I_Time

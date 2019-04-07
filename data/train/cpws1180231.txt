@@ -1,0 +1,6 @@
+原告 陈某 诉称 原被告 经人介绍 2006年 12月 相识 2007年 3月 21日 玉田县 民政局 登记 结婚 婚后 生育 长女 万某甲 长子 万 乙
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O O B_Marry I_Marry B_Time B_Bear B_Gender B_Name B_Gender B_Name I_Name
+原被告 婚前 感情 婚后 被告 脾气 暴躁 生性 多疑 原告 拳脚 相加 双方 性格 严重 不合 无 共同语言 提出 离婚 事宜
+O O O O B_Person O O O O B_Person B_DomesticViolence I_DomesticViolence B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O
+被告万 辩称 原被告 经人介绍 相识 建立 恋爱 关系 后 相处 二 人情 投意合 2007年 3月 21日 登记 结婚 婚后 二 人 性格 相投 未 发生 大 矛盾 被告 未 原告 进行 殴打 原告 被告 未曾 提 离婚 事宜
+O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O

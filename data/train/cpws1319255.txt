@@ -1,0 +1,10 @@
+原告 王丹诉 称 原 被告 自由 恋爱 2010年 5月 25日 依法 登记 结婚
+B_Person I_Person O O O O B_BeInLove B_Time I_Time I_Time O B_Marry I_Marry
+2010年 9月 25日 生 子 取名 屈卫扬
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 自由 恋爱 登记 结婚 双方 相处 时间 短 草率 结婚 婚后 二 人 不 更 好 相处 被告 家庭 琐事 打骂 原告
+O O O O O O O O O O O O O O O O O O O B_Person O O B_DomesticViolence B_Person
+2011年 10月 被告 怀疑 原告 外 有人 原告 百般 解释 被告 不但 不 听 打骂 原告 造成 原告 全身 青肿 原告 再 无法 忍受 离开 被告 分居 今
+B_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O
+现 原告 法院 提出 离婚 诉讼 请求 人民法院 依法 判 令 原 被告 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

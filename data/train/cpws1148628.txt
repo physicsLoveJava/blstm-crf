@@ -1,0 +1,8 @@
+原告 苏 某某 诉称 原 被告 相识 后 2007年 9月 4日 双方 湖南 常德市 武陵区 民政 机关 履行 婚姻 登记
+O O O O O O O O B_Time I_Time I_Time O O O O O O O B_Marry I_Marry
+婚前 缺乏 了解 草率 结婚 婚后 双方 感情 不 无法 建立 夫妻 感情
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 恶习 吸毒 不 改 原告 屡 加 教育 忍 再 忍 被告 却 不知 悔改 致使 夫妻 关系 名存实亡
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O
+2011年 10月 25日 原告 法院 提起 离婚 诉讼 芷江 侗族 自治县 人民法院 判决 不 准 离婚
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Court I_Court O B_Judgment I_Judgment I_Judgment

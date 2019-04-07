@@ -1,0 +1,4 @@
+原告 凡 某某 诉称 2003年 双方 经人介绍 相识 后 确定 恋爱 关系 2006年 巢湖市 民政局 办理 结婚 登记 手续 某某 年 某某 月 某某 日 生育 子 取名 钱 乙
+O O O O B_Time O O B_Know O O O O B_Time O O B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+双方 婚前 缺乏 了解 双方 性格 差异 巨大 婚后 发生 争执 导致 双方 感情 确 已 完全 破裂 2012年 12月 10日 曾 提出 离婚 诉讼 2013年 1月 16日 包河区 人民法院 判决 不 准 离婚 至今 双方 关系 仍 未 改善 现 夫妻 双方 感情 确 已 彻底 破裂 要求 1． 解除 双方 婚姻 关系
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time B_Court I_Court O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 李某 甲诉 称 原 被告 经人介绍 认识 后 不久 双方 2011年 6月 7日 福州市 仓山区 民政局 办理 结婚 登记
+O O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry
+2011年 11月 30日 双方 生育 女 李某 乙
+B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name
+婚前 缺乏 感情 基础 双方 婚后 琐事 争吵
+O O O O O O I_FamilyConflict I_FamilyConflict
+至此 双方 夫妻 感情 彻底 破裂 被告 带 掌管 钱财 婚生 女 李某 乙 出生 医学 证明 收拾 行李 人 回 娘家 居住 双方 分居 今
+O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O

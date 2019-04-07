@@ -1,0 +1,6 @@
+原被告 1991年 1月 人 介绍 建立 恋爱 关系 1992年 11月 17日 办理 结婚 登记 手续
+O B_Time I_Time O O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry O
+1993年 6月 9日 生育 女 张莹
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2018年 5月 原告 发现 被告 存在 不 正当 男女 关系 不 听 劝告
+B_Time I_Time O O B_Person O B_Derailed I_Derailed I_Derailed I_Derailed O O O

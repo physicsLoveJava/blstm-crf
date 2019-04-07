@@ -1,0 +1,6 @@
+原 被告 2008年 底 经人介绍 确立 恋爱 关系
+O O B_Time O O O B_BeInLove O
+2009年 3月 登记 结婚 同年 9月 生育 子 取名 吴文博
+B_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender O B_Name
+近 二 三 年 原告 不知 何故 被告 原告 家人 态度 冷淡 原告 儿子 生活 不闻不问 还 借故 原告 争吵 2017年 8月 被告 借故 原告 吵闹 回 娘家 居住 原告 去 接 被告 2018年 2月 回来 在家 未 月 回 娘家 居住 原告 再 去 接 被告 不 不见 不 理
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict B_Time I_Time O O O O B_Separation I_Separation O O O O O B_Time I_Time O O B_Duration I_Duration O O O O O O O O O O O O

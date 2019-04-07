@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1991年 相识 1992年 同居 生活 1994年 11月 生育 女儿 董金金 1995年 8月 21日 登记 结婚 1996年 9月 生育 儿子 董国强 双方 婚后 生活 多年 夫妻 感情 家庭 琐事 争吵 2011年 初 矛盾 加剧 无法 共同 生活 原告 同年 12月份 卫辉市 人民法院 提起 离婚 诉讼 2012年 2月 21日 卫辉市 人民法院 驳回 原告 离婚 请求
+O O O O O B_Time B_Know O O O B_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment I_Judgment
+现在 提起 离婚 诉讼 请求 法院 判 令 1 原 被告 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit O B_Court O O O O O O
+2 分割 夫妻 共同 财产 债务 共同 承担
+O O O O O B_Debt O O

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原 被告 2010年 9月 网络 相识 后 确立 恋爱 关系 同年 11月 13日 农村 习俗 举行 婚礼 2011年 11月 2日 志丹县 民政局 办理 结婚 登记 2012年 3月 10日 生育 子 侯 某某
+B_Person I_Person I_Person O O O B_Time I_Time O B_Know O B_BeInLove I_BeInLove I_BeInLove O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 婚后 性格 不 无法 沟通 原告 住 娘家 被告 吴起县 上班 长期 两地 分居 未 建立 夫妻 感情
+O O O O O O O O O O O O O O O O O O B_Separation O O O O
+原告 诉至法院 请求 1 依法 判 令 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,8 @@
+1987年 10月 原告 人 拐卖 丰县 卖 被告 后 同居 生活 1989年 2月 1日 生 女 邢 x
+O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 缺乏 了解 被告 脾气 暴躁 打骂 原告
+O O O O B_Person O O B_DomesticViolence B_Person
+2010年 9月 原告 离家 出走 双方 分居 三 年 久 夫妻 感情 确 已 破裂
+O O O O O O B_Separation B_Duration I_Duration I_Duration O O O O O
+被告 邢后 永辩 称 被告 原告 经人介绍 相识 后 结婚 1989年 2月 1日 生 女 邢 x 1991年 农历 正月 初八生 子 邢 xx 后邢 xx 原告 卖
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O

@@ -1,0 +1,14 @@
+原被告 2015年 1月份 经人介绍 相识 2015年 11月 27日 原被告 自愿 宝坻区 民政局 办理 结婚 登记
+O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry
+2016年 4月 30日 举行 婚礼 后 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry O O O
+2017年 8月 21日 生育 女儿 袁皓昱
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 之间 夫妻 感情 婚前 缺乏 了解 导致 婚后 琐事 产生 矛盾
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+时间 推移 原告 发现 被告 吸烟 酗酒 恶习 被告 不 听 原告 劝阻 被告 性格
+O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O
+两地 分居 导致 双方 感情 逐渐 疏远
+O B_Separation O O O O O
+2018年 6月份 原被告 出现 矛盾
+O O O I_FamilyConflict I_FamilyConflict

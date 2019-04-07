@@ -1,0 +1,4 @@
+原告 赵某 诉称 原 被告 双方 经媒人 介绍 2005年 1月 27日 草率 登记 结婚 婚前 缺乏 了解 婚后 没有 建立 真正 夫妻 感情 双方 属 父母 包办 性格 不 投 难以 相处 家庭 琐事 发生 矛盾
+O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O
+2012年 8月 16日 原告 提起 离婚 诉讼 故城县 人民法院 作出 2012 故民 一初字 第1388 号 民事 判决书 判决 双方 不准 离婚 六 月 期间 被告 原告 生活 起居 不闻不问 双方 根本 没有 好 没有 感情 可言 分居 达 年 久 感情 完全 破裂 要求 被告 离婚 婚生 女孩 李宏朔 现年 8 周岁 李宏月 现年 5 周岁 李彩萱 现年 1 周 零 三 月 原告 抚养 李 彩萱 李宏月 被告 承担 抚养费
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court O B_Document I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment O O O O O O O O O O O O O O O B_Separation O I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

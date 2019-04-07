@@ -1,0 +1,8 @@
+原告 王 某某 诉称 原被告 1991年 夫妻 名义 共同 生活 1992年 10月 30日 登记 结婚 1992年生 女孩 王艺 现 已 独立 生活 能力 2000年 6月 生 男孩 王灏天 现年 13 周岁
+O O O O O O O O O O B_Time I_Time I_Time O B_Marry B_Bear B_Gender B_Name O O O O O B_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+原被告 同居 前 缺乏 了解 同居 后 吵架 原告 2011年 7月 18日 玉田县 人民法院 起诉 要求 被告 离婚 被告 表示 不 同意 离婚 后 原告 撤诉
+O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O
+2011年 7月 底 原告 离家 住 处 今 双方 分居 已 满 两 年 夫妻 感情 已 破裂
+B_Time I_Time I_Time O O O O O O B_Separation O O B_Duration I_Duration O O O O
+原被告 共同 财产 25万 元 伊兰特 轿车 辆 均 被告 处
+O B_CommonProperty B_Wealth B_Price I_Price B_Wealth I_Wealth O O O O

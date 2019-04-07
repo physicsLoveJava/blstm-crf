@@ -1,0 +1,6 @@
+原告 张 某某 诉称 被告 张某 甲 2002年 认识 恋爱 2005年 3月 14日 登记 结婚 婚后 生育 女 张某乙 现年 9 岁
+B_Person O O O O O O B_Time B_Know B_BeInLove B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+2005年 12月 后 被告 外出 下落不明 2008年 起诉 离婚 后撤诉
+O O O O O O B_Time B_DivorceLawsuit I_DivorceLawsuit B_Judgment
+2011年 6月 法院 提起 诉讼 要求 被告 张某 甲 离婚 法院 审理 判决 不 准 离婚 被告 张某 甲 仍 外 从不 回家 不 履行 夫妻 义务 现 已 分居 多年 夫妻 感情 确 已 破裂
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O B_Separation B_Duration O O O O O

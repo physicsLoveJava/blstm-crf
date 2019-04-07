@@ -1,0 +1,6 @@
+原 告诉 称 被告 经人介绍 1988年 09月 20日 登记 结婚 感情 尚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O
+后 琐事 发生 纠纷 致使 感情 破裂 分居 三 年 2012年 12月 17日 曾 起诉 离婚 法院 判决 不 准 离婚
+O O B_FamilyConflict I_FamilyConflict O O O B_Separation B_Duration I_Duration B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+被告 辩称 原告 诉 离婚 理由 不 成立 事实 不符 婚后 感情 好 1989年 03月 09日 生育 长女 潘某甲 1996年 07月 02日 生育 长子 潘某乙 感情 受到 影响 责任 原告
+O O O O B_FamilyConflict I_FamilyConflict B_Negated I_Negated B_Separation B_Negated O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O

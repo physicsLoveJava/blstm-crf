@@ -1,0 +1,10 @@
+原 被告 2010年 经人介绍 相识 确立 恋爱 关系 2011年 5月 8日 举行 结婚 仪式 后 共同 生活
+O O B_Time O B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O
+2011年 5月 11日 办理 结婚 登记 手续.2012年 7月 25日 生育 长女 李佳玉 2016年 6月 13日 生育 次女 李佳 瑶. 原 被告 婚前 感情 基础
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O
+婚后 共同 生活 期间 原被告 琐事 发生 争吵 无 休止 争吵 导致 夫妻 关系 紧张 矛盾 加深
+O O O O O O O B_FamilyConflict O O O O O O O O O
+2017年 6月份 被告 长期 感情 不 原告 分开 居住 原告 两 女儿 不 不 问
+B_Time I_Time O O B_FamilyConflict I_FamilyConflict O B_Separation I_Separation O O O O O O
+原 被告 婚生女 共 拆迁 置换 3 套 楼房
+B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth

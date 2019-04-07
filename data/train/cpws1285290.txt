@@ -1,0 +1,6 @@
+原告 王 某某 诉称 被告 经人介绍 相识 2010年 8月 18日 登记 结婚 婚后 2011年 3月 4日 生育 男孩 取名 郭某甲
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 未 建立 夫妻 感情 常 家庭 琐事 争吵 打架 被告 大打出手 无法 忍受 家庭 暴力 夫妻 感情 已经 破裂
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence O O O O O O O O
+原告 请求 依法 判决 原 被告 离婚 原告 抚养 孩子 带走 婚前 财产
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

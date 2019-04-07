@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 系 同学 关系 双方 2009年 下半年 确立 恋爱 关系 2010年 2月 5日 登记 结婚 两 人 均 系 再婚 婚后 未 生育 子女
+B_Person I_Person O O B_Person O O O O B_Time I_Time O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O O O O B_Remarry O O O O
+婚姻 关系 存续 期间 被告 脾气 古怪 问题 双方 常 家庭 生活 琐事 发生 纠纷
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 原告 实施 家庭 暴力 致使 夫妻 感情 产生 裂痕
+B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O
+原告 认为 双方 性格 不合 感情 基础 不 牢 已 无法 再 进行 沟通 交流 两 人 感情 确 已 彻底 破裂 故诉 绵竹市 人民法院 请求 判决 1 解除 原 被告 婚姻 关系
+B_Person O O O O O O O O O O O O O O O O O O O O O O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O
+被告 辩称 原告 所述 婚姻 状况 属实 原告 所述 离婚 理由 不 成立 被告 从未 原告 实施 家庭 暴力 双方 吵 久 确实 感情 已经 破裂 被告 同意 离婚
+O O O O B_Marry O B_Negated O O O O O O B_Person B_Negated B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O

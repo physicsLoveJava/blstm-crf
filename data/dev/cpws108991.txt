@@ -1,0 +1,12 @@
+原告 董 某某 诉称 原告 被告 经人介绍 后 2008年 10月 1日 当地 风俗 举行 结婚 仪式 后 2009年 2月 10日 补办 结婚 登记
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+婚后 夫妻 感情 常 生活 琐事 发生 争吵 被告 原告 拳打脚踢
+O O O O O O O O B_Person B_Person B_DomesticViolence
+2009年 5月 婚生 女 刘某 甲 出世 后 被告 原告 母女 不 不 问 夫妻 感情 已经 破裂
+B_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O
+原告 曾 两 次 法院 起诉 离婚 法院 判决 不 准 离婚 现 原告 起诉 请求 1 离婚
+B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O
+被告 刘 某某 辩称 被告 不 同意 离婚 双方 夫妻 感情 未 完全 破裂 仍 和好 双方 之间 矛盾 仅 家庭 矛盾 被告 并未 原告 进行 殴打
+O O O O O O O O O O O O O O O O O O O O O O O B_Negated O O B_DomesticViolence
+双方 结婚 时 未 建 新房 被告 父亲 付 双方 十万 元 建房款 房屋 未 建 该笔 款 现在 原告 处
+O O O O O O O O O O B_Price I_Price B_Wealth O O O O O O O O

@@ -1,0 +1,12 @@
+原被告 2008年 相识 确立 恋爱 关系 2010年 5月 举行 婚礼 仪式 共同 生活
+O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time B_Marry I_Marry I_Marry O O
+2012年 10月 22日 补办 结婚 登记 手续 领取 结婚证
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Marry I_Marry
+2010年 9月 4口 生育 女 取名 王韵涵 现 原告 一起 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O
+原被告 婚后 感情 双方 性格 不合 争吵 打架
+O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict
+被告 还 原告 工作 单位 捣乱 阻止 原告 正常 工作 为此 双方 感情 逐渐 破裂 现 已经 没有 和好
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O
+2018年 6月 原被告 分居 今
+B_Time I_Time O B_Separation I_Time

@@ -1,0 +1,6 @@
+原告林 某某 诉称 原 被告 经人介绍 相识 2011年 2月 11日 登记 结婚 婚后 双方 被告 家 共同 生活 15 天 被告 暴露 陋习 天天 打牌 输 家里 仅 几千 元 后 原告 去 钱 原告 没有 顺从 两 人 闹 矛盾 原告 回 娘家 居住 被告 原告 不闻不问 双方 无 联系
+O O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+请求 法院 判 令 原 被告 离婚
+B_DivorceLawsuit O O O O O O
+被告 孙 某某 辩称 被告 不 同意 离婚 双方 分居 时间 不 1 年 分居 原告 造成 原告 第三者 不 符合 离婚 条件
+O O O O O B_Negated I_Negated O O O O O O O O O O O B_Derailed O O O O

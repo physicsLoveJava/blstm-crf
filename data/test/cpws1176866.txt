@@ -1,0 +1,12 @@
+原告 丁某 诉称 被告 经人介绍 2010年 相识 次年 月 某日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+2012年 月 某日 生育 一子王 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 草率 结婚 结婚 后 未能 建立 夫妻 感情 常 家庭 琐事 争吵 小事 无理取闹 相互 不 信任 被告 不 尊重 长辈
+O O O O O O O O O O O O O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+为此 原 被告 2012年 8月 分居 互不 往来 双方 感情 日趋 紧张 夫妻 关系 名存实亡 已 无 好 确 属 感情 破裂
+O O O B_Time I_Time B_Separation B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+被告 王某 辩称 原告 经人介绍 2010年 相识 次年 月 某日 登记 结婚 2012年 月 某日 育 一子王 某某 事实 共同 生活 中 家庭 琐事 偶 争吵 亦 事实
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Negated O O O O O O B_FamilyConflict O B_Negated
+婚前 缺乏 了解 草率 结婚 婚后 未能 建立 夫妻 感情 原 被告 2012年 8月 分居 互不 往来 双方 感情 日趋 紧张 夫妻 关系 名存实亡 已 无 和好 确 属 感情 破裂 不 事实
+O O O O O O O O O O O O B_Time I_Time B_Separation B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O B_Negated I_Negated

@@ -1,0 +1,10 @@
+原 告诉 称 2003年 原 被告 经人介绍 认识 2006年 9月 18日 办理 结婚 登记 2006年 10月 1日 举行 婚礼 2007年 11月 4日 生 女孩 取名 某某
+O O O B_Time O O B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O I_Name
+2012年 6月 被告 感情 不 为由 提出 原告 离婚 原告 未 同意 被告 便 一走了之 不再 回家
+B_Time I_Time O B_FamilyConflict I_FamilyConflict O O O O O O O O O O B_Separation I_Separation
+原告 认为 双方 已 无 好 现 诉请 判 令 原 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 辩称 原告 诉 婚姻 构成 生育 情况 属实 被告 不 同意 离婚
+O O O O O O B_Bear I_Bear B_Negated O O O O
+2012年 6月 双方 曾 发生 争吵 被告 提出 离婚 便 外出 未 回家 当时 说 离婚 气话 没有 真心 离婚 意思
+O O O O O B_FamilyConflict O O O O O O O O O O O O O O O

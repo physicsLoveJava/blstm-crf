@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2015年 11月 19日 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry
+被告 2015年 8月 原告 说 回 娘家 去 不 回 原告 为此 联系 被告 被告 言辞 拒绝 原告 2017年 12月 8日 宁河区 人民法院 起诉 离婚 被告 未 庭
+O B_Time I_Time O O B_Separation I_Separation O O O O O O O O O O B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O
+法院 未 予 判决 离婚
+O B_Judgment I_Judgment I_Judgment I_Judgment

@@ -1,0 +1,6 @@
+原告 孟某 甲诉 称 ×××× 年×× 月××日 经人介绍 被告 登记 结婚
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+无 感情 基础 脾气 性格 不合 吵架 婚后 未 建立 夫妻 感情 现 已 分居 半 年
+O O O O O O B_FamilyConflict O O O O O O O B_Separation B_Duration I_Duration
+夫妻 共同 债务 六万 元 请求 依法 分割
+O O B_Debt B_Price I_Price O O O

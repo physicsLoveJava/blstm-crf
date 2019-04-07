@@ -1,0 +1,4 @@
+原告 张某 诉称 原告 被告系 自由 恋爱 相处 段 时间 后 2008年 1月 4日 登记 结婚 2008年 7月 3日 婚生 女 张 某某 现年 5 岁 婚后 初期 感情 还 双方 婚前 了解 太 少 双方 年龄 相差 比较 大 问题 上 显现 出 矛盾 被告方 2009年 5月份 离家 出走 至今 未 现 原告方 寻找 未 找到 现 原告 认为 被告 无视 家庭 责任 已 达到 双方 感情 破裂 离婚 程度
+B_Person I_Person O O O B_BeInLove I_BeInLove O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O B_Age I_Age O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+维护 原告 合法 权益 提出 诉讼 请求 1 要求 被告 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

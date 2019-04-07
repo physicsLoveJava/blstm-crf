@@ -1,0 +1,8 @@
+号 原被告 1993年 7月 30日 登记 结婚
+O O B_Time I_Time I_Time O B_Marry
+1995年 1月 24日 生育 长子 冯 旭阳 已 参加 工作
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O
+原被告 结婚 后 家庭 琐事 时常 争吵 打架 感情 不和
+O O O O O O B_FamilyConflict B_FamilyConflict B_FamilyConflict I_FamilyConflict
+近期 被告 外遇 原被告 之间 加剧 之间 已 无 感情 可言 婚姻 关系 无法 维持 为此 原告 武清区 人民法院 提起 诉讼
+O O B_Derailed O O O O O O O O O O O O O O O O O O

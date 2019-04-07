@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 2005年 4月 18日 双方 办理 结婚 登记
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+2005年 12月 5日 生长子 王朝阳 2011年 3月 6日 生次子 王家铭
+B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Name
+双方 性格 不 投 生气 吵架 被告 不 思理家 双方 感情 现 已 破裂
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+2017年 2月 原告 蓟州区 人民法院 起诉 离婚 后撤诉
+B_Time I_Time B_Person B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit B_Judgment

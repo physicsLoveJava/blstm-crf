@@ -1,0 +1,10 @@
+原 被告 双方 2007年 6月份 自由 恋爱 相识 9月份 共同 生活
+O O O B_Time I_Time O O B_Know O O O
+2014年 1月 10日 办理 婚姻 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry O
+双方 共同 生育 女儿 王艺情 10 周岁 儿子 王涵琪 7 周岁 共同 生活 以后 原告 才 发觉 双方 性格 不合 生活 琐事 打架 生气
+O O B_Bear B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 不但 不 思 悔改 变本加厉
+O O O O O B_BadHabit
+无奈 之下 原告 2018年 3月份 回 娘家 居住 今
+O O O B_Time I_Time B_Separation I_Separation I_Separation I_Time

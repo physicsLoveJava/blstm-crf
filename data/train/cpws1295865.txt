@@ -1,0 +1,6 @@
+原告 苏某 诉称 原 被告 双方 2009年 夏天 相识 恋爱 2010年 5月 20日 登记 结婚 2010年 11月 2日 生育 子 苏 博文
+O O O O O O B_Time O O B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 双方 了解 太 少 婚后 逐步 产生 矛盾 被告 脾气 暴躁 双方 性格 严重 不合 无法 磨合 导致 双方 感情 完全 劈裂 多方 调解 无法 挽回 原告 诉求 1 判 令 原 被告 离婚
+O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+被告 陈某 辩称 原 被告 双方 夫妻 感情 还 没有 离婚 地步 婚生子 年龄 尚 小 单亲 家庭 孩子 成长 不利 双方 父母 均 不 希望 原 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O

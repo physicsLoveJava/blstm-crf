@@ -1,0 +1,4 @@
+原告 被告 经人介绍 相识 1998年 6月 22日 登记 结婚 婚后 生 子女 已经 成人
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O
+婚后 没有 共同语言 被告 经济 上 限制 原告 每次 花费 被告 都 原告 报账 原告 不 信任 被告 长期 耍 脸色 原告 冷战 方式 对待 原告 原告 每日 看 被告 脸色 生活
+O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,6 @@
+原告 陈某 甲诉 称 被告 经人介绍 相识 2007年 10月 16日 登记 结婚 婚初 夫妻 感情 尚 2004年 11月 4日 生 男孩 陈某 丁 2008年 10月 25日 生 女孩 陈某丙 婚续 期间 共同 购置 位于 南和县 景书 香苑 楼房 栋
+O O O O O O O B_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+婚前 缺乏 了解 婚后 共同 生活 期间 发现 双方 脾气 性格 严重 不合 为此 常 生活 琐事 吵闹 打架 更 使 不能 忍受 被告 外面 沾花 惹草 夜 不 宿 不 正当 暧昧 关系 他家 人 曾 规劝 被告 被告 至今 未 悔改 意 为此 原告 还 遭受 被告 殴打 实施 家庭 暴力 被告 不忠 暴力 行为 致使 身心 遭受 严重 创伤 导致 夫妻 感情 彻底 破裂 婚姻 关系 再 难以 维系
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O B_Person O B_Derailed I_Derailed O O O O O O O O O O O O B_Person O O O O O B_Person O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O
+为此 特 法院 提起 离婚 诉讼 恳请 法院 依法 判决 被告 离婚 婚生 子女 抚养 被告 每月 承担 抚养费 500 元 分 共同 财产 楼房 栋 约 40万 元 本案 诉讼费 被告 承担
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_Price I_Price I_Price O O O O

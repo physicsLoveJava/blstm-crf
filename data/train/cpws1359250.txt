@@ -1,0 +1,10 @@
+原告 索某 甲诉 称 原 被告 ×××× 年×× 月经 人 介绍 相识 于×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 索某丙
+O O O O O O O O O O O B_Know O O O O O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 未 建立 感情 2011年 2012年 原告 两 次 意外 怀孕 被告 原告 家 无理取闹 伤 原告 母亲 派出所 调解 被告 未 悔改
+O O O O O O O O O O O O O O B_Person O O O I_DomesticViolence B_Person I_Person O O O O O
+2012年 7月 原 被告 发生 争执 后 原告 回 娘家 居住 今
+B_Time I_Time O O O O O O O O B_Separation I_Time
+原告 认为 双方 感情 破裂 为此 要求 原 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+被告 索某 乙 未 庭 书面 辩称 原 被告 感情 未 完全 破裂 原告 提起 诉讼 一时 冲动
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

@@ -1,0 +1,10 @@
+原告 王照娣 诉 称 原 被告 1984年 相识 同年 10月 结婚 1986年 补办 结婚 登记
+O O O O O O B_Time B_Know B_Time I_Time B_Marry O O O O
+婚后 感情 双方 生 子 现 已 成年
+O O O B_Bear I_Gender B_Age I_Age I_Age
+被告 不仅 不 关心 家人 家人 进行 谩骂 殴打
+O O B_BadHabit I_BadHabit I_BadHabit O O B_DomesticViolence I_DomesticViolence
+双方 已 分居 六 年 互不尽 夫妻 义务
+O O B_Separation O O O O O
+现 夫妻 感情 已 彻底 破裂 诉至法院 要求 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit O O O

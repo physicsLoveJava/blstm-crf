@@ -1,0 +1,8 @@
+原 被告 2011年 相识 a @12年 确立 恋爱 关系
+O O B_Time B_Know O O B_BeInLove I_BeInLove I_BeInLove
+2014年 3月 11日 登记 结婚 2014年 6月 6日 举办 结婚 典礼 双方 草率 结婚 婚后 未 建立 婚姻 感情
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O O
+婆媳 关系 十分 不 融 原被告 争吵 休
+O O O O O O B_FamilyConflict I_FamilyConflict
+现 已 分周 5月 久 现 原告 被告 失望 兰 夫妻 感情 确 已 破裂 再 无 和好 可能性
+O O B_Separation B_Duration I_Duration O O O O O O O O O O O O O O

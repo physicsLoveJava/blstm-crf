@@ -1,0 +1,10 @@
+原告 王某 诉称 原被告 2009年 1月 15日 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry
+目前 原被告 已经 分居 感情 完全 破裂 夫妻 关系 名存实亡
+B_Time O O B_Separation O O O O O O
+原被告 夫妻 关系 存续 期间 拥有 夫妻 共同 财产 约 30万 元
+O O O O O O B_Person B_Wealth I_Wealth O B_Price I_Price
+被告 赵某 辩称 原被告 经人介绍 相识 后 年龄 关系 都 再婚 非常 慎重 双方 了解 基础 上 交往 1 年 才 登记 结婚 感情 基础 牢固 至今 结婚 已 近 5 年 生活 平静 安详 不 原告 说 不 了解 原告 离婚 编造 理由
+O O O O O O O O O O B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+二 被告 原告 没有 原则 问题 没有 分居
+O O O O O O O B_Separation

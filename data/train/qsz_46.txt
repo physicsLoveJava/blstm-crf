@@ -1,0 +1,8 @@
+原 被告 2012年 经人介绍 相识 确立 恋爱 关系 2013年 11月 28日 登记 结婚 确立 夫妻 关系 婚后 育 女 名 王诗泽 2017年 5月 16日 出生 现年 1 周岁
+O O B_Time O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O B_Bear B_Gender O B_Name B_Time I_Time I_Time O O B_Age I_Age
+生活 琐事 发生 争吵
+O O O B_FamilyConflict
+被告 原告 父母 不 尊重 被告 行为 已 致 双方 感情 完全 破裂 再 无 和好
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+原 被告 感情 不和 2018年 3月 2日 分居
+O O O O B_Time I_Time I_Time B_Separation

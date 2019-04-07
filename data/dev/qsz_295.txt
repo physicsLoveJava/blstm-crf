@@ -1,0 +1,10 @@
+原被告 2007年 1月 人 介绍 相识 确立 恋爱 关系 2007年 10月 举行 婚礼 同居 生活 2008年 7月 15日 生育 女孩 取名 张钟月
+O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2012年 2月 7日 原被告 补办 结婚 登记
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+原被告 结婚 后 性格 不同 没有 共同语言 之间 争吵 打架 感情 不和
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O
+为此 原告 曾 2016年 3月 武清区 人民法院 提起 离婚 诉讼 后 原告 撤回 起诉
+O B_Person O B_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment
+2017年 3月 原告 武清区 人民法院 提起 诉讼 该院 2017年 4月 11日 2017 津0114 民 初 2181 号 民事 判决 驳回 原告 起诉
+B_Time I_Time B_Person B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment

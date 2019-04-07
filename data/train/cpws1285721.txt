@@ -1,0 +1,10 @@
+原告 黄 某某 诉称 原 被告 2003年 3月 27日 登记 结婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+原 告 之间 夫妻 感情 早已 不合 被告 搬离 原告 处 已 两 年
+O O O O O O O O B_Separation I_Separation I_Separation O B_Duration I_Duration
+原 被告 婚前 相互 缺乏 了解 婚后 未 建立 良好 感情 现 双方 感情 彻底 破裂 诉至法院 要求 判 令 1 原 被告 离婚
+O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O
+原 被告 1998年 相识 2003年 登记 结婚 婚后 两 人 居住 上海市 浦东 新区 曹路镇 兴东村 季家宅 XXX 号
+O O O B_Know B_Time B_Marry I_Marry O O O O O O O O O O O O
+2011年 3月 双方 生活 琐事 发生 争执 原告 被告 使用 暴力 被告 出门 之后 被告 外 租房 居住 期间 被告 想 回去 怕 回去 引起 矛盾 没有 钥匙 未能 回去
+O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O

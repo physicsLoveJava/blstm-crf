@@ -1,0 +1,8 @@
+原 被告 2012年 相识 后 确立 恋爱 关系 2013年 9月 10日 蓟州区 民政局 登记 结婚 2014年 8月 9日 长子 杨 骏逸 出生
+O O B_Time B_Know O O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Gender B_Name I_Name B_Bear
+2015年 1月份 原告 发现 被告 出轨 后 原告 规劝 仍 不 思悔改 夫妻 感情 出现 裂痕
+B_Time I_Time O O B_Person B_Derailed O O O O O O O O O O
+2017年 4月份 被告 原告 感情 不和 不 回家 居住
+B_Time I_Time O O B_FamilyConflict I_FamilyConflict B_Separation I_Separation I_Separation
+原告 认为 被告 出轨 在先 已 生育 子女 足以 看出 被告 原告 毫无 感情
+O O B_Person O O O I_Derailed I_Derailed O O O O O O

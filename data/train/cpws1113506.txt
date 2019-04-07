@@ -1,0 +1,8 @@
+原告 余某 诉称 原 被告 200X 年相识 200X 年 X 月 X 日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time I_Time I_Time I_Time B_Marry I_Marry
+200X 年 X 月 X 日 生育 女儿 李 某某
+B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 被告 无故 殴打 原告 当面 辱骂 原告 父母 致 原告 母亲 手臂 骨折 被告 还 威胁 原告 所作所为 使 原告 心灵 严重 受伤 伤害 夫妻 感情
+O B_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O B_Person I_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O
+原告 所述 暴力 问题 认为 没有 威胁 殴打 原告 事发 时 原告 被告
+O O O O O B_Negated B_DomesticViolence I_DomesticViolence O O O B_Person B_Person

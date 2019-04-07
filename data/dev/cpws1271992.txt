@@ -1,0 +1,8 @@
+原告 覃某 诉称 1998年 原告 覃某 被告 卢某 甲 认识 恋爱 times
+O O O B_Time O O O O O O B_BeInLove O
+生 女儿 卢某乙
+B_Bear I_Bear B_Name
+婚后 被告 卢某 甲不忠 生活 作风 乱 还 酒后 发疯 实施 家庭 暴力 造成 夫妻 感情 破裂 无法 再 继续 共同 生活 原告 2013年 3月 22日 柳南 法院 起诉 离婚 开庭 审理 后 2013年 4月 9日 判决 不准 原被告 离婚
+O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O O O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O
+原告 覃某 维护 合法 权益 特此 提起 诉讼 要求 判决 1 人民法院 判决 原告 覃某 被告 卢某 甲 离婚
+B_Person I_Person O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

@@ -1,0 +1,8 @@
+2015年 2月 13日 原被告 经人介绍 相识 同年 3月 2日 领取 结婚证
+B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+原被告 均 系 再婚 结婚 时 被告 带 女儿 现 被告 一起 生活
+B_Person O O B_Remarry O O O O O O O O O
+婚后 原告 北京 打工 少 回家 回家 后 双方 打打闹闹 不欢而散 特别 被告 原告 母亲 一起 生活 时 产生 大 矛盾
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+2017年 3月 原告 蓟州区 人民法院 起诉 离婚 蓟州区 人民法院 作出 2017 津0119 民 初 3440 号 民事 判决书 驳回 原告 诉讼 请求
+B_Time I_Time B_Person B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

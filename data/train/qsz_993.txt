@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2008年 5月 14日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 2008年 10月 31日 生育 长女 沈煦窃 2015年 1月 21日 生育 长子 沈煦航
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 少 婚后 原、被告 双方 发现 感情 不 投 生活 琐事 生气 吵架 尤其 原告 发现 被告 婚外情 2016年 12月份 原告 离家 外 打工 再 没有 回过 家 被告 未 接叫 双方 分居 今 互不尽 夫妻 义务
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O B_Person B_Derailed B_Time I_Time O O O O O O O O O O O O B_Separation I_Time O O O

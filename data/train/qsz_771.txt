@@ -1,0 +1,4 @@
+原告 被告 经人介绍 相识 1998年 5月 22日 登记 结婚 婚后 1998年 11月 25日 生育 婚生子 陈昶
+O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚后 感情 琐事 发生 矛盾 2017年 6月 29日 双方 再 次 发生 矛盾 被告 离家 出走 今 为此
+O O O O O B_FamilyConflict B_Time I_Time I_Time O O O O O O B_Separation I_Separation I_Time O

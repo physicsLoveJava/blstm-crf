@@ -1,0 +1,6 @@
+原 被告 均 系 再婚 2004年 经人介绍 相识 2005年 登记 结婚 双方 名 子女 婚后 双方 未 生育 子女
+B_Person I_Person O O B_Remarry B_Time O B_Know B_Time B_Marry I_Marry O O O O O O O O
+双方 均 系 再婚 感情 基础 差 婚后 未 建立 牢固 感情 基础 共同 生活 期间 无 共同语言 琐事 发生 争执
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 以为 复婚 后 双方 夫妻 关系 有所 改善 事与愿违 双方 关系 没有 改善 不 睦 继续 生活 一起 已经 没有 意义
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O

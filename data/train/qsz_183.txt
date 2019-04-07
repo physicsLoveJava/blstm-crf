@@ -1,0 +1,8 @@
+原 被告 2002年 经人介绍 柑识 确立 恋爱 关系
+O O B_Time O B_Know O B_BeInLove O
+2003年 5月 12日 举行 婚礼 共同 生活 -2003 年 7片 补办 结婚 登记 手续
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2004年 2月 21 号 生育 子 宗子
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 结婚 初期 感情 尚 双方 长久 分居 原因 导致 性格 行为 方式 均 产生 大 差异 日常 沟通 不良 琐事 发生 矛盾 仅 感情 基础 无尽 争吵 中 消耗 殆尽 现 双方 感情 彻底 破裂 无 和好
+O O O O O O O B_Duration B_Separation O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O

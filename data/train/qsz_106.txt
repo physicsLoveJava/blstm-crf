@@ -1,0 +1,10 @@
+原 被告 2013年 经人介绍 相识 2014年 2月 20日 登记 结婚 2014年 12月 20日 生育 子 穆德羽
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name
+婚后 双方 生活 琐事 产生 矛盾 2017年 9月 感情 不 分居 今
+O B_Person O O B_FamilyConflict I_FamilyConflict B_Time I_Time O O B_Separation I_Duration
+2017年 12月 6日
+B_Time I_Time I_Time
+原告 曾 离婚 纠纷 为由 贵院 提起 诉讼 要求 被告 离婚
+B_Person O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵院 2017年 12月 27日 作出 2017 津0113 民 初 8046 号 民事 判决书 判决 驳回 原告 诉讼 请求
+O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

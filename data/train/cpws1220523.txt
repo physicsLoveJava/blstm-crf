@@ -1,0 +1,18 @@
+原告 高一×诉 称 原 被告 均 系 再婚 双方 经人介绍 相识 后 确立 恋爱 关系 2008年 5月 12日 举行 婚礼 同居 生活 ×××× 年×× 月××日补办 结婚 登记 手续 ×××× 年×× 月××日生 子 高二
+O O O O O O O O O O B_Know O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time B_Bear B_Gender B_Name
+2015年 2月 28日 被告 执意 宝坻区 房地产 中介 上班 双方 发生 争吵 被告 离家 出走 今
+B_Time I_Time I_Time O O O O O O O O B_FamilyConflict O B_Separation I_Separation I_Time
+2015年 3月 27日 被告 法院 起诉 离婚 法院 驳回 离婚 请求
+O O O O O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment O O
+原告 诉 离婚 理由 不 属实 原告 出轨 在先 导致 被告 无法 共同 生活
+O O O O O O B_Person B_Derailed O O B_Person O O O
+原告 处 财产 柜式 空调 台 金 项链 条 金 耳坠 一对 金 戒指 枚
+O O I_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+原告 处 共同 财产 台式 组装 电脑 台 跑狼牌 电动 自行车 二 辆
+O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+原告 2013年 6月份 左右 卖 辆 长城牌 轿车 款 50000 元 原告 手中 用于 父母 投资 亦 属于 夫妻 共同 财产
+O O O O O O O O O B_Wealth I_Wealth O O O O O O O O B_CommonProperty I_CommonProperty
+原告 针对 被告 答辩 意见 称 被告 所述 原告 处 财产 共同 财产 不 属实
+O O O O O O O O O O O O O O B_Negated
+被告 述 变卖 辆 长城牌 轿车 属实 距 今 已 两 年 当时 卖 不 46000 元 48000 元 原告 现在 记 不 清楚 这笔 钱 原告 手中 已经 消费 炒 外汇 损失 10000 元 胡乱 花 掉
+O O O O O O B_Negated O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

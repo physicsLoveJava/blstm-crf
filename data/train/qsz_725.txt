@@ -1,0 +1,16 @@
+原 被告 一九九九年年 八月 十九日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 长女 张蕊 次女张 长子 张泽
+O B_Bear B_Gender B_Name B_Gender B_Gender B_Name
+被告 不 好好 过日子 2014年
+O O O O B_Time
+被告 田 姓 女子 关系 暧昧
+B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+发展 成 不 正当 关系 家里 钱 款 大量 付田 姓 女子
+B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O
+被告 大量 外 倒腾 钱 款
+B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原告 只能 去 借款 被告 完全 不尽 为人夫 为人父 义务 原告 数次 劝 被告 回归 家庭
+B_Person O O B_Debt O O O O O O O O O O O O
+在家 整天 找茬 生气 动不动 原告 打架
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict

@@ -1,0 +1,20 @@
+原告 梁某 莲诉 称 原告 被告 蔡某 亮 1983年 10月 当地 风俗 举行 婚礼 双方 未 民政部门 办理 结婚 登记
+O O O O O O O O O O O O B_Marry I_Marry O O O O B_Marry I_Marry
+原 被告 共同 生活 期间 1984年 7月 5日 生育 女孩 蔡常花
+O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+1987年 2月 12日 生育 男孩 蔡常富
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 1997年 桂林 做 生意 今 夫妻 长期 分居 双方 感情 日趋 淡薄
+O I_Time O O O O O O B_Separation O O O O
+后 原告 发现 被告 外 包养 女人 间 矛盾 激化
+O O O B_Person I_Derailed I_Derailed O O O O
+原 被告 一起 生活 期间 共同 财产 房屋 座 价值 约 15万 元 农用 货车 辆 价值 约 2万 元 被告 银行 存款 约 3万 元
+O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O O B_Price I_Price B_Wealth I_Wealth I_Wealth O O B_Price I_Price B_Person B_Wealth I_Wealth O B_Price I_Price
+原告 认为 被告 长期 外 女人 生活 双方 无法 共同 生活 下去 导致 夫妻 感情 破裂 被告 负有 重大 责任
+B_Person O B_Person O O I_Derailed I_Derailed O O O O O O O O O O O O O
+特具状 起诉 请求 人民法院 依法 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+房屋 原告 出资 建 价值 约 3万 元
+B_Wealth O O O O B_Price I_Price I_Price
+农用 货车 系 儿子 购买
+B_Wealth I_Wealth O B_Person I_Person

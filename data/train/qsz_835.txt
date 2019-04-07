@@ -1,0 +1,16 @@
+原 被告 经人介绍 2017年 9月 登记 结婚 结婚 时 被告 媒人 手 原告 索要 彩礼 钱 16万 元
+O O O B_Time I_Time O B_Marry O O O O O O O O O O O
+双方 结婚 后 原告 发现 被告 脾气 秉性 乖庚 无法 相处 沟通 凡事 不容 商量 任性 耍 横蛮 不 讲理 表现 强势 原告 雇工 使用 说了算 稍 不 随意 开口 骂 吵 闹 不 休
+O O O O O O O B_BadHabit I_BadHabit B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+更 原告 不 容忍 婚后 被告 无所事事 竟 饭 都 不 想 做 外卖 维持 一日三餐
+O O O O O O B_BadHabit O O O O O O O O O
+被告 不 思 生计 一天到晚 算计 吃 买 四季 鲜果 无论 贵贱 网购 不断 常 吃 常
+O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O
+被告 还 常 琐事 找到 原告 单位 吵闹 纠缠 原告 造成 极 坏 影响
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+今年 春节 前 被告 家里 买 拜 新年 礼品 原告 计算机 算账 被告 不满 大 吵 大 闹 纠缠 不 休
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+去年 腊月二十九 被告 原告 单位 声称 离婚 过年 机 回 娘家 至今 未
+O B_Time O O O O O O O B_Separation I_Separation B_Time O
+原告 认为 原 被告 结婚 时间 短 婚前 互不 了解 婚后 未能 建立 夫妻 感情 婚后 被告 吃 喝 玩 耍 事 不 干 实在 闲 没事 找 茬 生气 闹 原告 一天到晚 心神不定 无法 正常 工作 精神 几近 崩溃
+O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O

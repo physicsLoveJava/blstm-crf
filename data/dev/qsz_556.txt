@@ -1,0 +1,14 @@
+2011年 秋
+B_Time I_Time
+原 被告 经人介绍 相识 建立 恋爱 关系
+O O O B_Know O B_BeInLove O
+2012年 9月 21日
+B_Time I_Time I_Time
+生育 长女 李芸熙 2013年 1月 14日
+B_Bear B_Gender B_Name B_Time I_Time I_Time
+双方 补办 结婚 登记 手续 2018年 1月 4日 原告 贵院 起诉 被告 离婚 贵院 做出 2018 津0115 民 初 203 号 民事 判决书 判决 驳回 原告 诉讼 请求 贵院 判决 下发 后 原 被告 未 共同 生活
+O O B_Marry I_Marry O B_Time I_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O B_Separation I_Separation I_Separation
+至今 已 近 9 月 夫妻 感情 已 完全 破裂
+O O O B_Duration I_Duration O O O O O
+家庭 75 平方米 套 楼房 出售 现 尚 25万 元 售房款 未 到位 10万 元 原、被告 夫妻 共同 债权
+O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O B_Price I_Price B_CommonProperty I_CommonProperty I_CommonProperty B_Credit

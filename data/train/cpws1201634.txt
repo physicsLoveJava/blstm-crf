@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 相识 1997年 9月 1998年 2月 结婚 相处 时间 短 缺乏 深入 了解 感情 基础 薄弱
+O O O O O B_Know B_Time I_Time B_Time I_Time B_Marry O O O O O O O O O
+语言 恶毒 吵 闹 不 断
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2008年 8月 被告 曾 提出 原告 离婚 原告 当时 已 考虑 离婚 事宜 原告 妹妹 却 9月 查处 已 患 绝症 使 原告 无暇 顾及 夫妻 矛盾
+B_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O O O
+自此 被告 分床 居
+O O B_Separation I_Separation
+请求 判 令 原告 被告 离婚 婚生 儿子 原告 抚养 被告 不用 承担 费用 婚后 共同 财产 咸阳市 文林路 号 院内 2 号 楼 3 单元 6 层 西户 房屋 被告 所有
+O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O B_Wealth O O

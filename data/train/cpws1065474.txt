@@ -1,0 +1,2 @@
+原 告诉 称 被告 经人介绍 相识 后 月 2013年 1月 21日 登记 结婚
+O O O O O O O O B_Time I_Time I_Time O B_Marry

@@ -1,0 +1,8 @@
+原告 王某 甲诉 称 原 被告 经人介绍 认识 ×××× 年×× 月×× 日 双方 黄山市 黄山区 民政局 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time I_Time O O O O B_Marry I_Marry
+2007年 双方 生育 子 王某 乙
+B_Time O B_Bear B_Gender B_Name I_Name
+更 原告 难过 双方 性格 不 吵架 双方 年龄 相差 悬殊 难以 沟通
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+现 原告 认为 夫妻 感情 已 彻底 破裂 要求 被告 离婚 婚生子 王某 乙 原告 抚养 被告 每月 支付 生活费 600 元 大学 毕业
+O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

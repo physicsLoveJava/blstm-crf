@@ -1,0 +1,6 @@
+原告华 某某 诉称 原 被告 1999年 人 介绍 相识 次年 双方 同居 生活 2001年 4月 1日 办理 结婚 登记 手续 2001年 5月 1日 办理 结婚 仪式
+O O O O O B_Time O O B_Know O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O
+婚后 双方 性格 不合 相互 缺乏 信任 生活 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+诉请 判 令 1 原 被告 离婚
+B_DivorceLawsuit O O O O O O

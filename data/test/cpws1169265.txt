@@ -1,0 +1,14 @@
+原告 尹某 甲诉 称 原被告 ×× ×× 年××月 广东 打工 认识 ×××× 年×× 月××日 黄山区 民政局 登记 结婚 双方 便 定居 原告 家
+O O O O O B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry O O O O O
+×××× 年×× 月×× 日 生育 长子 尹某 乙 ×××× 年×× 月×× 日 生育 次子 黄某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 根本 不 体谅 原告 辛苦 有事 没事 原告 争吵 些 莫名其妙 小事 原告 大动干戈 原告 家庭 两 孩子 都 忍让
+O O O O O O O O O O O O O O B_DomesticViolence O O O O O O
+原告 认为 被告 家庭 早已 没有 责任 夫妻 感情 已经 破裂 结束 段 婚姻 解脱
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+具状 法院 要求 离婚 判决 长子 尹某 乙归 原告 抚养 次子 黄某 乙 被告 抚养
+B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O
+×××× 年××月 广东 打工 认识 ×××× 年×× 月××日 黄山区 登记 结婚 婚后 三 月 生育 男孩 取名 尹 某乙 之后 原告 河南 淮滨县 马集镇 街道 定居 在家 抚养 儿子 直到 儿子 尹某 乙 7 岁 送 回 安徽 黄山 入学 今
+B_Time I_Time O O B_Know B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O
+2006年 生育 男孩 取名 黄某 乙 抚养 现在
+B_Time B_Bear B_Gender O B_Name I_Name O O

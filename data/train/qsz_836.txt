@@ -1,0 +1,14 @@
+原 被告 2007年 3月 人 介绍 相识
+O O B_Time I_Time O O B_Know
+2008年 12月 18日 民政部门 办理 结婚 登记
+B_Time I_Time I_Time O O B_Marry I_Marry
+2016年 8月 18日 原 被告 生 女 取名 杨雅安
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name
+被告 违背 夫妻 应 忠诚 法律 原则 外借 大额 债务
+B_Person O O O O O O O B_Debt I_Debt
+2017年 9月 初
+B_Time I_Time I_Time
+后 被告 回娘 居住
+O O B_Separation I_Separation
+原告 现诉 贵院
+B_Person B_DivorceLawsuit B_Court

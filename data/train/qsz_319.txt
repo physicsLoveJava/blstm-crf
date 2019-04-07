@@ -1,0 +1,10 @@
+原被告 1997年 经人介绍 认识 确立 恋爱 关系 1998年 10月 举行 结处 仪式 同居 生活 1999年 1
+O B_Time O B_Know O B_BeInLove O O O O O O O O O O
+秦爽 2000 下 11月 16日 武清区 民政局 办理 结婚 登记
+O B_Time I_Time I_Time I_Time O O O B_Marry O
+双方 婚后 性格 不合 常 琐事 争吵 影响 夫妻 感情
+O O O O O O B_FamilyConflict O O O
+原告 2016年 4月份 武清区 人民法院 起诉 被告 要求 离婚 后 出 武清区 人民法院 2016年 6月 8口 做出 审判决
+B_Person B_Time I_Time O O B_DivorceLawsuit O O O O O O O B_Time I_Time I_Time O O
+驳回 原告 请求 不 准 离婚
+O O O B_Judgment I_Judgment I_Judgment

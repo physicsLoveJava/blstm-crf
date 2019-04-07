@@ -1,0 +1,20 @@
+原 被告 1999年 人 介绍 相识 后 生活 一起
+O O B_Time O O B_Know O O O
+后 2002年 12月 4日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+双方 均 再婚 原告 结婚 时 带 女儿 现年 25 岁 已 成人
+B_Person O B_Remarry O O O O O O O O O O
+双方 结婚 时间 不 长 发现 被告 不 男人 不 担当 不知 挣钱 过日子 钱 不 家里 不 家务 家庭 琐事 总 原告 发生 口角 被告 原告 暴力 倾向
+O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence
+被告 总 原告 疑心 无端 怀疑 原告
+B_Person O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2014年 10月 20日 双方 获得 天津市 东 M 区 新立 花园金 环里 9 号 楼 3 门 301 号 还 迁房 套 领取 产权 证书 约定 产权 份额
+O O O B_Person O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O
+双方 只 闪 只 处 住房 要不然 早已 分居 生活 双方 分居
+O O O O O O O O O O O I_Separation
+被告 曾 法院 提出 离婚 撤诉
+B_Person O B_Court B_DivorceLawsuit I_DivorceLawsuit B_Judgment
+被告 还 总 原告 暴力 倾向
+B_Person O O B_Person B_DomesticViolence I_DomesticViolence
+还 原告 提出 离婚 双方 一起 住 套 房子 没 办法 夫妻 分居 生活 没有 区别
+O O O O O O O O O O O I_Separation I_Separation I_Separation I_Separation I_Separation

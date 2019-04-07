@@ -1,0 +1,4 @@
+原告 钟某 诉称 被告 婚前 缺乏 了解 婚后 争吵 不 断 被告 还 限制 人身自由 夫妻 感情 已 彻底 破裂 坚决 要求 离婚
+B_Person I_Person B_DivorceLawsuit O O O O O B_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 张某 辩称 原告 起诉书 述 不 属实 原告 感情 好 原告 原有 赌博 恶习 曾 酒驾 受到 处罚 才 提醒 原告 并未 限制 自由
+O O O O O O B_Negated I_Negated O O O B_Person O B_BadHabit I_BadHabit O B_BadHabit O O O O O O O O

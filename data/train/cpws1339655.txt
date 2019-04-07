@@ -1,0 +1,4 @@
+原告 王 某某 诉称 原 被告 2004年 登记 结婚 婚后 生育 女 王某 现年 8 周岁
+O O O O O O B_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+被告 原告 家庭 琐事 争吵 无法 再 共同 生活 下去
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

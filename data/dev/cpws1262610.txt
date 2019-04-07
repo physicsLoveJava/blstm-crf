@@ -1,0 +1,10 @@
+生育 儿子 董某乙 已 过世
+B_Bear O B_Name O O
+婚后 双方 性格 习惯 不和 生活 小事 吵架
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 7月 26日 儿子 交通 事故 过世 后 被告 原告 无理取闹 原告 工作 地方 大 吵 大 闹 不 原告 正常 工作 休息 无奈 派出所 调解
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 身心 受到 创伤 双方 已 无法 共同 生活 夫妻 感情 彻底 破裂 夫妻 关系 名存实亡
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 维护 合法 利益 诉至法院 请求 判 令 1 原 被告 离婚
+B_Person O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

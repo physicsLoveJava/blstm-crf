@@ -1,0 +1,4 @@
+2002年 6月 1日 举行 结婚 仪式 同居 生活 2002年 12月 9日 生育 长女 润琳 2004年 9月 23日 原 被告 天津市 宁河县 民政局 办理 结婚 登记 手续 2009年 11月 28日 生育 长 于于家振
+O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear O B_Gender
+第日 证述 诉成 案博 恶习 原告 家人 李次 规办 被告 根术 不 被告 还 出轨 人 不 正当 关系 原告 孩子 恶 受 今 被告 不 思 悔改
+O O O O O O O O O O O O B_Person O B_Derailed O O O O O O O O O O O O O

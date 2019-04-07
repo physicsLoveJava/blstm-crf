@@ -1,0 +1,10 @@
+原告 栗某 诉称 原 被告 2009年 3月 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+B_Person I_Person B_DivorceLawsuit O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+原告 系 再婚
+B_Person O B_Remarry
+原告 原告 之前 夫 ×××× 年×× 月×× 日 生育 子 段 某乙 原 被告 2010年 8月 28日 婚生 女 段 凌萱 段 某乙 段 凌萱 现 均 原告 生活
+O O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O
+原 被告 婚前 认识 时间 短 草率 结婚 婚后 性格 不合 生气 吵架 被告 原告 进行 打骂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2013年 6月 原告 回 娘门 居住 今 原 被告 夫妻 感情 确 已 破裂
+B_Time I_Time O B_Separation I_Separation I_Separation O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

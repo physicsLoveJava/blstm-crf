@@ -1,0 +1,2 @@
+原告 陈某 诉称 被告 冯某 经人介绍 2012年 2月 22日 登记 结婚 原告 陈某系 再婚 婚后 带 孩子 冯 梦莹 被告 冯 块 生活 婚后 原告 陈某 才 发现 被告 冯某 男性 疾病 双方 夫妻 感情 已 破裂 现 请求 要求 被告 离婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Person B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O

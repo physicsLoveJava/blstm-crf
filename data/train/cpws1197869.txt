@@ -1,0 +1,8 @@
+原告 单 某某 诉称 2003年 原被告 经人介绍 认识 2003年 11月 18日 登记 结婚 婚前 感情
+O O O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry O O
+2005年 1月 25日 生育 女单 某某 2011年 1月 21日 生育 子 单 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 感情 基础 薄弱 婚后 发现 双方 性格 差异 未能 建立 夫妻 感情
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原被告 2012年 8月份 分居 今 夫妻 感情 已 彻底 破裂
+O B_Time I_Time B_Separation I_Time O O O O O

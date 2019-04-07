@@ -1,0 +1,8 @@
+原告 丁 某某 诉称 被告 2012年 相识 建立 恋爱 关系 2012年 2月 13日 办理 登记 结婚 婚后 未 生育 子女
+B_Person O O O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O
+婚前 被告 家人 隐瞒 被告 患 精神病史 事实 婚后 月 被告 精神病 复发 原告 积极 被告 治疗 至今 未 愈 现 无法 共同 生活 夫妻 感情 无法 建立
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 诉至法院 请求 被告 赵 某某 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 赵 某某 辩称 赵 某某 2011年 驾校 培训 学习 期间 原告 丁 某某 相识 相恋 2012年 2月 13日 登记 结婚
+O O O O O O B_Time O O O O O O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry

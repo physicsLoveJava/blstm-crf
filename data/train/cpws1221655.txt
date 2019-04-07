@@ -1,0 +1,6 @@
+原告 张某 诉称 2011年 7月 12日 原 被告 经人介绍 认识 ×××× 年××月 兖州市 民政局 登记 结婚 2012年 5月 9日 举行 结婚 仪式
+O O O O O O O O O B_Know B_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry I_Marry
+双方 缺乏 了解 感情 基础 非常 薄弱 被告 性格 暴躁 结婚 一点 小事 非 骂
+O O O O O O O B_Person B_BadHabit I_BadHabit O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 夫妻 感情 确 已 破裂 请求 判决 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

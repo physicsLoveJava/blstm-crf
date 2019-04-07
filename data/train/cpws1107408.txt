@@ -1,0 +1,4 @@
+原告 龚 X 诉称 原 被告 双方 2013年 6月 25日 经人介绍 相识 同年 8月 办理 结婚 登记 手续 随后 举行 结婚 仪式 婚后 未 生育 子女 双方 生育权 问题 上 发生 争吵 影响 夫妻 感情 同年 9月 9日 双方 分居 生活 原告 认为 夫妻 感情 已 彻底 破裂 遂 诉至法院 要求 离婚
+O O O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O B_Negated B_Bear O O O O O O B_FamilyConflict O O O B_Time I_Time I_Time O B_Separation O B_Person O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+三 依法 分割 夫妻 共同 财产 茶钱 9800 元
+O O O O B_CommonProperty I_CommonProperty B_Wealth B_Price I_Price

@@ -1,0 +1,8 @@
+原告 张某 诉称 原告 被告 2007 经人介绍 相识 2007年 3月 23日 登记 结婚
+B_Person I_Person O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 被告 缺乏 了解 婚后 才 知 双方 性格 不合 吵架 导致 夫妻 感情 长期 不 有名无实 夫妻 生活
+O O O O O O O O O O B_FamilyConflict O O O O O O O O
+老年 再婚 年老 依靠 生活 上 相互 照顾 被告 何某 不但 不 关心 照顾 每月 准时 问 钱 被告 所作所为 造成 痛苦 现 被告 实在 无法 忍受 夫妻 感情 已 彻底 破裂 请求 人民法院 依据 中华人民共和国 婚姻法 规定 判决 解除 原、被告 夫妻 关系
+O B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+原因 2008年 原告 三 女儿 收养 女孩 原告 三 女儿 要求 代养 2011年 原告 收养 小孩 无故 打骂 不许 发生 纠纷
+O O O O O O O O O O O O O B_Person O O O O O O O

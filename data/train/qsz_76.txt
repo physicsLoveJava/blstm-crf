@@ -1,0 +1,6 @@
+原告 被告 2016年 10月 人 介绍 认识 2017年 2月 15日 登记 结婚 2017年 3月 16日 一起 共同 生活
+O O O O O O B_Know B_Time I_Time I_Time O B_Marry O O O O O O
+原告 被告 认识 不久 登记 结婚 缺乏 了解 草率 结婚 婚后 没有 建 V 大 妻 感情
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+相处 原告 发现 双方 性格 差异 比较 大 没有 共同语言 无法 共同 牛活
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O

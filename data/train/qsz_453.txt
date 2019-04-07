@@ -1,0 +1,8 @@
+原 被告 1993年 经人介绍 相识 后 举办 婚礼 共同 生活 1995年 1月 1日 生育 子 取名 刘帅 现 已 成年 后 1999年 12月 9日 补办 婚姻 登记 手续
+O O B_Time O B_Know O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O B_Age O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+感情 不 双方 2017年 7月 10日 宝坻区 民政局 办理 协议 离婚 手续 后 考虑 孩子 感受 2017年 11月 28日 办理 复婚 手续 复婚 后 双方 始终 未能 重 归于好
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O
+原 被告 琐事 发生 争吵 次 争吵 后 原告 报警 后
+O O O O B_FamilyConflict O O O O O O
+2018年 4月份 分居 生活 今
+B_Time I_Time B_Separation O I_Time

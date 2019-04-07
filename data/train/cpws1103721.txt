@@ -1,0 +1,14 @@
+原告 李某 诉称 原 被告 经人介绍 相识 ×××× 年×× 月×× 日 双方 办理 结婚 登记
+O O O O O O B_Know B_Time I_Time I_Time I_Time O B_Marry I_Marry I_Marry
+典礼 后 原 被告 性格 差异 大 被告 原告 怄气
+O O O O O O O O O B_FamilyConflict
+2011年 5月 21日 生 女孩 现 原告 生活 女儿 出生 未能 唤醒 被告 家庭 责任感
+B_Time I_Time I_Time B_Bear B_Gender O O O O O O O O O O
+2012年 9月 原 被告 家庭 琐事 吵闹
+O O O O O O B_FamilyConflict
+原告 回 娘家 居住 今
+O B_Separation I_Separation I_Separation O
+2013年 1月 原告 起诉 法院 要求 被告 离婚 法院 作出 不准 原 被告 离婚 原 被告 仍 无 和好 希望
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O
+为此 原 告诉 贵院 要求 被告 离婚
+O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

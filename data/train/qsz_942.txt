@@ -1,0 +1,2 @@
+原 被告 系 再婚 婚姻 关系 2011年 10月 31日 婚姻 登记 机关 领取 结婚 证书 双方 均 系 再婚 缺乏 婚前 足够 了解 婚后 感情 时间 推移 原 被告 相互 发现 对方 个足 双方 不 让步
+O O O B_Remarry O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O

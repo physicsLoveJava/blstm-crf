@@ -1,0 +1,4 @@
+2015年 8月 26日 武清民 部门 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+原告 丁 2017年 6月 8日 起诉 离婚 法律 规定 期限 原告 现有 求 再 离婚
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

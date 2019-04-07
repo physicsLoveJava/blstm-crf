@@ -1,0 +1,14 @@
+2010年 初 原 被告 经人介绍 相识 2010年 7月 20日 结婚 婚后 生育 长女 潘灿然 现年 8 周岁 长子 潘梦龙 现年 5 周岁
+B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+婚后 双方 感情 不好 生气 打架
+O O O O O B_FamilyConflict
+特别 2015年 被告 原告 挚打脚踢
+O B_Time B_Person B_Person B_DomesticViolence
+年 原告 实施 家庭 暴力 严重 伤害 夫妻 感情 最近 年 双方 矛盾 突出 2017年 5月份 被告 原告 吵架
+O O O O O O O O O O O O O O O O O O B_FamilyConflict
+婚后 原、被告 共同 财产 厢房 4 间 院墙
+O O B_CommonProperty I_CommonProperty B_Wealth B_Price I_Price B_Wealth
+原告 婚前 财产 三星 牌 32 寸 液晶 电视机 台 格力 空调 挂机 电脑 台 大衣柜 组 康佳 冰箱 台 电脑 缝纫机 台 三阳牌 摩托车 辆
+B_Person B_PersonalProperty I_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+2017年 10月 原告 提出 离婚 诉讼 后 原告 撤诉 。
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment O

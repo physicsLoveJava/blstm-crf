@@ -1,0 +1,12 @@
+原 告诉 称 原 被告 2003年 9月 经人介绍 相识 2004年 4月 22日 岳阳县 民政局 登记 结婚 婚后 生育 女儿 XXX XXX
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender B_Name I_Name
+婚前 双方 交往 时间 不 长 了解 不 深 没有 感情 基础 婚后 双方 性格 不合 家庭 琐事 总是 吵闹 不 休 原 告 之间 没有 建立 真正 夫妻 感情
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 认为 原 被告 感情 确 已 破裂 无 和好 特 具状 起诉 请求 人民法院 依法 判决 1 原 被告 离婚
+O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Court O O O O O O
+3 位于 岳阳县 步仙乡 住房 套 被告 所有
+O O O O B_Wealth I_Wealth O O
+原 被告 夫妻 关系 存续 期间 债务 承担
+O O O O O O B_Debt O
+被告 辩称 原 告诉 称 不 实 婚后 双方 感情 尚 好
+O O O O O B_Negated I_Negated O O O O O

@@ -1,0 +1,10 @@
+原告 李 XX 诉称 原 被告 1998年 经人介绍 相识 2000年 登记 结婚 婚后 生育 长女 倪某 次子 李某
+O O O O O O B_Time O B_Know B_Time B_Marry I_Marry O B_Bear B_Gender B_Name B_Gender B_Name
+原、被告 性格 不和 家庭 琐事 吵架 被告 伤 原告 被告 还 长期 酗酒 赌博
+O B_FamilyConflict I_FamilyConflict O O O B_Person O O O O B_BadHabit I_BadHabit I_BadHabit
+特别 2009年 以来 被告 异性 不 正当 关系 后 致 夫妻 感情 恶化 现 夫妻 感情 彻底 破裂
+O B_Time O B_Person O B_Derailed I_Derailed I_Derailed O O O O O O O O O O
+原 被告 婚后 按揭 贷款 方式 购买 坐落 XX 处 房屋 套 无 债权 债务
+O O O O O O O O O O B_Wealth I_Wealth O O O
+现 原告 提起 诉讼 要求 被告倪 XX 离婚
+O O O O O O O B_DivorceLawsuit

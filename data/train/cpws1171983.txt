@@ -1,0 +1,14 @@
+原告 吴某 起诉 称 原 被告 2006年 11月 相识 于×××× 年×× 月×× 日 登记 结婚 分别 ×××× 年×× 月×× 日 生育 长女 取名 徐某乙 于×××× 年×× 月×× 日 生育 次女 取名 徐某丙
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 外出 酗酒 肇事 回家 殴打 原告 殴打 原告 父母 2012年 10月份 被告 殴打 原告 实施 家庭 暴力 致 原告 耳道 受伤
+O I_BadHabit I_BadHabit I_BadHabit B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O
+原告 认为 双方 缺乏 感情 基础 草率 结婚 2012年 8月份 分居 生活 今 婚姻 关系 名存实亡
+O O O O O O O O B_Time I_Time B_Separation O I_Time O O O
+原告 曾 2012年 12月 26日 武义 人民法院 提出 被告 离婚 诉讼 请求 法院 依法 予以 驳回
+O O B_Time I_Time I_Time B_Court I_Court O O O B_DivorceLawsuit O I_Judgment I_Judgment I_Judgment I_Judgment
+2013年 8月 2日 武义 人民法院 提出 离婚 诉请 起诉 不 符合 受理 条件 予以 驳回
+B_Time I_Time I_Time B_Court I_Court O O B_DivorceLawsuit I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+判决 后 原 被告 夫妻 感情 进一步 恶化 继续 分居 生活
+O O O O O O O O O B_Separation O
+6 被告 曾 2012年 12月份 发生 醉驾 造成 交通 事故 被告 公司 家事 心情 烦闷 情况 下 才 发生 根本 不 存在 酗酒 闹事 事实 被告方 父母 未 原告 父母 家中 去 闹事
+O O O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O

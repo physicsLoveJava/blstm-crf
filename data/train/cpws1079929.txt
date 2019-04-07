@@ -1,0 +1,4 @@
+原告 张某 诉称 原 被告 ×××× 年×× 月 登记 结婚 婚后 夫妻 感情 不 被告 单方面 原因 导致 二 人 未能 生育 子女
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O
+现 夫妻 感情 确 已 破裂 请求 判 令 原 被告 离婚 女儿 张静 原告 抚养 被告 支付 抚养费
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

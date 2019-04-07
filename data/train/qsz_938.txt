@@ -1,0 +1,14 @@
+原被告 2017年 自由 恋爱 同年 9月 7日 进行 结婚 登记
+O B_Time B_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry
+双方 均 系 再婚 登记 前 被告 曾 原告 人民币 8000 元
+B_Person O O B_Remarry O O B_Person O B_Person B_Price I_Price I_Price
+登记 手续 办 完 后 双方 至今 尚未 一起 共同 生活
+O O O O O O B_Time B_Separation I_Separation I_Separation I_Separation
+双方 交往 过程 中 原告 逐渐 发现 被告 长期 游手好闲 不务正业 不 养家 糊口
+O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O
+原告 还 发现 被告 原告 不 履行 忠实 义务 双方 交往 中 被告 原告 从不 讲 实话
+O O O B_Person O O O O O O O O O O O O O
+欺骗 原告
+B_BadHabit O
+为此 原告 特 依法 具状 起诉 提出 被告 离婚
+O B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

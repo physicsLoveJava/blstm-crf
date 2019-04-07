@@ -1,0 +1,6 @@
+原 告诉 称 被告 雷某 1988年 8月 22日 登记 结婚 婚后 1988年 7月 26日 生育 男孩 雷 X 1990年 8月 8日 生育 女孩 雷 XX 现 都 已 成年
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+1988年 家庭 关系 处理 不好 原被告 吵架 双方 感情 破裂 吵架 打架 常事 夫妻 感情 不好 2006年 3月 被告 重重 顿 后 离开 被告 人 外 务工 现 被告 已 分居 7 年 久 夫妻 感情 已 完全 破裂
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O B_Separation B_Duration I_Duration O O O O O O
+2012年 4月 10日 法院 起诉 离婚 法院 2012年 5月 29日 作出 2012 松民 初字 第301 号 民事 判决书 不准 被告 雷某 离婚
+B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O O O O O O O O B_Judgment O O O

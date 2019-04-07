@@ -1,0 +1,6 @@
+原告 张某 诉称 2012年 末 原告 张某 提起 离婚 诉讼 法院 审理 撤诉
+O O O B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit B_Court O B_Judgment
+原 被告 感情 不 2010年 10月 分居 今 夫妻 感情 破裂 无法 弥补
+O O O O B_Time I_Time B_Separation O O O O O O
+2 原告 张某 应 偿还 治病 负担 债务 24万 余 元
+O O O O O O O B_Debt B_Price I_Price I_Price

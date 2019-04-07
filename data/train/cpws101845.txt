@@ -1,0 +1,10 @@
+原告 韦某 诉称 原告 韦某 被告 季某 2010年 2月份 朋友 介绍 认识 双方 认识 月 后 ×× ×× 年×× 月××日 便 登记 结婚
+O O O O O O O B_Time I_Time O O B_Know O O O O B_Time I_Time I_Time I_Time O O B_Marry
+×××× 年×× 月×× 日 双方 生育 女 名 季韦唯
+B_Time I_Time I_Time I_Time O B_Bear B_Gender O B_Name
+婚后 双方 琐事 争吵 被告 原告 使用 家庭 暴力
+O O O B_FamilyConflict O O O O O
+2013年 10月 5日 晚 11点 被告 殴打 原告 原告 实在 无法 忍受 殴打 便 报案 原告 殴打 致 头部 受伤
+B_Time I_Time I_Time I_Time I_Time B_Person B_DomesticViolence B_Person O O O O O O O O O O O O
+被告 季某 辩称 原告 陈述 事实 理由 不 正确 原被告 2009年 农历 正月 认识 ×××× 年×× 月×× 日 生育 女 婚后 抚养 小孩 发生 争吵 被告 曾 不 小心 碰 伤 原告
+O O O O O O O O O O B_Time I_Time I_Time B_Know O O O O O O O O O O O O O O O O O O

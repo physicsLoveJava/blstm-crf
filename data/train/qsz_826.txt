@@ -1,0 +1,4 @@
+2015年 8月 原告 被告 工作 中 相识 确立 恋爱 关系 2017年 1月 1日 举行 订婚 仪式 被告 家 习惯 原告 给付 被告 踢 门槛费 1100 元 相亲费 11000 元
+B_Time I_Time O O O O B_Know O B_BeInLove O O O O O O O O O O O O O O O O O O O O
+2017年 3月 7日 原 被告 领取 结婚 证书
+B_Time I_Time I_Time O O O B_Marry O

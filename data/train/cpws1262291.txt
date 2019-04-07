@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 双方 1996年 3月 经人介绍 认识 认识 不久 双方 确立 恋爱 关系 1996年 底 登记 结婚 1997年 生育 子 名叫 杨港平
+O O O O O O B_Time I_Time O B_Know O O O O O O B_Time I_Time O B_Marry B_Time B_Bear O O B_Name
+2000年 原告 部队 转业 后 进入 常德 烟厂 车队 从事 汽车 驾驶 工作 当年 4月 开车 途中 甘肃 天水 路段 时 发生 重大 车祸 造成 二 死 重伤 特大 交通 事故 原告 面部 头部 均 受 重伤 送 天水 医院 治疗 当时 原告 住院 期间 需要 护理 单位 领导 曾 做 被告 工作 要求 去 照顾 住院 原告 被告 都 不 愿意 去 原告 感到 非常 失望 伤心 件 事 后 原告 被告 产生 想法 导致 今天 局面
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+原 被告 一起 生活 多年 被告 没有 妻子 母亲 应 责任 义务 被告 喜欢 打牌 赌博 消费 高 超过 家庭 承受 能力 为此 双方 家庭 琐事 大 吵 大 闹 2009年 原 被告 双方 大 吵 架 后 被告 原告 出 家门 至今 原告 还 外面 租房 居住 已 达 4 年 久 被告 找 原告 钱 外 没有 原告 回来 居住
+O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 双方 婚前 缺乏 了解 草率 结婚 婚后 未 建立 夫妻 感情 导致 夫妻 感情 彻底 破裂 已 无 和好 希望 请求 法院 1 判 令 原 被告 解除 婚姻 关系
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+依法 分割 价值 180000 元 共有 财产 房屋
+O O O O O B_Wealth I_Wealth I_Wealth

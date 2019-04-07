@@ -1,0 +1,10 @@
+原告 孙某 诉称 原 被告 经人介绍 建立 恋爱 关系 2002年 5月 4日 双方 办理 结婚 登记 手续 同年 5月 6日 举行 结婚 仪式 结婚
+O O O O O O O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry O O O O O O O
+2004年 10月 23日 生育 儿子 孙 X 2009年 8月 29日 生育 女儿 孙 二 X
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name I_Name
+原 被告 婚后 夫妻 感情 被告 怀疑 原告 外遇 闹 离婚 致使 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 请求 依法 判决 原告 孙某 被告 胡 某某 离婚 二 孩子 原告 抚养 共同 财产 合理 分割
+O O O O O O O O O B_DivorceLawsuit O O O O O O O O
+被告 胡 某某 辩称 原 被告 夫妻 感情 尚未 破裂 不 同意 原告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

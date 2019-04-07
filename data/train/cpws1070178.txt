@@ -1,0 +1,6 @@
+原告 丁某 诉称 2010年 底 原 被告 经人介绍 认识 后 ×××× 年×× 月×× 日 登记 结婚 婚后 未 生育 子女
+O O O B_Time I_Time O O O B_Know O B_Time I_Time I_Time I_Time O B_Marry O O O O
+2012年 3月 底 被告 原告 母亲 责怪 句 回 娘家 至今 未能 回家
+B_Time I_Time O O O O O O B_Separation I_Separation B_Time O O
+被告 杨某 辩称 不 同意 原告 离婚 2010年 底 经人介绍 恋爱 数月 后 才 结婚 夫妻 感情 基础 好 婚后 感情 好 原告 之间 无 矛盾 主要 原告 家人 矛盾
+O O O O O O O B_Time O O B_BeInLove O O O O O O O O O O O O O O O O O O O

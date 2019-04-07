@@ -1,0 +1,6 @@
+原告 高某 诉称 原 被告 经人介绍 相识 后 登记 结婚 婚后 生育 女
+O O O O O O O O B_Marry I_Marry O B_Bear I_Gender
+原告 生育 孩子 后 患 上 疾病 被告 家人 原告 不管 不 问 后 原告 只好 回到 娘家 居住 被告 行为 致 夫妻 感情 破裂 现诉求 1 离婚
+O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+原告 陪嫁 物品 装修 房子 花 费用 合计 29256 元 原告 所有
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price O O

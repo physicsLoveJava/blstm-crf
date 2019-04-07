@@ -1,0 +1,10 @@
+原被告 双方 2010年 初 相识 建 V 恋爱 关系 2010f9J | j 小沅 2012 什 4 片 I 月 补办 结婚 登记 手续 2012年 8J3 | | | f 子 取名 苏鸣飞
+O O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove I_BeInLove O O O O B_Time I_Time I_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O O O O O
+双方 常 牛 沉琐 事 争吵 打架 被告 耐酒 常 原告 施 家庭 暴力
+O O O O O B_FamilyConflict I_FamilyConflict B_Person B_BadHabit O B_Person O B_DomesticViolence I_DomesticViolence
+被告 女子 不 正当 勇 女 关系 问 时 被告 没有 家庭 责任
+B_Person O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O
+冉 吵架 后 被告 总 写 遗书 方式 威胁 炭\ 双方 婚后 没有 夫妻 感情 被告 曾
+O B_FamilyConflict O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+被告 行为 导致 双力 感情 彻底 破袋 烁 \} 2017年 6月 曾 起诉 被告 离婚 武浴 x 人民法院 2017 沪 0114K \初 744 号 民事 判决书 判决 不 准 离婚
+O O O O O O O O O B_Time I_Time O B_DivorceLawsuit O O B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment

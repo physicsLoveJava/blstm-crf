@@ -1,0 +1,2 @@
+原告 李某 诉称 被告 经人介绍 认识 1996年 2月 6日 蒙阴县 民政局 办理 结婚 登记 手续 1999年 3月 9日 生育 长女 取名 李某 甲 2004年 3月 5日 生育 次女 取名 李某 乙
+O O O O O B_Know B_Time I_Time I_Time O O O B_Marry O O B_Time I_Time I_Time B_Bear B_Gender O O O B_Time I_Time I_Time B_Bear B_Gender O O O

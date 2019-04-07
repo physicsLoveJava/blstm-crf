@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2006年 8月 人 介绍 相识 于×××× 年×× 月××日 东 县 民政局 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 徐某乙 现 就读 大碑 小学
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O
+原 被告 婚前 都 不同 地方 务工 相互 了解 不 深 婚后 原告 发现 被告 性格 不合 被告 原告 进行 辱骂 争吵 殴打
+O O O O O O O O O O O O O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2012年 春节 之前 被告 务工 回家 后 原告 琐事 发生 激烈 争吵 被告 动手 殴打 原告 原告 受伤 入院 治疗
+O O O O O O O O O O O O B_Person O B_DomesticViolence B_Person O O O O
+2012年 2月 法院 第一 次 起诉 离婚 未果
+B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment

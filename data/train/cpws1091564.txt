@@ -1,0 +1,6 @@
+原告 朱某 诉称 原 被告 2001年 7月 16日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2002年 10月 29日 生 男孩 取名 吴晓栋
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 被告 打骂 原告 原告 实施 家庭 暴力
+O B_Person B_DomesticViolence O B_Person O O O

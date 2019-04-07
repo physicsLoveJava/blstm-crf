@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 2009年 9月 7日 登记 结婚 2010年 12月 1日 生育 子
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender
+双方 婚前 缺乏 必要 了解 婚后 性格 不合 常 家务事 吵架 生气
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 缺乏 交流 沟通 互不 履行 夫妻 义务 导致 感情 确 已 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 请求 人民法院 依法 解除 原 被告 婚姻 关系 原告 要求 抚养 婚生 男孩
+O O B_Court O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

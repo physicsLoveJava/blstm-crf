@@ -1,0 +1,12 @@
+原告 宣某 起诉 称 原告 被告 2008年 相识 同年 9月 19日 登记 结婚
+O O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+双方 2010年 2月 8日 生育 女 取名 小萱
+O B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚后 原告 被告 性格 不合 常 家庭 琐事 争吵 被告 时常 无故 离家 外出 导致 夫妻 感情 彻底 破裂
+O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O O O O O O
+2013年 2月 原告 法院 起诉 要求 被告 离婚 法院 考虑 双方 尚 和好 同年 3月 22日 判决 驳回 原告 诉讼 请求
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment I_Judgment
+被告 谢某 答辩 称 原告 述 原告 被告 相识 结婚 生育 子女 情况 属实
+O O O O O O O O B_Know B_Marry B_Bear I_Bear O B_Negated
+原告 称 双方 性格 不合 争吵 被告 无故 离家 外出 情况 事实 不符 被告 没有 过错 婚后 双方 无 根本性 矛盾
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O I_Negated I_Negated O O O O O O O O

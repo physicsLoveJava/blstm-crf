@@ -1,0 +1,6 @@
+1999年 原被告 经人介绍 相识 2000年 12月 25日 登记 结婚
+B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 才 发现 被告牌 气暴操 无故 原告 吵闹 动手 殴打 原告
+O O O B_Person O O O B_FamilyConflict O B_DomesticViolence B_Person
+更有甚者 被告 手 持 菜刀 欲 砍 原告 幸 拦 下 否则 后果 不 塘 设想
+O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O

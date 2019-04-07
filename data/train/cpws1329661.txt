@@ -1,0 +1,8 @@
+原告 刘某 诉称 原 被告 1994年 9月 经人介绍 相识 建立 恋爱 关系 1996年 6月 5日 原 丰都县 厂天乡 人民政府 办理 结婚 登记
+O O O O O B_Time I_Time O B_Know O O O B_Time I_Time I_Time O O O O O B_Marry O
+1996年 7月 13日 生育 子胡 X 现 已 外 务工 独立 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O
+2009年 12月 原告 离家 出走 彭某 夫妻 名义 同居 生活
+B_Time I_Time O B_Separation I_Separation O O O O O
+2011年 10月 31日 丰都县 人民法院 判决 原告 彭某 犯 重婚罪 致使 原 告 之间 夫妻 感情 完全 破裂 请求 人民法院 依法 判决 原 被告 离婚
+O O O B_Court I_Court O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

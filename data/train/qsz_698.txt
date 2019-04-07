@@ -1,0 +1,4 @@
+原 被告 2011年 相识 2012年 2月 29日 办理 结婚 登记 婚后 生育 长子 李 嫌 炭 男年 1 岁
+O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name I_Name I_Name O B_Age I_Age
+被告 婚后 感情 不 双方 经警 发生 争吵 被告 不 务企 2016年 12月份 盗窃罪 判刑 入狱 今年 1月 价 被告 刑满释放 后 家里 被告 租 门店 开 理发店 被告 不 思 悔改 不 安心 工作 门店知 6期 家 被告 明世 8 情 原告 无屿5 制限 双方 感情 彻底 破裂 没有 好 原告 特 人民法院 提起 诉讼
+O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

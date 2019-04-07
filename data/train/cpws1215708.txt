@@ -1,0 +1,4 @@
+原告 张 某某 诉称 被告 2001年 11月 5日 结婚 2004年 4月 生育 女 张某甲
+O O O O O B_Time I_Time I_Time B_Marry B_Time I_Time B_Bear B_Gender B_Name
+工作 原因 长年 外地 务工 致 夫妻 感情 不和
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

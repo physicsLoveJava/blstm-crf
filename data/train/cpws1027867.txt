@@ -1,0 +1,2 @@
+原 告诉 称 被告 ×× ×× 年×× 月××日 办理 结婚 登记 手续 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 被告 虐待 现 夫妻 感情 确 已 彻底 破裂
+B_Person I_Person O O B_Time I_Time I_Time I_Time O B_Marry O O O O O O O O O O B_Person B_DomesticViolence O O O O O O O

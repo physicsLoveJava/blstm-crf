@@ -1,0 +1,6 @@
+2007年 2月 27日 原告 被告 天津市 蓟州区 政局 领取 结婚证 2007年 11月 14口 婚：子 韩世峰 婚后 两 人 感情 肖 好 原被告 吵果 2017年 6月份 被告 家庭 琐事 大 打山厂 原告 离开 蓟州 匕吉庄镇 盘富庄村
+B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O O O O O O O O O B_Time I_Time O O O O O O O O O O
+被告 分开 居住
+O B_Separation I_Separation
+婚后 购买 辆 绅宝 小轿车 冀 B8H8W 登记 作 被告 名卜 请求 法院 予以 判决 分割
+O O O B_Wealth I_Wealth O O O O B_PersonalProperty I_PersonalProperty O O O O O

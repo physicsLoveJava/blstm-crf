@@ -1,0 +1,10 @@
+原告 赵 某某 诉称 被告 经人介绍 认识 2012年 3月 26日 登记 结婚
+O O O O O O O O O O O B_Marry
+2012年 阴历 6月 3日 婚生 子 陈云龙 现 生活
+B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name O O
+被告 性格 暴躁 常 琐事 实施 暴力 限制 人身自由
+O O O O O B_DomesticViolence I_DomesticViolence O O
+被告 生性 懒惰 不思进取 孩子 不 不 问 致 夫妻 感情 彻底 破裂 现 请求 依法 判 令 1 原 被告 离婚
+B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O
+被告 陈 某某 辩称 双方 婚前 了解 婚后 感情 好 从未 原告 实施 家庭 暴力 从未 孩子 不 不 问
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit

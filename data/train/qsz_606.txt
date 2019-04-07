@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2015年 4月份 举行 结婚 仪式 2015年 9月 14日 生育 子 董昊然
+O O O B_Know B_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2017年 9月 11日 双方 办理 结婚 登记
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+原 被告 婚前 不 了解 婚后 双方 性格 不合 被告 不 告知 原告 情况 下 外出 每次 出走 月
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 张某 甲 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 张某 乙 无 夫妻 共同 财产
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name O O O O
+2012年 1月 25日 原 被告 分居 今
+B_Time I_Time I_Time I_Time O O B_Separation
+×××× 年××月 相识 结婚 中间 年 时间 双方 不仅 了解 当时 感情 好
+O B_Time I_Time I_Time O O O O O O O O O
+生活 中 夫妻 都 争执 夫妻 间 沟通
+O O O O O B_FamilyConflict O O
+原 被告 婚生 女 年 仅 四周 岁 体质 弱 生病 无论 孩子 病情 成长 均 需要 完整 家某
+O O O O O O O O B_Bear I_Bear I_Age O O O O O O O O

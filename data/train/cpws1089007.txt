@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 1958年 结婚 生育 两 女 子 均 已 成家立业
+O O O O O B_Time B_Marry B_Bear O B_Gender B_Gender O O O
+婚后 工作 原因 夫妻 长期 分居 两地 感情
+O O O O O B_Separation O O
+1995年 原告 退休 回到 宁强 居住 生活 性格 脾气 差异 家务 琐事 争执 吵架
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+今年 被告 南 街 回迁 房屋 竣工 后 人 搬 去 居住 原 校场坝 居住 房门 锁 住 丝毫 不 念 夫妻 名份
+O O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O

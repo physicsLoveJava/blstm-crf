@@ -1,0 +1,10 @@
+原告 被告 均 系 再婚 2005年 8月 30日 登记 结婚
+B_Person I_Person O O B_Remarry B_Time I_Time I_Time B_Marry I_Marry
+婚后 育 女 贾子雨 现年 16 岁 子 贾子帅 现年 14 岁
+O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+被告 脾气 暴躁 原告 不 信任 原告 去 外面 打工 回来 后 被告 怀疑 原告 原告 解释 不 相信
+B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O
+被告 酗酒 酒后 辱骂 殴打 原告
+B_Person B_BadHabit O B_DomesticViolence I_DomesticViolence B_Person
+随手 东西 不管 原告 死活 导致 原告 伤痕 累累 身心 身体 备受 摧残 原告 看 孩子 尚 年幼 再 忍让 被告 根本 不知 收敛 我行我素 原告 家里 感受 不 温暖 关爱
+B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O B_Person O O O O O O O O O O O O O O O O O O O O O O O O

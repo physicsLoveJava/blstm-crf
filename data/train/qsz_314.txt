@@ -1,0 +1,16 @@
+原 被告 经人介绍 相识 1986年 10月份 农村 习俗 举行 婚礼
+O O O B_Know B_Time I_Time O O B_Marry I_Marry
+1989年 12月 14日 生长子 田立东 1997年 1月 10日 生长 女 田佳
+B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+现 长子 早已 成家立业 长女 大学 毕业 步入 社会
+O O B_Age I_Age O B_Age I_Age I_Age I_Age
+张口骂 动手
+B_FamilyConflict I_FamilyConflict
+被告 性格 粗野
+B_Person O O
+工具 殴打 原告
+O B_DomesticViolence B_Person
+原告 处于 无奈 运用 法律 保护
+B_Person O O O O O
+2016年 5月份 法院 提起 离婚 诉求 蓟州区 人民法院 2016 津0225 民 初 6018号 判决 驳回 原告 诉求
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment

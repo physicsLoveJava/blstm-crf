@@ -1,0 +1,8 @@
+原告 杨某 诉称 原 被告 1983年 经人介绍 认识 年 双方 习俗 举行 结婚 仪式
+O O O O O B_Time O B_Know O O O O B_Marry I_Marry
+1984年 农历 十一月 二十八日 原告 生育 长子 车杨 一九九零年 农历 五月 十一日 原告 生育 次子 车伟 一九九六年 农历 八月 六日 原告 生育 三 子 车鑫
+B_Time I_Time I_Time I_Time O B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time O B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time O B_Bear B_Gender I_Gender B_Name
+原被告 婚前 缺乏 了解 仓促 结婚 婚后 双方 性格 上 差异 太 大 常 琐事 发生 争吵
+O O O O O O O O O O O O O O O O B_FamilyConflict
+被告 脾气 暴躁 原告 抬手 张口 骂 原告 长期 家庭 暴力 中 生活
+B_Person O O B_Person O O O O O B_DomesticViolence I_DomesticViolence O O

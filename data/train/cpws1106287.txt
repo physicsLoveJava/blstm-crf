@@ -1,0 +1,8 @@
+原告 戴 某某 诉称 原 被告 2004年 工作 期间 认识 2006年 11月 28日 结婚 婚后 2008年 4月 9日 生育 女
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry O B_Time I_Time I_Time B_Bear B_Gender
+双方 性格 不合 婚前 了解 不够 时间 推移 双方 矛盾 日 增 被告 原告 实施 家庭 暴力 致使 夫妻 感情 破裂 夫妻 关系 名存实亡 没有 继续 存在 必要
+O O O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+故诉 法院 请求 判决 1 准许 原被告 离婚
+O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+确实 两三 次 家庭 暴力 都 喝酒 之后 冲动 保证 以后 不再 原告
+O O O B_DomesticViolence I_DomesticViolence O O O O O O O O

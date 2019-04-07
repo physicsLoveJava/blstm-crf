@@ -1,0 +1,10 @@
+原 被告 双方 微信 聊天 相识 双方 恋爱 期间
+O O O O O B_Know O B_BeInLove O
+原告 父母 2016年 2月 中旬 被告 购买 项链 条 价值 5800 元 被告 支付 学 驾驶证 费用 4000 元
+O O O O O B_Person O B_Wealth O O B_Price I_Price O O O O O O O
+简单 了解 后 双方 2016年 4月 15日 宝坻区 婚姻 登记处 办理 婚姻 登记 手续
+O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O
+双方 2016年 11月 12日 原告 被告 支付 彩礼 6万 元 举行 结婚 仪式
+O B_Time I_Time I_Time O B_Person O B_Wealth B_Price I_Price B_Marry I_Marry I_Marry
+双方 均 系 再婚 感情 基础 薄弱 婚后 双方 家庭 锁事 发生 争执 被告 2017年 5月 25日 原告 提出 离婚 宝坻区 人民法院 已 判决 2017 津0115 民 初 4678号 判决书 已 附上 审理 期间 被告 承认 原告 购买 项链 学习 驾驶证 费用 均 原告 支付 被告 提出 离婚 时 双方 事实 发生 婚姻 不满 年
+O O O O O O O O O O O O O B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court O O I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O O O O O O O O O O O O O O O O O O O

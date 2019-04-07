@@ -1,0 +1,6 @@
+原告 马某 诉称 原 被告 ×年 ×月 ×日 ××县 民政局 办理 结婚 登记 手续 同年 5月 1日 举行 婚礼
+O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O
+被告系 二婚 前妻 已经 生育 子女 三 人 不 符合 生育 子女 条件 原告 只得 怀孕 5 月 后 做 引产 手术
+B_Person B_Remarry O O O O O O O O O O O O O O O O O O O O
+原告 休养 期间 被告 离开 原告 共同 租 住 房屋 原告 置之不理 严重 伤害 原告 身心健康 感情 维护 原告 合法 权益 特诉 贵院 请求 法院 依法 判 令 原告 被告 离婚 财产 依法 共同 分割
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O

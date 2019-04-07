@@ -1,0 +1,10 @@
+1988年 10月 19H 生育 男孩 刘海龙 现 已 成年
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+1993年 4月 16日 生育 女孩 刘佳颖 现 已 出嫁
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+被告 酗酒 恶习 喝酒 打骂 原 包 人 骂 人 已 成 习惯
+B_Person B_BadHabit O O B_DomesticViolence O O O O O O O O
+原告 被告 常 家庭 琐事 发生 矛盾 上 被告 不 懂 生活 方式 夫妻 之间 不 正常 沟通
+B_Person O O O O O O O O O O O O O O O O O
+特别 不 原告 容忍 2017年 初 被告 无端 原告 实施 家庭 暴力 导致 原告 五 根 肋骨 骨折 原告 伤 后 宝坻区 A 民 医院 治疗 影像 诊断 证明
+O O O O B_Time I_Time B_Person O B_Person O O O O O O O O O O I_DomesticViolence O O O O O O O O O

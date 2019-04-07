@@ -1,0 +1,6 @@
+原 告诉 称 被告 2007年 5月 16日 结婚 婚生子 李 某某
+O O O O I_Time I_Time I_Time B_Marry B_Bear B_Name I_Name
+发现 被告 别人 暧昧 关系 现在 已经 分居 三 年 孩子 出生 4 月 以后 现在 父母 代 养 期间 孩子 生活费 教育费 看病 费用 都 父母 出 费用 应 被告 共同 承担
+O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+夫妻 感情 已经 破裂 要求 离婚 孩子 抚养
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

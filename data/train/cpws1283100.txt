@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 1994年 经人介绍 认识 1995年 2月 13日 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 两 子 长子 名 陈某甲 已 去世
+O B_Bear O B_Gender O O B_Name O O
+次子 名 陈某乙 1997年 农历 5月 5生
+B_Gender O B_Name B_Time I_Time I_Time I_Time
+原 被告 婚前 了解 不够 性格 不合 生气 吵架
+O O O O O O O B_FamilyConflict I_FamilyConflict
+原告 2005年 农历 11月 生气 外出 原 被告 双方 未 联系
+O B_Separation I_Separation I_Separation I_Separation I_Separation O O O O O

@@ -1,0 +1,6 @@
+原告 张 某某 诉称 原告 张 某某 被告关 某某 外 打工 时 结识 自由 恋爱 1990年 11月 29日 清丰县 民政局 登记 1992年 1月 举行 婚礼 共同 生活
+O O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry O O O O O O
+1993年 10月 7日 生育 儿子 关某 甲 1995年 6月 7日 生育 女儿 关某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O B_Gender B_Name I_Name
+婚前 了解 少 婚后 发现 性格 不合 无 共同语言 被告 关 某某 怀疑 原告 张 某某 外遇 殴打 原告 张 某某 导致 夫妻 双方 感情 确 已 破裂
+O O O O O O O O O B_Person I_Person I_Person O O O O O B_DomesticViolence B_Person I_Person I_Person O O O O O O O

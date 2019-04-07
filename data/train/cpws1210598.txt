@@ -1,0 +1,8 @@
+原告 林某 起诉 称 原 被告 双方 ×××× 年×× 月××日 原 温岭县 人民政府 办理 结婚 登记 手续 婚后 生育 女 子
+O O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O B_Bear B_Gender B_Gender
+原 被告 草率 结婚 婚后 原告 发现 双方 性格 不合 锁事 吵架
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+目前 原 被告 已 分开 生活
+O O O O B_Separation I_Separation
+诉状 中 称 赌博 以前 事 现在 已经 不 赌
+O O O B_BadHabit O O O O O O

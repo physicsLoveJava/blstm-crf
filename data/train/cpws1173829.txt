@@ -1,0 +1,4 @@
+原 告诉 称 被告 1999年 结婚 婚后 生育 两 孩子 原被告 感情 基础 差 孩子 出生 后 原告 外出 赌博 2004年 9月份 原告 前往 大连 双方 分居 今
+O O O O B_Time B_Marry B_Time B_Bear O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Person I_BadHabit I_BadHabit B_Time I_Time O O O O B_Separation I_Time
+起诉 要求 被告 离婚 抚养 两 子 被告 支付 抚养费
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2009年 2月 经人介绍 认识 2010年 1月 27日 登记 结婚
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry
+2012年 8月 29日 原告 曾 起诉 离婚 同年 12月 28日 安康市 汉滨区 人民法院 作出 2012 安汉民 初子 第01594 号 民事 判决书 驳回 原告 诉讼 请求
+B_Time I_Time I_Time O O B_DivorceLawsuit O B_Time I_Time I_Time O O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+原 被告 未 一起 生活 现 夫妻 感情 破裂 请求 依法 判决 原 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+原告 提出 离婚 原因 主要 原告 儿女 意思 原 被告 夫妻 感情 没有 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

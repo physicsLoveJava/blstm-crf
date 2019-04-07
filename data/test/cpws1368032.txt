@@ -1,0 +1,18 @@
+原 告诉 称 被告 ×××× 年×× 月 登记 结婚
+O O O O B_Time I_Time I_Time O B_Marry
+婚后 二 人 性格 不和 生气
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 无故 回 娘家 居住 双方 一起 时间 少 2012年 9月 分居 今
+O O O O O O O O O B_Time I_Time B_Separation I_Time
+请求 法院 依法 判决 被告 离婚 被告 返还 彩礼 财物 35000 元
+O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O B_Wealth I_Wealth B_Price I_Price
+查明 原被告 2011年 11月份 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚 不久 习俗 举行 结婚 仪式 共同 生活
+O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry O O O O O O O
+结婚 时 被告 带有 前夫 生 男孩 名 潘某
+O O O O O B_Bear B_Gender O B_Name
+2012年 9月 初 原被告 生气 分居
+B_Time I_Time I_Time O O B_Separation
+订婚 时 原告 给付 被告 见面礼 10000 元 衣服 折款 6000 元 催娶款 10000 元
+O O O O O B_Wealth B_Price I_Price B_Wealth I_Wealth B_Price I_Price B_Wealth B_Price I_Price
+被告 原告 处 陪嫁 海尔牌 冰箱 台 澳柯玛牌 洗衣机 台 创维牌 32 寸 彩电 台 电暖风一台 饮水机 台 被子 十 床 单子 十 皮箱
+O O O B_Wealth B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty

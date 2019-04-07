@@ -1,0 +1,2 @@
+原告 杨某 诉称 原 被告 2006年 网上 认识 认识 之后 不久 同居 生活 2007年 4月 23日 生育 子 取名 王莳睿 双方 生育 儿子 后 2008年 4月 3日 补办 结婚 手续 婚前 缺乏 了解 感情 基础 薄弱 双方 2011年 2月份 产生 矛盾 发生 争吵 2011年 10月 10日 原告 离家 外出 打工 原被告 双方 分居 直至 现在
+O O O O O B_Time O B_Know O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O B_FamilyConflict B_Time I_Time I_Time O O O O O O B_Separation O O

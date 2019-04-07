@@ -1,0 +1,14 @@
+原被告 2011年 人 介绍 相识 确立 恋爱 关系
+O B_Time O O B_Know O O O
+2012年 9月 21日 被告 生育 女 李芸熙
+B_Time I_Time I_Time O B_Bear B_Age B_Name
+2013年 1月 14日 双方 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry O
+琐事 发生 争吵 矛盾 频发
+I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+2017年 被告 回 娘家 居住 双方 分居 今
+B_Time O O O O O B_Separation I_Time
+2018年 1月 被告 提起 离婚 诉讼
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit
+原告 认为 尚 共同 生活 可能性 遂 没有 同意 离婚 请求 宝坻区 人民法院 驳回 被告 诉讼 请求
+O O O O O O O O O O O O O B_Judgment O O O

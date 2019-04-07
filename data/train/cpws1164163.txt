@@ -1,0 +1,6 @@
+原告 李某 甲诉 称 原告 被告 1990年 底 换亲 方式 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time I_Time O B_Marry
+×××× 年×× 月×× 日 生育 女儿 李某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 2007年 回 娘家 生活 今
+O I_Time B_Separation I_Separation I_Separation I_Time

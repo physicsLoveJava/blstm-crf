@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+2011年 5月 原 被告 家庭 琐事 发生 矛盾 后于 同年 10月份 被告 人 回 娘家 生活 今
+O O O O O O O B_FamilyConflict O B_Time I_Time O O B_Separation I_Separation I_Separation I_Time
+被告 辩称 原 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 婚后 未 生育 双方 发生 矛盾 分居 无 异议
+O O O O O O O O O O O B_Marry O O O O O O B_Separation O O

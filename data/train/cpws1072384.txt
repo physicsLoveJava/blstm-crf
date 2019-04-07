@@ -1,0 +1,2 @@
+原 告诉 称 被告 经人介绍 相识 2007年 9月 12日 罗山县 民政局 登记 结婚 婚后 生育 子 取名 吕某甲 被告 性格 差异 大 无 共同语言 夫妻 感情 已 破裂 特别 笫 次 起诉 要求 离婚 未 法院 准许 后 分居 夫妻 关系 未 改善 依法 请求 判决 被告 离婚 婚生子 抚养权 依法 判决
+O O O O O O B_Time I_Time I_Time O O O B_Marry O B_Bear I_Gender O B_Name O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

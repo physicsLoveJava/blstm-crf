@@ -1,0 +1,6 @@
+原 告诉 称 原告 被告 ×××× 年×× 月×× 日 登记 结婚 系 再婚 夫妻 婚后 一度 生活 平静 婚前 双方 缺乏 了解 性格 生活 习惯 差异 大 双方 户籍 住所 所在 新民村 征地 拆迁 后 被告 家人 借故 殴打 辱骂 原告 致使 原告 无法 家中 生活
+O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Remarry O O O O O O O O O O O O O O O O O O O O O O I_Person I_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O
+原告 诉至法院 请求 判 令 原 被告 离婚
+B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O
+被告 辩称 未 殴打 原告 双方 拆迁 事宜 意见 不 一致 产生 矛盾
+O O O B_DomesticViolence I_DomesticViolence O O O O O O O O

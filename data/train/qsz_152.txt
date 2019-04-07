@@ -1,0 +1,14 @@
+2016年 初 双方 经人介绍 建立 恋爱 关系
+B_Time I_Time O O O B_BeInLove O
+同年 5月 5日 登记 结婚
+B_Time I_Time I_Time O B_Marry
+双方 均 系 再婚
+B_Person O O B_Remarry
+双方 常 生活 琐事 发生 争吵
+O O O O O B_FamilyConflict
+被告 情格 怪异 私心 严重 眼睛 只 叮 钱 上
+B_Person O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+之后 家里 仅 5000 块 钱
+O O O B_Price O O
+已 取 走 原告 现金 后 家中 消失 去向 不明 期间 约 2016年 11月 霸占 原告 财产 被告 还 原告 售房 协议书 偷走 欲 逼 原告 所有 房产 卖 掉 重新 购房 表明 双方 感情 已经 破裂
+O O O B_Person B_Wealth O O O O O O O O O O O O O O B_Person O O O O O O O B_Wealth O O O O O O O O O

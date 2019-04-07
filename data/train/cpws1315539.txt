@@ -1,0 +1,10 @@
+原告 阮 某某 诉称 被告 王 某某 2009年 6月 人 介绍 相识 2010年 元月 6日 登记 结婚
+O O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry
+2010年 3月 11日 生育 女 取名 阮 紫瑶
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 了解 少 仓促 结婚 性格 不合 吵闹 家 无 宁日 难以 沟通 生活
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2013年 6月 28日 被告 王 某某 辱骂 母亲 规劝 被告 王 某某 不但 不 听 手 持 菜刀 左臂 刀背 砍 下 抓 烂 左臂 上身 手 持 菜刀 追赶 母亲 被告 父 王望耀 半夜 他家 格力 空调 冰箱 冰柜 桌 凳 电脑 电动车 现金 6000 元 共计 价值 25520 元 财物 拉 走
+O O O O O O O O O B_Person I_Person I_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Price I_Price O O O
+现 夫妻 感情 已 破裂 诉至法院 请求 法院 判决 解除 被告 王 某某 之间 婚姻 关系 女儿 阮 紫瑶 抚养 被告 王 某某 每月 支付 抚养费 450 元 直至 女儿 年 满 18 周岁 被告 王 某某 与其父 返还 拉 走 财物 价值 25520 元 共同 债务 被告 王 某某 负担 14000 元
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Debt I_Debt O O O O O O

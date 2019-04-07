@@ -1,0 +1,10 @@
+原 被告 经人介绍 相识 1996年 举行 仪式 同居 生活 1997年 生育 刘天字
+O O O O O O O O O B_Time B_Bear B_Name
+2004年 双方 补办 结婚 登记 手续
+B_Time O O B_Marry I_Marry I_Marry
+2016年 9月 19日 原 被告 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+原 被告 婚后 感情 不和 双方 经限 家庭 项事 发生 争吵 被告 原气费 属
+O O O O O O O O O O B_FamilyConflict O O O
+双方 没有 共同 诉言 被告 审原 原告 刀 勇子成胁 原告 儿子 打期 原告 原告 伤 原告 生合 受到 成 时 通受 家庭 某力 提出 离婚 被告贰 原告 进行 成 时 恶诉
+O O O O B_Person O O O B_DomesticViolence O I_Person B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,2 @@
+原告 谷 某某 诉称 经人介绍 被告 1998年 春相识 建立 恋爱 关系 1999年 1月 12日 单县 民政局 婚姻 登记处 登记 结婚 婚后 感情 婚后 二 人 性格 不和 关系 不 好 2011年 被告 人 不 正当 关系 矛盾 激化 被告 家庭 不尽 义务 2012年 4月 分居 生活 今 被告 2013年 3月 起诉 原告 离婚 后 撤诉 现 无法 共同 生活 要求 被告 离婚
+O O O O O O B_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry O O O O O O O O O O B_Time B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O B_Time I_Time O I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

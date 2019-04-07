@@ -1,0 +1,8 @@
+原告 闻 某某 诉称 原 被告 双方 1982年 经人介绍 相识 1983年 举行 婚礼 共 生育 三 名 子女 现 均 已 成年
+B_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated
+被告 婚后 不 承担 家庭 责任 嗜好 赌博 双方 发生 争吵
+I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated
+现原 被告 双方 已 分居 五 年 夫妻 感情 已经 破裂
+I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated
+为此 原告 起诉 要求 被告 离婚 夫妻 共同 财产 依法 分割 诉讼 费用 被告 负担
+I_Negated I_Negated I_Negated I_Negated I_Negated B_DivorceLawsuit I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated I_Negated

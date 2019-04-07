@@ -1,0 +1,18 @@
+原告 蒋某 起诉 称 原 被告 系 夫妻 2009年 上半年 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 女儿 周某乙
+O B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 双方 关系 不好 被告 父母 原告 发生 争吵
+O O O O O O O O O O O B_FamilyConflict
+2012年 7月 20日 原 被告 带 女儿 去 医院 看 血管瘤
+B_Time I_Time I_Time O O O O O O O O
+原 被告 分居 今
+O O B_Separation O
+原 被告 2009年 上半年 经人介绍 认识 2010年 农历 10月 初八 双方 办理 订婚 仪式 被告 送给 原告 订金 50000 元 原告 收取 46800 元
+O O B_Time I_Time O B_Know O O O O O O O O O O O O O O O O O O
+×××× 年×× 月××日 原 被告 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+×××× 年×× 月××日 原 被告 生育 女儿 周某乙
+B_Time I_Time I_Time O O B_Bear O O
+婚后 原 被告 常 琐事 发生 争吵 原告 母亲 常 被告 家 吵架 原告 住 娘家 被告 劝叫 原告 都 拒绝 回来
+O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O

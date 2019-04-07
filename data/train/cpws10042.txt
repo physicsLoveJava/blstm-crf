@@ -1,0 +1,4 @@
+原告 王 某某 诉称 1986年 12月 26日 原告 被告 登记 结婚 婚后 生育 子 女 均 已 成年
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear I_Gender I_Gender O O O
+被告麻 某某 辩称 结婚 时间 婚生 子女 出生 时间 属实
+O O O B_Marry O B_Bear O O O B_Negated

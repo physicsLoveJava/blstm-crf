@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2007年 4月 人 介绍 相识 当时 已经 属于 大龄 青年 相互 了解 极 少 情况 下 于×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time O O B_Know O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 不久 发现 两 人 性格 存在 严重 差异 生气 吵架
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 被告 家人 关系 差 不 想 赡养 老人
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

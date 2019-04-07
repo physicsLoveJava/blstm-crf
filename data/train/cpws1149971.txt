@@ -1,0 +1,10 @@
+原告 李某 起诉 称 原 被告 2012年 2月份 经人介绍 认识 后 订婚 于×××× 年×× 月×× 日 登记 结婚 婚后 未 生育 没有 共同 财产
+O O O O O O B_Time I_Time O B_Know I_Know O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O
+婚前 缺乏 了解 婚后 原告 发现 双方 没有 共同语言 尤其 被告 特别 内向 置 原告 生活 不顾
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O
+被告 隐瞒 身体 疾病 双方 根本 无法 共同 生活
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2012年 8月份 被告 无故 逼 原告 回 娘家 双方 分居 生活 今
+B_Time I_Time I_Time I_Time O O O O O O O B_Separation
+原告 诉请 判 令 1 原 被告 离婚
+I_Time O O O O O O O

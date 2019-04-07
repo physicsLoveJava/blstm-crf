@@ -1,0 +1,10 @@
+原告 李某 诉称 被告 经人介绍 后 2007年 农历 正月 9日 举行 结婚 典礼 后 2010年 4月 20日 息县 民政局 办理 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time O O O B_Marry O O
+2007年 农历 10月 20日 生 女 取名 李某甲
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+2009年 7月 24日 生 女 取名 李某 乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 婚前 缺乏 了解 婚后 性格 不合 生活 琐事 吵架 生气 打架 现在 已 分居 年 互不 履行 夫妻 义务 感情 彻底 破裂 为此 诉诸 法院 要求 被告 离婚
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence O O B_Separation I_Duration O O O O O O O O O O O O O
+被告 赵某 辩称 原告 诉状 上 讲 不 事实 结婚 以后 感情 比较 好 2012年 以后 突然 变 人 找 事 圆满 家 都 原谅
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

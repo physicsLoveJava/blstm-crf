@@ -1,0 +1,4 @@
+原 被告 经人介绍 2016年 10月 24日 登记 结婚 婚后 2017年 5月 8日 生 下 女 名 王一涵 孩子 八 月 正 春节 期间 琐事 被告 原告 此前 原告 怀孕 期间 被告 父亲 还 原告
+O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear O B_Gender O B_Name O O O O O O O B_Person B_Person O O O O B_Person I_Person O B_Person
+原告 回 不 去 只好 起诉 离婚
+B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit

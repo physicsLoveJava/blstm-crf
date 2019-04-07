@@ -1,0 +1,4 @@
+原告 文某 诉称 原 被告 1998年 5月 自由 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 大儿子 陈某 乙 ×××× 年×× 月×× 日 生育 二 儿子 陈某丙
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name
+为此 原告 备受 打击 无法 被告 共同 生活 2010年 2月 间 外出 打工 今 期间 双方 互不 往来 互不 联系 夫妻 关系 名存实亡
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

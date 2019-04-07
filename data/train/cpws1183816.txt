@@ -1,0 +1,8 @@
+原告 孙 xx 诉称 1991年 原 被告 经人介绍 相识 后 举行 结婚 仪式 同居 生活
+O O O O O O O O B_Know O O O O O O
+1994年 补办 结婚 登记 手续
+B_Time B_Marry I_Marry I_Marry I_Marry
+婚后 生育 女 子 建 房屋 幢
+B_Time B_Bear I_Gender I_Gender O O O
+双方 性格 不合 两 人 发生 争吵 2011年 7月 分居 生活 今
+B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation O I_Time

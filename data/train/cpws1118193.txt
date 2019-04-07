@@ -1,0 +1,2 @@
+3 夫妻 共同 财产 中 陪嫁物 原告 所有
+O O B_CommonProperty I_CommonProperty O B_Wealth O O

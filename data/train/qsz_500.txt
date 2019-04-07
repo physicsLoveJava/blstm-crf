@@ -1,0 +1,10 @@
+1990年 8月 间 原告 被告 经人介绍 相识 确立 恋爱 关系
+B_Time I_Time O O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+1991年 4月 20日 原告 被告 依法 取得 结婚证
+B_Time I_Time I_Time O O O B_Marry I_Marry
+性格 特点 原因 原告 被告 生活 琐事 发生 争吵 被告 酗酒 赌博 恶习 好逸恶劳 家庭 妻 女 不 丈夫 父亲 责任 原告 被告 行为 劝阻
+O O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_BadHabit B_BadHabit O O O O O O O O O O O O O
+被告 不予 理解 改正 反尔 原告 大打出手
+O O O O O O B_FamilyConflict
+原告 被告 生活 期间 生 女 孙婷婷 现 已 26 岁 独立 生活 原告 被告 2001年 别 居 生活 今
+O O O O B_Bear B_Gender B_Name O O B_Age I_Age O O O O B_Time B_Separation I_Separation I_Separation I_Time

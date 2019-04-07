@@ -1,0 +1,2 @@
+原告 孙某 甲诉 称 原 被告 1974年 登记 结婚 婚后 育 子 双方 婚后 争吵 致 夫妻 感情 破裂 2013年 12月 17日 原告 诉至法院 要求 被告 离婚 依法 分割 夫妻 共同 财产 要求 被告 赔偿 精神 损害 赔偿金 1万 元
+O O O O O O B_Time B_Marry I_Marry B_Time B_Bear I_Gender O O I_FamilyConflict O O O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

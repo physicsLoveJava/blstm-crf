@@ -1,0 +1,18 @@
+原 被告 2003年 5月份 相识 后 确立 恋爱 关系
+O O B_Time I_Time B_Know O O O O
+2005年 1月 6日 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry O
+2007年 7月 10日 生育 女 李染
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2015年 8月份 原、被告 夫妻 共同 财产 首付 27万 元 购买 坐落 宝坻区 宝平 街道 朝霞 路 宝境 檀香 11-2-602 号 楼房 抵押 贷款 48万 元
+O O B_Person O O O O O O O O O O O O O O O O O O O B_Debt B_Price O
+原 被告 婚后 共同 生活 期间 被告 辱骂 恐吓 殴打 原告
+O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person
+2016年 11月 16日 被告 争吵 辱骂 原告 剪刀 进行 威胁 原告 无奈 打电话 报警
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+2016年 11月 20日 被告 原告 赶出 家门
+B_Time I_Time I_Time O O B_Separation I_Separation
+2017年 3月 21日 原告 起诉 被告 离婚 离婚 诉讼 请求 没有 支持
+B_Time I_Time I_Time B_Person B_DivorceLawsuit O O O O O B_Judgment I_Judgment
+带 人 原告 处 吵闹
+O O O O I_FamilyConflict

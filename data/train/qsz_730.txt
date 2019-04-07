@@ -1,0 +1,4 @@
+原告 被告 均 系 二婚 2016年 9月 2日 登记 结婚
+B_Person I_Person O O B_Remarry B_Time I_Time I_Time B_Marry I_Marry
+婚前 缺乏 了解 婚后 感情 不 睦 双方 没有 共同语言 家庭 琐事 发生 口角 被告 辱骂 原告 女儿 原告 被告 发生 争吵 被告 依然 没有 更改 行为
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person I_Person O O O B_FamilyConflict O O O O O

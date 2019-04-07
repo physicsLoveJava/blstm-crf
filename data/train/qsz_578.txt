@@ -1,0 +1,4 @@
+2011年 11月 9日 民政 机关 补办 结婚 登记 手续 现 二 人 育 子 女 婚初 二 人 感情 尚 好 时间 推移 原告 发现 被告牌 气暴操 有时 一点 小事 原告 大吵大闹
+B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O
+被告 行为 做法 原告 心里 精神 上 带来 不可 愈合 创伤 二 人 结婚 共同 生活 长 达 10 年 久 双方 未能 建立 真正 夫妻 感情 目前 二 人 已 分居 生活 两 年 时间 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration O O O O O

@@ -1,0 +1,8 @@
+原 被告 1992年 结识 2000年 确立 恋爱 关系
+O O B_Time B_Know B_Time B_BeInLove I_BeInLove I_BeInLove
+后 2006年 11月 29日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+婚后 感情 家庭 琐事 产生 纠纷 2010年 07月 05日 生育 子 付彦恺
+O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 双方 夫妻 生活 已 无 实际 沟通 交流 每天 都 不 停 争吵 2017年 8月 原告 无法 忍受 被告 已 搬 高 共同 居所 分居 今
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict B_Time I_Time O O O O O O O O O B_Separation B_Time

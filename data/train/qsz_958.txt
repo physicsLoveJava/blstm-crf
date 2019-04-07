@@ -1,0 +1,2 @@
+原告 被告 1990年 11月份 结婚 生 子
+O O B_Time I_Time B_Marry O O

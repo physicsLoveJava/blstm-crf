@@ -1,0 +1,4 @@
+原告 杨 某某 诉称 原 被告 1998年 经人介绍 认识 1999年 登记 结婚 同年 生育 长子 罗 某某 2005年 生育 长女 罗某
+O O O O O O B_Time O B_Know B_Time O B_Marry O B_Bear B_Gender B_Name I_Name B_Time B_Bear B_Gender B_Name
+双方 婚前 缺乏 了解 感情 基础 薄弱 尤其 被告 家庭 暴力 趋向 性格 暴躁 喝 醉 酒 后 持 刀 威胁 殴打 原告 导致 夫妻 感情 破裂 双方 已 分居 五 年 现 原告 起诉 院 请求 判 令 原 被告 离婚 婚生 子女 原 被告 抚养 依法 分割 夫妻 共同 存款 15000 元
+O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2001年 12月 20日 登记 结婚 2004年 11月 2日 生 女 封 许泽一
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 生活 中 所有 事 被告 不 原告 商量 被告 每年 都 家暴 尤其 2012年 初 被告 晚上 凌晨 十二点 原告 被告 从未 孩子 孩子 出生 至今 原告 父母 住 被告 不 尊重 原告 父母 原告 父母 银通 小区 出 2012年 2月 曾 起诉 离婚 双方 自愿 达成 六 月 考验 期
+O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4 夫妻 共同 财产 共同 分割 债务 共同 偿还
+O O O O O O B_Debt O O

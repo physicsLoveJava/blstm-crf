@@ -1,0 +1,2 @@
+原告 范某 诉称 原被告 双方 感情 基础 好 双方 家庭 成员 反对 原被告 婚姻 导致 双方 产生 矛盾 照顾 家人 感受 要求 离婚
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O I_DivorceLawsuit I_DivorceLawsuit

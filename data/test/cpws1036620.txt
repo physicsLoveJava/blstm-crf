@@ -1,0 +1,12 @@
+原告 冯 某某 诉称 原 被告 2005年 2月 人 介绍 相识 2006年 12月 13日 县 民政局 办理 结婚 登记
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+婚后 2009年 10月 13日 生 大 女孩 赵 XX 2012年 9月 18日 生 小 女孩 赵 X
+O B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name I_Name
+双方 婚前 了解 不够 婚后 脾气 性格 不合 常 生活 琐事 发生 吵
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2007年 9月 被告 琐事 指 原告 脸 辱骂 揪 住 原告 头发 墙上 撞 原告 晕倒 地上 被告 还 不 停 踢打 逼 原告 喝 农药 自杀 未 遂
+B_Time I_Time B_Person O O O O O O O O O O O B_Person O O O O O O B_DomesticViolence O O O O O O O
+2007年 7月 23日 浙江 柯桥 打工 时 琐事 发生 争执 被告 开水 泼 原告 头部 造成 脸部 大面积 烫伤 后 入住 医院 治疗 被告 不 不 问
+B_Time I_Time I_Time O O O O O O O B_Person B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O
+2008年 8月 诉 县 法院 要求 被告 离婚 庭审 后 被告 托人 说情 亲友 劝说 原告 撤回 起诉
+B_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O O O O O O O O B_Judgment I_Judgment

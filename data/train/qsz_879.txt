@@ -1,0 +1,4 @@
+原被告 自由 恋爱 相识 相处 2017年 5月 1日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry O
+婚后 感情 不和 家庭 琐事 争吵 致使 感情 每况愈下 现 完全 破裂
+O O O O O B_FamilyConflict O O O O O O

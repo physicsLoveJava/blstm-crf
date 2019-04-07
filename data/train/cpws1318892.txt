@@ -1,0 +1,6 @@
+原告 程某 诉称 原告 被告 2004年 3月 相识 自由 恋爱 2004年 11月 17日 登记 结婚
+B_Person I_Person B_DivorceLawsuit O O B_Time I_Time B_Know B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+2005年 5月 17日 生 女 名 章某 2008年 2月 5日 生 女 名 王子圩
+B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚前 了解 不够 性格 差异 大 家庭 琐事 争吵 导致 夫妻 感情 破裂
+O O O O O O O O O O B_FamilyConflict O O O O

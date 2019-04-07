@@ -1,0 +1,12 @@
+原告 彭某 起诉 称 原 被告 双方 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女 柳某 乙
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+婚后 短暂 幸福 生活 打破 原告 无意 中 被告 手机 里 发现 被告 外面 女人 后 家人 安慰 劝说 原告 心 软
+O O O O O O O O O O O O B_Person I_Derailed I_Derailed O O O O O O O
+2011年 被告 决定 经营 KTV 原告 不 同意 被告 经营 KTV 劝说 被告 无 果 双方 为此 争吵 被告 脾气 变 暴躁
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+2012年 9月 原 被告 协商 正式 签订 分居 协议书
+B_Time I_Time O O O O O B_Separation O
+现 夫妻 感情 彻底 破裂 原告 希望 结束 名存实亡 婚姻 诉至法院 要求 判 令 原 被告 离婚 婚生 女 柳某 乙 原告 抚养 分居 协议书 内容 分割 夫妻 共同 财产
+O O O O O B_Person O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O
+被告 柳某 甲 答辩 称 原告 陈述 结婚 生育 小孩 情况 属实
+O O O O O O O B_Marry B_Bear I_Bear B_Negated I_Negated

@@ -1,0 +1,12 @@
+2017年 5月 5日 原告 夫妻 感情 破裂 无法 共同 生活 为由 武清区 人民法院 起诉 离婚 同年 7月 武清区 人民法院 河东 人民 法庭 审理
+B_Time I_Time I_Time B_Person O O O O O O O B_Court I_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2017 津0114 民 初 5019 号 民事 判决书 中 已经 审理 查明 原被告 互不 了解 情况 下 仓促 结婚 导致 婚后 无法 沟通 交流
+I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+夫妻 感情 淡漠
+B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 更是 长期 受到 被告 家 侮辱 谩骂
+O O O O O O B_FamilyConflict I_FamilyConflict
+2017年 7月 7日 判决 不准 予 原告 被告 离婚
+B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原被告 2017年 4月 分居 已 长 达 年 久 原被告 情况 依旧
+O B_Time I_Time B_Separation O O O O O O O O

@@ -1,0 +1,6 @@
+原告 刘某 诉称 原 被告 双方 XXXX 年 X 月 X 日 垦利县 民政局 登记 结婚 XXXX 年 X 月 X 日 生育 女 取名 张某乙
+O O O O O O B_Time I_Time I_Time I_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+结婚 后 双方 性格 生活 习惯 处世 方式 方面 存在 大 差异 子女 教育 处理 家庭 事务 问题 上 往往 意见 相左 没有 共同语言 发生 争吵
+O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+请求 依法 判 令 原 被告 双方 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

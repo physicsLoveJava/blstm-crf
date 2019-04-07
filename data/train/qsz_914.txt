@@ -1,0 +1,16 @@
+原告 被告 2012年 夏季 相识 确立 恋爱 关系
+O O B_Time I_Time B_Know O O O
+双方 寸 2013年 2月 4日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+原 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+双方 生活 琐事 发生 争吵
+O O O B_FamilyConflict I_FamilyConflict
+夫妻 间 无 共同语言
+O O B_FamilyConflict I_FamilyConflict
+翟春秀 曾 2017年 8月 起诉 离婚
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+最终 武清区 人民法院 判决 不 准 离婚
+O B_Court I_Court O B_Judgment I_Judgment I_Judgment
+夫妻 已 分居 生活 年
+O O B_Separation O I_Duration

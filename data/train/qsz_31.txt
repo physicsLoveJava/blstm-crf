@@ -1,0 +1,6 @@
+原 被告 2011年 初 经人介绍 相识 双方 断续 交往
+O O B_Time O O B_Know O O B_BeInLove
+2012年 5月 10日 天津市 河西区 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+原 被告 双方 已 无 家庭 共同 财产
+O O O O B_Negated O B_CommonProperty I_CommonProperty

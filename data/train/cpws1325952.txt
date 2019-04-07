@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2002年 建立 恋爱 关系 2011年 7月 登记 结婚 2012年 3月 生 女 取名 赵 某某
+B_Person I_Person O O O B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 婚后 常 生活 琐事 发生 争吵 夫妻 感情 现 已 破裂
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 现 诉至法院 要求 1 离婚
+O O B_DivorceLawsuit O O O

@@ -1,0 +1,8 @@
+原告 庞某 起诉 称 原 被告 2001年 月 某日 登记 结婚 2002年 月 某日 生育 子 名汪 某某
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原告 发现 被告 没有 进取心 对待 工作 非常 消极 总 喜欢 呆 家中 不 愿 工作 赚钱 原告 劝说 被告 始终 听 不 双方 发生 争吵 矛盾 越 积 越
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O O
+2012年 5月 双方 再 次 发生 争吵 被告 动手 殴打 原告 原告 无法 忍受 离家 生活 今
+B_Time I_Time O O O O O B_Person O B_DomesticViolence B_Person O O O B_Separation I_Separation I_Separation
+原告 诉至法院 请求 判决 原 被告 离婚
+O B_DivorceLawsuit O O O O O

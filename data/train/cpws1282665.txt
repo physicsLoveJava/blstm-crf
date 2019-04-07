@@ -1,0 +1,10 @@
+原告 鲁某 起诉 称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 结婚 12月 21日 生育 女儿 现在 诸暨市 中医 医院 上班
+O O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry B_Time I_Time B_Bear B_Gender O O O O O
+被告 脾气 更 差 常常 暴力 原告 出 家门
+B_Person O O O O B_DomesticViolence O O O
+2013年 1月 8日 晚上 被告 原告 赶出 家门 以后 原告 租房 生活
+B_Time I_Time I_Time O O O O O O O I_Separation I_Separation
+同月 22日 原告 曾 起诉 离婚 法院 审理 判决 不 准 离婚
+B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+现原 被告 夫妻 感情 已经 彻底 破裂 无法 继续 共同 生活
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

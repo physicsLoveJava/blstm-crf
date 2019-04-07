@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 ×××× 年 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 王某 乙
+O O O O O B_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 不久 双方 家庭 琐事 发生 矛盾
+O O O O O B_FamilyConflict I_FamilyConflict
+消费 理念 生活 观点 均 不 相同 原 被告 2011年 7月 分居 夫妻 感情 已经 彻底 破裂
+O O O O O O O O O B_Time I_Time B_Separation O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,4 @@
+2017年 7月份 原 被告 经人介绍 相识 确立 恋爱 关系 2017年 11月 10日 双方 办理 结婚 登记 手续 举行 仪式 后 同居 生活
+B_Time I_Time O O O B_Know O O O B_Time I_Time I_Time O O B_Marry O O O O O O O
+婚后 双方 琐事 发生 矛盾 双方 根本 无 共同语言
+O O O O B_FamilyConflict O O O O

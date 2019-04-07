@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 系 自由 恋爱 相识 2003年 12月 22日 枣强县 民政局 登记 结婚 婚后 2006年 6月 7日 生 女孩 刘 XX 2012年 8月 23日 生 男孩 刘 XX
+O O O O O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 发现 双方 脾气 性格 差异 大 生活 琐事 吵 夫妻 感情 已 彻底 破裂 双方 2012年 2月份 分居 今 请求 判 令 原 被告 离婚 婚生 子女 原告 抚养 被告 依法 承担 抚养费 诉讼费 被告 承担
+O O O O O O O O O B_FamilyConflict O O O O O O B_Time I_Time B_Separation I_Time O O O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 被告 经人介绍 相识 2012年 11月 订婚 订婚 时 付 被告 婚礼 款 50000 元 购买 银镯子 一对 手机 部 价值 1000 元 同年 12月 11日 登记 结婚
+O O O O O B_Know O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 被告 无故 离家 外出 脾气 十分 暴躁 伤
+O B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

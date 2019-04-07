@@ -1,0 +1,14 @@
+原被告 2006年 3 厂 3 !
+O B_Time I_Time I_Time I_Time O
+登 i 结婚 2006年 8月 21日 牛 育 长子 张鑫航
+O O B_Marry B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name
+原被告 结婚 后 性格 不同 没有 共同语言 之间 时常 争吵 打架 感情 不和
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O
+原告 总是 采取 忍让 克制 态度 被告 却 丝集 不 注重 大妻 感情 培养 酗酒 赌博 于动 殴打 原告
+O O O O O O B_Person O O O O O O O B_BadHabit I_BadHabit O B_DomesticViolence B_Person
+2017年 4月 武清 八 民法 提起 离婚 诉讼
+B_Time I_Time B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O
+该院 2017年 5月 16Fl 2017
+O B_Time I_Time I_Time I_Time
+P0114 民初 4491y 民事 判决 驳回 原告 诉讼 请求
+B_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment

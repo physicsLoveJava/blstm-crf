@@ -1,0 +1,6 @@
+原告 李某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+被告 同居 导致 双方 感情 不和 现 已 分居 三 年 夫妻 感情 确 已 破裂 无 好
+O O O O O O O O B_Separation O O O O O O O O O
+维护 原告 合法 权益 特 诉至法院 要求 判决 准予 原 被告 离婚 依法 分割 夫妻 共同 财产 被告 给予 原告 相应 损害 赔偿 诉讼费 被告 承担
+O O O O O O O O O O O O O O O B_Wealth I_Wealth O O O O O O O O O

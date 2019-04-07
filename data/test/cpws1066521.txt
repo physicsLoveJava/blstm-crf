@@ -1,0 +1,12 @@
+原告 朱 某某 诉称 原被告 经人介绍 相识 2010年 9月 3日 登记 结婚 2011年 11月 11日 生育 女儿 孙某甲
+O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚前 婚前 缺乏 了解 致使 婚后 二 人 无 共同语言 性格 不合 家庭 琐事 吵闹 原被告 感情 确 已 破裂
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 曾 2012年 2月 9日 清丰县 人民法院 提起 离婚 诉讼 法院 2012年 7月 31日 判决 不 准 离婚 时至今日 原告 带 女儿 娘家 居住
+O O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment O O O O O O
+原告 朱 某某 起诉 被告 孙 某某 答辩 双方 当事人 以下 事实 无 异议 原被告 经人介绍 认识 2010年 9月 3日 清丰县 民政局 登记 结婚
+O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry
+婚后 2011年 11月 11日 生育 女孩 取名 孙某 甲 现 原告 生活
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+2012年 2月 9日 原告 朱 某某 向本院 提起 诉讼 要求 被告 孙 某某 离婚 本院 2012年 7月 31日 判决 不 准 离婚
+B_Time I_Time I_Time O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment

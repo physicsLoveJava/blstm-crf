@@ -1,0 +1,8 @@
+原 被告 经人介绍 相识 1995年 农历 正月 初六 农村 习俗 举行 婚礼 同居 生活 1995年 12月 26日 蓟州区 蓟县 民政局 补办 结婚 登记 手续 共同 生活
+O O O O O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry O O O O
+婚后 生育 子 陈香玉 现 已 成年
+O B_Bear B_Gender B_Name O B_Age I_Age
+原 被告 婚前 缺少 了解 婚后 双方 发现 夫妻 感情 不和 双方 常常 家庭 琐事 大 吵 大 闹 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 2017年 7月 14日 诉至法院 天津市 蓟州区 人民法院 出具 2017 津0119 民 初 8067 号 民事 判决书 判定 驳回 原告 诉讼 请求 未 准予 离婚
+B_Time B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court I_Court O O O O O O O O O O B_Judgment O O O O O O

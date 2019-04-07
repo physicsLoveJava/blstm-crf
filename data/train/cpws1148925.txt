@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 经人介绍 ×××× 年××月份 举行 结婚 仪式 同居 生活 同年 同月 补办 婚姻 登记 婚后 共同 生活 中 发现 被告 疑心 严重 原告 外出 打工 被告 原告 找事 造成 夫妻 之间 感情 不合 无法 共同 生活 婚后 原 被告 无 子女 被告 曾 夸 口 称 不 离婚 不 起诉 原 被告 夫妻 关系 已 名存实亡 请 人民法院 依法 判决 原 被告 离婚 婚前 财产 所有
+O O O O O O B_Time I_Time O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

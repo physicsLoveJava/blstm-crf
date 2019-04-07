@@ -1,0 +1,2 @@
+原告 张 某某 诉称 原 被告 两 人 人 介绍 相识 1988年 1月 1日 民政局 登记 结婚 婚前 被告 缺乏 了解 婚后 家庭 琐事 生气 不 断
+O O O O O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

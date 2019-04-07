@@ -1,0 +1,4 @@
+原告 余 某某 诉称 原 被告 2002年 底 登记 结婚 后 被告 明知 原告 患 精神 分裂症 不但 不尽 扶养 义务 毒打 原告 迫使 原告 2011年 6月 带 上 婚生 女儿 回 娘家 居住 同年 8月 原告 精神病 发作 被告 未 支付 原告 治疗 费用 还 私自 女儿 带走
+O O O O O O B_Time I_Time O B_Marry O B_Person O O O O O O O O O B_DomesticViolence B_Person O O B_Time I_Time O O B_Bear B_Gender B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O
+现 双方 夫妻 感情 名存实亡 诉至法院 坚决 要求 被告 离婚 婚生 女 原告 抚养 被告 承担 子女 抚养 费用 还 应 偿还 原告 治病 欠款 支付 原告 生活 帮助费 共计 10000 元
+O O O O O B_DivorceLawsuit O O O O O O B_Person O O O O O O O O O O O O O O O O O O O

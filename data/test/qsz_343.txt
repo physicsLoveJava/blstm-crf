@@ -1,0 +1,18 @@
+原被告 双方 经人介绍 后 认识 2003年 办理 结婚 仪式 后 同居 生活 被告 2004年 生育 子 取名 穆俊璠
+O O O O B_Know B_Time B_Marry I_Marry I_Marry O O O O B_Time B_Bear B_Gender O B_Name
+现年 14 周岁
+O B_Age I_Age
+双方 2006年 4月 7日 式清区 民政局 补办 结婚 登记
+O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+双方 婚后 性格 不合 常 琐事 争吵 影响 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O
+原告 2016年 l2 月份 武清区 人民法院 起诉 被告 要求 离婚
+B_Person B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit O O O
+后 武清区 人民法院 2017年 2月 15日 做出 一审 判决 驳回 原告 请求 不 准 离婚
+O O O B_Time I_Time I_Time O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 2017年 9月份 武清区 人民法院 第次 起诉 离婚
+B_Person B_Time I_Time B_Court I_Court O B_DivorceLawsuit O
+后 武清区 人民法院 2017年 11月 14日 做出 一审 判决 驳回 原告 请求 不 准 离婚
+O O O B_Time I_Time I_Time O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 次 起诉 期间 现今 被告 处于 分居 状态 双方 没有 和好 夫妻 感情 已经 破裂 起诉 要求 离婚
+O I_Time I_Time O I_Time O O B_Separation O O O O O O O O O O O

@@ -1,0 +1,8 @@
+被告 更 2010年 外出 打工 后 家庭 妻 女 不 不顾 未 责 导致 夫妻 感情 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+诉请 人民法院 允准 被告 离婚
+B_DivorceLawsuit O O O O
+被告 罗 某某 辩称 原告 诉 不 实
+O O O O B_FamilyConflict I_FamilyConflict O O
+生活 琐事 偶 矛盾 纠纷 发生 未 影响 夫妻 感情 女儿 尚 年幼 正 处 生长 学习 关键 时期 父母 离异 女儿 心理 造成 伤害 更 不 利于 健康 成长
+O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O

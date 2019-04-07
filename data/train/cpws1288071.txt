@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 2006年 4月 7日 登记 结婚 婚后 生育 子 名张 某某
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name
+被告 原告 感情 淡漠 双方 性格 不合 无法 沟通 已 分居 长 时间
+O O O O O O O O O O B_Separation O O
+原告 无法 忍受 曾 2012年 7月 诉至法院 要求 离婚 后 判决 不 准 离婚
+O O O O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment
+双方 分居 生活 今 现 依法 诉求 1 原 被告 离婚
+O B_Separation O O O B_DivorceLawsuit I_DivorceLawsuit O O O O

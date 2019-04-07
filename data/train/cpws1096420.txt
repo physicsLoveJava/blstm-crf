@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 经人介绍 2005年 相识 2005年 9月 5日 办理 结婚 登记 手续
+O O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2006年 4月 6日 生 男孩 王 某某 婚后 家庭 琐事 发生 争吵 2010年 6月 8日 曾 武邑县 民政局 协议 离婚 被告 原因 未果
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O B_FamilyConflict O O O O O O O O O O O
+2011年 2月 21日 原告 曾 武邑县 人民法院 起诉 原告 父母 干涉 撤诉
+B_Time I_Time I_Time B_Person O B_Court I_Court B_DivorceLawsuit O O O O
+抚养 儿子 原告 长期 外 打工 至今 两 年 时间 被告 未曾 见面
+O O O O O O O B_Duration I_Duration O O B_Separation I_Separation

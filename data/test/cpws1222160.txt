@@ -1,0 +1,12 @@
+原告 朱某 诉称 2011年 10月 朋友 介绍 原被告 认识 短暂 交往 双方 2012年 1月 9日 举行 结婚 仪式 共同 生活
+O O O B_Time I_Time O O O B_Know O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O
+2013年 2月 4日 原被告 以后 孩子 上 户口 双方 领取 结婚证 2013年 4月 28日 生于 女 叶某
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 交往 时间 太 短 性格 不和 感情 基础 差 小事 争吵 被告 琐碎 事情 刀 砍 原告
+O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict B_Person O O I_DomesticViolence I_DomesticViolence O
+被告 行为 原告 人身 受到 威胁 现 原告 已经 被告 家中 搬 出 居住 双方 感情 已经 破裂 特 诉至法院 请求 依法 判 令 依法 判 令 准予 原 被告 离婚
+O O O O O O O O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2010年 原告 认识 双方 自由 恋爱 2011年 10月份 朋友 说 媒 双方 确定 恋爱 关系 知道 2012年 1月 9日 举行 结婚 仪式 双方 之间 了解 感情 基础 2013年 2月 4日 领取 结婚证 2013年 4月 28日 生育 女儿 叶某 都 表明 夫妻 感情 好 原告 诉状 中 述 完全 不 符合 事实
+O O O O O O B_Time I_Time O O O O B_BeInLove I_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O
+双方 争吵 都 没有 及时 沟通 缺乏 相互 信任 导致
+O B_FamilyConflict O O O O O O O O

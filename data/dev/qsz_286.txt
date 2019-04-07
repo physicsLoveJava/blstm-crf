@@ -1,0 +1,12 @@
+原 仵 2000年 经人介绍 相训 建立 恋爱 关系
+O O B_Time O O O B_BeInLove O
+2001年 5月 16日 办理 结婚 登记 共同 生活 2004年 3月 8日 婚生 子 舒旭 今年 14 周岁 现在 武清区 黄庄泉 升 中学 l 学
+B_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age O O O O O O O
+原告 被告 婚姻 时 二婚 婚后 双方 感情 尚 时间 推移 发现 双方 性情 差异 大 双方 常 生活 琐事 发生 争执
+O O O O B_Remarry O O O O O O O O O O O O O O O O B_FamilyConflict
+被告 还 动手 殴打 原告
+B_Person O O B_DomesticViolence B_Person
+最 原告 不 容忍 被告 嗜酒 命 喝酒 误事 酒后 撒 疯 酒后 兹事 常 酒后 骂 街 人 公安 派出所 处理
+O O O O O B_BadHabit I_BadHabit O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O
+被告 2016年 春节 原告 索要 5000 块 钱 原告 未能 满足 使 离家 出走 不知 去向 电话 不 遥 弓 年6 月 原告 无 联系
+O O O O O O O O O O O O O O O O O O O O B_Negated I_Negated O B_Separation I_Separation

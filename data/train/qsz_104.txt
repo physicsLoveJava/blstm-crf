@@ -1,0 +1,8 @@
+原 被告 系 夫妻 关系 2008年 11月 原被告 经人介绍 相识 随后 确立 恋爱 关系 2010年 2月 23日 双方 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry I_Marry
+2010年 5月 2日 举行 结婚 仪式
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+婚后 育 女 张雅董 2011年 6月 12日 生 婚后 原告 怀孕 期间 被告 外 陆续 存在 赌博 高利贷 找 小姐 情形 欺骗 原告 说 外 工作 家庭 孩子 关心 高利贷 人 找上门 催 债 原告 家庭 生活 造成 影响
+O B_Bear I_Gender B_Name B_Time I_Time I_Time O O O O O B_Person O O O B_BadHabit I_BadHabit B_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O
+被告 行为 家庭 孩子 不 负 责任 现 双方 此事 发生 矛盾
+O O O O O O O O B_Person O B_FamilyConflict I_FamilyConflict

@@ -1,0 +1,10 @@
+原告 李某 诉称 原 被告 2001年 相识 ××××年 十堰市 茅箭区 民政局 登记 结婚 ××××年 2月 生 女孩 姜某乙 现年 10 岁
+O O O O O B_Time B_Know B_Time O O O B_Marry I_Marry B_Time I_Time B_Bear I_Gender B_Name O B_Age I_Age
+原 被告 婚后 家庭 琐事 发生 矛盾
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 赌博 恶习 家庭 暴力 倾向 屡教不改 殴打 被告
+B_Person B_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence I_DomesticViolence O O B_Person
+原告 2012年 5月 茅箭区 人民法院 起诉 离婚 被告 不 同意 离婚 法院 判决 不准 双方 离婚
+B_Person B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+判决 后 被告 没有 改变 种种 恶习 恶劣 被告 行为 伤害 原告 身心 夫妻 感情 已经 破裂 特 诉至法院 请求 判 令 1 原告 被告 离婚
+O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,4 @@
+原告 朱某 起诉 称 原 被告 经人介绍 认识 后 ×××× 年×× 月××日 上海市 青浦区 民政局 登记 结婚 婚后 未 生育 子女
+O O O O O O O B_Know O B_Time I_Time I_Time O O O O B_Marry O O O O
+双方 均 再婚 相互 了解 不 深 婚后 未 共同 居住 两 人 分居 两地
+B_Person O B_Remarry O O O O O O O O O O B_Separation O

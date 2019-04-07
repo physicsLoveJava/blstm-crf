@@ -1,0 +1,2 @@
+原 告诉 称 被告 婚后 共同 生活 期间 夫妻 感情 不和 被告 外 赌博 外 酗酒
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

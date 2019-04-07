@@ -1,0 +1,4 @@
+原 被告 2008年 6月 人 介绍 相识 建立 恋爱 关系 2009年 10月 27日 登记 结婚 均 系 再婚
+O O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry O O O
+后 家庭 琐事 争吵 打架 2017年 3月 原 被告 琐事 争吵 打架 后 被告 离家 出走 原告 分居 今
+O O O B_FamilyConflict I_FamilyConflict B_Time I_Time O O O O O O O B_Separation I_Separation O O I_Time

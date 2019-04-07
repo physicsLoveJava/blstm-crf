@@ -1,0 +1,6 @@
+原告 杜 某某 诉称 被告 经人介绍 订婚 2008年 1月 27日 政府 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+婚前 缺乏 了解 婚后 发现 双方 性格 不合 生活 琐事 生气 吵架 2011年 5月 分居 今 互不 履行 夫妻 义务 夫妻 感情 确 已 破裂
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation I_Time O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 侯 某某 辩称 原告 婚前 婚姻 基础 婚后 夫妻 关系 好 现 夫妻 感情 没有 完全 破裂 仍 和好 不 同意 离婚
+O O O O O O O O O O O O O O O B_Negated O O O O O O O

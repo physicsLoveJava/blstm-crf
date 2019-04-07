@@ -1,0 +1,2 @@
+原 告诉 称 被告 2001年 3月 19日 登记 结婚 2005年 12月 29日 生 子 张某丙 双方 婚前 了解 不够 婚后 发现 性格 不合 现 分居 已 两 年 夫妻 感情 已 完全 破裂 患 严重 腰椎间盘 突出 不能 工作 没有 经济 来源 没有 固定 住所
+O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name O O O O O O B_FamilyConflict I_FamilyConflict O B_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O

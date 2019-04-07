@@ -1,0 +1,4 @@
+原告 张 某某 诉称 原 被告 2004年 10月 12日 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+婚初 两 人 感情 尚 随后 发现 原 被告 性格 脾气 生活 方式 方面 矛盾 越来越 突出 夫妻 间 沟通 困难 琐事 发生 争吵
+O O O O O O O O O O O O O O B_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict

@@ -1,0 +1,8 @@
+2006年 12月 26日 生育 子 郭 红智
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2007年 10月 9日 蓟州区 蓟县 民政局 补办 结婚 登记 手续 共同 生活
+B_Time I_Time I_Time O O O O B_Marry I_Marry O O O
+婚前 缺少 了解 婚后 双方 夫妻 感情 不合 时常 家庭 琐事 生气 打架
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 常常 原告 张口 骂 伸手
+B_Person O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence

@@ -1,0 +1,6 @@
+原告 被告 妹妹 系 同学 关系 原 被告 认识 已 久 两 人 离婚 后 走 一起 times
+O O O O O O O O O O O B_Remarry I_Remarry I_Remarry I_Remarry I_Remarry I_Remarry O
+生育 女儿 取名 郑某乙
+B_Bear B_Gender O B_Name
+被告 性情 凶暴 琐事 打骂 原告 原告 考虑 已 次 婚姻 总是 容忍 希冀 被告 有朝一日 有所 改变 时间 推移 被告 打骂 原告 次数 越来越 最终 使 原告 被告 彻底 失望
+B_Person O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O

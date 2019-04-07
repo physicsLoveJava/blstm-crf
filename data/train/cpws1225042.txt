@@ -1,0 +1,14 @@
+原告 付某 诉称 2002年 经人介绍 原被告 认识 当年 东阿县 民政局 依法 登记 结婚 2004年 婚生 男孩 取名 付某 甲 现年 8 周岁
+O O O B_Time O O B_Know O O O O B_Marry I_Marry B_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+原被告 婚前 缺乏 了解 导致 婚后 未能 建立 真正 夫妻 感情 家庭 琐事 发生 争吵 矛盾 始终 不 断
+O O O O O O O O O O O O O O B_FamilyConflict O O O O
+原告 2004年 上海 工作 夫妻 两 人 长期 分居 至今 未能 建立 真正 夫妻 感情 原被告 根本 没有 共同语言 婚姻 关系 已 名存实亡 确 已 破裂
+O B_Time O O O O O O B_Separation B_Time O O O O O O O O O O O O O O O O
+要求 依法 判 令 原被告 离婚
+O O O O O B_DivorceLawsuit
+2002年 介绍 农村 习俗 进行 见面 才 相识 相互 交谈 后 双方 建立 感情 2002年 12月 13日 东阿县 民政局 登记 结婚 农历 2002年 12月 16日 举行 迎娶 仪式
+O O O O O O O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O
+婚后 二 人 去 上海 打工 原告 开车 在家 操持 家务 照顾 原告 夫妻 关系 好 2004年 9月 4 号 生 男孩 取名 付 甲 孩子 出生 夫妻 家庭 带来 幸福 期望 后 继续 上海 看 孩子 夫妻 没有 闹乱子 2010年 带 孩子 回东 县城 租房 照顾 孩子 有时 原告 家 住 10 天 半 月 曾 带 孩子 去 上海 看望 原告 拆洗 被褥 衣服 原告 改善 生活
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013年 春节 原告 回来 发现 原告 反常 父母 反复 逼问 下 原告 承认 重庆 女子 关系 父母 儿子 闫某 监督 下 书写 保证书 孩子 原谅 原告 再 没有 闹 意见 2013年 春节 后 去 上海 原告 洗 衣服 时 无意 发现 原告 重庆 女人 包裹单 问 此事 时 原告 支支吾吾 不说 清楚 孩子 认为 网上 聊天 认识 不 相信 原告 不顾 夫妻 关系 儿女情长 做 出轨 事
+O O O O O O O O O O O B_Person O I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

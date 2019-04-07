@@ -1,0 +1,8 @@
+原告 袁 某某 诉称 2008年 原被告 经人介绍 相识 同居 生活 同年 10月 20日 登记 结婚 2010年 2月 21日 生育 女儿 邓某乙
+O O O O B_Time O O B_Know O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 均 再婚 婚姻 基础 差
+B_Person O B_Remarry O O O
+被告 沉迷 赌博 原告 子女 漠不关心 未 家庭 义务
+B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+被告 邓某 甲 辩称 被告 沉迷 赌博 不 属实 家庭 子女 义务
+O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit

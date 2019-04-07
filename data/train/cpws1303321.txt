@@ -1,0 +1,6 @@
+原 告诉 称 原告 20011年 被告 认识 后 2002年 举行 结婚 仪式 办理 结婚 登记 手续 婚后 感情 后 生育 儿子
+O O O O B_Time O B_Know O B_Time B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry I_Marry O O O B_Bear B_Gender
+婚前 了解 不够 婚后 发现 性格 不合 长期 生气 双方 分居 至今 已 三 年 久 感情 已 彻底 破裂 为此 为此 诉至法院 请求 判 令 原 被告 离婚
+O O O O O O O O O O B_Separation O O B_Duration I_Duration O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚生子 刘梦帅 被告 抚养 原告 不 承担 抚养费 否则 原告 抚养 被告 不 承担 抚养费
+B_Bear B_Name O O O O O O O O O O O O O

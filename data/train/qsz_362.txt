@@ -1,0 +1,4 @@
+原被告 双力丁 2007年 I 人学 时 相识 建 企爱 X 系 2013年 I 月 4H 办理 结婚 登记 手续 婚后 未 门 f 女
+O O B_Time I_Time O O B_Know O O O O B_Time I_Time I_Time I_Time O B_Marry O O O O O O O
+姓 后 未能 史. 贝学 大妻 感情 常 N 牛沅 琐事 争吵 打架 后 牛
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O

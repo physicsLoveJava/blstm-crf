@@ -1,0 +1,10 @@
+原告 杨 某某 诉称 原 被告 经人介绍 相识 1991年 5月 8日 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 李某 现 已 成年
+B_Time B_Bear I_Gender B_Name O B_Age I_Age
+最近 年 被告 人 不 正当 关系 双方 发生 争吵 被告 始终 不知 悔改 双方 已 无 夫妻 感情 可言 起诉 法院 要求 被告 离婚
+O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed O I_FamilyConflict I_FamilyConflict O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O
+被告 李 某某 辩称 原 告诉 称 被告 不 正常 上班 人 不 正当 关系 均 不 事实
+O O O O O O O O O O O I_Derailed I_Derailed I_Derailed I_Derailed O B_Negated I_Negated
+2012年 5月 14日 原告 李多田 不 正当 关系 儿子 李某 发现 后 原告 离家 出走 李多田 山西省 长治县 租房 居住 生育 女孩
+O O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O

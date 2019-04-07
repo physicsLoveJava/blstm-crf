@@ -1,0 +1,4 @@
+2000年 12月 22日 武清区 民政部门 登记 结婚 婚生 男儿 现 已 成年
+B_Time I_Time I_Time O O B_Marry I_Marry B_Bear B_Gender O O B_Age
+被告 没 正当 职业 造成 家庭 生活 闲难 双方 感情 不和
+O O O O O O B_FamilyConflict I_FamilyConflict O O O

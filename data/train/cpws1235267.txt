@@ -1,0 +1,10 @@
+原告 张某 甲诉 称 1994年 原被告 经人介绍 相识 建立 恋爱 关系
+O O O O O O O B_Know O B_BeInLove O
+1996年 12月 3日 登记 结婚 1998年 7月 28日 婚生 子 张某丙
+B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+2000年 7月 27日 婚生 女 张某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 感情 婚后 共同 生活 中 2004年 生活 琐事 发生 吵闹 直到 打架
+O O O O O O O O O O B_FamilyConflict O B_FamilyConflict
+2009年 今 原被告 分居 生活 三 年 原被告 仍 未 好 形 路人 原告 认为 感情 没有 共同 生活 必要 现 特 法院 提出 离婚 诉讼 要求 依法 解除 原被告 之间 婚姻 关系 婚生 子女 原告 自行 抚养 婚前 财产 所有 婚后 无 共同 债权 债务 存款
+B_Time O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

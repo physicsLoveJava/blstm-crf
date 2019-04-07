@@ -1,0 +1,8 @@
+原 被告 2004年 经人介绍 相识 2006年 2月 26日 举行 结婚 仪式 共同 生活
+O O B_Time O B_Know O O O O O O O O
+2007年 2月 28日 生育 长子 王京 现 原告 生活
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+2010年 3月 12日 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原告 曾经 起诉 离婚 贵院 六 月 前 2017 津0119 民 初 3463 号 民事 判决 驳回 原告 诉讼 请求
+B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2012年 3月 相识 同年 6月 19日 登记 结婚 2013年 2月 19日 原告 生 下 女儿
+O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time O B_Bear O B_Gender
+婚后 被告 原告 态度 越来越 冷淡 发生 口角 原告 家人 不 和平共处 被告 还 原告 家庭 暴力 致使 夫妻 感情 劈裂 已 无法 挽回
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+后 原告 找 工作 表弟 20000 元 20000 元 共同 债务 钱 花 房子 装修 上
+O O O O B_Person B_Price I_Price O O B_Debt I_Debt O O O O O

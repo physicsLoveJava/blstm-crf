@@ -1,0 +1,2 @@
+原告 刘某 诉称 被告 陈某 甲婚 前 缺乏 了解 婚后 未 建立 真正 感情 长期 分居 生活
+B_Person I_Person B_DivorceLawsuit O O O O O O O O O O O O B_Separation O

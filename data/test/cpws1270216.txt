@@ -1,0 +1,10 @@
+原告 王某 诉称 被告 经人介绍 2008年 7月 相识 2008年 8月 8日 订婚 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time B_Know O O O O B_Time I_Time I_Time I_Time O B_Marry
+×××× 年×× 月×× 日 生育 长女 杨某乙 ×××× 年×× 月×× 日 生育 次女 杨某丙
+B_Time I_Time I_Time I_Time B_Bear O B_Name B_Time I_Time I_Time I_Time B_Bear O B_Name
+婚前 缺乏 了解 草率 结婚 婚后 夫妻 间 缺少 沟通 交流 导致 争吵 打架 不断 没有 建立 真正 夫妻 感情
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+2012年 7月 2日 小事 被告 赶回 娘家 双方 分居 今
+B_Time I_Time I_Time O O O O O B_Separation O
+多半 年 过去 被告 没有 去 看 两 年幼 孩子 更 没有 每月 孩子 生活费 被告 彻底 失望 被告 扬言 离婚 认为 夫妻 感情 彻底 破裂 没有 好 坚决 要求 被告 离婚
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

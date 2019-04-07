@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 原 被告 1988年 经人介绍 相识 1990年 2月 25日 登记 结婚 婚后 生育 二 小孩 现 均 已 成年
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear O O O O O O
+性格 不合 婚后 双方 常 家庭 琐事 产生 矛盾 相骂 打架
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 双方 已 无法 继续 共同 生活 夫妻 感情 已 彻底 破裂 诉至法院 请求 依法 判决 准许 原 被告 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 2011年 外出 打工 未 告知 被告 工作 地点 双方 分居 生活 今
+O B_Time B_Separation I_Separation O O O O O O O O O

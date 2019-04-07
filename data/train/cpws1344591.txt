@@ -1,0 +1,4 @@
+原告 陈 XX 诉 称 原 被告 婚后 价值观 兴趣 爱好 差异 大 被告 2010年 患 心理 疾病 长期 不 治愈 致使 夫妻 感情 破裂 双方 2010年 夏天 同室 分居 2013年 3月 原告 离家 外借 房屋 居住
+B_Person I_Person I_Person O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O B_Separation B_Time I_Time O B_Separation O O O
+现 原告 认为 双方 感情 彻底 破裂 起诉 院 要求 被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

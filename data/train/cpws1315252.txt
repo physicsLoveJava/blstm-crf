@@ -1,0 +1,18 @@
+原告 黄某 甲诉 称 被告 1987年 认识 1989年 同居 分别 ×××× 年×× 月××日 ×××× 年×× 月×× 日 生育 女儿 黄某 戊 儿子 黄某 乙 于×××× 年×× 月××日 江高镇 人民政府 补办 结婚 登记 手续
+O O O O O O B_Know O O O B_Time I_Time I_Time B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name B_Time I_Time I_Time O O O B_Marry O O
+1992年 从事 运输 工作 外出 双方 感情 出现 裂痕 聚少 常 琐事 争吵 1996年 分居 双方 1997年 子女 办理 户口 问题 补办 结婚 登记 手续
+O O O O O O O O O O O O O B_Time B_Separation O B_Time O O O O O B_Marry O O
+双方 共同 生活 期间 被告 不思进取 不 去 寻找 工作 养 家 诈骗 形式 钱 财据 去 大肆 挥霍 导致 众多 债主 上门 催债 父亲 亦 受到 累 曾 债 主 绑架 家庭 造成 巨大 影响
+O O O O B_Person O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O
+我方 认为 双方 感情 已经 破裂 已 无 和好
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2007年 6月 曾 白云区 人民法院 起诉 被告 离婚 法院 挽救 被告 角度 出发 判决 不予 离婚
+B_Time I_Time O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment
+同年 被告 犯 诈骗罪 法院 判处 有期徒刑 11 年 现 羁押 广东省 女子 监狱 双方 没有 来往
+O B_Person B_BadHabit I_BadHabit O O O O O O O O O O O O O
+现 请求 法院 判决 被告 离婚
+O O B_Court O I_DivorceLawsuit I_DivorceLawsuit
+被告 周某 辩称 我方 确认 原告 陈述 双方 婚姻 缔结 时间 婚后 生育 子女 情况
+O O O O B_Negated O O O B_Marry O O B_Bear I_Bear I_Bear O
+入狱 前 我方 尽心 照顾 家庭 负 家庭 责任 原告 出轨 恶劣 行为 番 忍让
+O O O O O O O O O B_Person B_Derailed O O O O

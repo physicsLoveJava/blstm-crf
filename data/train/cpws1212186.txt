@@ -1,0 +1,2 @@
+原告 肖某 甲诉 称 被告 人 2011年 介绍 相识 ×××× 年×× 月×× 日 登记 结婚 婚后 两 人 性格 不合 没有 共同语言 感情 冷淡 家庭 琐事 发生 纠纷 结婚 今 被告 子女 上学 家庭 中 经济 开支 都 支付 被告 想方设法 手中 套 取 钱财 致使 为此 发生 争执 大打出手 被告 曾 砸 位于 随州 香江 商贸 中心 经营 店面 店 属 婚前 财产 被告 已 分居 长 达 半 年 久 夫妻 感情 已 破裂 请求 法院 判 令 被告 离婚
+O O O O O O B_Time O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O I_DomesticViolence O O O O O O O O O O O O O O O O B_Separation O B_Duration I_Duration I_Duration I_Duration O O O O O O O O O O

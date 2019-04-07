@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2009年 3月 人 介绍 相识 恋爱 同年 12月 双方 登记 结婚 至今 无 小孩 双方 婚前 相处 时间 短 婚后 性格 不 投 家庭 琐事 发生 争吵 2012年 10月 双方 发生 争吵 后 分居 生活 今 2013年 5月 原告 曾 起诉 离婚 法院 调解 原告 撤回 起诉 之后 双方 仍 未 和好 起诉 离婚
+O O O O O B_Time I_Time O O B_Know B_BeInLove O O O B_Marry I_Marry O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time O O O O B_Separation O I_Time B_Time I_Time B_Person O B_DivorceLawsuit O B_Court O O B_Judgment I_Judgment O O O O O O O
+双方 争议 夫妻 感情 是否 破裂 问题 原告 陈述 婚后 相处 不 睦 吵 冷战 2012年 10月 分居 生活 今 原告 曾 2013年 5月 起诉 离婚 后 撤回 起诉 之后 仍 未 好
+O O O O O O O O O O O O O O O B_Time I_Time B_Separation O I_Time O O O O O O O O O O O O O
+共同 财产 债权 债务 问题 双方 共同 购买 位于 涟水县 涟城镇 幸福 里 小区 1 号 楼 805室 房屋 套 购房 银行 贷款 陈述 一致
+O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O
+被告 主张 共同 债务 被告 哥哥 吕增飞 20000 元 被告 父亲 吕献成 6000 元 借款 均 用于 双方 购房 治病 为此 出具 银行 帐单 查询单 医院 病历 检查单 证明 哥哥 20000 元 治病 花费 事实 原告 被告 主张 债务 均 不予 认可 被告 哥哥 被告 20000 元 款 不 表 异议 认为 被告 工资款 医院 病历 检查单 不 表 异议 认为 没有 钱 治病
+O O O B_Debt O O O B_Price I_Price O O O B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

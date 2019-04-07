@@ -1,0 +1,2 @@
+原被告系 村人 2013年 经人介绍 相识 同年 7月 4日 依法 登记 结婚 婚后 感情 生 女儿 杨若熙 近 二 年 被告 家庭 琐事 打骂 原告 导致 原告 家 不 敢 回 现 原被告 分居 2018年 5月 被告 无故 殴打 原告 造成 原告 报警 现 原告 外 打工 原告 被告 感情 上 产生 反感 属 感情 破裂 为此 原告 起诉 离婚
+O O B_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O B_Bear B_Gender B_Name O O O B_Person O O B_DomesticViolence B_Person O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit

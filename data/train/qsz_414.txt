@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2008年 4月 24日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 原 被告 均 系 再婚 双方 生育 一子耿 迎帅 现 已 15 周岁
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O B_Person I_Person O O B_Remarry O B_Bear B_Gender B_Name O O B_Age I_Age
+婚前 缺乏 了解 婚后 双方 发现 夫妻 感情 不合 常常 家庭 琐事 生气 吵架 被告 原告 张口 骂 伸手 更 原告 忍无可忍 原告 发现 被告 异性 暧昧 关系 现 夫妻 感情 已 彻底 破裂 已 无 合 好
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O B_Person I_Derailed I_Derailed I_Derailed O O O O O O O O O O

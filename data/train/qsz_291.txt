@@ -1,0 +1,8 @@
+原告 被告系 自山 恋爱 双方 J2014 年 8片 双方 认识 2014 牛 11月 20 目 小理 结婚 登记续
+O O O O O B_Time I_Time I_Time B_Know I_Know B_Time I_Time I_Time I_Time I_Time O B_Marry I_Marry
+2014年 11月 28 口 举行 结婚 仪式
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+2017年 10月 原告 起诉 离婚 被告 表示 家 原告 门子 原告 撤诉
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment
+出于 被告 行为 导致 大妻 双方 没有 共同 诺言 致使 夫妻 感情 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

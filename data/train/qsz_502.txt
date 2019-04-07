@@ -1,0 +1,4 @@
+2016年 6月 28日 结婚 婚后 感情 不和 2017年 3月 5日 生育 子 李 孟阳 双方 共同 生活 期间 常 生活 琐事 发生 矛盾
+B_Time I_Time I_Time B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O
+被告 曾 两 次 宝坻区 人民法院 提出 离婚 诉讼 人民法院 依法 驳回 双方 分居 生活 年 有余 双方 亲属 调解
+B_Person O O O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment O B_Separation O I_Duration I_Duration O O O

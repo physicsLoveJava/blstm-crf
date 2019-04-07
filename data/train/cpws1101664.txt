@@ -1,0 +1,12 @@
+原告 丁 某某 诉称 1994年 7月份 经人介绍 原告 被告田 某某 认识 相互 不 了解 情况 下 父母 操办 下 1994年 7月 29日 登记 结婚 双方 均 系 再婚
+B_Person O O O B_Time I_Time O O O O B_Know O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry
+婚后 发现 双方 性格 不合 没有 共同语言 争吵 不 休 无法 一起 生活
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+婚后 不久 原告 外地 打工 两 人 长年 分居 不 一起 生活
+O O O O O O O B_Duration B_Separation O O O
+2005年 婚生 男孩 丁 某某 出生
+B_Time O B_Gender B_Name I_Name B_Bear
+被告 脾气 暴躁 无事生非 稍 不 顺心 大 吵 大 闹 导致 婚姻 无法 维系
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+请求 依法 判决 原被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

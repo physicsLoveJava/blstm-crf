@@ -1,0 +1,2 @@
+原告 单 某某 诉称 被告 2013年 5月 6日 经人介绍 登记 结婚 被告 均 再婚 婚后 感情 不好 被告 喝酒 闹事 实施 家庭 暴力 拳脚 相加 无情 打骂 已经 造成 伤害 导致 夫妻 感情 已 彻底 破裂 无 重新 好
+B_Person O O O O B_Time I_Time I_Time O O B_Marry B_Person O B_Remarry O O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O

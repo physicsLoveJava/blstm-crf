@@ -1,0 +1,10 @@
+原告 黄某 起诉 称 原 被告 1989年 农村 习俗 举行 婚礼 后 同居 生活 2004年 1月 6日 双方 宁海县 ××明镇港 人民政府 补办 结婚 登记 手续 婚后 生育 儿子 冯 某乙 现 已 成年
+O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time O O O O O B_Marry O O O B_Bear B_Gender I_Gender I_Name O B_Age
+近 年 双方 宁波 北仑 经营 保险箱 丝网 业务 经济 收入 家庭 琐事 双方 发生 争吵 致使 双方 无法 共同 生活
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2013年 8月 20日 双方 分居 生活 今
+B_Time I_Time I_Time I_Time O O B_Separation
+现 夫妻 感情 已 彻底 破裂 无 好 要求 被告 离婚
+B_Time I_Time O O O O O O O O B_DivorceLawsuit
+被告 冯 某甲 答辩 称 婚姻 建立 过程 某某 育 子女 情况 属实
+O O O O O O O O O O O O B_Bear

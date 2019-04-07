@@ -1,0 +1,4 @@
+原告 王某 诉称 双方 2006年 9月 经人介绍 相识 认识 两 月 后 双方 登记 结婚 婚前 缺乏 了解 婚后 双方 感情 被告 不 工作 家庭 孩子 没有 责任心 双方 婚前 不够 了解 导致 发生 争吵 被告 动手 原告 原告 娘家 工作 场所 都 曾 殴打 原告 被告 抢夺 原告 财物 辱骂 原告 原告 家人 原告 无奈 2010年 3月 分居 今
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time I_Time O B_Marry I_Marry O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation O
+孩子 出生 后 被告 未 履行 父亲 责任 原告 孩子 生活 漠不关心 孩子 出生 至今 都 原告 照顾
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,8 @@
+箱岳 双 自由 恋爱 相识 2009年 2月 旦 办理 勇姻 登记 手续 共同 生活 双方 均 系 贵带
+O O O O O B_Time I_Time O O B_Marry O O O O B_Person O O B_Remarry
+原 节豆 恩杰 匹 生育 女儿 张莹莹
+O O O O B_Bear B_Gender B_Name
+共同 生活 以后 原告 才 发雾 双万 签竹 少复1 签 常 生活 琐事 打架 生气
+O O O O O O O O O O O O O B_FamilyConflict O
+被告 脾气 暴握 努茂 忍尿宜 去 婴 家庭 暴力 2016年 5月 31日 晚 努万 发生 警资 后 坚 主卫 女儿 张莹莹 搬 家中 井 货 提起 尚刃贤松 .. 式巴 男州区 人民法院 2016 津0225 民 初6807 亏巴多烈 伏卫归 原告 起诉
+B_Person O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O

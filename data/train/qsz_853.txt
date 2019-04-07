@@ -1,0 +1,12 @@
+原 被告 2008年 3月 19日 蓟州区 民政局 登记 结婚
+O O B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 生育 男孩 吴林峰 现年 9 周岁 女 吴 佳慧 现年 4 周岁
+O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name I_Name O B_Age I_Age
+婚后 发现 被告 大 男子 主义
+O O B_Person B_BadHabit I_BadHabit I_BadHabit
+事事 都 听从 被告 安排 稍 不 如意 被告 就要 原告 吵架
+O O O O O O O O O O O B_FamilyConflict
+被告 多疑 小心眼 日常 生活 原告 性格 差异 太 大
+B_Person B_BadHabit I_BadHabit O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+更 无 共同语言 无法 沟通 交流
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

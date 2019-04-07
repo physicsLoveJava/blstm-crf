@@ -1,0 +1,10 @@
+原被告 1997年 4月 人 介绍 相识 确立 恋爱 关系 1998年 12月 9日 登记 结婚 2003年 3月 8日 生育 女孩 取名 王唱 原被告 结婚 后 家庭 琐事 之间 时常 争吵 打架 感情 不和
+O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O B_FamilyConflict B_FamilyConflict O O
+双方 矛盾 越来越 深 感情 彻底 破裂 原被告 2016年 2月 分居 生活
+O O O O O O O O B_Time I_Time B_Separation O
+2016年 4月 原告 武清区 人民法院 提起 离婚 诉讼 该院 2016年 6月 12日 2016 津 0114 民 初 4163 号 民事 判决 驳回 原告 诉讼 请求
+B_Time I_Time B_Person B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment I_Judgment I_Judgment
+2017年 3月 原告 起诉 被告 不 同意 离婚 无奈 原告 2017年 6月 撤回 起诉
+B_Time I_Time B_Person I_DivorceLawsuit O O O O O O B_Time I_Time B_Judgment I_Judgment
+综 上 原被告 2016年 2月 至今 分居 生活 婚姻 关系 已经 名存实亡
+O O O B_Time I_Time B_Time B_Separation O O O O O

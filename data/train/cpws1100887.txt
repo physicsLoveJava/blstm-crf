@@ -1,0 +1,14 @@
+原告 起诉 称 原 被告 1999年 桐庐县 打工 时 相识 相恋 同年 6 7月份 同居 同居 时 感情 ×××× 年×× 月×× 日 生育 子 取名 朱某乙
+O O O O O B_Time O O O B_Know B_BeInLove O O O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+×××× 年×× 月×× 日 双方 补办 结婚 登记
+B_Time I_Time I_Time I_Time O B_Marry I_Marry I_Marry
+婚前 缺乏 了解 草率 结合 导致 婚后 双方 发生 争吵 打架 根本 上 无法 建立 夫妻 感情
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O
+原告 放弃 离婚 念头 被告 原告 委曲求全 当成 软弱 肆无忌惮 侮辱 毒打 原告
+O O O O B_Person O O O O O B_DomesticViolence I_DomesticViolence B_Person
+2012年 7月 原告 被迫 离开 被告 去 贵州 双方 分居 今
+B_Time I_Time O O O O O O O B_Separation O
+现 起诉 要求 1 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+3 共同 存款 60000 元 平均 分割
+O B_CommonProperty B_Wealth B_Price I_Price O O

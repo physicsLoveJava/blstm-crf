@@ -1,0 +1,6 @@
+原告 徐某 诉称 原被告 经人介绍 相识 2005年 12月 21日 齐贤镇 人民政府 登记 结婚 双方 2008年 2月 24日 生育 子
+O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender
+双方 性格 问题 琐事 争吵
+O O O I_FamilyConflict I_FamilyConflict
+原被告 2008年 11月 分居 2009年 7月 14日 原告 法院 起诉 要求 离婚 法院 判决 驳回 诉讼 请求 原告 2012年 5月 31日 法院 起诉 证据 不足 法院 驳回 诉讼 请求
+O B_Time I_Time B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O

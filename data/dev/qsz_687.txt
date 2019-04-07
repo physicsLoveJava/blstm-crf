@@ -1,0 +1,6 @@
+1998年 原被告 相识 2001年 12月 14日 登记 结婚 婚后 生子名 赵天昊 现年 15 岁 婚后 被告 暴躁 脾气 生活 不 检点 外面 长期 乱 搞 男女 关系 不 尊重 婚姻 不 尊重 原告 维持 婚姻 家庭 孩子 被告 忍 再 忍 期盼 被告 回心 转意 善待 原告 好好 过日子 被告 视 原告 忍让 软弱 欺 打骂 原告 肆无忌弹 外面 男女 关系 肆无忌弹 还 别的 女人 带 回 家 住 原告 抓住 2010年 5月 31日 原告 被告 办理 离婚 手续 离婚 不久 被告 伤害 抓 原告 写信 祈求 原告 原谅 被告 希望 原告 被告 接见 被告 复婚 原告 心软 看 公婆 孩子 情面 上 月月 被告 接见 每次 接见 被告 都 希望 原告复 谅 被告
+B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Name O B_Age I_Age O B_Person B_BadHabit I_BadHabit B_Derailed I_Derailed I_Derailed O O B_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2014年 4月 15日 被告 出狱 被告 出狱 没 多久 以前 那种 恶习 原告 打骂 生活 不 检点 孩子 原告 一再 忍让 期间 原告 被告 没有 复婚 被告 总 想 原告 复婚 原告 没用 同意 原告 太 了解 被告 知道 被告 视救 不
+O O O O O B_Person O O O O O O B_Person B_DomesticViolence B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O
+2017年 3月 22日 登记 结婚 2017年 6月 24日 生 女 赵甜馨 现年 14 月 原告 想 挽回 被告 心
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age O O O O O

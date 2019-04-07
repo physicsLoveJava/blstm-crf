@@ -1,0 +1,8 @@
+原告 张 某某 诉称 原被告 2004年 经人介绍 相识 2007年 1月 22日 登记 结婚 婚后 2007年 9月 4日 生 男孩 取名 邢某 乙
+B_Person I_Person I_Person O O B_Time O B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 原被告 感情 家庭 琐事 发生 争执 双方 矛盾 分歧 加重 现 夫妻 感情 已 彻底 破裂
+O O O O O O B_FamilyConflict O O O O O O O O O O
+请求 人民法院 依法 判 令 原被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+被告 邢某 甲 辩称 原被告 2004年 7月份 相识 同居 2007年 1月 22日 登记 结婚 婚后 感情 非常 好 共同 抚养 原告 前夫 生 女儿 刘 某某 原被告 2007年 9月 4日 生 男孩 取名 邢某 乙 现年 5 周岁
+O O O O O B_Time I_Time B_Know O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age

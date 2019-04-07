@@ -1,0 +1,6 @@
+原告 被告 经人介绍 认识 2007年 12月 7日 登记 结婚 原告 被告 均 属 再婚
+O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person B_Person O O B_Remarry
+2014年 农历 正月初五 被告 回到 大儿子 处 生活
+B_Time I_Time I_Time B_Separation I_Separation I_Separation I_Separation I_Separation
+只 2015年 春节 回来 10 天 走 2016年 春节 被告 回来 20 天 后 走 长 达 2 年 时间 去 不 回 被告 总是 原告 处于 分居 状态
+O B_Time I_Time O O O I_Separation B_Time I_Time O O O O O O O O O O O O O O O O O O B_Separation O

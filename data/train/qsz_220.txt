@@ -1,0 +1,10 @@
+原被告 2014年 10月 被告 妹妹 介绍 相识 建立 恋爱 关系
+O B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2015年 1月 6日 领取 结婚证
+B_Time I_Time I_Time B_Marry I_Marry
+原被告 感情 尚 2015年 923日 生 女王 伊嘉 婚后 原被告 无 共同语言 无 夫妻 生活 双方 不 一起
+O O O B_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O
+感情 疏远 造成 双方 感情 破裂
+B_FamilyConflict I_FamilyConflict O O O O
+2018年 月 23日 双方 争吵 后 原告 搬 出 屡 被告 女 肖随 原告 父母 居住生 双方 谈及 离婚 问趣
+B_Time I_Time I_Time O B_FamilyConflict O O B_Separation I_Separation O O O O O O O O O O O

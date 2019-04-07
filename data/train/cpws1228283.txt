@@ -1,0 +1,8 @@
+原告 蓝 某某 诉称 原被告 2004年 10月 人 介绍 相识 2005年 1月 26日 登记 结婚 被告系 再婚 原告 系 初婚
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person B_Remarry B_Person O B_Remarry
+结婚 初期 双方 感情 尚 之后 原、被告 生活 琐事 发生 争吵 近 月 被告 夜 不 宿 夫 妇 暧昧 关系
+O O O O O O O O O O B_FamilyConflict O O B_Person O O O O O I_Derailed I_Derailed
+故原 被告 双方 夫妻 感情 确 已 破裂 维护 原告 合法 权益 请求 判 令 依法 解除 原被告 之间 婚姻 关系
+O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+未 夫 妇 暧昧 关系 纯属 女方 猜疑
+O O O O O B_Negated I_Negated I_Negated

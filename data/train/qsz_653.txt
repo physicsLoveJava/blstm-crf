@@ -1,0 +1,4 @@
+| 原告 被告 1990年 12月 26日 登记 结婚 婚后生 两 子女 均 成年 被告 了解 不 够 素质 人品 不 完全 清楚 导致 双方 感情
+O O O B_Time I_Time I_Time O B_Marry B_Bear B_Gender I_Gender O I_Age O O O O O O O O O O O O
+得知 \被告 2017年 不 正当 男女 关系
+O B_Person O B_Derailed I_Derailed I_Derailed I_Derailed

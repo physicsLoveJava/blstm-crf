@@ -1,0 +1,2 @@
+原告 邢某 诉称 原 被告 经人介绍 2013年 4月 11日 登记 结婚 未 生育 子女 双方 婚前 了解 少 草率 结婚 婚后 才 发现 双方 性格 不合 无 共同语言 无法 建立 夫妻 感情 结婚 三 月 双方 共同 生活 时间 不 十几 天 2013年 7月 13日 被告无事生非 砸 坏 原告 家 电脑 电视 家电 被告 家属 原告 家 无理取闹 村民 中 造成 极 坏 影响 起诉 法院 请求 依法 判决 原 被告 离婚
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

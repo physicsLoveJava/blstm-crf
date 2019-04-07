@@ -1,0 +1,6 @@
+原告 陈＊ 诉称 原 被告 1988年 经人介绍 相识 确立 恋爱 关系 于×××× 年×× 月 办理 结婚 登记 手续 1990年 生育 子 取名 陈某乙
+B_Person I_Person B_DivorceLawsuit O O B_Time O B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry O O B_Time B_Bear B_Gender O B_Name
+原 被告 生活 琐事 发生 争吵 双方 关系 长期 处于 冷战 状态 无法 沟通
+O O O O O B_FamilyConflict O O O O O O O O
+2011年 1月份 原 被告 分居 今 双方 感情 确 已 破裂
+I_Time I_Time O O B_Separation O O O O O O

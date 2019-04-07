@@ -1,0 +1,12 @@
+2012年 12月 原 被告 确定 恋爱 关系
+O O O O O B_BeInLove O
+2014年 11月 17日 宁河区 民政局 登记 结婚 婚后 育 子 王钰
+B_Time I_Time I_Time O O O B_Marry O B_Bear B_Gender B_Name
+现年 5 岁
+O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+无法 达成 一致 意见 被告 外面 别的 女人 不 正当 关系 为此 双方 此事 吵架 被告 还 原告 进行 殴打 导致 原告 伤痕 累累 原告 看 孩子 尚 年幼 忍让 被告 根本 不 看 眼里 我行我素
+O O O O O O O O O O O O O O O B_Person O B_Person O B_DomesticViolence O O O O O O O O O O O O O O O O
+现 双方 分居 已经 2 年 有余 间 互不 履行 夫妻 义务 夫妻 感情 荡然无存
+O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O O

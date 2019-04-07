@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 2007年 11月 29日 自愿 登记 结婚 婚后 生育 大 女儿 苏某 秀 二 女儿 苏某丽 三 女儿 苏某彤
+O O O O O O B_Time I_Time I_Time O O B_Marry O B_Bear O B_Gender B_Name I_Name O B_Gender B_Name O B_Gender B_Name
+生育 大 女儿 苏某 秀后 夫妻 家庭 琐事 发生 争吵 被告 性情 粗暴 缺乏 教养 欺负 原告 动不动 打骂 原告 被告 母亲 怂恿 被告 被告 原告 离婚 子女 着想 原告 被告 家庭 暴力 默默 忍受 才 勉强 维持 夫妻 关系 被告 原告 家庭 暴力 严重 逼 原告 被告 离婚 维持 原 被告 夫妻 感情 已 彻底 破裂 维护 原告 合法 权益 请求 法院 判决 原 被告 离婚 长女 苏某 秀 被告 抚养 次女 苏某丽 三 女 苏某 彤 原告 抚养 要求 被告 每月 支付 抚养费 300 元 直至 三 女 苏某 彤年 满 十八 周岁
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

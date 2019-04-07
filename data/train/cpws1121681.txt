@@ -1,0 +1,8 @@
+原告 徐某 甲诉 称 原 被告 均 系 再婚
+O O O O B_Person I_Person O O B_Remarry
+2009年 人 介绍 相识 ×××× 年×× 月×× 日 登记 结婚
+B_Time O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 儿子 徐某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2011年 4月 被告 家 翻 建 旧 房 原告 被告 父母 建房 出资 问题 发生 矛盾 出 家门 亲戚 调解 未果
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_Separation I_Separation O O O

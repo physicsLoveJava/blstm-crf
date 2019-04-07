@@ -1,0 +1,2 @@
+原被告 经人介绍 2012年 12月份 相识 2013年 8月 30日 登记 结婚
+O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry

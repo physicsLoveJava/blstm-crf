@@ -1,0 +1,4 @@
+2012年 3月 原告 曾 起诉 离婚 判 不 准 离婚 后 原 被告 分居 已 满 年 夫妻 感情 彻底 破裂 请求 被告 离婚
+B_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O B_Separation O O I_Duration O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 姚 某某 辩称 原 被告 婚出 刚 结婚 夫妻 关系 好 2010年 原告 外 打工 村里 其他人 不 正当 关系 发 暧昧 短信 夫妻 关系 变 不好
+O O O O O O O O O O O O O B_Person O O O O B_Derailed I_Derailed I_Derailed O O O O O O O

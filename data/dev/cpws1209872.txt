@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 2005年 下半年 广东省 打工 时 相识 恋爱 认识 不 半 年 便 同居 生活
+O O O O O B_Time I_Time O O O B_Know B_BeInLove O O O O O O O
+2010年 11月 18日 补办 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+婚后 不久 发现 被告 脾气 暴躁 野蛮 打牌 搞 赌 好逸恶劳 不尽 家庭 义务 一点 不 关心 原告 孩子 家庭 琐事 发生 争吵 2007年 3月 生长子 黄某 谋 2010年 9月 生 次子 黄某 虎
+O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O B_Time I_Time B_Bear B_Name I_Name B_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 赌博成性 原告 劝说 被告 被告 不但 不 听 大打出手 伤害 原告 以后 这种 赌博 暴力 生活 原告 来说 便是 家常便饭 特别 2007年 被告 打牌 搞 赌 老虎机 买 马 有时 身上 输 分 钱 没有 没有 钱 吃 咸菜 被告 二 姐 钱 二 姐 都 不
+O O O O O B_Person O O O B_DomesticViolence O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

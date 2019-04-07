@@ -1,0 +1,4 @@
+原 被告 1982年 4月 4日 办理 结婚 登记 手续 后 同居 生活 婚后 育 女 现 已 成家
+O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O B_Bear B_Gender O O B_Age
+婚后 原 被告 感情 尚 近 两 年 被告 做 生意 需要 本钱 为由 原告 索要 钱 款 直到 近期 原告 才 发现 被告 不务正业 不 从事 劳动 家庭 严重 不 负 责任
+O O O O O O O O B_Person O O O O O B_Person B_Debt I_Debt I_Debt O O O O O B_Person B_BadHabit B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit

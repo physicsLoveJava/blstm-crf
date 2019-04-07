@@ -1,0 +1,10 @@
+原 被告 1990年 下半年 经人介绍 相识 确立 恋爱 关系 1991年 农历 2月 14日 举行 结婚 仪式 共同 生活 1992年 11月 4日 办理 结婚 登记 手续
+O O B_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time O B_Marry O O
+婚后 育 女 孙旭 子 孙铁铮 现 二 人均 已 成年
+O B_Bear B_Gender B_Name B_Gender B_Name O O O O O
+婚后 共同 生活 期间 原 被告 琐事 发生 激烈 争吵 每次 吵架 被告 总是 砸 家里 物品
+O O O O O O O O O B_FamilyConflict O B_FamilyConflict O O O O O
+无 休止 争吵 导致 原 被告 矛盾 加深
+O O O O O O B_FamilyConflict O
+2017年 6月份 原、被告 感情 不 分开 居住 原被告 协商 离婚 事宜 协商 未果 没有 办理 协议 离婚 手续
+O O O O O B_Separation I_Separation O O O O O O O O O O O

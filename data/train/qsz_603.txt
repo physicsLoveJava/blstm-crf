@@ -1,0 +1,8 @@
+原 被告 1985 经人介绍 相识 确立 恋爱 关系 期间 原 被告 发生 矛盾 众人 劝解 下 勉强 举行 结婚 仪式 1986年 10月份 农历 共同 生活 结婚 后 生育 长女 许丽丽 现年 31 岁 1989年 生育 长子 许海旺
+O O B_Time O B_Know O B_BeInLove O O O O O O O O O O O O O O O O O O O O B_Bear B_Gender B_Name O B_Age I_Age B_Time B_Bear B_Gender B_Name
+1988年 12月 30日 补领 结婚证
+O O O O B_Marry
+没有 换 被告 体贴 被告 还 找茬 原告 生气 吵架 致使 原告 多年 辛苦 劳作 落 下 满身 疾病 长期 服药 现 无法 从事 劳作
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O
+被告 付 治病 费用 还 不 满足 原告 治病 要求 不得 女儿 处 借款 治病 被告 不仅 不 体谅 原告 还 长期 原告 分居 十 年 久
+O O O O O O O O O O O O O O O O O O O O O O O B_Separation B_Duration I_Duration O

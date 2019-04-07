@@ -1,0 +1,12 @@
+原告 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+2011年 3月 22日 民政部门 登记 结婚 婚后 无 子女
+B_Time I_Time I_Time O O B_Marry O O O
+导致 婚后 矛盾 不 断 二 人 小事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+被告 酗酒
+B_Person B_BadHabit
+酒后 乱 发 脾气 摔 砸 家里 东西 辱骂 殴打 原告 导致 原告 伤痕 累累 原告 已经 二 次 婚姻 珍惜
+O O O O O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O
+现 双方 吵架 分居 已 数 月 间 无 夫妻 义务 夫妻 感情 荡然无存
+O O O B_Separation O B_Duration I_Duration O O O O O O O

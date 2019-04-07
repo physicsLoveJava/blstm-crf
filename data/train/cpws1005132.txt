@@ -1,0 +1,4 @@
+2 依法 分割 夫妻 共同 财产
+O O O O B_CommonProperty I_CommonProperty
+3 原 被告 居住所 内 电器 家具 日用品 原告 所有
+O O O O O B_Wealth B_Wealth B_Wealth O O

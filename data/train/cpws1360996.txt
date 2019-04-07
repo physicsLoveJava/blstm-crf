@@ -1,0 +1,6 @@
+原 告诉 称 近 年 被告 原告 缺少 关心 双方 生活 琐事 产生 矛盾 感情 破裂 分居
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 曾 起诉 要求 离婚 法院 判决 驳回 原告 诉讼 请求 后 双方 分居
+O O O O O O O O O O O O O B_Separation
+被告 辩称 被告 家庭 责任 双方 婚姻 出现 矛盾 主要 原因 原告 异性 保持 不 正当 关系 夫妻 感情 未 破裂 不 同意 离婚
+O O O O O O O O O O O B_Person B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O

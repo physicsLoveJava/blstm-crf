@@ -1,0 +1,6 @@
+原告 朱 某某 诉称 被告 2008年 正月经 登记 结婚 婚后 夫妻 感情 生育 男孩 朱某甲 现年 四 岁
+O O O O O B_Time I_Time O B_Marry O O O B_Bear B_Gender B_Name O B_Age I_Age
+2010年 3月 被告 感情 不 夫妻 分居 2012年 3月 曾 法院 起诉 离婚 后撤诉
+B_Time I_Time O O O O B_Separation B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit O
+被告 李 某某 辩称 原 结婚 后 原告 去 原告 部队 生活 段 时间 怀孕 回家 孩子 出生 后 原告 夫妻 分居 今
+O O O O O O O O O O O O O O O O O O O O O B_Separation I_Time

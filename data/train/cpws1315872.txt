@@ -1,0 +1,20 @@
+原告 张 某某 诉称 2003年 5月 原 被告 山东省 德州市 打工 期间 认识 后 建立 恋爱 关系 同年 12月 同居 生活
+O O O O B_Time I_Time O O O O O O B_Know O O B_BeInLove O O O O O
+2004年 2月 双方 被告 家里 生活 同年 7月 20日 生育 女 严某 乙 同年 9月 8日 筠连县 维新镇 民政办 办理 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O O O B_Marry O O
+婚后 原 被告 常 家庭 生活 琐事 发生 争吵
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2006年 5月 广东 务工 被告 分居 生活
+O B_Time I_Time O O O B_Separation O
+2008年 原告 筠连县 人民法院 起诉 要求 被告 离婚
+B_Time O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2009年 5月 6日 筠连县 人民法院 作出 2008 筠连民 初字 第510 号 民事 判决书 判决 不准 予原 被告 离婚
+B_Time I_Time I_Time O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+后 原告 回 云南 老家 居住 双方 分居 今
+O O O O O O O B_Separation O
+原告 认为 双方 分居 多年 夫妻 感情 确 已 破裂 遂 筠连县 人民法院 提出 离婚 诉讼 要求 判 令 原 被告 离婚
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O
+原告 应 2009年 城镇 居民 标准 支付 婚生 女 严某 乙 抚养费 450 元／月 至年 满 18 周岁 时 止
+O O O O O O O B_Bear B_Gender B_Name I_Name O O O O O O O O O
+3 被告 治疗 双眼 视网膜 脱落 期间 内 亲友 信用社 贷款 共计 欠 下 47568 元 款 原 被告 平均 负担
+O O O O O O O O B_Person I_Person O O B_Debt O B_Price I_Price O O O O O

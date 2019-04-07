@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 认识 2008年 12月 5日 宝塔区 民政局 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+2010年 7月 16日 原 被告 生 女 取名 刘某甲
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name
+原 被告 婚前 缺乏 了解 双方 学识 生活 环境 生活 习惯 不同 婚后 被告 家庭 琐事 原告 发生 争吵 打闹
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+原告 认为 被告 感情 彻底 破裂 诉至法院 请求 法院 依法 判 令 1 解除 原 被告 婚姻 关系
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

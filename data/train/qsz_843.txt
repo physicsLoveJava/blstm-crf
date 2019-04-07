@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2005年 3月份 农村 习俗 举行 结婚 仪式 2005年 8月 1日 生自子 取名 王宇月 2007年 12月 11 门 补办 结婚 登记 手续
+O O O B_Know B_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear O B_Name B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚后 未 建立 真挚 夫妻 感情 状 邛事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+现 双方 分居 半 年 久 毫无 夫妻 感情 可言
+O O B_Separation B_Duration I_Duration O O O O O

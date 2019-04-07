@@ -1,0 +1,6 @@
+原告 李 某某 诉称 原 被告 经人介绍 认识 2009年 办理 结婚 登记 手续
+O O O O O O O B_Know B_Time O B_Marry I_Marry O
+婚后 生育 三 孩子
+O B_Bear O O
+婚后 双方 生气 吵架 被告 外 第三者 同居 原告 实施 家庭 暴力 殴打 原告 导致 夫妻 感情 彻底 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Derailed I_Derailed I_Derailed I_Derailed O O B_DomesticViolence I_DomesticViolence O B_Person O O O O O

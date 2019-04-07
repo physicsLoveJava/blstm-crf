@@ -1,0 +1,14 @@
+原告 陈某 起诉 称 1982年 原告 12 岁 时 父母 作 主许 配给 被告 ×××× 年×× 月×× 日经 政府部门 登记 结婚
+O O O O B_Time O O O O O O B_Know I_Know O B_Time I_Time I_Time I_Time O B_Marry I_Marry
+×××× 年×× 月×× 日 生育 女 取名 李某 丁 现年 23 岁
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+×××× 年×× 月×× 日 生育 子 取名 李某 戊 现年 15 岁
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+原 被告 生育 子 女 夫妻 长 时 吵架 生活 中 被告 不 履行 家庭 义务 经济 上 不 分文 家庭 子女 不 负 责任 有时 赌博 还 原告 实施 家庭 暴力
+O O O O O O O O B_FamilyConflict O O B_Person O O O O O O O O O O O O O O B_BadHabit O B_Person O B_DomesticViolence I_DomesticViolence
+原被告 2011年 1月 1日 分居 今 分居 之前 曾 分居 3 年 生活 中 协议 离婚 现 原告 法院 起诉 请求 判 令 1 准予 原告 被告 离婚
+O B_Time I_Time I_Time B_Separation I_Time O O O B_Separation B_Duration I_Duration O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+被告 原告 发生 吵架 次数 不
+O O O B_FamilyConflict O O
+被告 没有 赌博 没有 原告 实施 家庭 暴力
+O B_BadHabit I_BadHabit B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

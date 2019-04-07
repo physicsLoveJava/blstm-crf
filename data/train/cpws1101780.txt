@@ -1,0 +1,10 @@
+原告 许某 甲诉 称 原被告 2004年 相识 2004年 8月 登记 结婚
+B_Person O O O O B_Time B_Know B_Time I_Time B_Marry I_Marry
+2005年 育 婚生 男孩 许某 2013年 3月 育 婚生 男孩 许 浩某
+B_Time B_Bear O B_Gender B_Name B_Time I_Time B_Bear O B_Gender B_Name I_Name
+原被告 婚姻 关系 存续 期间 被告 不尽 妻子 母亲 义务 被告 原告 母亲 进行 殴打
+O O O O O O O O O O B_Person B_Person I_Person O B_DomesticViolence
+被告 家庭 琐事 原告 亲属 发生 激烈 争吵 致使 家庭 和谐 荡然无存
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+维护 原告 合法 权益 请求 依法 调解 判决 原被告 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

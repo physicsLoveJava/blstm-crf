@@ -1,0 +1,2 @@
+原告 崔某 诉称 2000年 原被告 经人介绍 相识 2000年 农历 腊月二十 原被告 民间 习俗 进行 结婚 典礼 仪式 ×××× 年×× 月××日 原被告 大宾乡 民政所 办理 结婚 登记 手续 2003年 6月 8日 儿子 樊秀臣 出生 2007年 6月 30日 女儿 樊英 出生
+O O O B_Time O O B_Know O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Gender B_Name B_Bear B_Time I_Time I_Time B_Gender B_Name B_Bear

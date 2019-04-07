@@ -1,0 +1,6 @@
+原告 芦某 诉称 原 被告 双方 2011年 11月 被告 表弟 弥某 介绍 相识 2012年 4月 27日 登记 结婚
+O O O O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time O B_Marry
+婚后 原告 发现 被告 称 工作 收入 均 事实 不符
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 原告 隐瞒 生理 缺陷 原告 劝 被告 检查 治疗 被告 未 去 治疗 致 夫妻 感情 破裂 原告 诉至法院 要求 1 解除 二 人 夫妻 关系
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DivorceLawsuit O O O O O O O

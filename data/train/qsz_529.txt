@@ -1,0 +1,2 @@
+2017年 3月 23日 经人介绍 相识 确立 恋爱 关系 2017年 3月 27日 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry

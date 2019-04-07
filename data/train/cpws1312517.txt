@@ -1,0 +1,8 @@
+原告 杨某 诉称 郭某 2012年 1月 5日 登记 结婚 婚前 了解 不够 婚后 发现 双方 性格 严重 不和 生气 打架 母亲 不 尊重
+O O O O O O O O B_Marry O O O O O O O O O O O O O O
+使 身心 处于 压抑 状态 严重 伤害 感情 认为 夫妻 感情 确 已 破裂 无法 共同 生活
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+院 起诉 请 法院 依法 判决 离婚
+O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 郭某 辩称 原告 说 都 不 事实 2011年 9月 13日 认识 时间 不 长 见 家长 母亲 催 结婚 认为 挺 共同语言 12月 25日 订婚 2012年 1月 5日 登记 结婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Marry

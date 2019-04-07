@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 原 被告 婚前 相互 了解 少 感情 基础 差 婚后 常 生活 琐事 吵架 夫妻 感情 破裂
+B_Person I_Person I_Person O O O O O O O O O O O O O O B_FamilyConflict O O O
+要求 判决 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+房子 原告 所有 财产 被告 意愿 分配
+B_Wealth B_Person O O O O O
+被告 名下 存款 被告 支配
+B_Wealth I_Wealth I_Wealth B_Person O

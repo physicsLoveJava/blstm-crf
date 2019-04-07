@@ -1,0 +1,16 @@
+原 告诉 称 被告 经人介绍 2006年 9月 5日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2007年 5月 29日 生育 女孩 王某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 才 知道 被告 好 赌 上网 玩 游戏 家 没有 点 责任心 好言 相劝 换 冷酷 无情
+O O O O O O B_Person B_BadHabit I_BadHabit B_BadHabit I_BadHabit I_BadHabit O B_BadHabit I_BadHabit I_BadHabit O O O O O
+2013年 6月份 被告 控制 人身自由 双方 发生 矛盾 后 回 娘门 居住 今
+B_Time I_Time O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O B_Separation I_Separation I_Separation I_Time
+被告 感情 已经 破裂 无法 再 被告 生活 一起
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+请求 被告 离婚 抚养 女孩 王某 甲 被告 承担 抚养费 合理 分割 财产
+O O B_DivorceLawsuit O O O O O O O O O O
+被告 辩称 不 同意 原告 离婚
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 所述 不 事实 原告 好 现在 孩子 只 6 岁 孩子 坚决 不 同意 离婚
+O O O O I_FamilyConflict I_FamilyConflict O O O B_Age I_Age O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

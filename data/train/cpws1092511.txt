@@ -1,0 +1,8 @@
+原告 范 某某 诉称 原告 范 某某 被告谭 某某 2007年 2月 相识 2007年 4月 28日 同居 生活 2008年 9月 2日 登记 结婚 2009年 6月 2日 生育 女 谭某
+O O O O O O O O O B_Time I_Time B_Know O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name
+双方 婚前 缺乏 了解 婚后 才 发现 被告 脾气 暴躁 好逸恶劳 赌博 夜 不 归宿
+O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2011年 12月 23日 被告谭 某某 沾染 吸毒 恶习 屡教不改 恐吓 原告 娘家 亲人
+O O O B_Person O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+夫妻 共同 债务 被告 谭 某某 做 生意 谭 X 借款 6000 元 谭 XX 借款 10000 元 合计 16000 元
+O O O O O O O O O O B_Debt B_Price I_Price O O B_Debt B_Price I_Price O O O

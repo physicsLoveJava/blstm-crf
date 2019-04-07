@@ -1,0 +1,4 @@
+原告 鲁某 诉称 原 被告 2007年 3月 相识 2008年 确立 恋爱 关系 2009年 9月 双方 准备 结婚 时 原告 获悉 被告 婚史 前 妻 育 女 无奈 当时 怀 4 月 身孕 同月 9日 被告 登记 结婚 2010年 4月 18日 生 子 钟某 乙
+O O O O O B_Time I_Time B_Know B_Time O B_BeInLove O O O O O O O O O O O O O O O O O O O O O B_Time I_Time O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原告 认为 原 被告 婚前 缺乏 了解 被告 原告 隐瞒 婚史 婚姻 感情 脆弱 婚后 价值观 生活 习惯 不同 矛盾 重重 被告 婚后 婚姻 不忠 表现 原告 认为 再 难 被告 维持 婚姻 关系 请求 法院 依法 判决 原 被告 离婚 婚生 儿子 钟某 乙 跟随 原告 生活 被告 每月 支付 抚养费 依法 分割 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O

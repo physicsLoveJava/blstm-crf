@@ -1,0 +1,10 @@
+原 告诉 称 ×××× 年×× 月 原 被告 登记 结婚
+O O O B_Time I_Time I_Time O O O B_Marry
+×××× 年×× 月×× 日 生育 女 潘某乙
+B_Time I_Time I_Time I_Time B_Bear O B_Name
+2006年 7月 5日 原 被告 登记 离婚 ×××× 年×× 月××日 原 被告 登记 结婚
+O O O O O O O B_Time I_Time I_Time O O O B_Marry
+原告 认为 原 被告 共同 生活 期间 性格 志趣 差异 大 夫妻 感情 不合 诉请 判 令 原 被告 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+原告 要求 离婚 原告 外遇
+B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed

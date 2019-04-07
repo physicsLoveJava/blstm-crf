@@ -1,0 +1,4 @@
+原告 叶某 诉称 原被告 ×××× 年×× 月××日 海珠区 洪德 居委 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 女儿 取名 某乙 现 司法 学校 读 大专
+O O O O O O O O O O O B_Marry O O O O O O B_Bear B_Gender O I_Name O O O O O
+婚后 原被告 感情 尚 好 共同 生活 被告 吸毒 判刑 1996年 判刑 2002年 出狱
+O O O O O O O B_Person I_BadHabit I_BadHabit O O O O

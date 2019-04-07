@@ -1,0 +1,2 @@
+原告 耿 某某 诉称 婚后 被告 常 家庭 琐事 发生 吵闹 被告 女人 交往 甚 密 双方 复婚 后 矛盾 仍 不断 激化 致使 心灰意冷 现 被告 外 租房 住 被告 之间 感情 已 彻底 破裂 坚决 要求 离婚 抚养 婚生 女儿 翟靖如 被告 每月 支付 孩子 抚养费 800 元
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O B_Bear B_Gender B_Name O O O O O O O

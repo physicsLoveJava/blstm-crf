@@ -1,0 +1,14 @@
+原 告诉 称 原被告 2010年 元月 人 介绍 后 仅 两三 天 办理 结婚 登记 手续
+O O O O B_Time O O B_Know O O B_Time I_Time O B_Marry I_Marry I_Marry
+原告 婚前 女 陈某琳 2001年 3月 出生 被告 视为 异类 滚 不许 原告 孩子 买 衣 买 吃 东西 由此 原告 遭受 被告 打骂
+O O O O O O O B_Person O O I_DomesticViolence O O O O O O O O O O O O B_DomesticViolence
+近 天 被告 不准 原告 母女 回家 居住
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 疑心 重 无端 猜疑 原告 不 正当 关系
+O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O
+2010年 7月 原被告 出资 有庆镇 街道 杨书仁 签订 ldquo
+O O B_Person O O O O O O
+分得 XX 镇 XX 社区 XXXXX 房屋 门市 建筑 面积 166．08 平方米
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O
+原被告 认识 短 婚后 家庭 不 和睦 被告 长期 暴力 打骂 原告 致使 夫妻 感情 确 已 破裂 起诉 要求 被告 离婚
+O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

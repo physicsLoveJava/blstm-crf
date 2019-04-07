@@ -1,0 +1,10 @@
+原 被告 2014年 7月份 确立 恋爱 关系
+O O B_Time I_Time O B_BeInLove O
+2015年 12月 25日 | | 天津市 武清区 民政局 办理 结婚 登记
+B_Time I_Time I_Time O O O O O O B_Marry O
+婚后 二 人 2016年 12月 14 | 日 生育 子 取名 刘圣恩
+O O O B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+结婚 后 感情 基础 薄弱 原被告 双方 总是 家庭 事 争吵 越 吵 越 凶
+O O O O O O O O O O B_FamilyConflict O O O O
+原告 I 被告 2017年 8月份 已 分居 生活 被告 搬 娘家 居住
+O O O B_Time I_Time O B_Separation O O O O O

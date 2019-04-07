@@ -1,0 +1,2 @@
+原告 周 某某 诉称 原 被告 双方 1985年 3月 14日 登记 结婚 后 2012年 12月 21日 重新 办理 结婚证 育 子 陆某 甲 现 已 成年
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O B_Bear B_Gender B_Name I_Name O O O

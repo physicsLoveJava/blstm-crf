@@ -1,0 +1,6 @@
+2016年 初 双方 确立 恋爱 关系
+B_Time I_Time O B_BeInLove I_BeInLove I_BeInLove
+2017年 9月 27日 登记 2017年 10月 初 共同 生活
+B_Time I_Time I_Time B_Marry O O O O O
+今年 9月 初 被告 外遇 原告 母亲 谈话 再 物品 悉数 拿走 消失 电话 不 接
+O O O B_Person B_Derailed O O O O O O O O O O O

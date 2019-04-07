@@ -1,0 +1,6 @@
+原告林 A 诉称 原告 离异 女性 2010年 1月 告 嫂 被告 相识 交往 三 月 时间 后 双方 确立 恋爱 关系 2010年 3月 3日 湖南省 浏阳市 大瑶镇 人民政府 登记 结婚
+B_Person I_Person B_DivorceLawsuit O O O B_Time I_Time O O O B_Know O O O O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time O O O O B_Marry I_Marry
+婚后 双方 生活 习惯 相差 甚 远 被告 原告 家人 缺少 关心 散布 谣言 中 伤 原告 导致 双方 未 建立 牢固 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+被告 陈 A 辩称 原 被告 2005年 已经 相识 被告 原告 家人 应 义务 被告 还 原告 购买 保险
+O O O O O O B_Time O B_Know O O O O O O O O O O

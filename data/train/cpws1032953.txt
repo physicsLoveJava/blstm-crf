@@ -1,0 +1,4 @@
+原告 赵某 诉称 原告 被告 2010年 8月 人 介绍 相识 同年 12月 1日 举行 结婚 仪式 2011年 2月 24日 宁县 早胜镇 人民政府 补办 结婚 登记 2011年 9月 1日 生育 男孩 李某 甲 现 被告 父母 生活
+O O O O O B_Time I_Time O O B_Know O B_Time I_Time O B_Marry O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+被告 喝酒 喝 完 酒 原告 实施 殴打 吵闹 现 夫妻 感情 已 破裂 请求 法院 判 令 原被告 离婚 原告 抚养 男孩 李某 甲 被告 承担 抚养费
+B_Person O O O O B_Person O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O

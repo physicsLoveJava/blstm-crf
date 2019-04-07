@@ -1,0 +1,10 @@
+原告 刘某 诉称 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月××日 被告 生育 女儿 张某 乙 ×××× 年×× 月×× 日 生育 女儿 张某丙 ×××× 年×× 月×× 日 生育 儿子 张某丁
+B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 感情 最近 年 被告 外遇 赌博 殴打 原告 原因 致使 夫妻 感情 彻底 破裂
+O O O O O B_Person B_Derailed I_BadHabit B_DomesticViolence B_Person O O O O O O
+此前 已 两 次 法院 提起 离婚 诉讼 法院 均 判决 不准 双方 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment O O
+认为 双方 夫妻 关系 已经 有名无实 请求 判决 原 被告 离婚 女儿 张某丙 儿子 张某丁 抚养 被告 每月 支付 生活费 人民币 1500 元 不 包括 教育费 医疗费 夫妻 共同 财产 苏州市 吴中区 木渎镇 翠坊南街 幢 某室 房屋 处 车牌号 苏 E ×× 小型 轿车 辆 依法 分割 取得
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O

@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2009年 11月 6日 办理 结婚 登记 手续 2011年 2月 21日 生育 女 取名 张明月
+O O O O B_Time I_Time I_Time O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 双方 性格 不合 生气 吵架 2017年 7月 分居 今
+O O O O B_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation O

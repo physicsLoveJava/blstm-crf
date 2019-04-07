@@ -1,0 +1,12 @@
+原 被告 -2013 年 9月 经人介绍 相识 炸 建立 恋爱 关系 2013年 I1 月 21口 办理 结婚 登记 同居 生活
+O O B_Time I_Time I_Time O B_Know O O B_BeInLove O B_Time I_Time I_Time I_Time O B_Marry O O O
+2014年 1月 举办 结婚 仪式
+B_Time I_Time B_Marry I_Marry I_Marry
+原 被告 均 系 再婚 婚后 尤 子女
+B_Person I_Person O O B_Remarry O O O
+2015年 7月 原 告诉 天津市 武清区 人民法院 请求 离婚 2015年 8月 31口 天津市 武清区 人民法院 判决 驳回 原告 离婚 请求
+B_Time I_Time B_Person B_DivorceLawsuit B_Court I_Court I_Court O O B_Time I_Time I_Time O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+2018年 2月 23L 被告 酒后 滋事 原告 离开 住所 原 被告 分居 牛活
+B_Time I_Time I_Time O O O O O O O O B_Separation O
+上 被告 每日 酗酒 酒后生非
+O B_Person O B_BadHabit B_BadHabit

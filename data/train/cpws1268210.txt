@@ -1,0 +1,16 @@
+原告 郭某 甲诉 称 被告 媒人 介绍 认识 双方 父母 包办 情况 下 定亲 于×××× 年×× 月××日 办理 结婚 登记 手续 同年 农历 11月 10日 乡俗 举行 典礼 仪式
+O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O
+×××× 年×× 月××日生 女孩 取名 郭某乙 被告 2010年 农历 9月 5日 抛弃 不 满 年 孩子 至今 我家 抚养 放弃 母亲 女儿 抚养 义务
+B_Time I_Time B_Bear O O B_Name O O O O O O O O O O O O O O O O O O
+2010年 农历 11月 29日 被告 孩子 倒 开水 动作 稍 慢 些 被告 破口 大 骂 言语难 听 不堪入耳
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原前 曾 家务 琐事 发生 口角
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+×××× 年×× 月××日 晚上 被告 家人 家里 结婚 时 现有 财产 物品 私自 拉 走 致使 夫妻 无法 共同 生活 使 夫妻 感情 走 彻底 破裂 地步
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 2010年 11月 21日 离开 我家 后 私自 东西 拉 走 没 天 外出 打工 今 至今 满 两 年 分居 时间
+O B_Time I_Time I_Time O O O O O O O O O O O O O O O O B_Separation I_Separation
+说明 夫妻 感情 完全 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 10月 21日 判决 不 准 离婚 2012年 11月 22日 人民法院 提起 离婚 诉讼 请求 法院 依法 判 令 原 被告 离婚
+O O O O O O O B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

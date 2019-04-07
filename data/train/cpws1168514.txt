@@ -1,0 +1,10 @@
+原告 段某 诉称 原告 被告 相识 后 2006年 5月 16日 登记 结婚
+O O O O O O O O O O O B_Marry
+婚后 2008年 5月 23日 生育 子 段 某某
+O B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+双方 性格 不合 婚后 长 时间 分居 夫妻 感情 已 完全 破裂
+O O O O O O B_Separation B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告特 诉请 法院 判决 准予 原 被告 离婚
+O B_DivorceLawsuit O O O O O O
+被告 杨某 辩称 原 告 之间 自由 恋爱 才 结婚 感情 基础 婚后 家庭 经济 儿子 抚养 问题 共同 努力 感情 未 破裂
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,10 @@
+原告 陶某 甲 起诉 称 原 被告 2002年 11 人 6日 登记 结婚 婚后 生育 子 取名 陶 乙 现年 十一 岁
+B_Person O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+婚后 被告 认为 原告 女 同志 暧昧 双方 为此 发生 争吵
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+特别 近 两 三 年 原 被告 双方 出现 吵架 打架 感情 出现 明显 裂痕
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+今年 四月 原告 外 租房 居住 分居 今
+B_Time I_Time O I_Separation I_Separation I_Separation O I_Duration
+现 请求 判 令 请求 判 令 准许 原 被告 离婚
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

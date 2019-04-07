@@ -1,0 +1,10 @@
+原告 被告 2014年 11月 网络 聊天 相识 后 建立 恋爱 关系 2015年 8月 10日 玉田县 民政局 办理 登记 结婚
+O O B_Time I_Time O O B_Know O O B_BeInLove O B_Time I_Time I_Time O O O O B_Marry
+双方 婚前 缺乏 了解 婚后 琐事 吵架
+O O O O O O B_FamilyConflict
+被告 脾气 暴躁 殴打 辱骂 原告 原告 施 家庭 暴力 原告 伤 原告 身体 精神 造成 巨大 伤害
+B_Person B_BadHabit I_BadHabit B_DomesticViolence I_DomesticViolence B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O
+2018年 2月 底 被告 医院 辱骂 原告 原告 带 孩子 回 娘家 居住 今 双方 分居 生活 今 互不 履行 义务
+B_Time I_Time O O O B_FamilyConflict O O O O B_Separation I_Separation I_Separation I_Time O B_Separation O O O O O
+双方 婚后 生育 子 莫 浩轩 2016年 2月 21日 出生 原告 看护 原告 感情 深厚 原告 共同 生活 健康 成长 有利 被告 父母 身体 欠佳 无法 帮忙 照顾 莫浩轩
+O O B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O

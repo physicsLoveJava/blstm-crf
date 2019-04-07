@@ -1,0 +1,6 @@
+原告 石某 诉称 被告 经人介绍 2007年 8月 底 相识 同年 9月 13日 登记 结婚 2009年 1月 13日 生 男孩史 甲 现 3 岁
+B_Person O O O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender I_Name B_Age I_Age I_Age
+被告 均 属 再婚 婚前 了解 不 草率 结婚 双方 没有 感情 基础 共同 生活 后 才 发现 性格 不和 被告 争吵 怀孕 期间 还 打架 不 顾及 感受 曾 要求 离婚 考虑 再 婚强 压 忍耐 2012年 8月 被告 争吵 后 回 娘家 分居 认为 夫妻 之间 感情 完全 破裂 无 好 特 起诉 离婚 要求 取回 陪嫁品 分割 夫妻 共同 财产 时风牌 拖拉机 1 辆 东屋 1 处 小麦 2600 斤 婚生 男孩 原告 抚养 被告 负担 抚养费
+B_Person O O B_Remarry O O O O O O O O O O O O O O O O O B_FamilyConflict O O O I_FamilyConflict O O O O O O O O O O O B_Time I_Time O O O O O B_Separation O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O
+二 答辩 人 诉 时风牌 拖拉机 东 屋 1 处 不 属于 夫妻 共同 财产 答辩 人 史某 父母 财产 不 依法 分割
+O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Negated I_Negated O O O O O O O O O O O

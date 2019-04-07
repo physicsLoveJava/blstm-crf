@@ -1,0 +1,6 @@
+原告 毛某 起诉 称 原 被告 2003年 6月 2日 办理 结婚 登记 ×××× 年×× 月×× 日 生育 子 李某 乙
+O O O O O O O O O O B_Marry I_Marry O O O O B_Bear O O O
+被告 无 正当 职业 长年 不 在家 被告置 家庭 不顾 脾气 暴躁 酗酒 恶习 无故 殴打 原告 双方 已 分居 达 三 年 现 夫妻 感情 已 彻底 破裂 请求 依法 判 令 原 被告 离婚
+O O O O O O O B_Person I_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit B_Time I_Time B_DomesticViolence O O O O O O O O O O O O O O O O O O O
+坐落 平阳县 ××××镇 ×× 办事处 ×× 村×× 岙×× 号 房屋 前进 村 亩 田地 系 夫妻 共同 财产 应 依法 分割
+O O O O O O O O O O O O I_Wealth O O B_Wealth I_Wealth I_Wealth O B_CommonProperty I_CommonProperty

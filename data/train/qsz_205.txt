@@ -1,0 +1,4 @@
+原被告 2006年 9月 经人介绍 相识 2006年 12月 19日 领取 结婚 证书 共同 生活 2008年 5月 22日 生育 子 取名 穆怀排
+O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 矛盾 不 断 生育 孩子 后 双方 没有 改善 孩子 有利 成长 原告 始终 隐忍 被告 暴力 行为 无奈 被告 丝毫 没有 收敛 变本加厉 近日 更 持械 殴打 原告
+O B_FamilyConflict O O O O O O O O O O O O O O O B_DomesticViolence O O B_Person O O O O O O O B_DomesticViolence B_Person

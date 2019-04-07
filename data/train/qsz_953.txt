@@ -1,0 +1,10 @@
+原被告 系 自由 恋爱 同居 生活
+O O B_BeInLove I_BeInLove O O
+2009年 9月 22日 依法 补办 结婚 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+2003年 5月 14日 生长 女 沈鑫瑶
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 长期 共同 生活 中 性格 不和 琐事 生气 吵架 导致 夫妻 感情 已 彻底 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O O O O O
+2017年 2月份 被告 分居 长 达 年 半 左右
+B_Time I_Time O B_Separation O O I_Duration I_Duration I_Duration

@@ -1,0 +1,6 @@
+结婚 1994年 10月 20日 生 子 取名 杨 某某
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 被告 常常 理由 娘家 生活 家庭 不 负 责任 原 被告 为此 争吵 观念 差别 大 矛盾 激化 夫妻 感情 受到 伤害 夫妻 感情 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+被告 娘家人 搅合 原告 家庭 事务 教 唆杨 某某 父亲 关系 不 睦
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

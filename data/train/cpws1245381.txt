@@ -1,0 +1,6 @@
+原告 石某 诉称 原 被告 2004年 2月 相识 确立 恋爱 关系 2005年 生育 子 取名 石某 乙 2005年 12月 7日 办理 结婚 登记 手续
+O O O O O B_Time I_Time B_Know O B_BeInLove O B_Time B_Bear O O B_Name I_Name B_Time I_Time I_Time O B_Marry O O
+原 被告 婚后 性格 不合 常 家庭 琐事 角孽 吵架 原告 曾 2012年 5月 法院 起诉 要求 被告 离婚 法院 2012年 5月 25日 判决 驳回 原告 诉讼 请求
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O
+之后 原 被告 不 搞好 夫妻 关系 分居 今
+O O O O O O O B_Separation O

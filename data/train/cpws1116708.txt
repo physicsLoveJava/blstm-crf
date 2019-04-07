@@ -1,0 +1,2 @@
+原 被告 性格 不合 生活 琐事 争吵 夫妻 感情 已 破裂 原告 曾 2012年 法院 起诉 离婚 法院 2012年 10月 15日 判决 不 准 离婚
+O O O O O O B_FamilyConflict O O O O B_Person O B_Time O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O B_Judgment I_Judgment O

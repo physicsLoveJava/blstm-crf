@@ -1,0 +1,8 @@
+原告 严 某某 诉称 2003年 原告 被告 广东 打工 时 相识 恋爱 2005年 11月 7日 登记 结婚 2007年 11月 8日 生育 男孩 毛某甲
+O O O O B_Time O O O O O B_Know O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+2010年 被告 外 时常 发生 麻烦事 威及 家人 人身 安全
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 女人 往来 传 原告 耳中 原告 曾 劝说 被告 珍惜 夫妻 感情 被告 不予 理睬
+B_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O
+2012年 11月 22日 原告 法院 起诉 要求 被告 离婚 法院 判决 不 准 离婚
+O O O B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

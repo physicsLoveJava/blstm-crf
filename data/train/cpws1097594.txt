@@ -1,0 +1,2 @@
+原告 李某 甲诉 称 原 被告 ×××× 年×× 月×× 日经人介绍 登记 结婚 婚后 双方 未 建立 真正 夫妻 感情 双方 分居 生活 今 和解 双方 始终 未能 好 至此 夫妻 感情 已 彻底 破裂 原告 2012年 7月 起诉 贵院 要求 离婚 贵院 认为 夫妻 关系 维持 ×××× 年×× 月××日 判决 不 准 离婚 夫妻 感情 确 已 破裂 段 时间 仍 无法 好
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O O O B_Separation I_Separation O O O O O O O O O O O O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Time I_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O

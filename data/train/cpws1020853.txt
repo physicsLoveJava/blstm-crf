@@ -1,0 +1,12 @@
+原 告诉 称 原被告 媒人 丁某 甲 丁乙 介绍 双方 短暂 接触 后 便 草率 成婚 办理 结婚 登记 手续
+O O O O O O O O O O O O O O O B_Marry O O O O
+婚后 被告 不仅 好吃懒做 好逸恶劳 金钱 需要 控制 欲 极 强
+O O O B_BadHabit I_BadHabit O O O O O O
+原告 上海 务工 期间 被告 无所事事 常常 原告 索要 现金 当月 开销 太 大 原告 手中 无 钱 被告 强迫 原告 娘家 钱 钱 供 挥霍
+O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O
+原告 不 被告 原告 实施 殴打 继续 强迫 原告 娘家 钱
+O O B_Person B_Person O B_DomesticViolence O O O O O
+长期 原告 实在 无法 忍受 这种 非 正常 婚姻 生活 便 被告 分居
+O O O O O O O O O O O O B_Separation
+结婚 当时 原告 陪嫁 辆 价值 人民币 10万 元 晶石黑 颜色 雪 佛 牌 小轿车 被告 强行 扣押 父亲 开 走
+O O B_Person O O O O B_Price I_Price O O B_Wealth I_Wealth I_Wealth I_Wealth O O O O O O

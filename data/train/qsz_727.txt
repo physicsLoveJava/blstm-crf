@@ -1,0 +1,4 @@
+原告 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+1994年 经人介绍 双方 相识 一起 生活 2014年 6月 3日 当地 民政部门 登记 结婚 婚后 无 子女
+B_Time O O B_Know O O B_Time I_Time I_Time O O B_Marry I_Marry O O O

@@ -1,0 +1,8 @@
+原告 徐 某某 诉称 被告 经人介绍 相识 2010年 2月 3日 登记 结婚 2010年 10月 15日 生育 女孩 徐艺玮
+O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 没有 感情 基础 婚后 性格 不合 被告 原告 孩子 不管 不顾 2012年 6月 6日 回 娘家 居住 夫妻 感情 彻底 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_Separation I_Separation I_Separation O O O O
+被告 至今 未 回家 现 双方 夫妻 感情 已 完全 破裂 无 好
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 原告 诉至法院 要求 被告 离婚
+O B_Person B_DivorceLawsuit O O O

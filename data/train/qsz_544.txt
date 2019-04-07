@@ -1,0 +1,18 @@
+原告 被告 1993年 初 经人介绍 相识 确立 恋爱 关系
+O O B_Time O O B_Know O O O
+1993年 11月 30日 依法 取得 结婚证 确立 夫妻 关系
+B_Time I_Time I_Time O O B_Marry O O O
+被告系 再婚
+B_Person B_Remarry
+原告 被告 婚初 感情 尚 1994年 9月 20日 生子 高欢 后 夫妻 关系 出现 变化
+O O O O O B_Time I_Time I_Time B_Bear O O O O O O
+被告 性情 暴燥
+B_Person B_BadHabit I_BadHabit
+更有甚者 无端 怀疑 原告 不 正当 两性 关系
+O O B_Negated B_Person B_Derailed I_Derailed I_Derailed I_Derailed
+诉前 原 被告 经营 琐事 发生 口角
+O O O O O B_FamilyConflict I_FamilyConflict
+被告 原告 进行 辱骂 殴打 。
+B_Person B_Person O B_DomesticViolence I_DomesticViolence O
+原告 依法 提起 诉讼
+B_Person O B_DivorceLawsuit I_DivorceLawsuit

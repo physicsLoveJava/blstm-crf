@@ -1,0 +1,8 @@
+原告 被告 经人介绍 相识 2010年 11月 24日 民政部门 登记 结婚 婚后 育 子 冯 希硕
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name I_Name
+现年 7 岁
+O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 被告 双方 发生 口角 辱骂 动手 殴打 原告 还 为此 立下 保证书
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O
+被告 动手 殴打 原告
+B_Person O B_DomesticViolence B_Person

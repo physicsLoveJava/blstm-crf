@@ -1,0 +1,2 @@
+原告 张某 诉称 被告 媒人 介绍 认识 婚前 缺乏 了解 婚后 两 人 沟通 时间 少 双方 生活 中 吵闹 发现 被告 不 忠 行为 双方 感情 已经 破裂 特此 起诉 被告 离婚
+O O O O O O B_Know O O O O O O O O O O O O I_FamilyConflict O O B_Derailed I_Derailed I_Derailed O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

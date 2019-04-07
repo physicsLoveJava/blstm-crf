@@ -1,0 +1,6 @@
+原告 董某 诉称 2003年 5月 两 人 建立 恋爱 关系 2005年 1月 10日 登记 结婚 2005年 9月 4日 原告生 男孩 取名 徐某乙
+O O O B_Time I_Time O O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+刚 结婚 两 人 感情 尚 好 孩子 之后 两 人 争吵
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 8月份 被告 酗酒 无度 造成 脑溢血 原告 细心 照顾
+O O O B_BadHabit O O O O O O

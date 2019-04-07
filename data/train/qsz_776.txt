@@ -1,0 +1,4 @@
+原被告 2016年 12月份 蓟州区 渔阳镇 杨园子村 打工 时 相识 相处 段 时间 后 双方 感觉 好 确立 恋爱 关系 2017年 4月 24日 原被告 蓟县 民政局 领取 结婚证 共同 生活
+O B_Time I_Time O O O O O B_Know O O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry O O
+双方 共同 生活 期间 发现 性格 差异 大 生活 琐事 生气 吵架 导致 双方 一起 生活 痛苦
+O O O O O O O O O O O B_FamilyConflict O O O O O

@@ -1,0 +1,8 @@
+原告 高 某某 诉称 原告 被告 2000年 6月 13日 登记 结婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2004年 2月 6日 生育 儿子 计某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原告 系 四川人 婚前 被告 少 了解 草率 结婚 婚后 才 渐渐 了解 被告 知道 被告 恶习 最为 突出 赌博
+O O O O O O O O O O O O O O O O O O O B_BadHabit
+已 嗜赌 成性 执迷不悟 死 不 悔改 家 已 支撑 不 下去
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,8 @@
+原告 王 某某 诉称 被告石 某某 1994年 夏 经人介绍 认识 相识 建立 恋爱 关系 恋爱 期间 相处 好
+B_Person O O O O O B_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O
+双方 1994年 11月 3日 登记 结婚 婚后 初期 感情 尚 婚后 未 生育 子女 双方 1995年 家庭 琐事 发生 争吵
+O B_Time I_Time I_Time B_Marry I_Marry O O O O O B_Negated B_Bear I_Bear O O O O B_FamilyConflict I_FamilyConflict
+2012年 4月 双方 发生 争吵 被告石 某某 自家中 搬 出 双方 分居
+B_Time I_Time O B_FamilyConflict I_FamilyConflict O O O O O O B_Separation
+曾 2012年 10月 8日 贵院 起诉 要求 被告石 某某 离婚 贵院 作出 2012 市民 初字 第2733 号 民事 判决书 判决 不准 被告石 某某 离婚
+O B_Time I_Time I_Time I_DivorceLawsuit I_DivorceLawsuit O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

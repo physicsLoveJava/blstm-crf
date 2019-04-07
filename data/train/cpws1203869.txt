@@ -1,0 +1,10 @@
+原告 张 某某 诉称 原告 被告 2004年 8月 人 介绍 相识 2005年 2月 1日 双方 登记 结婚
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O B_Marry
+生育 儿 女
+B_Bear B_Gender B_Gender
+被告 生活 中 存在 酗酒 赌博 恶习 双方 性格 不合 原 被告 发生 纠纷 被告 原告 存在 家庭 暴力 行为
+B_Person O O O B_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+造成 原 被告 婚后 夫妻 感情 不好
+O O O O O B_FamilyConflict I_FamilyConflict
+现原 被告 已 长期 分居 双方 已 无 夫妻 感情 可言 诉至法院 请求 法院 判 令 原 被告 离婚 判决 婚生 子女 原 被告 抚养 人
+O O O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O

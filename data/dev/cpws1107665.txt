@@ -1,0 +1,12 @@
+原告 王 xx 诉 称 原 被告 系 经人介绍 谈婚 婚前 缺乏 了解 草率 结婚 婚姻 基础 不 牢
+O O O O O O O O O B_Marry O O O O O O O O O
+原告 外出 务工 后 原 被告 仅 电话 短信 联系 争吵
+O B_Separation I_Separation O O O O O O O B_FamilyConflict
+被告 原告 不 关心 体贴 家庭 琐事 产生 矛盾 导致 夫妻 感情 破裂 现 已 无法 继续 共同 生活 原告 起诉 要求 1 判决 原 被告 离婚
+O O O O O O O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2 被告 返还 原告 购房 首付款 15万 元 房屋 增值 价款 依法 分割
+O O O O B_PersonalProperty B_Wealth B_Price I_Price O O O O O
+原 被告 系 经人介绍 谈婚 年 时间 恋爱 相互 了解 后 才 自愿 登记 结婚
+O O O O O O O B_BeInLove O O O O O B_Marry I_Marry
+婚后 相处 半 月 买房 小事 原 被告 产生 矛盾 还 未 达到 破裂 程度
+O O O O O O O O O B_FamilyConflict O O O O O

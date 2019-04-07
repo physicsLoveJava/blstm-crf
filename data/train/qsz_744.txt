@@ -1,0 +1,8 @@
+1987年 双方 介绍 夫妻 名义 同居 生活
+B_Time O O O O O O
+同年 生育 子 现 已 成年
+O B_Bear B_Gender O O O
+1992年 双方 生 女 未 成脖
+B_Time O B_Bear B_Gender O O
+2017年 被告 本村 夫 妇 产生 不 正当 关系
+O B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed

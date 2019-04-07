@@ -1,0 +1,8 @@
+原告 王某 诉称 原 被告 2008年 6月 人 介绍 相识 2008年 11月 17日 领取 结婚 证书 2009年 5月 15日 生 女孩 取名 王 某某
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Negated B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 婚前 缺乏 了解 婚后 原告 发现 被告 性格 差异 大 无 共同语言 争吵 婚后 未 建立 真正 夫妻 感情 生活 中 被告 还 常 生活 琐事 殴打 原告
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O B_Person O O O O B_DomesticViolence B_Person
+原告 曾 2012年 7月 人民法院 起诉 要求 被告 离婚 后 感情 破裂 证据 不足 撤回 诉讼
+O O B_Time I_Time B_Court B_DivorceLawsuit O O O O O O O O O O
+被告 王 某某 辩称 原 被告 系 自由 恋爱 婚前 感情 基础 良好 2008年 11月 17日 领取 结婚证 婚后 建立 真正 夫妻 感情 不 存在 性格 差异 大 争吵 更 不 存在 殴打 原告 双方 对方 仍 感情
+O O O O O O O O O O O O O B_Time I_Time I_Time B_Negated B_Marry O O O O O B_Negated I_Negated B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Negated I_Negated B_DomesticViolence O O O O O

@@ -1,0 +1,6 @@
+原 被告 2015年 确立 恋爱 关系 2016年 9月 10日 完全 自愿 情况 下 办理 结婚 登记 2016年 10月 15日 亲朋好友 见证 下 举行 结婚 典礼 2017年 10月 3日 育 子 高艺轩
+O O B_Time O B_BeInLove O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+二 人 婚后 共同 生活 婚后 感情 双方 家庭 琐事 发生 争吵 孩子 出生 亦 未能 增进 夫妻 感情
+O O O O O O O O O O O B_FamilyConflict O O O O O O O
+原告 孩子 出生 便 直 带 孩子 娘家 生活 今 年 久 被告 不闻不问 原告 为此 伤心 过度 原告 看 孩子 面子 上 被告 机会 被告 直 没有 改变
+O O O O O O O I_Separation I_Separation O I_Duration I_Duration O O O O O O O O O O O O O O O O O

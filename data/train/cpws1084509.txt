@@ -1,0 +1,2 @@
+原告 纪某 甲诉 称 被告 ×××× 年×× 月×× 日 登记 结婚 于×××× 年×× 月×× 日 生育 女 纪某 乙 双方 性格 差异 大 近 年 家庭 琐事 发生 争吵 致使 夫妻 感情 破裂
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Gender B_Name I_Name O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

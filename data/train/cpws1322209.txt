@@ -1,0 +1,18 @@
+原告 周 某某 诉称 原 被告 1987年 12月 广东 打工 时 经人介绍 相识 恋爱
+O O O O O O B_Time I_Time O O O O B_Know B_BeInLove
+1988年 4月 28日 东安县 原 狮子铺乡 人民政府 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry I_Marry
+1988年 10月 3日 生育 女孩 周某 乙 1999年 5月 27日 生育 男孩 周某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 认识 时间 短 婚前 相互 了解 不够 婚姻 基础 不 牢 婚后 吵闹 打架
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 婚后 原告 家人 不和 前年 原告 母亲 伤 家庭 关系 紧张
+O O O O O O O O I_FamilyConflict O O O
+1999年 双方 曾 吵闹 分居 2004年 5月 9日 原告 曾 法院 提起 离婚 诉讼 法院 判决 不准 予原 被告 离婚
+B_Time O O O B_Separation B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+法院 判决 后 原 被告 仍 没有 和好 被告 原告 服刑 期间 不 照顾 家庭 不 付 小孩 抚养费 每年 过年 回家 还 大 吵 大 闹 伤 原告 亲人 解脱 名存实亡 婚姻 原告 法院 提起 离婚 诉讼 请求 法院 依法 判决 原 被告 离婚 婚生 小孩 周某 甲 原告 抚养成 年
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Person I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O
+被告 夏 某某 辩称 原告 诉 事实 不符
+O O O O O O B_Negated I_Negated
+原告 背着 被告 女人 不 正当 关系 原告 才 2004年 法院 起诉 离婚
+B_Person O O O I_Derailed I_Derailed I_Derailed B_Person O B_Time O B_DivorceLawsuit I_DivorceLawsuit

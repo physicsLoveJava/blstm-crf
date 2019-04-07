@@ -1,0 +1,12 @@
+原被告 经人介绍 相识
+O O B_Know
+2013年 领取 结婚证
+O B_Marry I_Marry
+同年 举行 结婚 仪式
+B_Time B_Marry I_Marry I_Marry
+双方 2014年 2月 2日 生 女
+O B_Time I_Time I_Time B_Bear B_Gender
+婚后 双方 琐事 发生 争吵 双方 无 感情
+O O O O B_FamilyConflict O O O
+原告 曾 2017年 2月 16日 起诉 离婚
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit

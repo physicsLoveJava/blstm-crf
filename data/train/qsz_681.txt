@@ -1,0 +1,12 @@
+原 被告 2012年 相识 自由 恋爱 2013年 夏天 被告 处 共同 生活
+O O B_Time B_Know O O O O O O O O
+2015年 农历 9月 18日 生长子 蒋明昊
+B_Time I_Time I_Time I_Time B_Bear B_Name
+2016年 12月 30日 原 被告 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry O O
+结婚 年 原 被告 感情 性格 不合 脾气 不 投 双方 生气 吵架
+O O O O O O O O O O O O B_FamilyConflict
+被告 酗酒 脾气 暴躁
+B_Person B_BadHabit O O
+2017年 Il 月中旬 天 晚上 被告 酗酒 无故 动手 殴打 原告 原告 身上 处 受伤 原告 连夜 逃 回 娘家 至此 原告 被告 夫妻 感情 彻底 破裂 分居 今
+B_Time I_Time I_Time O O B_Person O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O B_Separation I_Time

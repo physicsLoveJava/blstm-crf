@@ -1,0 +1,4 @@
+原告 李 某某 诉称 1983年 冬天 经人介绍 被告 认识 订婚 同年 10月 13日 典礼 典礼 前 办理 结婚 登记 1984年 8月 15日 生长子 董克 x 1986年 8月 7日 生 次子 董 xx 1998年 5月 27日 生 女儿 董
+O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry O B_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 脾气 性格 不合 吵架 生气 被告 张口 骂 动手 导致 十几 年 都 没有 夫妻性 生活 2008年 7月份 被告 分居 今 被告 婚姻 已 名存实亡 难以 一起 共同 生活 具状 起诉 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict B_Person O O B_DomesticViolence O O O O O O O B_Time I_Time O B_Separation O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 秦 某某 诉称 原 被告 2002年 冬 经人介绍 相识 2009年 4月 15日 登记 结婚
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2005年 12月 22日 生育 长子 张某 甲 2008年 1月 23日 生育 次子 张某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 双方 性格 不合 家庭 琐事 吵闹 无法 共同 生活 双方 2012年 3月 分居 今 夫妻 感情 确 已 破裂 已 无 好 为此 原 告诉 本院 要求 被告 离婚 婚生 长子 张某甲 被告 抚养 婚生 次子 张某乙 原告 抚养 抚养费 均 被告 承担 依法 分割 夫妻 共同 财产
+O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O B_Time I_Time B_Separation I_Time O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

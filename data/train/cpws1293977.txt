@@ -1,0 +1,6 @@
+原 告诉 称 被告 结婚 后 生育 女
+O O O O B_Marry O B_Bear I_Name
+婚后 被告 不 照顾 家庭 前 男友 关系 密切 外 负债
+O O O O O I_Derailed I_Derailed I_Derailed I_Derailed O O
+被告 外 借款 原告 都 明知 债务系 夫妻 共同 债务
+O O O O O O B_Debt O O O

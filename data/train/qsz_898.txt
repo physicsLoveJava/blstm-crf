@@ -1,0 +1,6 @@
+被告 经人介绍 相识 2012年 2月 28日 办理 结娇 登记 手续 2013年 3月 19门
+O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time
+牛育子 取名 方 博
+B_Bear O B_Name I_Name
+现 双方 L 分居 满 1 年 亳 无 大 妻 感情 可言
+O O O B_Separation B_Duration I_Duration I_Duration O O O O O O

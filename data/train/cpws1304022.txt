@@ -1,0 +1,6 @@
+原告 谢某 诉称 原 被告 2010年 12月 登记 结婚 未 生育
+O O O O O B_Time I_Time B_Marry I_Marry O O
+双方 婚前 缺乏 了解 婚后 两地 分居 夫妻 生活 不 协调 目前 夫妻 感情 已 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+起诉 要求 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

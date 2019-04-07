@@ -1,0 +1,8 @@
+原告 王某 燕诉 称 原 被告 2007年 经人介绍 相识 2008年 生育 女 徐某瑞 2009年 办理 结婚 登记 手续
+O O O O O O B_Time O B_Know B_Time B_Bear B_Gender B_Name B_Time O B_Marry O O
+后 双方 性格 不合 发生 争吵 特别 原告 怀 4 月 身孕 情况 下 被告 原告 殴打 致 大出血 夫妻 关系 急剧 恶化 2009年 12月 分居 生活 今
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O B_Person B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O B_Time I_Time B_Separation O I_Time
+原告 王某燕 夫妻 感情 不 分居 已 达 两 年 以上 为由 诉 人民法院 要求 被告 徐某松 离婚 婚生 女徐 某瑞 被告 徐某松 抚养
+B_Person O O O O B_Separation O O B_Duration I_Duration I_Duration O B_DivorceLawsuit B_Court O O O O O O O O O O
+被告 徐某 松辩 称 被告 不 同意 原告 离婚 殴打 原告 致 大出血 不 属实
+O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence B_Negated I_Negated

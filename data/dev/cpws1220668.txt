@@ -1,0 +1,14 @@
+原告 万某 露诉 称 原 被告 2012年 9月 媒人 介绍 认识 恋爱 2012年 12月 26日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O
+2013年 1月 14日 农村 风俗 习惯 办理 酒席 举行 结婚 仪式
+O O O O O O O O B_Marry I_Marry I_Marry
+原 被告 婚后 性格 不合 长期 争吵 致 夫妻 感情 彻底 破裂
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+原告 万某 露 起诉 院 要求 被告 蒲某 离婚
+O O O O O O O O B_DivorceLawsuit
+被告 蒲某 辩称 被告 原告 2012年 10月 18日 认识 耍 朋友 结婚 四 月 被告 花 9700 元 原告 买 衣服 首饰
+O O O O O B_Time I_Time I_Time B_Know O O O O O O O O O O O O O
+2012年 12月 26日 办理 结婚 登记 2013年 1月 14日 农村 风俗 习惯 办理 酒席 均 属实
+B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time O O O B_Marry I_Marry O O
+今年 2月 以来 原告 时而 夜 不 宿 不 回 娘家
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

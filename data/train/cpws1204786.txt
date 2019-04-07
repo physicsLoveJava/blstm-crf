@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 相识 1982年 登记 结婚 1982年 12月 3日 婚生 女 名 郭敏 现 已 成年
+O O O O O O O B_Time B_Marry I_Marry O O O B_Bear B_Gender O B_Name O O B_Age
+2009年 后 被告 粗暴 脾气 暴露无遗 每次 酗酒 后 原告 非 骂 造成 原告 身体 软组织 受伤 原告 忍 再 忍 直到 2012年 10月 18日 被告 喝酒 后 回家 无理取闹 连续 击打 原告 面部
+O O B_Person O O O O B_BadHabit O B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O
+原告 曾 2013年 3月 人民法院 诉求 离婚 一审 法院 判决 不 准 离婚 后 双方 仍 没有 和好 分居 被告 不但 不 承认 错误 打电话 进行 骚扰 被告 不 思 悔改 伤害 夫妻 感情 双方 夫妻 感情 已经 完全 破裂 请求 法院 依法 判 令 原 被告 离婚 共同 财产 依法 分割
+O O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告梁 XX 诉称 原 被告 1994年 经人介绍 相识 双方 1994年 11月 19日 登记 结婚 婚后 生育 儿子 梁 AA 女儿 梁 BB
+O O O O O B_Time O B_Know O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name B_Gender B_Name I_Name
+婚后 感情 性格 不合 夫妻 双方 家庭 琐事 争吵 产生 矛盾 2012年 我方 曾 法院 起诉 要求 被告 离婚 法院 判决 不准 离婚 后 双方 没有 好 双方 已经 分居 夫妻 双方 感情 已经 破裂
+O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Separation O O O O O
+原告 现 人民法院 起诉 要求 被告 离婚 被告 抚养 女儿 梁伟结
+O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

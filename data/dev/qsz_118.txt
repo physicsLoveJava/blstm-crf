@@ -1,0 +1,12 @@
+2011年 初 双方 经人介绍 相识 建立 恋爱 关系
+B_Time I_Time O O B_Know O B_BeInLove O
+2013年 9月 9日 登记 结婚 婚后 生育 子 王孟 浩然 原被告 结婚 初期 感情 尚 婚后 被告 喜好 赌博 酗酒 行为 双方 长 家庭 琐事 发生 争吵 2015年 7月 被告 外 背着 原告 高利贷 欠 账 30万 余 元
+B_Time I_Time I_Time B_Marry I_Marry O B_Bear O B_Name I_Name O O O O O O B_Person O B_BadHabit B_BadHabit O O O O O O B_FamilyConflict O O O O O O O B_Debt I_Debt B_Price I_Price I_Price
+双方 此事 发生 严重 争吵 被告 离家 出走 达 两 月 有余 事后 债务经 亲属 家人 共同 还款
+O O O O O O B_Separation I_Separation O B_Duration I_Duration I_Duration O O O O O O
+2017年 3月 被告 外 背着 原告 高利贷 10万 余 元 被告 债主 追讨
+O O O O O O I_Debt B_Price I_Price I_Price O O O
+被告 离家 出走 达 两 月 有余
+O B_Separation I_Separation O B_Duration I_Duration I_Duration
+2018年 9月 3日 被告 离家 出走 当日 原告 接到 莫名 电话 被告 催讨 借款
+B_Time I_Time I_Time O B_Separation I_Separation O O O O O O O O

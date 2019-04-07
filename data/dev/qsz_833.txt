@@ -1,0 +1,10 @@
+2015年 原告 被告 打工 时 相识 确立 恋爱 关系 2015年 2月 17日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活 婚后 未 生育 子女
+B_Time O O O O B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O O B_Negated B_Bear O
+婚前 了解 少 草率 结婚 婚后 双方 生气 吵架 被告 婚后 不久 离开 原告 外 居住
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O I_Separation I_Separation
+尤其 被告 品性 不好 2017年 7月份 诈骗罪 拘役 6 月 夫妻 感情 已 彻底 破裂
+O B_Person B_BadHabit I_BadHabit O O I_BadHabit I_BadHabit O O O O O O O
+为此 原告 2017年 7月 起诉 离婚 天津市 蓟州区 人民法院 2017 津0119 民 初7879 号 民事 判决书 判 令 驳回 原告 诉讼 请求
+O B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment I_Judgment I_Judgment
+半 年 过去 原 被告 分居 今 没有 和好
+B_Duration I_Duration O O O B_Separation I_Time O O

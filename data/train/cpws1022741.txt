@@ -1,0 +1,6 @@
+原告 刘某 诉称 原被告 2003年 6月 经人介绍 认识 2003年 登记 结婚 2004年 生 女孩 张 某某
+O O O O B_Time I_Time O B_Know B_Time O B_Marry B_Time B_Bear B_Gender B_Name I_Name
+原被告 婚前 认识 时间 短 缺乏 了解 无 感情 基础 婚后 两 人 性格 不合 被告 酒后 原告 打骂 导致 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O O O O B_Person O B_Person B_DomesticViolence O O O O O
+2012年 7月 原告 曾 莱芜市 莱城区 法院 起诉 离婚 2012年 11月 法院 判决 不准 予 双方 离婚 判决 生效 后 两 人 感情 没有 改善
+B_Time I_Time B_Person O B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O

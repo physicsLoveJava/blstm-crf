@@ -1,0 +1,6 @@
+原 被告 2013年 1月 24日 经人介绍 后 确立 恋爱 关系 2013年 10月 10日 举行 订婚 仪式 2014年 5月 6日 亲朋好友 见证 下 举办 结婚 典礼 2015年 9月 30日 补办 结婚证
+O O B_Time I_Time I_Time O O O B_BeInLove O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+二 人 2015年 11月 27日 育 女 陈美锴 孩子 出生 今 被告 未曾 承担 抚养 义务
+O O O O O B_Bear O O O O O O O O O O
+婚后 被告 赌博 酗酒 原告 辱骂 殴打 行为 双方 争吵 不 休 现 已 分居 半 年 久 导致 感情 破裂 原告 被告 已经 绝望 无 愈合 可能性
+O B_Person B_BadHabit I_BadHabit B_Person O B_DomesticViolence O O B_FamilyConflict O O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O O O

@@ -1,0 +1,8 @@
+2013年 原 被告 经人介绍 相识 建立 恋爱 关系 同年 11月 办理 结婚 登记 手续 2014年 初 举行 结婚 仪式 之后 原、被告 原告 原婚生 二 女 四 口 人 共同 生活 双方 均 系 再婚
+B_Time O O O B_Know O B_BeInLove O B_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time B_Marry I_Marry I_Marry O O O B_Bear B_Gender I_Gender O O O O O B_Person O O B_Remarry
+结婚 初期 原 被告 感情 尚 之后 双方 家庭 琐事 发生 争吵 动手
+O O O O O O O O O O O B_FamilyConflict B_FamilyConflict
+被告 沾染 酗酒 恶习 酒后 原告 实施 打骂 致使 双方 夫妻 感情 早已 破裂
+B_Person O B_BadHabit O O O O O O O O O O O
+现在 双方 感情 不 2016年 已经 分居 两 年 已经 符合 法定 离婚 条件
+O O O O B_Time O B_Separation B_Duration I_Duration O O O O O

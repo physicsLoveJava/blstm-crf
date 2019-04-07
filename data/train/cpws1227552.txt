@@ -1,0 +1,28 @@
+原告 李某 起诉 称 原 被告 2003年 上半年 认识
+O O O O O O B_Time I_Time B_Know
+双方 ×××× 年×× 月×× 日 生育 女 取名 易 某乙
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+双方 ×××× 年×× 月××日补办 结婚 登记 手续
+O B_Time I_Time I_Time B_Marry I_Marry O
+双方 性格 脾气 不 合 家庭 琐事 发生 争吵 未 建立 夫妻 感情
+O O O O O O O O B_FamilyConflict O O O O
+被告 平时 不 吃苦耐劳 每次 工作 没 多久 辞职 不 干 大部分 时间 均 处于 无业 状态 未 承担 家庭 费用 支出 时常 原告 索要 生活费
+O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 下半年 被告 顺泰 养殖猪 鸭 期间 原告 陆续 原告 父母 借款 共计 4万 元 用于 购买 饲料 费用
+O O B_Person O O O O O O O O B_Debt O B_Price I_Price O O O O
+借款 当时 原告 原 以为 被告会 猪 鸭 卖 掉 后 偿还 不料 被告 却 卖 钱 用于 赌博 输
+O O O O O O O O O O O O O B_Person O O O O B_BadHabit O
+原告 说 句 被告 还 原告 发生 争吵
+O O O O O O B_FamilyConflict I_FamilyConflict
+原告 跟随 被告 租 住 房间 时 被告 房间 门锁 上 还 原告 手机 眼镜 全部 砸 掉 水果刀 威胁 原告
+O O O O O O O B_Person O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O
+同年 7月 11日 原告 法院 起诉 离婚
+B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit
+后 法院 审理 同年 8月 22日 判决 驳回 原告 离婚 诉请
+O O O B_Time I_Time I_Time O B_Judgment O O O
+双方 不仅 没有 共同 生活 没有 见面 没有 电话 联系
+O O B_Separation I_Separation I_Separation O O O O O
+现 双方 夫妻 感情 已 完全 破裂 原告 诉请 法院 判 令 1 准予 原 被告 离婚
+O O O O O O O O O O O O O O O O B_DivorceLawsuit
+3 夫妻 共同 债务 4万 元 原 被告 共同 承担
+O O O B_Debt B_Price I_Price O O O O

@@ -1,0 +1,10 @@
+原告 李某 甲诉 称 原告 被告 2001年 4月 网上 认识 2006年 左右 双方 谈 恋爱 段 时间 深入 了解 双方 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time O B_Know B_Time O O O B_BeInLove O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月××日 被告 日本 公立昭 病院 生 女 取名 李某 乙
+B_Time I_Time I_Time O O O O B_Bear B_Gender O B_Name I_Name
+2012年 12月 9日 小孩 饭 问题 原告 被告 父亲 观点 不同 原告 遂 被告 父亲 殴打 右 肋骨 不 全 骨折
+B_Time I_Time I_Time O O O O O O O O B_Person I_Person B_Person I_Person B_DomesticViolence O O O O O
+12月 27日 银行卡 取款 被告 父亲 看 原告 不 愿意 告诉 密码 光天化日 之下 原告 过来
+B_Time I_Time O O B_Person I_Person I_Person O O O O O O O B_Person O
+之后 双方 分居 今
+O O B_Separation B_Time

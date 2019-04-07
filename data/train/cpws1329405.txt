@@ -1,0 +1,4 @@
+原告 孟红梅 诉称 原 被告 经人介绍 相识 后 1993年 12月 1日 登记 结婚
+B_Person O O O O O B_Know O B_Time I_Time I_Time O B_Marry
+婚后 双方 脾气 性格 差异 大 家庭 琐事 发生 矛盾 近 年 被告 酗酒 成性 酒后 常 实施 家庭 暴力 致使 双方 无法 共同 生活 夫妻 感情 彻底 破裂
+O O O O O O O O O O O O B_Person O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O

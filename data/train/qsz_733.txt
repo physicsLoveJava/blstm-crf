@@ -1,0 +1,6 @@
+原 被告 2000年 12月 14日 民政部门 登记 结婚 婚后 育 女 薄娜 现年 16 岁
+O O B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 牌气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 双方 分居 已经 五 年 有余 互不 履行 夫妻 义务 夫妻 感情 名存实亡
+O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O

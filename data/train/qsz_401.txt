@@ -1,0 +1,6 @@
+原 被告 2016年 2月份 经人介绍 相识 后 确立 恋爱 关系
+O O B_Time I_Time O B_Know O O B_BeInLove O
+2016年 8月 4日 办理 结婚 登记 手续
+O O O O B_Marry O O
+2017年 3月 18日 生育 女 刘薇
+B_Time I_Time I_Time B_Bear B_Gender B_Name

@@ -1,0 +1,14 @@
+原告 被告 1995年 经人介绍 相识 确立 恋爱 关系
+O O B_Time O B_Know O O O
+双方 1996年 1月 19日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+原 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+夫妻 间 常 生活 琐事 发生 争吵
+O O O O O O B_FamilyConflict
+原、被告 性格 不合
+O B_FamilyConflict I_FamilyConflict
+原告 合法 有效 解除 被告 名存实亡 婚姻 关系
+B_Person O O O O O O O
+特 提起 离婚 诉讼
+O O B_DivorceLawsuit I_DivorceLawsuit

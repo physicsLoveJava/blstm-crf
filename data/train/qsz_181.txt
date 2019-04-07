@@ -1,0 +1,12 @@
+被告 经人介绍 认识 2006年 5月 民间 风俗 举行 婚礼
+O O O B_Time I_Time O O B_Marry I_Marry
+2007f 10月 23日 蓟县 民政局 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+原告 2007年 9月 19日 牛长女 周思雨
+O B_Time I_Time I_Time B_Bear B_Name
+2012年 3月 9日 生次 女 周思佳
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 小 气 打架 2018年 2月 18日 原 被告 生气 被告 家人 强行 两 次 原告 灌 安眠药
+O O O O B_FamilyConflict B_Time I_Time I_Time O O O O O O O O O B_FamilyConflict I_FamilyConflict
+此事 已经 使 原告 被告 火 去 信心 当日 原告 娘家 出头岭镇 官场村 爷爷 李春明 家 居住 出 两 人 关系 逐渐 恶化 感情 彻底 破裂
+O O O O O O O O O O I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O O O O

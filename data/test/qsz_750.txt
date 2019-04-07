@@ -1,0 +1,14 @@
+2006年 原 被告 经人介绍 相识 2007年 4月 农村 习俗 举办 婚礼 共同 生活 2008年 4月 7日 蓟州区 民政局 补办 结婚 登记 手续 领取 结婚证 婚后 生育 长女 刘桓彤 长子 刘梓皓
+B_Time O O O B_Know B_Time I_Time O O B_Marry I_Marry O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry O B_Bear B_Gender B_Name B_Gender B_Name
+被告 脾气 暴躁 原告 张口 骂 动手
+B_Person B_BadHabit I_BadHabit B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+曾 殴打 原告 村干部 调解 原告 出具 保证书 份 被告 仍然如故 殴打 原告
+O B_DomesticViolence B_Person O O O O O O O O O O
+2017年 4月 账 人 家中 钱 原 被告 发生 口角 原告 离家 外出 原 被告 分居 今
+B_Time I_Time O O O O O O O O O O O O O B_Separation I_Time
+原告 2017年 6月 17日 诉 蓟州区 人民法院 请求 判 准 离婚
+B_Person B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O
+贵院 天津市 蓟州区 人民法院 2017 津0119 民 初7203 号 民事 判决书 判定 驳回 原告 诉讼 请求 未 准予 离婚
+O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原 被告 已 分居 年 至今 无 和好 夫妻 感情 已 彻底 破裂 早日 结束 痛苦 婚姻 现 原告 依法 提起 诉讼 原告 左臂 残疾 生活 来源 受到 限制
+O O O B_Separation I_Duration O O O O O O O O O O O O O O O O O O O O O O O O

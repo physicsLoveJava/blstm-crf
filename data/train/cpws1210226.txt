@@ -1,0 +1,8 @@
+原告 冯某 甲诉 称 原 被告 1993年 自由 恋爱 结婚 婚后 ×××× 年×× 月×× 日 共同 生育 男孩 冯 某乙
+O O O O O O B_Time O O B_Marry O B_Time I_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name
+婚前 缺乏 了解 夫妻 感情 不好
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+撤诉 后 夫妻 感情 未 改善 长期 分居 夫妻 感情 已经 完全 破裂
+O O O O O O B_Duration B_Separation O O O O O
+共同 债务 共同 偿还
+B_Debt I_Debt O O

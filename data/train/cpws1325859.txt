@@ -1,0 +1,4 @@
+原告 刘某 诉称 原被告 经人介绍 相识 2008年 12月 17日 登记 结婚 婚后 2009年 9月 26日 生育 女孩 取名 刘某甲 婚前 缺乏 了解 婚后 性格 不合 琐事 发生 争吵 两 人 感情 已 完全 破裂 没有 共同 生活
+B_Person I_Person O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O O O O
+维护 原告 合法 权益 诉至法院 请求 依法 解除 原被告 婚姻 关系
+O O O O B_DivorceLawsuit O O O O O O

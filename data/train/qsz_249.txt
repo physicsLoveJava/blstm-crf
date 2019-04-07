@@ -1,0 +1,4 @@
+原被告 2002年 9月 经人介绍 相识 建立 恋爱 关系 后 同居 生活 2003年 7月 22日 领取 结婚证 2004年 3月 6日 生育 女 刘媛
+O B_Time I_Time O B_Know O B_BeInLove O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 嫌弃 家中 贫穷 双方 生活 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict

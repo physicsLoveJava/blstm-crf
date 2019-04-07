@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 1997年 10月 7日 当地 民政部门 登记 结婚 婚后 育 两 女 子 两 女儿 已经 成家 子 张金雨
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear O B_Gender O O B_Gender O O B_Gender B_Name
+现年 12 岁
+O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 被告 一言不合 动手 殴打 原告 导致 原告 伤痕 累累 原告 孩子 尚 年幼 以为 年龄 再 大 一点 孩子 都 大 被告 有所 收敛 一再 忍让 被告 根本 不 放在眼里 我行我素
+O O O O O O O O O O O O O O O O O O B_FamilyConflict B_Person O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O

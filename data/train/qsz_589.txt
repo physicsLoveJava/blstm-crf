@@ -1,0 +1,12 @@
+原告 被告 经人介绍 相识 2007年 6月 4日 民政部门 登记 结婚
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+婚后 育 长女 张跃婷 现年 11 岁 次女 张跃娇 现年 9 岁
+O B_Bear B_Gender B_Name B_Age I_Age I_Age B_Gender B_Name B_Age I_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+二 人 小事 发生 争吵
+O O O B_FamilyConflict I_FamilyConflict
+被告 原告 不 信任 无端 猜疑 原告 双方 此事 产生 口角 原告 看 孩子 尚 年幼 忍让 被告 根本 不 听 我行我素
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+现 双方 吵架 分居 已 月 有余
+O O O B_Separation O I_Duration I_Duration

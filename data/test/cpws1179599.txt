@@ -1,0 +1,12 @@
+原告 刘 某某 诉称 2002年 原告 被告 王 某某 办理 结婚 登记
+O O O O B_Time O O O O B_Marry I_Marry I_Marry
+2002年 11月 24日 生育 女王 甲 2005年 2月 24日 生育 子 王乐豪
+B_Time I_Time I_Time B_Bear I_Gender I_Name B_Time I_Time I_Time B_Bear I_Gender B_Name
+婚后 未 建立 感情
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2008年 分居
+B_Time B_Separation
+诉至法院 请求 依法 判 令 原 被告 离婚 婚生 女王 某甲 被告 抚养 婚生子 王乐豪 原告 抚养 互不 负担 子女 抚养费
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O
+原 被告 感情 好 夫妻 感情 未 破裂 被告 原告 共同 生活 期间 共同 生育 两 子女 双方 不 具有 婚姻法 上 规定 离婚 事由 原告 诉称 2008年 分居 情况 事实 不符 被告 最近 年 外地 打工 每年 均 过节 时 回来 原告 共同 生活 打工 挣 钱 寄 原告 双方 被告 父母 共同 出资 王沟桥村 瓜果 市场 附近 2012年 左右 购买 住房 套
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time B_Separation O I_Negated I_Negated O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O O O O O O O B_Wealth I_Wealth

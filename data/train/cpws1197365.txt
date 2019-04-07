@@ -1,0 +1,10 @@
+原告 谭某 诉称 原 被告 1999年 1月 安仁县 民政局 登记 结婚
+O O O O O O O O O O B_Marry
+2001年 2月 19日 生长子 取名 谭 某某 2007年 3月 22日 生 次子 取名 谭某
+B_Time I_Time I_Time B_Bear O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 被告谭 某某 染上 赌博 恶习 不 听 原告 劝导 打骂 原告 谭某 导致 夫妻 感情 破裂
+O B_Person O O B_BadHabit I_BadHabit O O O O B_DomesticViolence B_Person O O O O O
+2012年 12月 4日 原告 谭某 法院 起诉 要求 被告谭 某某 离婚 2013年 2月 28日 法院 作出 2012 安民 初字 第1053 号 民事 判决书 判决 驳回 原告 谭某 诉讼 请求
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O O B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+3 原 被告 龙市乡 建 房屋 原 被告 一半
+O O O O I_Wealth I_Wealth O O O

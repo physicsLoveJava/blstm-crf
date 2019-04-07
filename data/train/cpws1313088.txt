@@ -1,0 +1,6 @@
+原告 杨某 甲诉 称 原 被告 2011年 7月 经人介绍 认识 后 同居 生育 女 杨某丙 后 2013年 1月 7日 登记 结婚
+O O O O O O O O O O O O B_Bear B_Gender B_Name O B_Time I_Time I_Time O B_Marry
+婚后 原 被告 性格 不合 常 家庭 琐事 发生 争吵
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 认为 被告 缺乏 家庭 责任感 原告 不够 关心 双方 没有 建立 真正 夫妻 感情 无 共同 生活 必要 夫妻 感情 已 彻底 破裂 请求 法院 判决 1 原 被告 离婚
+O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Court O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

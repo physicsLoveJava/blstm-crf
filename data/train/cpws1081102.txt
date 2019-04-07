@@ -1,0 +1,4 @@
+原告 赵某 诉称 原 被告 2011年 1月 7日 珲春市 民政局 婚姻 登记处 登记 结婚 婚后 无 子女
+O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O
+婚后 家庭 琐事 争吵 被告 长期 酗酒 现 已 感情 破裂
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

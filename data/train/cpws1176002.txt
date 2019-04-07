@@ -1,0 +1,2 @@
+原告 汪某 荣诉 称 婚前 原被告 缺乏 了解 婚姻 基础 不 牢固 婚后 被告 家庭 孩子 不尽 义务 长期 人 保持 不 正当 关系 现 夫妻 感情 彻底 破裂 要求 1 解除 原被告 婚姻 关系
+O O O O O B_Person O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O

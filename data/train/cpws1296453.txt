@@ -1,0 +1,4 @@
+原告 朱某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 1995年 3月 5日 生长子 周 某某
+O O O O O O B_Know O O O O O O B_Time I_Time I_Time B_Bear B_Name I_Name
+生活 条件 改善 被告 染 上 吃 喝 嫖 赌 恶习 女人 关系 暧昧 后 发展 长期 同居 生活 致使 夫妻 感情 彻底 破裂 现 要求 被告 离婚
+O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O B_Derailed O O O O O O O O O O O O O O

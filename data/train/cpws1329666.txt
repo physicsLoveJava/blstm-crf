@@ -1,0 +1,8 @@
+原告 王某 起诉 称 原告 王某 被告 李某 经人介绍 认识 1986年 1月 9日 登记 结婚
+O O O O O O O O O B_Know B_Time I_Time I_Time O B_Marry
+婚后 生育 子 女 长子 取名 王建 次女 取名 王奕丹 现 子女 均 已 成年
+O B_Bear B_Gender B_Gender O O B_Name O O B_Name O O O O O
+2007年 双方 分居 生活 今
+B_Time O B_Separation O I_Time
+为此 原告 起诉 要求 被告 离婚
+O B_Person B_DivorceLawsuit O O O

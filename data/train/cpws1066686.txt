@@ -1,0 +1,6 @@
+原告 季 某某 诉称 被告 2012年 3月 人 介绍 相识 2012年 8月 14日 登记 结婚 婚后 无 子女
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O O
+婚前 没有 了解 感情 基础 不 牢 生活 琐事 争吵 2012年 10月 分居 今 导致 夫妻 感情 彻底 破裂 依法 起诉 要求 被告 离婚 婚前 财产 被告 赔偿 精神 损失费 药费 10000 元
+O O O O O O O O O O B_Time I_Time B_Separation I_Time O O O O O O O O O O O O O O O O O O O
+了解 才 结婚 婚后 夫妻 感情 挺 好 原告 所述 事实 不符 分居 时间 2012年 农历 腊月
+O O O O O O O O O O O O B_Separation O B_Time I_Time I_Time

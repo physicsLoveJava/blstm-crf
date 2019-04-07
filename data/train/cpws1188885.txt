@@ -1,0 +1,2 @@
+原告 杨某 诉称 原告委 被告 2003年 大化县 七百 弄 乡 民政 登记 结婚 婚育 男 女 女儿 侯 杨雪萍 儿子 杨世凯 后 改名 侯振鸿 2010 年 后 原告 常 外出 打工 夫妻 感情 不好 没有 共同语言 夫妻 关 糸 名存实亡 无法 共同 生活 特 请求 法院 判决 离婚 家庭 财产 全部 不 小 抚养
+O O O O O B_Time O O O O O B_Marry I_Marry B_Bear I_Gender I_Gender O B_Name I_Name O B_Name I_Name I_Name I_Name O O O B_Person O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

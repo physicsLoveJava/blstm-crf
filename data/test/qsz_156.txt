@@ -1,0 +1,12 @@
+原 被告 丁 2006年 3月 人 介绍 相识 确立 恋爱 关系 2008年 5月 1日 举行 婚礼 2008年 10月 23 | 双方 武清区 民政局 办理 结婚 登记 手续
+O O O B_Time I_Time O O B_Know O B_BeInLove O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry
+婚后 育 土 睿莹
+O B_Bear B_Name I_Name
+原 被告 婚后 常 家庭 琐事 发生 门角 双方 已经 没有 夫妻 生活 现 已经 分屠 多年 原告 曾 2017年 3月 起诉 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O B_Separation B_Duration B_Person O B_Time I_Time O B_DivorceLawsuit
+武清区 人民法院 2017年 5月 22日 2017 津0114 民 初 3693 号 民事 判决 书驳 问 原告 离婚 请求
+B_Court I_Court B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment O O
+2017年 12月 15L 原告 起诉 武清区 人民法院 2018年 2月 23 2017 津0114 民 初 3693 号 民事 判决 书驳 问 原告 离婚 请求
+B_Time I_Time I_Time B_Person B_DivorceLawsuit B_Court I_Court B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+2017年 12月 15 甘 原告 起诉 武清区 人民法院 2018年 2月 23H 2018 津0114 民 初 581 号 民事 判决书 驳世 原告 离婚 请求
+B_Time I_Time I_Time O B_Person B_DivorceLawsuit B_Court I_Court B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 1994年 3月 28日 蓟州区 蓟县 民政 机关 办理 结婚 登记 手续 共同 生活 婚后 生育 子 陈雪健 1994年 11月 17日 出生 现 已 成年 婚前 了解 少 婚后 发现 感情 不和 长期 生气 吵架 特别 近 年 双方 感情 不断 恶化 根本 无法 沟通 双方 长期 分居 已 达 四 年 久
+O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry O O O B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O
+原告 已经 起诉 三 次 均 判决 驳回 诉讼 请求
+B_Person O B_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment

@@ -1,0 +1,4 @@
+原告 刘某 诉称 原 2011年 10月 21日 媒人 介绍 相识 于×××× 年×× 月××日 晋州 市民 政局 草率 办理 结婚 登记 2013年 2月 1日 生 女孩 现 原告 生活 双方 婚前 认识 时间 短 互不 了解 没有 感情 基础 婚后 发现 双方 脾气 性格 不合 没有 共同语言 被告 撒谎 赌博 酗酒 撒酒疯 被告 存在 严重 不良 恶习 屡教不改 吵架 不 建立 夫妻 感情 不 继续 共同 生活
+O O O O B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time O O O O O B_Marry O B_Time I_Time I_Time B_Bear I_Gender O O O O O O O O O O O O O O O O O O O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O
+原 被告 夫妻 感情 已 完全 破裂 要求 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

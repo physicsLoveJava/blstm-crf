@@ -1,0 +1,4 @@
+原 被告 2009年 人 介绍 相识 2011年 8月 29日 宝坻区 民政局 婚姻 登记处 登记 结婚 婚后 二 人 2012年 7月 25日 生育 长子 张浩彬
+O O B_Time O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+结婚 后 感情 基础 薄弱 双方 感情 不好 意见 不 统一 性格 不合 家中 无论 大事 小情 都 争吵 中 结束 越 吵 越 凶
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O

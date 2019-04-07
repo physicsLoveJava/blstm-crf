@@ -1,0 +1,28 @@
+原 被告 1988年 经人介绍 相识
+O O B_Time O B_Know
+双方 1989年 6月 29日 黑龙江省 齐齐哈尔市 铁锋区 民政局 办理 结婚 登记 婚后 育 子
+O B_Time I_Time I_Time O O O O O B_Marry I_Marry O B_Bear B_Gender
+经劣 琐事 争吵
+O B_FamilyConflict I_FamilyConflict
+被告 无中生有
+B_Person O
+原告 恶语 中 伤 拳脚 相加
+B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+原告 2015年 2月 被告 分居 起诉 贵院 提出 离婚 诉讼 请求
+B_Person B_Time I_Time O B_Separation B_DivorceLawsuit B_Court O O O O
+2015年 6月 12日 作出 2015 武民 一初字 第1475 号 民事 判决 不 准 离婚
+B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+原告 2016年 1月 次 起诉 贵院 提出 离婚 诉讼 请求
+B_Person B_Time I_Time O B_DivorceLawsuit B_Court O O O O
+2016年 3月 24日 作出 2016 津 0114 民 初 1230 号 民事 判决 不 准 离婚
+B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+原告 2016年 11月 第三 次 起诉 贵院 提出 1 婚 诉讼 请求
+B_Person B_Time I_Time O O B_DivorceLawsuit B_Court O O O O O
+贵院 协商 延 下 未 予 批准 原告 错过 开庭 时间 贵院 2016年 12月 26 口 作出 C2016 津0114 民 初 10799 号 民事 裁决 撤诉 处理 送达 日期 2017年 1月 6日
+O O O O O O O O O O O O B_Time I_Time I_Time O O B_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment O O O O O
+原告 被告 分居 已 达 两 年 零 九 月 原告 居住 位于 秦皇岛 8 海 港区 美岭 小区 45 栋 2-3 号 母亲 家中 符 居委会 证明
+O O B_Separation O O B_Duration I_Duration I_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O
+原告 认为 双方 感情 已经 彻底 破裂 没有 挽回 余地
+B_Person O O O O O O O O O
+贵院 提出 离婚 诉讼 请求
+B_Court O B_DivorceLawsuit I_DivorceLawsuit O

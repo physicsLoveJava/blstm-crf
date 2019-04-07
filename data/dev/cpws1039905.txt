@@ -1,0 +1,8 @@
+原告 赵某 甲诉 称 原 被告 系 自由 恋爱 于×××× 年×× 月×× 日 登记 结婚 于×××× 年×× 月×× 日 生育 子 取名 赵 某乙
+O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Gender I_Gender
+婚后 初期 夫妻 感情 尚 双方 性格 不合 原因 致使 夫妻间 发生 争吵 现 双方 分居 已 达 十 年 夫妻 感情 已 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation O O B_Duration I_Duration O O O O
+被告 葛某 未 作 书面 答辩 庭 审 中 口头 辩称 原 被告 1988年 恋爱 1995年 登记 结婚 双方 婚姻 基础 婚后 夫妻 感情 均 好
+O O O O O O O O O O O O O B_Time B_BeInLove B_Time B_Marry I_Marry O O O O O O O O
+2002年 原 被告 感情 问题 产生 矛盾 双方 仍 联系 原告 有时 回家
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

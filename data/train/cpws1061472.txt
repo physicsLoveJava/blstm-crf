@@ -1,0 +1,8 @@
+原告 祝某 诉称 原 被告 双方 2008年 冬天 经人介绍 建立 恋爱 关系 于×××× 年×× 月××日 临朐县 民政局 登记 结婚
+O O O O O O B_Time I_Time O B_Negated B_BeInLove O B_Time I_Time I_Time O O O B_Marry
+婚后 于×××× 年×× 月×× 日 生育 双胞胎 男孩 取名 某甲 某乙 现 被告 生活
+O B_Time I_Time I_Time I_Time B_Bear O B_Gender O B_Name B_Name O O O
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 琐事 争吵
+O O O O O O O O I_FamilyConflict I_FamilyConflict
+为此 原告 曾 2013年 2月份 起诉 临朐县 人民法院 法院 判 令 原 被告 不 准 离婚
+O O O B_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O O O O O

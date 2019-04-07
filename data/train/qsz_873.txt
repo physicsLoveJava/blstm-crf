@@ -1,0 +1,2 @@
+原被告 双方 1997年 相识 自由 恋爱 2003年 1月 24日 天津市 蓟州区 民政局 登记 结婚 民间 习俗 举行 结婚 仪式 2002年 9月 4日 育 女 取名 仇 佳 2009年 12月 10日 育 子 取名 仇宇杭
+O O B_Time B_Know O B_BeInLove B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name

@@ -1,0 +1,10 @@
+原告 陈 某某 诉称 原 被告 2011年 4月 间 相识 2012年 2月 1日 登记 结婚
+O O O O O O O O O B_Know O O O B_Marry I_Marry
+婚后 感情 至今 未 生育 子女
+O O O B_Negated B_Bear O
+婚前 被告 了解 不 草率 结婚 婚后 发现 被告 不 愿 上班 不 上进 原告 苦心 规劝 被告 劣性 不 改 双方 性格 不合 吵架 夫妻 感情 已 完全 彻底 破裂
+O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 请求 判 令 准予 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 潘 某某 辩称 原告 说 被告 不 上班 吵闹 离婚 理由 均 不 事实 夫妻 共同 生活 中 难免 摩擦 不 影响 夫妻 感情
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Negated I_Negated O O O O O O O O O O

@@ -1,0 +1,6 @@
+原被告 经人介绍 相识 相处 确立 恋爱 关系
+O O B_Know O B_BeInLove I_BeInLove I_BeInLove
+2016年 1月 15日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry I_Marry
+婚后 家庭 琐事 争吵 致使 感情 每况愈下 现 完全 破裂
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

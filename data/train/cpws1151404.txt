@@ -1,0 +1,4 @@
+原告 黄某 甲诉 称 原 被告 2005年 1月 30日 依法 登记 结婚 2005年 12月 7日 生育 女 取名 黄某丙 就读 某校
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O
+原 被告 父母 意愿 结婚 婚前 缺乏 了解 婚后 感情 久而久 感情 慢慢 破裂 吵闹 已 分居 年
+O O O O O O O O O O O O O O B_FamilyConflict O B_Separation O

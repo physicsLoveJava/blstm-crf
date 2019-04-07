@@ -1,0 +1,4 @@
+原被告 双方 2014年 经人介绍 相识 年 后 2015年 9月 21日 父母 命
+O O B_Time O B_Know O O B_Time I_Time I_Time O O
+媒人 撮合 办理 结婚 手续
+O O O B_Marry O

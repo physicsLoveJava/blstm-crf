@@ -1,0 +1,20 @@
+原 被告 1986年 10月 30日 登记 结婚
+O O B_Time I_Time I_Time O B_Marry
+1988年 8月 14日 育 女儿
+B_Time I_Time I_Time B_Bear B_Gender
+婚后 初期 感情 尚 中后期 原 被告 发生 矛盾
+O O O O O O O O B_FamilyConflict
+被告 殴打 原告 致 伤
+B_Person B_DomesticViolence B_Person O O
+2016年 3月 28日 中午 原告 父亲 家中 被告 原告 公开 承认 社会 上 离婚 女人 鲁亚桃 发生 不 正当 性关系
+O O O O O O O B_Person O O O O O O O O O B_Derailed I_Derailed I_Derailed
+2016年 4月 1日
+B_Time I_Time I_Time
+原 被告 分居
+O O B_Separation
+原 被告 2010年 1月 8日 共同 出资 贷款 形式 购买 套 坐落 天津市 津南区 双港镇 梨双 公路 南侧 新尚园 1-1-704 房屋 房屋 登记 被告 名下
+O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O O B_Wealth O O O O
+原告 曾 2017年 1月 5日 河西区 人民法院 提请 诉讼 请求 被告 解除 婚姻 关系
+B_Person O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit O O O O O
+2017年 3月 31日 法院 驳回 无奈 之下 今 法院 提请 诉讼
+B_Time I_Time I_Time O B_Judgment O O O O O O

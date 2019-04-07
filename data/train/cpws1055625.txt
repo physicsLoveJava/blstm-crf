@@ -1,0 +1,4 @@
+原告 刘某 诉称 原 被告 1993年 4月 自由 恋爱 结婚 后 生育 子 名 刘某 甲 婚后 感情 尚 好
+O O O O O B_Time I_Time O O B_Marry O B_Bear I_Bear O O O O O O O
+2012年 元月 被告 去 长沙 打工 认识 男子 杨某 同居 原告 劝说 被告 回家 被告 仍 无 悔改 心
+B_Time I_Time B_Person O O O O O B_Derailed I_Derailed O O O O O O O O O

@@ -1,0 +1,12 @@
+原 告诉 称 原 被告 1999年 上半年 经人介绍 恋爱 2001年 12月 3日 登记 结婚 2003年 1月 6日 生育 长女 某某 2004年 5月 6日 生育 次子 某某
+O O O O O B_Time I_Time O B_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time B_Bear B_Gender I_Name
+原 被告 脾气 性格各异 吵闹 打架 被告 没 付 小孩 生活费 两 小孩 都 原告 抚养 原告 无法 承受 双重 压力 情况 下 只好 小孩 送 回 娘家 抚养
+O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O
+2011年 4月 自贡市 大安区 人民法院 判决 不 准 离婚 后 被告 不 思 悔改 原告 不 分 场合 实施 家庭 暴力 原告 求助 公安
+O O O O O O O O O O B_Person O O O O O O O O B_DomesticViolence I_DomesticViolence O O O
+2012年 3月 原告 次 自贡市 大安区 人民法 起诉 被告 离婚 2012年 4月 9日 法院 判决 不 准 离婚 后 2012年 5月 原告 上诉 自贡市 中级 人民法院 2012年 8月 14日 自贡市 中级 人民法院 判决 驳回 上诉 维持 原判
+B_Time I_Time O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O B_Time I_Time I_Time O O O O B_Judgment O O O
+自贡市 中级 人民法院 判决 后 原告 至今 无法 被告 共同 生活 被告 没 回过 家 双方 处于 分居 之中 感情 没有 改善 无 好
+O O O O O O O O O O O O O O O O O B_Separation O O O O O O
+原告 起诉 本院 请求 依法 判决 原告 被告 离婚
+O O O O O O O O B_DivorceLawsuit

@@ -1,0 +1,4 @@
+原告 李某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月××日 办理 结婚 登记 手续
+O O O O O O O B_Time I_Time I_Time O B_Marry O O
+双方 均 系 再婚 婚后 二 人 感情 不和 常 家庭 琐事 吵闹 被告 殴打 原告
+O O O O O O O O O O O O O B_Person B_DomesticViolence B_Person

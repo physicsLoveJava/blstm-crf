@@ -1,0 +1,6 @@
+原告 李某 诉称 被告 闫某 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+双方 均 再婚 都 带有 子女 双方 子女 之间 不能 融洽 相处 导致 双方 生气 吵架 现 夫妻 感情 已经 破裂
+B_Person O B_Remarry O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+起诉 要求 被告 闫某 离婚
+B_DivorceLawsuit O O O O

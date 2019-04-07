@@ -1,0 +1,10 @@
+原告 段 某某 诉称 被告 2006年 5月 28日 举行 结婚 仪式 后 夫妻 名义 同居 生活 2009年 6月 5日 宁县 盘克镇 人民政府 补办 结婚 登记 手续
+B_Person O O O O B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O O
+结婚 时 系 初婚 被告系 再婚
+O O O B_Remarry B_Person B_Remarry
+共同 生活 期间 生育 两 孩子 女孩 胡某 甲 2007年 2月 6日 出生
+O O O B_Bear O O B_Gender B_Name I_Name B_Time I_Time I_Time O
+男孩 胡某 乙 2009年 6月 3日 出生
+B_Gender B_Name I_Name B_Time I_Time I_Time O
+婚初 夫妻 关系 尚 后 被告 不但 长期 实施 家庭 暴力 不 珍惜 夫妻 感情 婚姻 不 忠实 原因 致 夫妻 感情 彻底 破裂
+O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O

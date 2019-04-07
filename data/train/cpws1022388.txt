@@ -1,0 +1,6 @@
+原告 韩 某某 诉称 原 被告 系 介绍 2010年 4月 登记 结婚
+O O O O O O O O B_Time I_Time O B_Marry
+婚后 未 生育 子女
+O B_Bear I_Bear O
+婚前 缺乏 了解 婚后 未 培养 真正 夫妻 感情 双方 家务 琐事 争吵 无法 共同 生活
+O O O O O O O O O O O O B_FamilyConflict O O O

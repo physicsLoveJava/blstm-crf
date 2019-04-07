@@ -1,0 +1,4 @@
+2013年 5月 网络 相识 月 后 2013年 9月 举行 结婚 仪式 同年 10月 办理 登记 结婚 婚后 育 子 刘东材 现 5 岁
+B_Time I_Time O B_Know O O O O O O O B_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不断 二 人 小事 发生 争吵 难以 沟通
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O

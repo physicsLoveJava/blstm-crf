@@ -1,0 +1,8 @@
+原告 韩 某某 诉称 2000年 11月 16日 被告 结婚 2003年 大 女儿 出生 2011年 小 女儿 出生
+O O O O B_Time I_Time I_Time O B_Marry B_Time O B_Gender B_Bear B_Time O B_Gender B_Bear
+结婚 被告 时常 吵架 次 吵架 被告 都 大打出手 严重 躺 两 天 整个 人 面目全非
+O B_Person O O O O O O B_DomesticViolence O O O O O O O
+2011年 被告 开 第一 家 烧烤店 当时 怀孕 刚 4 月 小 店 刚 开业 时 还 好 没 多久 被告 喜好 喝酒 不管 晚上 忙 不 忙 朋友 喊 喝酒 都 不顾 去
+O O O O O O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O
+2013年 3月 8日 离开 家 现在 已经 被告 分居 8 月 现 诉至法院 请求 法院 判 令 被告 离婚
+B_Time I_Time I_Time O O O O O B_Separation B_Duration I_Duration O O O O O O O O

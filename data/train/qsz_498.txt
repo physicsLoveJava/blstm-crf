@@ -1,0 +1,6 @@
+2005年 3月 原 被告 经人介绍 相识 确立 恋爱 关系
+B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2006年 4月 18日 双方 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+2008年 8月 3日 生 儿子 张家寅
+B_Time I_Time I_Time B_Bear B_Gender B_Name

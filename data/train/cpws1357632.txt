@@ -1,0 +1,8 @@
+原告 肖某 甲诉 称 原 被告 2001年 人 介绍 相识 双方 2005年 5月 8日 新宁县 回龙镇 政府 登记 结婚
+O O O O O O B_Time O O B_Know O B_Time I_Time I_Time O O O O B_Marry
+婚后 2003年 生育 长子 肖某丙 2007年 9月 8日 生育 次子 肖某丁
+O B_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 家庭 琐事 发生 争吵 被告 外出 打工 后 双方 聚 少 沟通 少 导致 矛盾 进一步 恶化
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 认为 夫妻 感情 已经 破裂 故诉 人 法院 请求 依法 判决 原 被告 离婚
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

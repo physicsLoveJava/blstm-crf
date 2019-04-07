@@ -1,0 +1,12 @@
+原告 孙某 诉称 1992年 下半年 原 被告 经人介绍 相识 1993年 1月 10日 原 平江乡 人民政府 登记 结婚 同年 10月 26日 生育 女 取名 孙 某某
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O O O O B_Marry O B_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 双方 缺乏 了解 婚后 原、被告 性格 脾气 不 合 年 常 生活 琐事 发生 争吵 打架
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+特别 2007年 被告 移情 别恋 原 被告 没有 共同语言 被告 长期 原告 分居 同年 10月 起诉 要求 原告 离婚
+O B_Time B_Person B_Derailed I_Derailed O O O O O B_Duration O B_Separation O O O O O O
+被告 蒋某 辩称 原告 诉称 双方 相识 结婚 生育 女 情况 事实 全 不 事实
+O O O O O O O O O O O O O B_Negated I_Negated
+原告 说 外遇 原告 出 证据
+O O B_Derailed O O O
+相反 原告 长期 外 嫖娼 染 上 性病
+O B_Person O O B_BadHabit O O O

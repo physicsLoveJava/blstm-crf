@@ -1,0 +1,6 @@
+原告 陈某 起诉 称 原 被告 2001年 农历 8月 2日 农村 习俗 举行 婚礼 ×××× 年×× 月×× 日 生育 儿子 高某 乙 2003年 5月 27日 补办 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry O O O O B_Bear I_Bear O O O O O O O O O
+原 被告 婚前 缺乏 了解 婚后 发现 被告 脾气 大 夫权 思想 严重 殴打 原告 致 伤 双方 难以 共同 生活 2007年 农历 2月 底 分居 今
+O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit O B_DomesticViolence I_DomesticViolence B_Person O O O O B_Time I_Time I_Time I_Time I_Time O
+期间 原 被告 没有 来往 被告 没有 好意思 表示
+B_Time O O O O O O O O

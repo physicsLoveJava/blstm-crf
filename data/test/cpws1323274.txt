@@ -1,0 +1,14 @@
+原告 黄 XX 诉称 原告 被告 1995年 经人介绍 相识 1996年 2月 29日 登记 结婚
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 1996年 2月 1日 生育 儿子 黄 X 曾 名黄 X 黄 XX 婚后 1999年 5月 8日 生育 儿子 黄 X 莹
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name I_Name
+婚前 双方 缺乏 了解 仓促 结合 缺乏 感情 基础 婚后 双方 外出 打工 联系 极 少 感情 渐 淡 原告 外乡人 语言 风裕 习惯 差异 大 双方 感情 难以 融洽 被告 还 殴打 原告 无端 猜疑 原告 原告 丧失 一起 生活 下去 信心
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_Person O B_DomesticViolence B_Person B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+原告 2011年 9月份 之后 被告 分居 今 原告 曾 被告 协商 离婚 被告 协商 未果
+B_Person B_Time I_Time O O B_Separation O O O O O O O O O
+2012年 2月 22日 诉 灵山县 人民法院 要求 被告 离婚
+B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court O O O
+灵山县 人民法院 2012年 5月 15日 作出 2012 灵民 初字 第463 号 民事 判决书 驳回 原告 诉讼 请求
+O O B_Time I_Time I_Time O B_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+为此 请求 法院 判决 1 准予 原告 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

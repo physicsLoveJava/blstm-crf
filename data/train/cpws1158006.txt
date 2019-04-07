@@ -1,0 +1,6 @@
+登记 结婚 双方 育 子 沈甲 年月日 出生
+O O O B_Bear I_Gender B_Name B_Time I_Time
+2000年 分居 今 月 被告 孩子 生活费
+B_Time B_Separation I_Time O O O O
+2002年 原告 政策 被告 孩子 户口 迁 本市 仍 分居 无奈 原告 2007年 2008年 先后 两 次 法院 提出 离婚 请求
+O O O O O O O O O O O B_Person O O O O O O O B_DivorceLawsuit I_DivorceLawsuit

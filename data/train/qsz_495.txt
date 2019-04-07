@@ -1,0 +1,8 @@
+原被告 1992年 3月 人 介绍 相识 确立 恋爱 关系 1994年 1月份 举行 婚礼 后 共同 生活
+O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time B_Marry I_Marry O O O
+1994年 3月 13日 原被告 补办 结婚 登记 1995年 2月 23日 生育 儿子 吴 新贺 2000年 6月 5日 生育 女儿 吴妍
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚初 原被告 之间 夫妻 感情 原被告 之间 家庭 琐事 发生 争吵
+O O O O O O O O O O B_FamilyConflict
+时间 推移 原告 发现 原被告 之间 性格 不和 矛盾 逐渐 加深 现 夫妻 关系 已经 无法 维持
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 罗某 甲诉 称 原 被告 1985年 正月 经人介绍 相识 1985年 5月 1日 岳池县 新场镇 民政所 登记 自愿 结婚 婚后 夫妻 感情
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O O B_Marry O O O
+原 被告 婚后 生育 两 女 长女 罗某 乙 生于 1989年 8月 4日
+O O O B_Bear O O B_Gender B_Name I_Name B_Time I_Time I_Time I_Time
+次女 罗某丙 生于 1997年 9月 18日
+B_Gender B_Name B_Bear B_Time I_Time I_Time
+原 被告 婚后 性格 不和 发生 争吵 打架
+O O O B_FamilyConflict I_FamilyConflict O O O

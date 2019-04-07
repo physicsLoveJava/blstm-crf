@@ -1,0 +1,6 @@
+原 告诉 称 原告 被告 2008年 9月 17日 登记 结婚
+O O O O O O O O O B_Marry
+婚后 育 子 姥姥 姥爷 生活
+O B_Bear O O O O
+丰台区 房屋系 原告 婚前 购买 婚后 还贷 相应 增值 部分 应 夫妻 共同 财产 进行 分割
+O O O O O O O O O O O O B_Wealth I_Wealth O O

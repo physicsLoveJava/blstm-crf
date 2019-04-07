@@ -1,0 +1,4 @@
+原告 被告 相识 1999年 9月 21日 登记 结婚 婚后 生 子女 成人
+O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+二 人 生活 琐事 发生 争吵 动手 打架 原告 忍让 均 无 效果
+O O O O O B_FamilyConflict O B_FamilyConflict O O O O O

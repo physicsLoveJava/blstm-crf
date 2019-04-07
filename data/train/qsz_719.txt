@@ -1,0 +1,8 @@
+原告 被告 1999年 8月 26日 登记 结婚 婚后 子女 均 已 成年
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear I_Bear I_Bear I_Bear
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵
+O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict
+被告 酗酒 酒后 不 分 理由 辱骂 殴打 原告 导致 原告 伤痕 累累 原告 当时 看 孩子 尚 年幼 一再 忍让 被告 根本 不 放在眼里 高兴 都 行 稍微 不 高兴 原告 撒气 拳打脚踢 殴打 原告 有时 还 刀子 威胁 原告
+B_Person B_BadHabit O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O B_Person O O O O O O O O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O
+现在 孩子 都 成年 原告 认为 没有 必要 再 忍受 被告 这种 行为
+O O O O B_Person O O O O O O O O

@@ -1,0 +1,8 @@
+原告 徐 某某 诉称 2008年 原 被告 媒人 介绍 相识 2008年 1月 11日 阜城县 民政局 办理 结婚 登记 手续
+O O O O B_Time O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2009年 12月 8日 生育 男孩 取名 徐某
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 结婚 前 了解 少 导致 婚后 夫妻 感情 一起 生活 时 家庭 琐事 双方 吵闹
+O O O O O O O O O O O O O O O O I_FamilyConflict
+2010年 双方 没有 联系 造成 原被告 双方 矛盾 加大 导致 双方 分居 半 年 期间 孩子 原告 生活 被告 行为 导致 夫妻 间 感情 完全 破裂 段 名存实亡 夫妻 生活 原告 已 无法 维持
+B_Time O O O O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O

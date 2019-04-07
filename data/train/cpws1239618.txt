@@ -1,0 +1,6 @@
+原告 曹 某某 诉称 原告 被告 2011年 4月 网上 相识 建立 恋爱 关系
+O O O O O O B_Time I_Time O B_Know O O O
+2012年 1月 31日 双方 南充市 嘉陵区 民政局 办理 结婚 手续
+B_Time I_Time I_Time O O O O O B_Marry O
+之后 原告 未 回家 原告 分居 生活 今
+O O O O O B_Separation O O

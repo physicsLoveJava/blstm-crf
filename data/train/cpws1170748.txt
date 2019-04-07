@@ -1,0 +1,10 @@
+原告 庄某 诉称 2010年 12月 原 被告 自由 恋爱 相识 2011年 3月 21日 登记 结婚
+O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time O B_Marry
+被告 行为 导致 双方 夫妻 感情 破裂 原告 现 诉至法院 请求 法院 依法 判 令 原 被告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_DivorceLawsuit O O O O O O O O
+被告 马某 辩称 原告 感情 好 不 符合 离婚 条件
+O O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 2009年 莱钢 认识 双方 系 自由 恋爱
+O B_Time O B_Know O O O O
+2010年 农历 10月 12日 举行 订婚 仪式 2011年 3月 21日 登记 结婚
+O O O O O O O B_Time I_Time I_Time O B_Marry

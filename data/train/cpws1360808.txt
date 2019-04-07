@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2004年 农历 4月 民俗 结婚 2005年 10月 14日 生育 刘某 甲 2006年 12月 11日 海丰县 民政局 补办 结婚证 结婚 证号 粤汕 海结字 0106063XX 2006年 12月 30日 香港 生育 次子 刘某乙
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O O
+原 被告 婚前 缺乏 了解 婚后 没有 建立 夫妻 感情 被告 脾气 暴躁 生性 懒惰 琐事 大 吵 大 闹 摔 东西
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 9月 14日 被告 带领 20 名 亲友 原告 父子 进行 砸 原告 父亲 伤 原告 胞兄 刘某丙 小车 原告 父母 房屋 家私 砸烂 公安 机关 委托 评估 中心 鉴定 损坏 粤 BA95XX 小车 价值 9370 元 汕城 公鉴 告字 2013 第00019 号 被告 亲友 行为 已经 涉嫌 构成 犯罪 公安 机关 正在 侦查 之中
+O O O B_Person I_Person I_Person I_Person I_Person O O O I_DomesticViolence B_Person I_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 感情 已经 破裂 无 好 夫妻 关系 名存实亡 特 请求 法院 判决 原 被告 离婚 子女 出生 2013年 10月 都 跟随 原告 父母 共同 生活 请求 判决 子女 原告 抚养
+B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O
+4 汕尾市 城区 公安局 鉴定 意见 告知书 证明 被告 带 人 砸 原告 家人 小车 损失 9370 元 已 构成 刑事 立案 标准
+O O O O O O O O O O O O B_Person I_Person B_Wealth O B_Price I_Price O O O O O
+照片 诊断 证明 证明 被告 带 人 砸 原告 家庭 物品 伤 原告 父亲 刘 某某 事实
+O O O O B_Person I_Person I_Person O O O O I_DomesticViolence B_Person I_Person I_Person I_Person O
+2004年 4月 原 被告 结婚 至今 原告 父母 胞兄 刘某 丙 共同 生活 没有 分家 共同 生活 期间 家庭 收入 原告 父亲 名义 汕尾市 城区 南联二巷 X 号 购置 楼房 座 二 层 现 价值 50万 汕尾市 城区 海港 大厦 十八 层 购置 商品房 二 套 支付 首 期 购房款 50万 汕尾市 城区 祯祥路 9巷 X 号 购置 楼房 处 三 层 价值 30万 刘某丙 名义 深圳市 彩天 怡色 家园 购置 商品房 套 价值 300万 2012年 刘某丙 名义 购置 粤 BA95XX 小车 部 价值 10万 元
+O O O O O O O O O O O O O O O O O O O O B_Person I_Person O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

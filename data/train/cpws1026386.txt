@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2003年 古历 正月 经人介绍 相识 后 订婚 2004年 9月 23日 依法 领取 结婚 证书 同年 古历 八月 十五日 举行 婚礼 后 共同 生活
+O O O O O B_Time I_Time I_Time O B_Know O O B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O O O O O O O
+2005年 10月 6日 生育 女儿 谭某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚后 关系 不好 被告 原告 实施 家庭 暴力 原告 三 天 小 周 大 曾 殴打 原告 原告 殴打 致 昏迷
+O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O
+2013年 2月 7日 晚 新疆 被告 租 住房 内 被告汹 酒后 滋事 扬言 杀 原告 原告 活命 只身 返回 老家
+B_Time I_Time I_Time I_Time O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O B_Separation I_Separation
+被告 辩称 原告 述 被告 原告 不 事实 被告 原告 家人 发 短信 情绪 激动 语言 偏激 不 想 威胁 原告
+O O B_Person O O B_Person O O O O O O O O O O O O O O O

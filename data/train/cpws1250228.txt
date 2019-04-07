@@ -1,0 +1,6 @@
+原告 郑 某某 诉称 原 被告 2000年 广东 打工 自然 认识 后 同居 2001年 生育 儿子 包 鹏 2003年 3月 10日 双方 自愿 登记 结婚
+O O O O O O B_Time O O O B_Know O O B_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 2000年 2007年 被告 广东 务工 原告 北海 持家 2006年 生育 儿子 包 某蔚
+O O O O O O O O O B_Time B_Bear B_Gender B_Name I_Name
+后 原 被告 分居 生活 双方 次 协商 离婚 均 不 成 事
+O O O B_Separation O O O O O O O O O

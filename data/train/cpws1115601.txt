@@ -1,0 +1,6 @@
+原告 王×× 诉称 1990年 原 被告 经人介绍 认识 1991年 9月 汶上县 ××镇 人民政府 登记 结婚 1994年 7月 8日 生 男孩 取名 王×
+O O O B_Time O O O B_Know B_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚前 缺乏 了解 婚姻 基础 差 婚后 常 生活 琐事 争吵 特别 原 被告 关系 僵化 躲避 被告 无谓 争端 原告 减少 被告 一起 生活 时间 长期 外 打工 一起 形 陌路 双方 夫妻 关系 早已 有名无实
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O
+2008年 底 原告 确感 无法 继续 被告 生活 外出 打工 被告 分居 今 分别 2011年 2月 2011年 10月 法院 提起 离婚 诉讼 第一 次 原告 未 庭 参加 诉讼 法院 裁定 撤诉 处理 次 法院 判决 不准 予 离婚
+B_Time I_Time O O O O O O O O O B_Separation O O B_Time I_Time B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O B_Judgment O O O O B_Judgment I_Judgment O

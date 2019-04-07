@@ -1,0 +1,10 @@
+原 告诉 称 被告 经人介绍 相识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O O B_Marry
+1998年 农历 5月 4日 生长 女 郭某甲 现 就读 定州 二中
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+2004年 农历 8月 5日 生次 女 郭某乙 现 均 原 被告 生活
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O
+原 被告 婚前 缺乏 了解 婚后 脾气 性格 不和
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+近 二 年 被告 性格 变 古怪 怀疑 原告 外遇 为此 老 原告 大吵大闹 夫妻 关系 紧张
+O O O O O O O O B_Person B_Derailed O O O O O O O

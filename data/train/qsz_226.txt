@@ -1,0 +1,10 @@
+2015年 5月 1日 原 被告 相识 确立 恋爱 关系
+B_Time I_Time I_Time O O B_Know O B_BeInLove O
+2015年 10月 16日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+2016年 7月 6日 生育 女 张语萱
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+共同 生活 过程 中 双方 琐事 生气 吵架
+O O O O O O O B_FamilyConflict
+现 双方 夫妻 感情 彻底 破裂 2017年 12月 期间 曾 起诉 离婚 驳回 半 年 中原 被告 未 一起 生活 原告 坚持 离婚 故具状 起诉 判如所请
+O O O O O O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_Judgment O O O O O O O O O O O O O

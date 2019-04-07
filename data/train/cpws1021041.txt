@@ -1,0 +1,2 @@
+原告 傅某 起诉 称 原告 被告 彭某 2008年 初 经人介绍 认识 双方 ×××× 年×× 月××日 办理 结婚 登记
+O O O O O O O B_Time I_Time O B_Know O B_Time I_Time I_Time I_Time B_Marry I_Marry

@@ -1,0 +1,12 @@
+原告 被告系 自由 恋爱 2008年 8月 | I 日 蓟县 民政局 登记 结婚
+O O O O B_Time I_Time I_Time I_Time I_Time O O B_Marry I_Marry
+婚后 生育 婚生子 黄煜昕 2008年 10月 4日 出生 原被告 双方 婚后 感情
+O B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O
+琐事 争吵 闹 矛盾
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 长期 琐事 争吵 动手 打架
+O O O O O B_FamilyConflict
+2018年 4月份 搬 回 娘家 居住
+B_Time I_Time O O O O
+被告 分居 今
+O B_Separation I_Time

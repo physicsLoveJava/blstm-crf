@@ -1,0 +1,4 @@
+原告 孟 某某 诉称 原告 系 丧偶 被告 杜 某某 2010年 7月 19日 登记 结婚 结婚 时 原告 带 女孩
+O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O O
+原 被告 婚前 缺乏 了解 婚后 感情 不和 常 家庭 琐事 争吵 双方 没有 建立 夫妻 感情 现 夫妻 感情 已 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

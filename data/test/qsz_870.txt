@@ -1,0 +1,20 @@
+原 被告 经人介绍 相识 2006年 1月 9日 办理 结婚 登记 手续
+O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+婚后 生育 子 取名 刘 天宇 现年 14 周岁 生育 女
+O B_Bear B_Gender O B_Name I_Name O B_Age I_Age B_Bear B_Gender
+取名 刘欣雨
+O B_Name
+现年 8 周岁
+O B_Age I_Age
+婚后 双方 琐事 发生 争吵 被告 动手 原告 还 乱 砸 家里 东西
+O O O O B_FamilyConflict O O O O O O O O
+被告 曾 菜刀 原告 砍 伤
+B_Person O O B_Person B_DomesticViolence I_DomesticViolence
+原告 实在 无法 忍受 2015年 初 外租房 居住 今 现 双方 毫无 夫妻 感情 可言
+O O O O B_Time I_Time I_Separation I_Separation B_Time O O O O O O
+2015年 1月 15日 原告 曾 起诉 被告 离婚 后 调解 原告 撤诉
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit O O O O O B_Judgment
+贵院 作出 2015 蓟民 初字 第1704 号 民事 裁定书
+O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document
+2017年 5月 15日 原告 起诉 被告 离婚 开庭 调解 后婚 未 成 被告 次 伤害 原告 被告 剪刀 扎 伤 原告 右腿 原告 当时 已 报警 原告 实在 无法 忍受
+B_Time I_Time I_Time B_Person B_DivorceLawsuit O O O O O B_Judgment O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O

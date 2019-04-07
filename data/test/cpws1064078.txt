@@ -1,0 +1,4 @@
+原告 赵 某某 诉称 2001年 原告 被告 相识 2002年 2月 黄土镇 人民政府 办理 结婚 登记 婚后 感情 好 同年 生育 子 赵某乙 现年 11 岁
+O O O O B_Time O O B_Know B_Time I_Time O O O B_Marry O O O O O B_Bear I_Gender B_Name O B_Age I_Age
+2004年 某事 判 4 年 半 刑 2008年 携子 浙江 绍兴 创业 段 时间 后 孩子 父母带 孩子 读书 孩子 接到 浙江 读书 被告 小孩 犯错 体罚 儿子 站 太阳 下 暴晒 三 钟头 有时 小孩 吃饭 太 慢 被告 脚 踢 孩子 类 事情 夫妻 双方 吵闹 改变 夫妻 之间 感情 2012年 生育 女 赵某丙 现年 1 岁 响应 政策 三 代 单传 再 生育 孩子 以为 女儿 赵某丙 被告 改变 儿子 态度 事 三月 被告 以往 虐待 儿子 曾 好言 相劝 亲生 孩子 希望 关心 儿子 被告 我行我素 更 可气 2013年 7月 儿子 做 小 手术 在家 休养 母亲 病 住 进 医院 没 能力 在家 照顾 儿子 做 儿媳 没有 医院 看望 老人 还 在家 儿子 拧 青 块 紫 块
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O B_Time B_Bear I_Gender B_Name O B_Age I_Age O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

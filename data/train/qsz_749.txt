@@ -1,0 +1,10 @@
+原 被告 2013年 12月 31日 登记 结婚 共同 生活
+O O O O O B_Marry I_Marry O O
+2015年 6月 3日 生育 女儿 赵婧荧 现 三 周 零 三 月 婚前 了解 不够
+B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age I_Age I_Age I_Age O O O
+被告人 毫无 家庭 责任感 原告 母女 根本 不 关心 毫无 主见 双方 吵架 生气 发生 孩子 原告 忍让
+O O O O O O O O O O O O B_FamilyConflict O O O O O
+原告 被告 失望 婚姻 绝望 夫妻 感情 彻底 破裂 原告 2017年 2月 22日 回 娘家 居住 今 2017年 6月份 起诉 离婚
+O O O O O O O O O O B_Time I_Time I_Time B_Separation I_Separation I_Separation I_Time B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+2017年 7月 11日 原告 离婚 诉 驳回 至今 双方 互不尽 夫妻 义务 夫妻 关系 名存实亡 现 原告 起诉 离婚
+B_Time I_Time I_Time B_Person O O B_Judgment O O O O O O O O O O O O

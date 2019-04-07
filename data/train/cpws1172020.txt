@@ -1,0 +1,6 @@
+原告 王某 诉称 原 被告 经人介绍 建立 恋爱 关系 1999年 11月 26日 双方 办理 结婚 登记 手续 结婚 2002年 10月 29日 生育 儿子 李 XX
+O O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚后 夫妻 感情 常 家庭 生活 琐事 生气 致使 夫妻 感情 不和 原告 曾 2010年 4月 起诉 离婚 后 撤回 起诉 现 夫妻 感情 已 彻底 破裂 为此 请求 依法 判决 原告 王某 被告 李 某某 离婚 儿子 李 XX 被告 抚养 原告 承担 抚养费 共同 财产 依法 分割
+O O O O O O O O O O O O O O O O B_Time I_Time B_DivorceLawsuit O O B_Judgment I_Judgment O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O
+被告 李 某某 辩称 夫妻 感情 没有 破裂 不 同意 原告 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

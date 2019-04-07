@@ -1,0 +1,20 @@
+原 被告 1996年 夏
+O O B_Time I_Time
+经人介绍 建立 恋爱 关系
+O B_BeInLove I_BeInLove I_BeInLove
+1997年 12月 28日 双方 领取 结婚证 1998年 7月 11日 生育 长子 房亚旭 现 就读 大学 年级
+B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+现 双方 已 分居 三 年 有余
+B_Time O O B_Separation B_Duration I_Duration I_Duration
+2017年 原告 曾 贵院 起诉 被告 离婚 被告 未 出庭 贵院 做出 2017 津0115 民 初8476 号 民事 判决书 判决 驳回 原告 离婚 诉讼 请求
+B_Time B_Person O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+性格 不 投 被告 脾气 暴躁
+B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_BadHabit I_BadHabit
+双方 家庭 琐事 争吵
+O O O B_FamilyConflict
+每次 争吵 被告 殴打 原告 摔 砸 家中 物品
+O O B_Person B_DomesticViolence B_Person O O O O
+2015年 3月 3日 原 被告 发生 争吵 原告 离家 外 打工 被告 分居
+B_Time I_Time I_Time O O O O O O O O O B_Separation
+至今 未 同居
+B_Time O O

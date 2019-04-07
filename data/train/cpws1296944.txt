@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 育 女 戴
+O O O O O O O O O O B_Marry O O O
+原 被告 婚前 了解 不够 被告 长期 出入网 不 双方 发生 争吵 原告 造成 精神 痛苦 现 夫妻 感情 确 已 破裂 请求 法院 判 令 解除 原、被告 之间 婚姻 关系
+O O O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O

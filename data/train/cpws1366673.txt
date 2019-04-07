@@ -1,0 +1,4 @@
+原告 吴某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 双方 系 再婚 婚后 未 生育 子女
+O O O O O O O B_Time I_Time I_Time I_Time O B_Marry O O B_Remarry O B_Negated B_Bear O
+婚后 双方 性格 不和 被告 不 履行 家庭 义务 2012年 年初 被告 回 娘家 居住 生活 今 双方 分居 生活 夫妻 感情 破裂 原告 2012年 8月份 起诉 离婚 法院 判决 不 准 离婚 双方 仍 未 和好 原告 请求 法院 判决 原 被告 离婚
+O O O O O O O O O I_Time I_Time O O O O O I_Time O B_Separation O O O O B_Person B_Time I_Time B_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O O O B_Person O B_Court B_DivorceLawsuit O O O

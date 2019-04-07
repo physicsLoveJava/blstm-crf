@@ -1,0 +1,6 @@
+原告 吴某 起诉 称 原 被告 经人介绍 相恋 2012年 7月 17日 登记 结婚
+O O O O O O O O O O O O B_Marry
+2013年 7月 初 双方 感情 不 分居 今
+B_Time I_Time I_Time O O O O I_Separation
+为此 法院 起诉 要求 判 令 原 被告 离婚
+O O O B_DivorceLawsuit O O O O O

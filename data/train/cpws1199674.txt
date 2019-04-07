@@ -1,0 +1,6 @@
+原告 徐某 甲 起诉 称 被告 经人介绍 相识 1995年 结婚 婚后生 子 徐某乙 1996年 出生 现 就读 嘉善县 高级 中学
+O O O O O O O O B_Time B_Marry B_Bear B_Gender B_Name B_Time I_Time O O O O O
+被告 结婚 初期 感情 尚 育子 后 对待 培养 教育 孩子 问题 上 发生 大 分歧 被告 性格 固执 脾气 暴躁 家里 门梆 都 踹掉 包括 教育 孩子 在内 事情 都 想法 去 做 才 行 极 不易 沟通 导致 双方 吵架 家庭 气氛 不好
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O
+原告 被告 双方 已经 分居 9 年 余 减少 孩子 影响 原告 未 搬 出现 住所
+O O O O B_Separation B_Duration I_Duration O O O O O O O O O

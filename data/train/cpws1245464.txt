@@ -1,0 +1,6 @@
+原告 李 某某 诉称 原被告 2010年 11月 6日 经人介绍 相识 恋爱 2011年 11月 22日 登记 结婚 双方 均 系 再婚 无婚生 子女
+B_Person I_Person I_Person O O B_Time I_Time I_Time O B_Know B_BeInLove B_Time I_Time I_Time O B_Marry O O O B_Remarry O O
+原告 婚前 育 女 刘华阳 被告 婚前 育 女王 佳歌
+O O B_Bear B_Gender B_Name B_Person O B_Bear B_Gender B_Name
+双方 恋爱 期间 感情 尚 婚后 不久 双方 逐渐 产生 矛盾 被告 缺点 逐渐 暴露 酗酒 天天 每次 酒后 殴打 原告 存在 严重 家庭 暴力 2011年 12月 10日 中午 被告 殴打 原告 过程 中 造成 原告 左耳膜 穿孔 原告 被告 殴打 后 报警 派出所 都 记录
+O O O O O O O O O O B_FamilyConflict B_Person O O O B_BadHabit O O O O B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O

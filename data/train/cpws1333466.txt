@@ -1,0 +1,4 @@
+原 告诉 称 2009年 10月 26日 原 被告 经人介绍 认识 登记 结婚 双方 未 生育 子女
+O O O B_Time I_Time I_Time O O O B_Know O B_Marry O O O O
+之后 被告 病情 严重 需要 专人 陪护 原告 2011年 8月份 被告 送 回 娘家 俩 人 分居 今
+O O O O O O O O B_Time I_Time O O O O O O B_Separation I_Time

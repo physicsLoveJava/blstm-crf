@@ -1,0 +1,4 @@
+原告 牟某 诉称 原 被告 均 系 再婚 经人介绍 后 同居 生活 后 补办 结婚 登记 婚后 无 子女
+O O O O O O O O O O O O O O B_Marry O O O O
+2013年 2月 双方 分居
+B_Time I_Time O B_Separation

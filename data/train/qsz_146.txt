@@ -1,0 +1,4 @@
+原被告 2017年 1 刀 人 介纠 相识 建立 恋爱 关系 2017年 3月 31日 双方 登记 结婚
+O B_Time I_Time O O O B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry
+原被告 均 系 再婚 原被告 婚前 柑识 时间 短 没有 建立 感情 基础 结婚 以后 双方 没有 共同语言 纶常 争吵 打闹 造成 双方 感情 彻底 破裂
+B_Person O O B_Remarry O O O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O O O O

@@ -1,0 +1,10 @@
+原告 田 某某 诉称 原 被告 自由 恋爱 1996年 2月 8日 结婚 1998年 12月 14日 育 女孩 张某 乙 张某 乙随 原告 生活
+O O O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+原 被告 双方 生活 理念 不同 婚后 发生 冲突 被告 无端 猜测 伤害 原告 精神 情感 孩子 性格 成长 造成 不利 影响
+O O O O O O O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+原告 始终 努力 维系 家庭 双方 性格 不合 确实 无法 沟通 现 双方 已 分居 感情 已 破裂 无法 维系
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O B_Separation O O O O O
+为此 诉至法院 请求 依法 判 令 原被告 离婚
+O B_DivorceLawsuit O O O O O O
+原告 诉状 中 述 被告 无端 猜测 情况 不 属实 被告 信任 原告 更 没有 猜忌 原告 过仗
+O O O O O O O O B_Negated I_Negated O O O O O O O O

@@ -1,0 +1,8 @@
+原告 陶某 诉称 2012年 12月 原 被告 经人介绍 相识 谈婚 2013年 3月 9日 举行 结婚 仪式 后 共同 生活 2013年 5月 9日 登记 结婚
+O O O B_Time I_Time O O O B_Know O O O O O O O O O O B_Time I_Time I_Time O B_Marry
+2013年 7月 1日 双方 分居 今 现 夫妻 感情 已 彻底 破裂
+B_Time I_Time I_Time O B_Separation O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+请求 1． 依法 判 令 原 被告 离婚
+B_DivorceLawsuit O O O O O O O
+被告 张某 辩称 双方 婚前 感情 基础 好 婚后 亦 相处 好
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

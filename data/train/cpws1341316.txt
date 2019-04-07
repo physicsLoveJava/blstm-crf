@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2003年 认识 2005年 同居 生活 2006年 11月 生育 子 取名 齐 某某
+O O O O O B_Time B_Know O O O B_Time I_Time B_Bear B_Gender O B_Name I_Name
+2008年 3月 5日 府谷县 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry

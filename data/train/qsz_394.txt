@@ -1,0 +1,6 @@
+原被告 2015年 存天 经人介绍 朴识 建立 恋爱 关系 婚前 感情 般 2016年 4月 15日 双方 登记 结婚 2016年 12月 16日 双方 婚生 男孩 段昀洋 原被告 结婚 以后 家务 琐事 发牛 矛盾
+O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O O O
+双方 没有 共 问 语言 争吵 打闹
+O O O O O B_FamilyConflict I_FamilyConflict
+被告 不 关心 照顾 原告 孩 原告 家庭 和睦忍 再 忍 被告 却 不 思 悔改 造成 双方 感情 彻底 破裂
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

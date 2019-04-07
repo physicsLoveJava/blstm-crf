@@ -1,0 +1,12 @@
+2015年 10月 10日 原 被告 经人介绍 结婚 婚后 双方 性格 不合 夫妻 感情 般 被告 不务正业
+B_Time I_Time I_Time O O O B_Marry O O B_FamilyConflict I_FamilyConflict O O O B_Person B_BadHabit
+赌博成性 还 赌债 不 还
+B_BadHabit O O O O
+累 家里人 还债 为此 予以 规劝 被告 不仅 不 听 还 原告 生气 打架 有时 还 动手 殴打 原告
+O O O O O O B_Person O O O O O O O O O B_DomesticViolence I_DomesticViolence B_Person
+更 严重 被告 赌博 夜 不 宿 电话 关机 导致 原告 一两 天 联系 不 被告 夫妻 关系 恶化 现 被告 已 回 娘家 居住 双方 分居 今
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation I_Time
+综 上 原告 认为 原被告 经人介绍 结婚 婚前 见面 少 相互 不 了解 草率 结婚 婚后 被告 好 赌成性
+O O O O O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit
+家庭 原告 无 责任感 被告 原告 实施 家庭 暴力
+O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence

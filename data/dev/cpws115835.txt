@@ -1,0 +1,12 @@
+原告 王 某某 诉称 原告 被告 2006年 5月 人 介绍 相识 2007年 4月 20日 庆阳市 西峰区 民政局 登记 结婚 2008年 2月 7日 生育 女孩 取名 王 某某
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O O B_Marry B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+婚后 原、被告 寄居 原告 母亲 处 被告 无端 辱骂 原告 母亲 作风 不 检点 由此 引发 原 告 之间 矛盾 加深 被告 借机 不 回家 不 照顾 女儿
+O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O
+2010年 12月 被告 长期 不 回家 夫妻 之间 分居 长 达 三 年
+B_Time I_Time O O O O O O B_Separation O O O O
+综 上 被告 不 珍惜 夫妻 感情 原告 孩子 心灵 造成 无法 弥补 创伤 夫妻 感情 已 彻底 破裂 现 起诉 请求 判决 准予 原 被告 离婚
+O O O O O O O B_Person O O O O O O O O O O O O B_DivorceLawsuit O O O O O O
+被告 赵 某某 辩称 原告 诉状 中 述均 不 事实
+O O O O O O O O B_Negated I_Negated
+被告 不 同意 离婚
+O B_Negated I_Negated O

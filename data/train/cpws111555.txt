@@ -1,0 +1,10 @@
+原告 苏 某某 诉称 原被告 经人介绍 相识 2006年 1月 4日 登记 结婚 2007年 5月 28日 生育 女孩 取名 石某 甲 现在 被告 处
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+婚前 交往 少 了解 不够 结婚 以来 两 人 感情 不 被告 无心 过日子 两 人 时常 琐事 争吵 现 已 感情 破裂 无法 共同 生活 坚决 要求 离婚 婚生 女孩 石某 甲 原告 抚养 被告 不 支付 抚养费 原告 财产 原告 所有 共同 财产 共同 债权 平均 分割
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 石 某某 庭 审 中 口头 辩称 原告 说 不 符合 事实 原告 态度 同意 离婚 不过 要求 抚养 孩子 原告 可不 支付 抚养费
+B_Person O O O O O O O O O O O O O O O O O O O O O O O O
+房子 婚前 父母 盖
+B_Wealth B_PersonalProperty O O
+打工 工资 六 七万 左右 原告 处 要求 两 人 平分
+B_Wealth I_Wealth O O O O O O O O O

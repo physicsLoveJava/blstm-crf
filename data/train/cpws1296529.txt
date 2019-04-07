@@ -1,0 +1,8 @@
+原 告诉 称 原告 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年××月 生育 儿子 取名 吴 某乙
+O O O O O O O O O O B_Marry O O B_Bear O O B_Name I_Name
+婚后 原 被告 生活 段 时间 后 被告 不良 生活 习惯 脾气 暴露 无疑 家人 脏话 不 断 恶语中伤 原告
+O O O O O O O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O
+更有甚者 被告 受 母 唆使 4月 17日 原告 实施 家庭 暴力 使 原告 彻底 看 清 被告 本性 继续 婚姻 生活 失去 信心
+O O O O O B_Time I_Time O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+被告 父母 每天 热衷 外 在家 打牌 麻将 被告 参与 打牌 半夜 1 2 点
+O O O O O O B_BadHabit I_BadHabit O O O O O O O

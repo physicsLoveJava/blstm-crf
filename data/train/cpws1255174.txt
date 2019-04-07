@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1999年 相识 2000年 7月 28日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+双方 婚后 感情 不好 2004年 7月 22日 女儿 罗某 出生 双方 关系 未 得到 改善
+O O O O B_Time I_Time I_Time B_Gender B_Name B_Bear O O O O O
+原告 曾 2011年 6月 28日 法院 起诉 要求 离婚 法院 调解 后 双方 达成 调解 协议 之后 被告 未 改变 出现 外遇 致使 原告 段 婚姻 彻底 死心
+B_Person O B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment O B_Person O O O B_Derailed O O O O O O
+请求 判决 原 被告 离婚 婚生 小孩 原告 抚养 分割 夫妻 共同 财产 被告 承担 本案 诉讼 费用
+O O O O O O O O O O O B_Wealth I_Wealth O O O O O

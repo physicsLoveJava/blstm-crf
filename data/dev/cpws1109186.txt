@@ -1,0 +1,14 @@
+原告 黄某 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 名 潘某乙 现在 慈溪市 三山 高级 中学 读 高二
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O
+原 被告 婚初 夫妻 感情 尚 儿子 出生 后 原 被告 常 琐事 发生 争吵 被告 原告 非 骂 致使 原告 儿子 身心 遭受 严重 创伤
+O O O O O O O O O O O O O O B_FamilyConflict B_Person B_Person B_DomesticViolence I_DomesticViolence O O O O O O O
+2008年 5月 原告 曾 原 被告 夫妻 感情 破裂 为由 法院 提起 离婚 诉讼 后 调解 夫妻 好 原告 撤回 起诉
+B_Time I_Time B_Person O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment
+时隔 五 年 被告 仍 恶习 不 改 变本加厉 终日 不务正业 原告 规劝 无动于衷 还 原告 实施 家庭 暴力
+O O O B_Person O B_BadHabit I_BadHabit I_BadHabit O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+考虑 儿子 已 成年 原告 决心 法院 提起 诉讼 请求 判 令 1． 准予 原 被告 离婚
+O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+现在 被告 每天 都 勤勤恳恳 劳动 未 参与 赌博 染 恶习
+O O O O O O B_Negated B_BadHabit I_BadHabit I_BadHabit I_BadHabit
+原 被告 共同 生活 中 生活 琐事 发生 争吵 未 发生 原告 说 被告 原告 实施 家庭 暴力
+O O O O O O O O O I_Negated I_Negated O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence

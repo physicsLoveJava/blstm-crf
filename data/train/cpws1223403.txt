@@ -1,0 +1,4 @@
+原 告诉 称 被告 2011年 3月 经人介绍 认识 2012年 1月 17日 政府 登记 结婚 不久 农村 风俗 举行 结婚 仪式
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O O O O O
+婚后 双方 生活 环境 生活 习惯 事情 处理 方法 大 差别 引起 矛盾 越来越 无法 共同 生活 坚决 要求 离婚
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O

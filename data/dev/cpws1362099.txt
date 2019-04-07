@@ -1,0 +1,8 @@
+原告 张某 诉称 原 被告 双方 1991年 人 介绍 相识 1991年 12月 26日 登记 结婚 1993年 生 子 张某甲 现 已 成年 2006年 生 子 张某乙
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry B_Time B_Bear B_Gender B_Name O O B_Age B_Time B_Bear B_Gender B_Name
+原 被告 双方 婚后 段 时间 感情 尚 2005年 原 被告 双方 之间 便 家庭 琐事 吵闹 矛盾 加剧
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现原 被告 双方 早已 分居 夫妻 感情 已经 破裂
+B_Duration I_Duration I_Duration I_Duration B_Separation O O O O
+原 被告 双方 感情 没有 好转 矛盾 进一步 加剧 双方 已 无法 共同 生活 下去 双方 夫妻 感情 确 已 破裂 现 依据 中华人民共和国 婚姻法 规定 诉 人民法院 请求 法院 判 令 准予 原、被告 双方 离婚 婚生子 张某 乙 原告 抚养 诉讼费 原告 承担
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit B_Court O O O O O O O O O O O O O O O O

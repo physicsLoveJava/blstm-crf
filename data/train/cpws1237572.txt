@@ -1,0 +1,10 @@
+原告 周 XX 诉称 原 被告 2008年 底 经人介绍 相识 原告 年龄 大 双方 了解 不 深 情况 下 2009年 10月 10日 登记 结婚
+O O O O O O B_Time O O B_Know O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2010年 10月 11日 生育 女 名 陈 XX
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原告 宽容 谅解 被告 被告 仍 不断 欺骗 原告 致使 夫妻 产生 矛盾
+O O O O O O O O O O O O B_FamilyConflict
+原 被告 分居 已 二 年 夫妻 感情 已 完全 破裂 起诉 院 要求 被告 离婚 要求 婚生 女儿 原告 共同 生活 被告 每月 付 女儿 生活费 人民币 1 500 元
+O O B_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O
+同年 11月 6日 双方 发生 小 矛盾 被告 离家 散心 主要 逗留 网吧
+O O O O O O B_FamilyConflict O O O O O O

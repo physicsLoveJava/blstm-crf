@@ -1,0 +1,10 @@
+原 告诉 称 2012年 1月 21日 原 被告 经人介绍 相识 同年 1月 31日 原 被告 登记 结婚 2013年 1月 8日 生 下 子 取名 朱某乙
+O O O B_Time I_Time I_Time O O O B_Know B_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear O B_Gender O B_Name
+婚后 被告 原告 异常 冷漠 不仅 没有 承担 维系 家庭 责任 时常 琐事 原告 发生 争吵 动手 人
+O B_Person O O O O O O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence
+双方 生育 小孩 后 被告 亦 未 做 父亲 责任 拒绝 抚养 小孩 小孩 出生 后 不久 原告 发现 被告 女子 同居 关系 原告 曾 给予 被告 机会 拒 不 改正 双方 感情 已 完全 破裂
+O O O O O O O O O O O O O O O O O O O B_Person I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O
+2 原 告诉 称 被告 人 同居 不 事实
+O O O O B_Person I_Derailed I_Derailed B_Negated I_Negated
+双方 婚后 购 汽车 按揭 购买
+O B_CommonProperty O B_Wealth O O

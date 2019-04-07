@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2003年 3月 14日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time I_Time O B_Marry O O
+婚后 2003年 11月 27日 生 女儿 取名 王某 甲 就读 定边县 育才 小学
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O
+2012年 7月 25日 被告 去 北门 看 父亲 儿子 晚上 回来 婆婆 女儿 面扇 原告 两 耳光 7月 26日 中午 原告 无法 忍受 离家 出走 8月 28日 欲 起诉 离婚 不 出 结婚证 身份证 不 立案 后 法院 调解 被告 执意 原告 净身 出 户 未能 解决 原告 便 只 身 外地 打工 生活 再 未 回去 夫妻 感情 已 破裂 原告 法院 提起 诉讼 请求 1 准予 原 被告 离婚
+O O O O O O O O O O O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

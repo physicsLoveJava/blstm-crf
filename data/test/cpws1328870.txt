@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 双方 经人介绍 相识 恋爱 1996年 9月 7日 浙江省 桐庐县 莪山 畲族乡 人民政府 登记 结婚 1996年 11月 22日 生育 子 取名 郑某甲 现年 18 岁
+O O O O O O O B_Know I_Know B_Time I_Time I_Time O O O O O O B_Marry B_Time I_Time I_Time B_Bear I_Gender O O O O O
+原 被告 婚前 缺乏 了解 婚后 性格 不合 难以 沟通 双方 时 争吵 2012年 3月 分居 今
+O O O O O O O O O O O O O B_Time I_Time B_Separation I_Time
+婚姻 关系 存续 期间 双方 创造 共同 财产 杭州 xxx 市场 商铺 二 间 计 52．5 平方米 价值 346500 元 余杭 良渚 xxxx 市场 商铺 4 间 计 建筑 面积 288 平方米 价值 1450000 元 现 尚 按揭 贷款 50万 元 未 还
+O O O O O O O O B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O B_Wealth I_Wealth B_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty I_CommonProperty O B_Wealth I_Wealth O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O O
+双方 感情 现 已 完全 破裂 原告 诉至法院 请求 法院 判 令 1 原 被告 离婚
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O

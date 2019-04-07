@@ -1,0 +1,6 @@
+生育 两 子 均 已 成年
+B_Bear O B_Gender O O B_Age
+双方 2010年 分居 今 原告 患病 被告 不尽 照顾 扶持 义务 不顾 家
+O B_Time B_Separation I_Time O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 王某 辩称 原告 所述 不 事实 家庭 日常 事务 均 依赖 人
+O O O B_FamilyConflict I_FamilyConflict B_Negated I_Negated O O O O O O

@@ -1,0 +1,6 @@
+原告 程 某某 诉称 原 被告 经人介绍 相识 2012年 2月 28日 东明县 民政局 登记 结婚
+O O O O O O O O B_Time I_Time I_Time O O O B_Marry
+原 被告 婚前 缺乏 了解 婚后 被告 无事生非 原告 开口 便 骂 动手 便 原告 两 次 怀孕 均 被告 流产 被告 持续 家庭 暴力 原告 身心 造成 伤害
+O O O O O O B_Person O B_Person O O O O O O O O O O O O O O O O O O O O
+原告 伤病 被告 不 治疗 原告 钱 治病 已经 花 去 四万 余 元 至今 未 愈 原 被告 无法 共同 生活 特 具状 起诉 要求 被告 离婚
+O O O O O B_Person O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O

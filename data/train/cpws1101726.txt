@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 2009年 经人介绍 认识 婚前 认识 时间 短 婚后 没有 共同语言 被告 不 关心 原告 现在 夫妻 感情 已 彻底 破裂 请求 被告 离婚 法院 依法 支持 原告 诉讼 请求
+B_Person I_Person O O O B_Time O B_Know O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

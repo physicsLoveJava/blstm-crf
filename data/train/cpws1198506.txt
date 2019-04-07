@@ -1,0 +1,8 @@
+原告 王×诉 称 原 被告 1988年 4月 人 介绍 相识 1989年 4月 24日 登记 结婚 1990年 4月 6日 生 女 刘×1 婚初 双方 感情 和睦 2007年 被告 听信 矛盾 位 同事 传言 后 原告 妄加 猜疑 不仅 言语 侮辱 原告 拳脚 相加 导致 婚姻 无法 维系 2008年 12月 原告 被迫 搬 回 娘家 双方 分居 至今
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O B_Person O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O B_Time I_Time B_Separation I_Separation I_Separation I_Separation I_Separation O O B_Time
+2010年 原告 夫妻 感情 破裂 诉至法院 要求 离婚 驳回 之后 双方 关系 未 改善 被告 继续 张贴 启事 方式 原告 进行 侮辱 毁谤 至此 双方 感情 已 无 和好 原告 诉至法院 要求 被告 离婚 分割 夫妻 共同 财产 坐落 北京市 丰台区 北 甲地 号 院 号 楼×层 ×号 房屋 套 照顾 女方 子女 利益 照顾 无 错方 原则 分割 时 原告 给予 分 原告 母亲 买 原告 100 克 金条 被告 处 要求 被告 返还 被告 付 原告 精神 损害 抚慰金 1万 元 分居 之后 抚养 孩子 刘×1 费用 10万 元 被告 负担 本案 诉讼 费用
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+坐落 北京市 丰台区 北甲地 ×号 房屋 被告 单位 分 被告 不 同意 原告 分割
+O O O O O B_Wealth B_PersonalProperty I_PersonalProperty I_PersonalProperty I_PersonalProperty O O O O
+双方 分居 时 孩子 已 成年 不 存在 抚养费 精神 损害 抚慰金 不 认可 原告 出轨 始终 不 被告 解释 清楚 五 张 照片 事 被告 要求 原告 支付 精神 损害 抚慰 金 44万 元
+O O O O O O O O O O O O O O B_Person B_Derailed O O O O O O O O O O O O O O O O O O O

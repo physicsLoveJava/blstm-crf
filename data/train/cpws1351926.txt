@@ -1,0 +1,8 @@
+原告 徐敏诉 称 被告 王振 勇于 1991年 自由 恋爱 1994年 5月 18日 登记 结婚 1995年 9月 20日 举行 婚礼 1997年 7月 22日 婚生一子王 XX 现在 清河 中学 读 高一
+O O O O O O B_Time O B_BeInLove B_Time I_Time I_Time O B_Marry O O O O O B_Time I_Time I_Time B_Bear B_Name O O O O O
+被告 王振勇 婚前 缺乏 了解 婚后 双方 感情 不和 发生 争吵
+O O O O O O O O O O B_FamilyConflict
+被告 王振勇 性格 反复 无常 无故 发脾气 嗜赌 命 好逸恶劳 行为 已 严重 影响 正常 工作 生活 家中 开支 仅 做 点 服装 生意 维持 夫妻 感情 已经 破裂
+B_Person I_Person O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O
+被告 王振勇 辩称 原告 徐敏所 述 不 事实 发生 矛盾 原因 原告 徐敏 生意 淡 老 外面 玩 晚 才 回家
+O O O O O O B_Negated I_Negated O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

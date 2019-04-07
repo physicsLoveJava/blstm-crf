@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 1992年 经人介绍 相识 1994年 4月 16日 安乡县 安昌乡 人民政府 办理 婚姻 登记 1995年 2月 15日 生 男孩 周超
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 喜欢 打牌 为此 双方 争吵 打架 双方 分居 已 达 6 年 达
+O O O O O O B_FamilyConflict I_FamilyConflict O B_Separation O O B_Duration I_Duration O
+2012年 10月 左右 被告 无端 怀疑 原告 外遇 原告 遍体鳞伤
+O O O B_Person O O O O I_DomesticViolence I_DomesticViolence
+遂 2012年 11月 19日 安乡县 人民法院 起诉 要求 离婚 原告 考虑 小孩 参加 高考 怕 影响 小孩 学习 2012年 11月 26日 撤诉 撤诉 后 被告 一如既往 猜疑 原告 打骂 原告 原告 认为 夫妻 感情 已 彻底 破裂
+O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O
+维护 原告 合法 权益 遂 具状 起诉 请求 法院 判 令 原 被告 离婚
+O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

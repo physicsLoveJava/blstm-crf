@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1998年 2月 26日 经人介绍 订婚 2000年 8月 24日 政府 登记 结婚 2001年 9月 7日 生育 女 曹 甲 2004年 9月 29日 生育 子 曹某乙
+O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 家庭 生活 常年 外 打工 少 被告 同居 生活
+O O O O O O O I_Separation I_Separation I_Separation I_Separation
+共同 生活 期间 被告 少 关爱 原告 双方 生活 琐事 生气 吵架 夫妻 关系 差 被告 婚生 孩子 不 不 问 曹某甲 曹某乙 常年 被告 父母 生活 被告 种种 行为 致使 夫妻 感情 彻底 破裂 诉至法院 请求 被告 离婚
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 辩称 1998年 2月 被告 曹某丙 经人介绍 订婚 2000年 8月 24日 曹某丙 哥哥 曹 某某 身份 被告 办理 结婚 登记 结婚证 上 照片 曹某丙
+O O O O O O O O B_Time I_Time I_Time O O O O O O B_Marry I_Marry I_Marry O O O O

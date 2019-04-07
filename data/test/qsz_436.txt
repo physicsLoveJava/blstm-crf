@@ -1,0 +1,6 @@
+2014年 4月份 原 被告 经人介绍 相识 确立 恋爱 关系 双方 2014年 8月 19日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活
+B_Time I_Time O O O B_Know O B_BeInLove O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O
+2016年 8月 21日 原告 生育 子 杨佳霖 被告 从不 关心 孩子 使 原告 孩子 不 体会 家人 关爱 原 被告 双方 常常 家庭 琐事 生气 吵架 2017年 4月 原告 具状 起诉 贵院 出具 2017 津0119 民 初4569 号 民事 判决书 驳回 原告 离婚 诉讼 请求
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit B_Court O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+2016年 11月份 原告 带领 孩子 回到 娘家 宝坻区 生活 原 被告 没有 联系 原告 认为 夫妻 感情 已 彻底 破裂 原告 贵院 提起 离婚 诉讼 贵院 出具 2018 津0119 民 初687 号 民事 判决书 驳回 原告 离婚 诉讼 请求
+B_Time I_Time O O O B_Separation I_Separation O O O O O O O O O O O O O B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

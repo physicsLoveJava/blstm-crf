@@ -1,0 +1,8 @@
+原告 周某 诉称 原 被告 双方 系 村人 2000年 上半年 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O B_Time I_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 原告 发现 被告 性格 软弱 无能 父亲 言听计从 原告 无法 忍受 被告 父亲 骚扰 侵害 2011年 7月 5日 被迫 离家 出走 分居 生活 今
+O B_Person O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time O O O B_Separation O O
+诉请 法院 请求 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚后 共同 存款 26万 元 双方 平分
+O B_CommonProperty B_Wealth B_Price I_Price O O

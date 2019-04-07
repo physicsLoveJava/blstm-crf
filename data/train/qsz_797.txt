@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 均 系 再婚
+B_Person I_Person O O O O B_Remarry
+2016年 4月 19日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O
+婚前 缺乏 了解 婚后 双方 发现 夫妻 感情 不合 常常 家庭 琐事 生气 吵架 时至今日 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O

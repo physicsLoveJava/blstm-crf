@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2007年 5月 底 经人介绍 相识 ×××× 年×× 月××日 高阳县 民政局 登记 结婚
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry
+婚前 认识 时间 短缺乏 了解 婚后 发现 性格 不合 双方 吵架 原告 受到 被告 威胁 恐吓 已经 严重 影响 家人 正常 生活 双方 长期 分居 夫妻 关系 名存实亡 感情 彻底 破裂
+O O O O O O O O O O B_FamilyConflict B_Person O O B_FamilyConflict I_FamilyConflict O O O O O O O B_Duration B_Separation O O O O O O
+请求 法院 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

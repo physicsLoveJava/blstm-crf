@@ -1,0 +1,2 @@
+原告 王某 甲诉 称 2011年 10月 原被告 认识 2012年 5月 28日 办理 结婚 登记 手续 婚前 缺乏 了解 感情 基础 薄弱 双方 生活 习惯 不同 尤其 被告 大 男子 主义 严重 性格 暴躁 喝酒 赌博 不务正业 外 找 情人 夜 不 宿 原告 恶言 恶语 拳打脚踢 婚后 不 二 年 两 次 家庭 暴力 流产
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O B_Person O O O O B_FamilyConflict I_FamilyConflict O O O O B_Derailed I_Derailed O O O B_Person O O B_DomesticViolence O O O O O O O O O

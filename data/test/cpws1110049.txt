@@ -1,0 +1,8 @@
+原告 潘某 诉称 1994年 1月 原 被告 经人介绍 相识 确立 恋爱 关系 仅 相识 两 月 后 1994年 3月 4日 登记 结婚 婚姻 形式 属 女方 出嫁 男方 家庭 生活 婚后 1995年 3月 9日 生育 女儿 张城峰 已 成年
+O O O B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O B_Marry I_Marry O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O
+相识 时间 太 短 结婚 故婚 前 双方 缺乏 了解 纯属 草率 结合 婚后 双方 长期 矛盾 不 断 被告 脾气 相当 暴躁 原告 遭到 被告 殴打 致 伤 2012年 4月 原告 不堪 被告 家庭 暴力 外出 务工 今 现 原告 丧失 被告 共同 生活 信心
+O O O O O O O O O O O O O O O O O O O O O O O B_Person O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Time I_Time O O O O O B_Separation I_Separation I_Time O O O O O O O
+原告 曾 2013年 2月 26日 人民法院 起诉 离婚 法院 判决 驳回 原告 诉讼 请求 后 原 被告 仍 未 和好 双方 感情 现 已 彻底 破裂
+O O B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment O O O O O O O O O O O O O O O
+2 原告 起诉状 中 陈述 诬告 原告 出走 双方 争吵 句 原告 说 玩 后 无缘无故 离家 出走 找 原告 月
+O O O O O B_Negated O O O B_FamilyConflict O O O O O O O O O O O

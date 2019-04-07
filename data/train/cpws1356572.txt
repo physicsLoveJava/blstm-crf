@@ -1,0 +1,4 @@
+原告 饶某 诉称 原 被告 2011年 9月 21日 办理 离婚 登记 后 亲友 要求 下 2013年 9月 22日 重新 领取 结婚证 婚后 夫妻 感情 没有 和好 初 未 建立 牢固 婚姻 基础 原 被告 家庭 琐事 争吵 夫妻 感情 已 彻底 破裂 无 好 起诉 要求 被告 离婚
+O O O O O O O O O O O O O O O O O O O O B_Remarry O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+被告 谭某 辩称 原告 诉原 被告 夫妻 感情 破裂 事实 不符
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

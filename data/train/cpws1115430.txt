@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 ×××× 年×× 月××日 西湖区 民政局 登记 结婚 婚后 生育 子 名 俞昊
+O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear I_Gender O B_Name
+婚后 被告 赌博 欠 下 大笔 赌债 家庭 子女 不 不顾 还 无端 原告 实施 家庭 暴力
+O B_Person I_BadHabit O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence

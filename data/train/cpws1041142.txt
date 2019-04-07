@@ -1,0 +1,8 @@
+原告 刘 某某 诉称 2009年 4月 20日 原被告 武城县 民政局 登记 结婚 农历 2010年 2月 5日 生 女孩 王某 乙
+O O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 认识 今 共同 相处 时间 少 没有 建立 真正 夫妻 感情
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 王某 甲 辩称 1 原被告 夫妻 感情 好 感情 没有 破裂 被告 不 同意 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2 双方 女儿 已经 4 岁 不 同意 离婚
+O O O O B_Age I_Age O O O

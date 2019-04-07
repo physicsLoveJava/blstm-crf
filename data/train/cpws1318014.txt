@@ -1,0 +1,4 @@
+原告 马 某某 诉称 被告 2010年 经人介绍 相识 2011年 9月 26日 登记 结婚 婚后 无 子女
+O O O B_DivorceLawsuit O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O
+被告 婚后 感情 琐事 争吵
+O O O I_FamilyConflict I_FamilyConflict

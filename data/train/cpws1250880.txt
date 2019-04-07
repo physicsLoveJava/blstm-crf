@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2009年 相识 同年 8月 27日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+后 被告 遭 国外 公司 诈骗 损失 巨大 家庭 生活 陡 遭 变故 被告 一心 想 挽救 公司 不顾 原告 反对 透支 原告 信用卡 300000 余 元 导致 原告 银行 追 债 处境 十分 被动
+O O O O O O O O O O O O O O O O O O O O O O O O B_Price I_Price I_Price O O O B_Debt I_Debt O O O

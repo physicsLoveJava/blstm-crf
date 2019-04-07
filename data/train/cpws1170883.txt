@@ -1,0 +1,6 @@
+原 告诉 称 被告 2012年 10月份 经人介绍 认识 2013年 元月 16日 登记 结婚
+O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry
+双方 均 系 再婚
+O O O B_Remarry
+共同 生活 期间 性格 不合 吵 无法 共同 生活
+O O O O O I_DomesticViolence O O O

@@ -1,0 +1,4 @@
+原 被告 2009年 人 介绍 相识 2013年 3月 1日 办理 婚姻 登记 手续 共同 生活 2012年 3月 8日 生育 子 李雨硕 六 周岁 现 双方 感情 确 已 破裂 具体 理由 1 沟通 交流 困难
+O O B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Age I_Age O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2 双方 琐事 发生 口角 争吵
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

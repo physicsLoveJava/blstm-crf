@@ -1,0 +1,6 @@
+原告 王某 甲诉 称 被告 均 系 再婚 1999年 12月 16日 登记 结婚
+B_Person O O O I_Person O O B_Remarry B_Time I_Time I_Time B_Marry I_Marry
+被告 喝酒 命 习惯 近些年 酒 越 喝 越 凶 每天 都 喝 上 斤 喝 完 酒 打架 耍酒疯 胡说八道 半 宿 时间 使 不 休息
+B_Person B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O
+年 始终 都 感情 已 没有 已经 破裂 不 想 再 女人 生活 下去 请求 法院 判决 离婚
+O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

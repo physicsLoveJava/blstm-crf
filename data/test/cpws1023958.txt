@@ -1,0 +1,14 @@
+原告 支某 起诉 称 原 被告 1991年 介绍 相识 确定 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚 1993年 8月 25日 生育 子 取名 郑某乙
+O O O O O O B_Time O B_Know O B_BeInLove I_BeInLove B_Time I_Time I_Time I_Time I_Time B_Marry B_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name
+婚后 双方 1998年 浙江省 ××镇 符家村 舍湖山 共同 建造 房屋 幢
+O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth
+被告 婚后 原告 实施 家庭 暴力 长期 异性 保持 不 正当 男女 关系
+O B_Person O B_Person I_Person B_DomesticViolence I_DomesticViolence O O O O B_Derailed I_Derailed
+2010年 9月 原 被告 分居 生活 今 夫妻 感情 已经 完全 破裂
+B_Time I_Time I_Time O O O B_Separation O B_Time O O O
+原告 诉至法院 要求 被告 离婚 分割 位于 常山县 ××镇 ××家村 舍湖山 ×× 土砖×× 层 半 房屋 幢 估价 200000 元 被告 承担 本案 诉讼 费用
+O O O O O O O O O O O O O O O O O O O O I_Price I_Price O O O
+被告 认为 并未 原告 实施 家庭 暴力 原告 诉称 异性 保持 不 正当 男女 关系 不 事实
+O O O O O O O O O O O O O O O O B_Derailed
+原告 2010年 9月 离家 至今 未 期间 曾 异性 关系 暧昧 被告 原告 仍 感情 愿意 继续 原告 共同 生活
+I_Derailed I_Negated O B_Person I_Person B_Time B_Separation I_Separation O O O O O B_Derailed I_Derailed O O O O O

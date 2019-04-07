@@ -1,0 +1,6 @@
+原告 赖某 起诉 称 原 被告 2010年 4月 1日 嵊州市 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+双方 2010年 12月 28日 生育 ×× 女 取名 王祎
+O B_Time I_Time I_Time B_Bear O B_Gender O B_Name
+原 被告 婚前 相处 时间 短 交往 不 深 奉子成婚 草率 登记 致使 婚后 感情 ×× 般 外加 被告 婚后 不 工作 家庭 支 无 收 双方 矛盾 进×× 步恶化 两 人 争吵
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

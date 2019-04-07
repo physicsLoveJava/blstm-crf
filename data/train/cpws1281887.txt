@@ -1,0 +1,6 @@
+原告 李某 诉称 原 被告 1983年 9月 6日 介绍 结婚 1984年 6月 15日 生育 男孩 取名 李 某某
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+1987年 6月 9日 生育 男孩 取名 李某 辉
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+原 被告 性格 不合 家庭 琐事 发生 争吵 原 被告 分居 七八年 感情 确 已 破裂 特具状 起诉 要求 法院 判决 1 准予 原 被告 离婚
+O O O O O O O O O O B_Separation B_Duration O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

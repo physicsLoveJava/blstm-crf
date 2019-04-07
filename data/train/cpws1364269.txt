@@ -1,0 +1,12 @@
+原 告诉 称 原 被告 2002年 经人介绍 相识 同年 5月 27日 忠县 涂井乡 人民政府 办理 结婚 登记
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O O B_Marry O
+2005年 6月 10日 原 被告 生育 龙凤胎 儿子 江某 甲 女儿 江某 乙
+B_Time I_Time I_Time O O B_Bear O B_Gender B_Name I_Name B_Gender B_Name I_Name
+原告 曾 2010年 9月 向忠县 人民法院 起诉 离婚 后 法院 作出 不予 离婚 判决
+B_Person O B_Time I_Time B_Court I_Court B_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+被告 还 第三 保持 不 正当 关系
+B_Person O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+原 被告 婚后 感情 好 从未 吵架 打架
+O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2010年 10月 法院 判决 不 准 离婚 后 原 被告 和好 初 一同 钱 买 车 进行 经营
+B_Time I_Time B_Court B_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O

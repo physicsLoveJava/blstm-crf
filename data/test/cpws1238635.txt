@@ -1,0 +1,10 @@
+原告 赵某 诉称 被告 2011年 3月 认识 2012年 2月 男女 朋友 相处 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 侯某乙
+O O O O B_Time I_Time B_Know B_Time I_Time O O B_BeInLove B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚初 夫妻 感情 尚 共同 生活 时间 增加 发现 被告 无 好好 生活 打算 外出 喝酒 每晚 凌晨 两 三点钟 还 不 回家 收入 不 用于 家庭 生活 还 女性 互 发 暧昧 短信
+O O O O O O O O O B_Person O O O O O O O O O O O O O O O O O O O O O B_Derailed I_Derailed I_Derailed
+被告 行为 为此 发生 争吵 导致 原本 不 太 深厚 夫妻 感情 越来越 差 直至 彻底 破裂
+O O O O B_FamilyConflict O O O O O O O O O O O O
+结束 痛苦 婚姻 提起 诉讼 请求 人民法院 依法 判 令 被告 离婚 婚后子 侯某 乙 抚养 被告 承担 抚养费 共同 债务 50000 元 依法 分割
+O O O O O O O O O O O O O O O O O O O O B_Debt B_Price I_Price O O
+被告 侯某 甲 辩称 不 同意 离婚 夫妻 关系 好 不 外出 喝酒 同事 玩会 没有 女性 互 发 暧昧 短信
+B_Person I_Person I_Person O O O O O O O O O O O O O O O B_Derailed I_Derailed I_Derailed

@@ -1,0 +1,6 @@
+2008年 原 被告 相识 后 确立 恋爱 关系 2009年 11月 20日 农村 习俗 举行 结婚 仪式 2014年 4月 10日 原被告 双方 民政部门 补办 结婚 登记 手续 双方 生育 女王 铭妍 现年 9 岁 生育 子 王铭宇 现年 5 岁
+B_Time O O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry O B_Bear I_Gender B_Name O B_Age I_Age B_Bear I_Gender B_Name O B_Age I_Age
+婚前 缺乏 了解 草率 结婚 婚后 未 建立 真挚 夫妻 感情 琐事 发生 争吵 每次 吵架 后 被告 都 离家 出走 孩子 不 不顾
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+2018年 6月 15日 双方 琐事 吵架 后 被告 回 娘家 居住 今
+B_Time I_Time I_Time O O O O O B_Separation I_Separation I_Separation I_Time

@@ -1,0 +1,40 @@
+原告 被告 1998年 经人介绍 确立 恋爱 关系 1999年 4月 20日 领证 结婚 婚后 2006年 10月 30 口 生 女
+O O B_Time O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender
+原告 2011年 12月 7日 第一 次 起诉 请求 被告 解除 婚姻 关系
+B_Person B_Time I_Time I_Time O O B_DivorceLawsuit O O O O O
+出 法院 调解 判 不 离婚
+O O O B_Judgment I_Judgment I_Judgment
+至今 关系 直 没有 好转 分别 居住 女儿 不 原告 解触 接触
+O O O O O B_Separation I_Separation O O O O O
+期间 2012-6-26 2015-11-26 2017年 10月 都 起诉 判决 不 同年 11月 上诉 判 不
+O B_Time B_Time B_Time I_Time O B_DivorceLawsuit B_Judgment I_Judgment B_Time I_Time B_DivorceLawsuit B_Judgment I_Judgment
+2016年 12月 2017年 8月 30日 分别 起诉 均 判 不
+B_Time I_Time B_Time I_Time I_Time O B_DivorceLawsuit O B_Judgment I_Judgment
+两 人 生活 2010年 没有 睡 屋 更 没有 夫妻 生活
+O O O B_Time B_Separation I_Separation I_Separation O O O O
+5 去年 起诉 后 已经 外 居住
+O B_Time O O O I_Separation I_Separation
+不 同意 离婚 没 感情 破裂 没有 分居
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Negated B_Separation
+原 被告 1998年 10月 人 介绍 相识 确立 恋爱 关系 1999年 4月 20日 登记 结婚 2006年 10月 30日 婚生 女 贾乐然 双方 均 系 初婚
+O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name B_Person O O B_Remarry
+2011年 分床 居住 2017年 11月 搬 出 外租房 居住
+B_Time B_Separation I_Separation B_Time I_Time B_Separation I_Separation I_Separation I_Separation
+不 认可 周 一多半 时间 在家 居住 不 认可 外租房 居住 。
+O O O O O O O B_Negated I_Negated I_Separation I_Separation O
+原 被告 婚前 婚后 初期 感情 尚 后 2011年 生活 琐事 争吵
+O O O O O O O O O O O B_FamilyConflict
+性格 不合 生活 习惯 相差 大 被告 无 理由 怀疑 原告 外遇 被告 挑拨 孩子 之间 感情 被告 不 尊重 原告
+B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+原告 2011年 11月 14日 本院 起诉 要求 被告 离婚 后 本院 审理 判决 驳回 原告 诉讼 请求 后 原告 分别 2012年 6月 26日 2015年 11月 26日 本院 起诉 要求 被告 离婚 均 自愿 撤诉 2016年 9月 9日 原告 本院 起诉 要求 被告 离婚 后 本院 审理 作出 2016 津 0103 民初 8948 号 民事 判决书 判决 驳回 原告 诉讼 请求 原告 提起 上诉 天津市 中级 人民法院 作出 2016 津02 民终 6073 号 民事 判决书 判决 驳回 上诉 维持 原判 2017年 8月 30日 原告 向本院 提起 诉讼 要求 被告 离婚 判决 驳回 诉讼 请求
+B_Person B_Time I_Time I_Time B_Court B_DivorceLawsuit O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O B_Person O O O O B_Time I_Time I_Time B_Court B_DivorceLawsuit O O O O B_Judgment I_Judgment B_Time I_Time I_Time B_Person B_Court B_DivorceLawsuit O O O O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment B_Person B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Court O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment O O B_Time I_Time I_Time B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment
+贾乐然 2006年 10月 30日 出生 现年 12 岁 经济 状况 好 学历 高 被告 打骂 孩子 没有 好好 照顾 孩子 主张 抚养 被告 坚持 要求 抚养权 同意 被告 抚养
+B_Name B_Time I_Time I_Time B_Bear O B_Age I_Age O O O O O B_Person B_DomesticViolence B_Person O O O O O O O O O O O O O
+婚后 购买 天津市 河西区 黑牛城 道 富 满 里 16 门 401 号 登记 原告 名下 认可 共同 财产
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O B_CommonProperty I_CommonProperty
+原 2006年 购买 一汽 威乐 汽车 辆 登记 原告 名下
+O O O B_Wealth I_Wealth I_Wealth I_Wealth O O O
+无 债务
+O B_Debt
+均 没有
+O B_Negated

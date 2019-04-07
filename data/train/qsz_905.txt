@@ -1,0 +1,6 @@
+2012年 6月 21日 原告 被告 天津市 蓟州区 民政局 领取 结婚证 被告 蓟州区 下窝头镇 嘴头村 共同 生活
+B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O O
+2010年 8月 11日 生育 婚 生长 女王 田恬 2013年 6月 29日 生育 婚生次 女王 家栋
+B_Time I_Time I_Time B_Bear O B_Gender I_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender I_Gender B_Name
+2016年 初 原告 离开 蓟州区 去 北京 打工 发现 被告 不知 上进 出轨 高息 恶习 遂 没有 回 蓟州区 被告 居住 婚后 没有 共同 财产 。
+O O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O B_Separation I_Separation I_Separation I_Separation I_Separation O B_Negated B_CommonProperty B_Wealth O

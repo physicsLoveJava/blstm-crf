@@ -1,0 +1,12 @@
+原 告诉 称 2008年 农历 十一月 被告 当地 习俗 举行 婚礼 2009年 4月 21日 进行 结婚 登记 婚前 了解 少 婚后 夫妻 性格 不合 夫妻 间 吵嘴
+O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry O O O O O B_FamilyConflict I_FamilyConflict O O I_FamilyConflict
+2010年 6月 天 XX 村 男子 找到 我家 被告 闹事 男子 称 被告 勾搭 妻子 最终 被告 3700 元 算作 了结 此事 村里人皆知 被告 做法 严重 伤害 使 陷入 苦恼 心情 不好 村里 打牌 未 料 被告 拳打脚踩 全身 伤
+B_Time I_Time O O O O O O O O O O B_Person B_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2011年 正月 被告 嫌 花钱 进行 殴打
+B_Time I_Time B_Person B_FamilyConflict I_FamilyConflict O B_DomesticViolence
+2011年 今 被告 分居 生活 被告 不 双方 曾 协商 离婚 被告 同意 离婚 钱 经济 困难 没 钱
+B_Time I_Time O B_Separation O O O O O O O O O O O O O O O
+被告 已 无 感情 请求 判决 被告 离婚 前夫 生 女儿 生活 陪嫁 财产 共同 财产 依法 分割
+O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Wealth I_Wealth O O O O
+被告 辩称 原告 经人介绍 相识 相处 时间 不 长 便于 2009年 4月 21日 登记 结婚 同年 4月 举行 婚礼 仪式 原告 再婚 带有 2 岁 女孩 婚后 原告 好吃懒做 不 洗 衣服 不 做饭 不 干 家务 整天 麻将 打发 时光 花钱 流水 维持 家 忍气吞声 所有 家务 全 包揽 原告 提出 女儿 上 保险 钱 交纳 5400 元 上 保险 更 恨 夜间 拒之门外 忍无可忍 情况 下 吵 句 原告 便 带 上 家中 所有 现金 存款 跑 后 打听 才 知 跑 北京 原告 父亲 利用 维护 家庭 心切 骗 北京 六 月工 挣 下 工资 18000 元 只 3000 元 剩余 15000 元 全部 原告 占有
+O O O O O O O O O O O O O B_Marry I_Marry B_Time I_Time O B_Marry I_Marry B_Person B_Remarry O O O O O O B_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O I_BadHabit O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

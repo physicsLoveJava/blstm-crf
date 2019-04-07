@@ -1,0 +1,6 @@
+原告 韩某 诉称 2009年 农历 1月 6日 经人介绍 被告 订亲 2010年 农历 12月 16日 举行 典礼 仪式 ×××× 年×× 月××日 办理 结婚证
+O O O B_Time I_Time I_Time I_Time B_Know O O O O O O O O O B_Time I_Time I_Time O B_Marry
+2012年 5月 22日 生 女孩 取名 史孜琰
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 婚前 不够 了解 婚后 发现 被告 脾气 性格 不合 吵架 被告 吵架 被告 全家人 一同 争吵 被告 已经 失去 信心 夫妻 感情 已 彻底 破裂 2012年 6月 19日 携 女 离开 被告家 回到 娘家 居住 今
+O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O

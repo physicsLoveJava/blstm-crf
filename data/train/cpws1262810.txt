@@ -1,0 +1,4 @@
+原告 毛某 诉称 婚前 被告 原告 恶毒 辱骂 嘲讽 婚后 原告 怀孕 做 月子 期间 被告 辱骂 原告 扬言 原告 耳光
+O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+原告 诉至法院 要求 法院 依法 解除 原、被告 之间 夫妻 关系
+B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

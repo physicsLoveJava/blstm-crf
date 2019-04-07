@@ -1,0 +1,10 @@
+原 告诉 称 原告 被告 认识 恋爱 时 年龄 尚 小 考虑 不 成熟 双方 年龄 差异 大 遭 家人 反对 同居 生活 怀 身孕 后 被告 结婚 双方 婚姻 感情 基础 差
+O O O O O O B_BeInLove O O O O O O O O O O O O O O O O B_Bear I_Bear O O O O O O O O
+婚后 性格 脾气 不 合 家庭 经济 困难 被告 做 生意 借债 造成 双方 矛盾 不 断 发生 吵闹
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+原告 早 外出 务工 务工 所得 收入 十万 余 元 寄 回家 交给 被告 家庭 义务 双方 仍 家庭 生活 琐事 发生 矛盾
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+原 被告 感情 不 已 分居 三 年 夫妻 感情 已经 破裂 无 好 要求 被告 离婚
+O O O O O B_Separation B_Duration I_Duration O O O O O O O O O
+原告 外出 务工 家庭 商议 之后 才 去 被告 在家 照看 家庭 带 养 儿子 履行 责任
+O O O O O O O O O O O O O O B_Gender O O

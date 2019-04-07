@@ -1,0 +1,6 @@
+原告 李某 诉称 2011年 7月 原 被告 经人介绍 相识 同年 9月 22日 双方 自愿 登记 结婚 婚前 缺乏 了解 感情 基础 薄弱
+O O O B_Time I_Time O O O B_Know O B_Time I_Time O O B_Marry I_Marry O O O O O O
+2012年 10月 原 被告 发生 矛盾 双方 分居 今
+B_Time I_Time O O O B_FamilyConflict O B_Separation O
+2013年 原告 长清区 人民法院 提起 离婚 诉讼 法院 2013年 5月 10日 作出 2013 长民 初字 第765 号 民事 判决书 判决 双方 不准 离婚 文书 下达 后 双方 均 未 做 和好 工作 感情 却 已 破裂
+B_Time O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O

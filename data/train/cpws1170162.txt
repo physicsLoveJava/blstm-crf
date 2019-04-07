@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time O B_Marry
+婚后 生育 女 现 已 成年
+O B_Bear I_Gender B_Age I_Age I_Age
+原 被告 婚前 感情 基础 差 婚后 性格 不合 家庭 琐事 争吵 原 被告 夫妻 感情 确 已 破裂 原告 诉至法院 请求 依法 判 令 原 被告 离婚 诉讼费 被告 承担
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O

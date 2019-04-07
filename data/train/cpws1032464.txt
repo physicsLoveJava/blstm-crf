@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 初婚 夫妻 关系 尚 未 生育 子女
+O O O O O B_Time I_Time I_Time I_Time O B_Marry O O O O B_Bear I_Bear O
+后 家庭 琐事 常常 发生 矛盾 一起 居住 双方 互 不 理睬
+O O O O O B_FamilyConflict O O O O O O

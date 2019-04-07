@@ -1,0 +1,10 @@
+原告 王某 诉称 原 被告 2007年 7月 经人介绍 相识 相恋 2008年 2月 登记 结婚 2009年 7月 13日 生 女儿 金某
+O O O O O B_Time I_Time O B_Know B_BeInLove B_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 性格 不合 没有 共同语言 缺少 交流
+O O B_FamilyConflict I_FamilyConflict O O O O
+被告 借口 工作 需要 外 应酬 晚 回家 平时 原告 家人 不 尊重
+O O O O O O I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict I_FamilyConflict
+原告 提出 想 生育 二 胎 被告 不 同意 双方 为此 生活 琐事 时 争吵 2013年 5月 双方 发生 争吵 被告 动手 原告 原告 一气之下 搬 回 娘家 居住 双方 分居
+O O O O O O O O O O O O O O B_FamilyConflict B_Time I_Time O O O B_Person O O O O O O O O O B_Separation
+现 夫妻 感情 破裂 诉至法院 请求 判 令 原 被告 离婚
+O O O O O O O O O O B_DivorceLawsuit

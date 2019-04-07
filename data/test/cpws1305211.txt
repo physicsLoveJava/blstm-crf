@@ -1,0 +1,26 @@
+原告 王某 起诉 称 被告 江某 甲 1997年 5月 内蒙古 养蜂 住 原告 家里 原告 相识
+O O O O O O O B_Time I_Time O O O O O O B_Know
+当时 原告 年幼无知 被告 恋爱
+O O O O B_BeInLove
+双方 ×××× 年×× 月×× 日 生育 女 取名 江某 乙
+O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+×××× 年×× 月×× 日 生育 子 取名 江某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 ×××× 年×× 月××日 办理 结婚 登记 手续
+O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚姻 存续 期间 双方 无 夫妻 共同 财产 共同 债权 债务
+O O O O B_Negated O B_Wealth I_Wealth B_Credit I_Credit B_Debt
+双方 生活 琐事 发生 争吵
+O O O O B_FamilyConflict
+放 不 下 儿女 原告 忍耐 2012年 8月 才 法院 起诉 离婚
+O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit
+后 法院 审理 判决 驳回 原告 离婚 诉请
+O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+双方 仍 分居 两地 现 夫妻 感情 已 完全 破裂 原告 诉请 法院 判 令 1 准予 原 被告 离婚
+O O B_Separation O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+被告 没有 上进心 开车 赚 不 钱
+B_Person O O O O O O
+有时候 开 一会儿 车 去 赌博 原告 觉得 不 下去
+O O O O O B_BadHabit O O O O
+双方 共同 房产 原告 不要
+O B_Wealth I_Wealth O O

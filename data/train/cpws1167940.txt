@@ -1,0 +1,6 @@
+原告 刘某 诉称 原被告 双方 1989年 相识 1992年 1月 1日 登记 结婚 1993年 1月 27日 婚生 子 刘希呈
+O O O O O B_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name
+感情 不和 2011年 11月份 双方 分居 今
+O O B_Time I_Time O B_Separation I_Time
+解除 双方 名存实亡 夫妻 关系 婚姻法 相关 规定 特 提起 诉讼 请求 法院 依法 判 令 1 准予 原被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

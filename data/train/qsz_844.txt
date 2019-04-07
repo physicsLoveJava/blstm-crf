@@ -1,0 +1,4 @@
+被告 经人介绍 相识 2010年 11月 26日 办理 结婚 登记 手续
+O O O B_Time I_Time I_Time O B_Marry I_Marry O
+2011年 6月 24日 生育女 取名 金昱妇 双方 性格 不合
+B_Time I_Time I_Time B_Bear O B_Name O O O

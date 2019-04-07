@@ -1,0 +1,12 @@
+原告 蒋 某某 诉称 原 被告 1989年 人 介绍 相识 恋爱 1990年 1月 举行 结婚 仪式 后 共同 生活 1991年 10月 18日 补办 结婚 登记 1991年 11月 生 子 取名 蒋某 现 已 成年
+O O O O O O B_Time O O B_Know B_BeInLove O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time B_Bear B_Gender O B_Name O O O
+婚前 缺乏 了解 婚姻 基础 薄弱 婚后 性格 不合 生活 琐事 发生 矛盾
+O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict
+2008年 原 被告 分居
+B_Time O O B_Separation
+2009年 4月 原告 曾 院 起诉 要求 离婚 后 法院 调解 原告 撤诉
+B_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment
+至今 夫妻 关系 未能 得到 改善 夫妻 感情 彻底 破裂 特 法院 起诉 要求 判决 离婚 诉讼费 被告 承担
+O O O O O O O O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+原 被告 共有 三 间 房屋 应 儿子 蒋某 所有
+O O B_CommonProperty B_Wealth I_Wealth I_Wealth O O O O

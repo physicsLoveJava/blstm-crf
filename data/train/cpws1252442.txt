@@ -1,0 +1,8 @@
+原告 蔡某 甲诉 称 2000年 原 被告 广东 打工 期间 相识 恋爱 2001年 3月 20日 东安县 川岩乡 人民政府 登记 结婚 婚后 生育 两 小孩 女孩 蔡某 乙 男孩 蔡某丙
+O O O O B_Time O O O O O B_Know B_BeInLove B_Time I_Time I_Time O O O B_Marry I_Marry O B_Bear O O B_Gender B_Name I_Name B_Gender B_Name
+双方 认识 时间 短 了解 不够 性格 上 差异 双方 常 家庭 琐事 发生 争吵 导致 夫妻 感情 出现 裂痕
+O O O O O O O O O O O O O O B_FamilyConflict O O O O O
+被告 不 信任 原告 常 怀疑 原告 外遇 导致 夫妻 感情 进一步 恶化 造成 双方 目前 已 分居 达 年 久
+O O O O O O O O O O O O O O O O O B_Separation O O O
+被告 蒋 某某 辩称 原 被告 婚姻 基础 好 双方 完全 了解 情况 下 自愿 结婚 婚后 感情 融洽 没有 分居
+O O O O O O O O O O O O O O O O O O O O B_Separation

@@ -1,0 +1,6 @@
+原告 被告 2017年 10月份 相识 确立 恋爱 关系
+O O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 2018年 2月 8日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 婚后 无 感情 可言 根本 无法 沟通 夫妻 根本 无 共同语言 原告 根本 感受 不 婚姻 家庭 温暖 婚后 夫妻 处于 分居 状态
+O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O O B_Time O O B_Separation O

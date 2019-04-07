@@ -1,0 +1,2 @@
+原 被告 经人介绍 相识 1997年 5月 5日 办理 结婚 登记 手续
+O O O O B_Time I_Time I_Time O B_Marry O O

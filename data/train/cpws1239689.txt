@@ -1,0 +1,4 @@
+原告 王某 诉称 原 被告 2004年 12月份 经人介绍 相识 2006生一子 肖某 后 双方 2009年 登记 结婚 原告 系 初婚 被告系 再婚
+O O O O O B_Time I_Time O B_Know B_Bear B_Name O O B_Time O B_Marry B_Person O B_Remarry B_Person B_Remarry
+双方 婚前 感情 原告 王某 发现 被告 肖某 赌博 恶习 后 双方 为此 争吵 被告 肖某 不尽 家庭 义务 赌博 欠 赌债 导致 夫妻 感情 彻底 破裂
+O O O O O O B_Person I_Person B_BadHabit O O O O B_FamilyConflict O O O O O B_BadHabit O O O O O O O

@@ -1,0 +1,4 @@
+原告 徐某 诉称 原 被告 ×××× 年×× 月××日 邹城市 民政局 登记 结婚 同年 ×× 月×× 日生 男孩 林某 乙 婚前 缺乏 了解 婚后 发现 被告 酗酒 酒后 打骂 原告
+O O O O O B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O B_Person I_BadHabit O B_DomesticViolence B_Person
+2012年 5月 28日 原告 曾 起诉 离婚 法院 判决 不 准 离婚 后 双方 未 好 夫妻 感情 已 彻底 破裂 请求 法院 依法 判决 原 被告 离婚 婚生 男孩 被告 抚养
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

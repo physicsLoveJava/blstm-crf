@@ -1,0 +1,18 @@
+原 被告 2015年 5月 相识 确立 恋爱 关系
+O O B_Time I_Time B_Know O B_BeInLove O
+2016年 6月 30日 天津市 河东区 民政局 办理 结婚 登记 2016年 8月 28 口 举行 结婚 典礼
+B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O O O
+2017年 6月 20日 生育 子 商耘
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚初 原 被告 感情 尚 原 被告 婚前 相互 了解 不 透彻 感情 基础 薄弱 性格 冲突 大 双方 生活 中长期 家庭 琐事 发生 矛盾 争吵
+O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+以上 种种 原因 致使 原告 长期 处于 苦闷 痛苦 之中 原 被告 夫妻 感情 逐渐 破裂 2018年 8月 分居
+O O O O O O O O O O O O O O O O B_Time I_Time B_Separation
+性格 不合 家庭 琐事 发生 争吵 18年 8月 被告 使用 原告 淘宝 账号 进行 刷单 返现 不 合 规 行为 原告 进行 劝阻 淘宝 账号 密码 更改 情况 下 双方 发生 大 矛盾 被告 原告 打电话 威胁 儿子 楼上 扔 下去 原告 去 死 原告 半夜 开车 工作 地点 回家 发现 房屋 门 反锁 将门 破坏 后 双方 发生 大 冲突 家长 调解 双方 没有 达成 谅解 激化 矛盾 原告 认为 主要 原因 被告 自我 中心 思想 严重 夫妻 生活 中 原告 缺乏 体谅 不 重视 原告 正常 交流 导致 原被告 之间 夫妻 感情 逐渐 破裂 2018年 8月份 分居 今 没有 好 迹象
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time B_Separation I_Time O O O
+原告 被告 所述 18年 9月 3日 分开 家 属实
+O O O B_Time I_Time I_Time B_Separation I_Separation O
+被告 答辩 提到 原告 砸 东西 动手 人 情况 不 属实 事实上 被告 先 原告 进行 打骂 被告 打骂 原告 情况 下 原告 才 被迫 被告 推搡 举动
+O O O B_Person O O O I_DomesticViolence O O O O B_Person O B_Person O B_DomesticViolence O O O O O O O O O O O
+原告 代理人 刚 说 不 属实 两 确实 互 掐 只 扇 原告 嘴巴 后面 原告 觉得 动手 动手 扇 一下 后面 扇 组 后面 踹人 愈演愈烈
+O O O O O O O O O O O B_DomesticViolence B_Person O O B_Person O B_DomesticViolence O O O O O O O O O

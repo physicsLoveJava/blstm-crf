@@ -1,0 +1,8 @@
+原告 余某 诉称 原 被告 经人介绍 认识 ×××× 年×× 月×× 日经 政府 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 儿子 许某 乙
+O O O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 草率 成婚 婚后 性格 不合 双方 生活 琐事 发生 争吵 被告 不 履行 家庭 义务 儿子 出生 后 儿子 许某 乙 均 原告 照顾 被告 从未 儿子 进行 抚养 使 原 被告 未 建立 真正 夫妻 感情
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O
+为此 原告 2013年 2月 26日 天台县 人民法院 起诉 要求 被告 离婚 天台县 人民法院 2013年 3月 27日 作出 2013 台 天民 初字 第255号 判决 判决 驳回 原告 诉讼 请求 法院 判决 后 被告 从未 原告 沟通 双方 夫妻 感情 仍 未 改善 儿子 许某 乙 原告 照顾 跟随 原告 生活 原 被告 2009年 下半年 分居 生活 今 夫妻 感情 确 已 破裂 原告 起诉 1 要求 法院 判 令 原 被告 离婚
+O O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit O O O O O B_Time I_Time I_Time O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 2004年 经人介绍 认识 双方 了解 后 2006年 办理 结婚 登记 手续 后 双方 生育 儿子 许某 乙 原 被告 婚前 感情 基础 好 婚后 原、被告 夫妻 感情 好 被告 不 同意 离婚
+O O B_Time O B_Know O O O B_Time B_Marry I_Marry I_Marry I_Marry O O B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O O O

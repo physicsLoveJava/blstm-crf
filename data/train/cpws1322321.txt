@@ -1,0 +1,10 @@
+原 告诉 称 原告 被告 经人介绍 相识 2011年 11月 5日 北京市 朝阳区 民政局 登记 结婚
+B_Person I_Person O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry
+原被告 婚后 初期 感情 尚 夫妻 双方 性格 差异 大 日常 琐事 争吵 产生 争执 日积月累 造成 原被告 夫妻 感情 破裂 现 原被告 已经 无法 共同 生活
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O
+诉至法院 请求 1 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+依法 平均 分割 北京市 顺义区 xxxxxx 房屋 以下 简称 xxxxxx 号 房屋 婚后 还贷 金额 31200 元 2011年 11月 2013年 12月 增值 部分 319323 元 一半
+O B_CommonProperty I_CommonProperty O O O B_Wealth O O O O O O B_Wealth I_Wealth B_Price I_Price O O O O B_Wealth I_Wealth B_Price O O
+要求 判 令 车牌号 京 NVXXX 铃木 天宇 原告 所有 被告 折价 款 2万 元
+O O O B_Wealth O O O O O O O O O O O

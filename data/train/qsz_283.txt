@@ -1,0 +1,12 @@
+1993年 四月 确定 恋爱 关系 1993年 10月 25日 登记 结婚
+B_Time I_Time O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+1994年 8月 26日 生 子 取名 王 峨婚 初 原 被告 便 常 发生 争吵 后 争吵 愈演愈烈
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O O O O O
+被告 脾气 暴躁
+B_Person B_BadHabit I_BadHabit
+晚 回家
+I_BadHabit I_BadHabit
+2015年 4月 被告 离家 出走 不辞而别
+B_Time I_Time O O O O
+双方 分居 生活 今
+O B_Separation O I_Time

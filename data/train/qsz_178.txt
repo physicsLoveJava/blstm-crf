@@ -1,0 +1,10 @@
+原告 被告 1987年 3月份 经人介绍 相识
+O O B_Time I_Time O B_Know
+双方 1989年 7月 15日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 婚后 生育 子 韩鑫博 2004年 11月 28日生 女 已 成年 就读 大学 婚后 夫妻 感情
+O O B_Bear B_Gender B_Name B_Time I_Time I_Time B_Gender B_Age I_Age O O O O O
+打架 事 常有 发生 夫妻 间 无 共同语言 根本 无法 沟通
+B_FamilyConflict O O O O O O O O O O
+夫妻 已 分居 二 年 余 间 没有 好 表示
+O O B_Separation B_Duration I_Duration I_Duration O O O O

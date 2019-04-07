@@ -1,0 +1,6 @@
+原告 陈 某某 诉称 原 被告 2005年 1月 13日 登记 结婚 婚后 关系 2005年 10月 7日 生 男孩 名叫 陈某甲
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O B_Bear I_Bear O B_Name
+2011年 正月 刚 完 年 被告 离家 念头 原告 一气之下 被告 后 被告 送 医院 治疗 交 完 治疗费 后 原告 带 孩子 外出 打工 未 被告 共同 生活
+O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O
+被告 家庭 矛盾 离家 出走 至今 已 两 年 以上 夫妻 关系 名存实亡 现 原告 要求 被告 离婚 孩子 原告 生活
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

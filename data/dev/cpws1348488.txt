@@ -1,0 +1,8 @@
+原告 罗光 南诉 称 原告 被告 2008年 2月 19日 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+婚后 被告 娘家 居住 不 肯 原告 家 定居 原告 家 都 去 请 请 才 住 一两 天 回 娘家 事实 造成 原告 被告 居 方 无法 培养 夫妻 之间 感情 双方 没有 共同语言 夫妻 关系 已 名存实亡
+O O I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2012年 年初 原告 曾 罗城 法院 提起 诉讼 请求 被告 离婚 法院 2012年 2月 29日 作出 2012 罗民 初字 第103 号 民事 判决 判决 不 准 离婚 之后 被告 娘家 居住
+B_Time I_Time B_Person O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O B_Time I_Time I_Time O B_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment O O O O
+被告 韦红芳 辩称 2008 原告 被告 经人介绍 认识 同年 2月 19日 双方 自愿 登记 结婚 婚后 夫妻 恩恩爱爱 来来往往 原告 家 干 农活 家务 夫妻 感情 深 双方 有着 共同 心愿 外地 挣钱 回家 盖 房子
+O O O B_Time O O O B_Know O B_Time I_Time O O O B_Marry O O O O O O O O O O O O O O O O O O O O O

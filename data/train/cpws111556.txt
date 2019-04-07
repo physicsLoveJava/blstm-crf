@@ -1,0 +1,6 @@
+原告 赵 某某 诉称 原被告 经人介绍 2007年 11月 15日 登记 结婚 婚后 无 子女 二 人均 系 再婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Person I_Person O B_Remarry
+2010年 春天 二 人 发生 争吵 后 原告 娘家 居住 今 期间 双方 便 毫无 联系
+B_Time I_Time O O B_FamilyConflict I_FamilyConflict O O I_Separation I_Separation O O O O O O
+被告 郭 某某 庭 审 中 口头 辩称 不 同意 离婚 原告 说 时间 都 事实 原告 走 时 没有 打架 走后 家人 去 接 次 没有 回来
+O O O O O O O O O O O O O O O I_Negated O O O O O O O O O O O O

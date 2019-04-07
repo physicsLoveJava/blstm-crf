@@ -1,0 +1,6 @@
+原告 梁某 诉称 原告 经人介绍 被告 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 成 某乙
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2011年 农历 9月 18日 被告 带 女儿 回 娘家 居住 分居 今 使 夫妻 感情 彻底 破裂 已 无 和好
+B_Time I_Time I_Time I_Time O O O O O O B_Separation O O O O O O O O O
+原告 要求 被告 离婚 婚生 女 成 乙 原告 生活 返还 原告 陪 送 嫁妆
+O O O O O O O O O O O B_Person B_Wealth I_Wealth I_Wealth

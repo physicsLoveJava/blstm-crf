@@ -1,0 +1,4 @@
+原告 被告 2011年 登记 结婚 婚后 育 子 李俊杰 现年 7 岁
+O O B_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见 为此 双方 2013年 协议 离婚 后 家人 劝说 双方 2016年 2月 5日 复婚 婚后 双方 矛盾 不 断 争吵 不 休 长此以往 婚姻 生活 原告 实在 难以忍受
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O B_Person O O O B_Remarry O O O O O O O O O O O O O O

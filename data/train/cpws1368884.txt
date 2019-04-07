@@ -1,0 +1,6 @@
+原告 张甲诉 称 双方 2004年 10月 认识 2006年 12月 12日 登记 结婚 2008年 4月 15日 生 子 张乙
+O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 矛盾 增多 时常 琐事 争吵 导致 双方 感情 已经 破裂 诉至法院 请求 判 令 1 原 被告 离婚
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit O O O O O O O
+2 婚生子 张乙 原告 抚养 抚养费 不 需要 被告 支付
+O B_Bear B_Name O O O O O O O

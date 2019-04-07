@@ -1,0 +1,12 @@
+原 被告 经人介绍 2015年 11月 11日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 感情 2017年 11月 15日 生育 女 杨薇 双方 共同 生活 后 发现 被告 没有 家庭 责任
+O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O
+原告 女 不尽 抚育 义务 琐事 发生 矛盾 特别 原告 生育 女孩 后 被告 家庭 成员 有意 刁难 原告
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+被告 曾 次 原告 进行 欧
+B_Person O O B_Person O B_DomesticViolence
+顾及 关系 原告 没有 报案 双方 分居 生活 半 年 久
+O O O O O O B_Separation O B_Duration I_Duration I_Duration
+唯有 高婚 才 解除 原告 精神 痛苦 双方 婚后 购买 被告 单位 福利 楼房 套 缴纳 首付款 140000 元 原告 主张 70000 元
+O O O O O O O O O O O O B_Wealth I_Wealth O O O B_Price I_Price O O O O

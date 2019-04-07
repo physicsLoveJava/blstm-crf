@@ -1,0 +1,6 @@
+原 告诉 称 被告系 经人介绍 相识 2008年 12月 3日 眉县 婚姻 登记处 登记 结婚 2009年 农历 2月 29日 生育 子 取名 周志新 2011年 农历 10月 9日 生育 女 取名 周某乙 现 两 子女 被告 家中 生活
+O O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Gender O B_Name B_Time I_Time I_Time I_Time B_Bear I_Gender O B_Name O O O O O O
+婚后 才 发现 双方 没有 共同语言 经济 上 被告 不 不 问 最 无法 忍受 被告 家务事 殴打 今年 10月份 被告 分居 今
+O O O O O O O O O O O O O O O B_Person O B_DomesticViolence B_Time I_Time O B_Separation O
+现 夫妻 感情 确 已 破裂 请求 依法 判 令 被告 离婚 婚生 女 抚养 夫妻 共同 财产 依法 分割 诉讼费 被告 承担
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

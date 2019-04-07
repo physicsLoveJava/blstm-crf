@@ -1,0 +1,10 @@
+原被告 2010年 初 经人介绍 相识 建立 恋爱 关系
+O B_Time I_Time O O O B_BeInLove O
+2010年 5月 原告 被告 天津市 武清区 杨村镇 经营 砂石料 丁 2011年 2月 14日 生育 子 郭 章浩
+O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2013年 5月 21日 补 办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry O O
+双方 系 自主 婚姻 婚后 未能 建立 真挚 夫妻 感情 常 生活 琐事 争吵 打架 被告 平日 个务正业 原告 施 家庭 暴力 原告 怀孕 期间 仍 实施 家庭 暴力 常 原告 生命 造成 威胁
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+原告 报警 公安 武清 分局 下 朱庄 派出所 出警 没有 制止 被告 暴力 行为 原告 2017年 2月 起诉 被告 离婚 武清区 人民法院 2017 津0114 民 初 1503 号 判决书 判决 不 准 离婚
+O O O O O O O O O O O O O O B_Person B_Time I_Time B_DivorceLawsuit O O B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment I_Judgment

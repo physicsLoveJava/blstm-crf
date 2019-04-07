@@ -1,0 +1,18 @@
+原 被告 系 同事 关系 双方 2011年 8月 相识 20124 4月 双方 确定 恋爱 关系 2013年 6月 双方 登记 结婚 共同 生活
+O O O O O O B_Time I_Time B_Know B_Time I_Time O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time O B_Marry I_Marry O O
+原告 2016年 5月 诉讼 离婚
+B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit
+天津市 河西区 人民法院 2016年 8月 10日 作出 2016 津 0103 民初 4653 号 判决驳 原告 诉请
+B_Court I_Court I_Court B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+原告 2017年 起诉 天津市 河西区 人民法院 2017年 5月 12日 作出 2017 津0103 民 初 3479 号 判决 驳回 原告 诉请 原告 继续 上诉 离婚 天津市 中级 人民法院 2017年 9月 11日 作出 2017 津02 民终 4734 号 判决 驳回 上诉
+B_Person B_Time B_DivorceLawsuit B_Court I_Court I_Court B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Court B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment
+审 住房 公积金 养老 保险 缴费 部分 分割
+O B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth O
+审 双方 共同 债权 债务
+O O O B_Credit B_Debt
+均 没有
+O B_Negated
+均 原 被告 名下 存款 所有
+O O O O B_Wealth O
+1. 杨潇 被告 张智勇 离婚 2. 双方 名下 坐落 天津市 西青区 梨双路 津港 公路 交口万 花苑 16-1-604 室 被告 张智勇 所有 余 贷款 被告 张智勇 偿还 已 偿还 完毕 调解书 生效 日 十 日 内 原告 协助 被告 办理 不动 产权 转移 登记 手续 办理 不动 产权 转移 登记 手续 花 费用 被告 张智勇 承担 办理 不动 产权 转移 登记 手续 十日 内 被告 张智勇 付 原告 人民币 500000 元 已 交 本院 保管款 账户 调解书 生效 日 30 日 内 被告 张智勇 付 原告 杨潇 偿还 诉争 房屋 贷款 5000 元 包括 公积金 部分 按揭 部分 住房 问题 自行 解决 3. 婚姻 关系 存续 期间 双方 住房 公积金 养老 保险 缴费 部分 所有 4. 无 纠葛
+O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth O O O O

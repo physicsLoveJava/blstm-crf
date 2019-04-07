@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 2013年 3月 14日 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+原告 系 初婚 被告系 再婚
+O O O O B_Remarry
+婚后 发现 被告 品质 不好 乱 搞 两性 关系
+O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+诉至法院 请求 判决 原 被告 离婚
+B_DivorceLawsuit O O O O O

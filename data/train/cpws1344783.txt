@@ -1,0 +1,8 @@
+原告 孔某 诉称 被告 经人介绍 认识 2010年 8月 13日 登记 结婚 2010年 8月 23日 生育 子
+O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender
+被告 婚前 了解 少 婚姻 基础 不 牢固 婚后 常 琐事 吵闹 被告 赌博 不 家庭 生活 努力 工作
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict B_Person B_BadHabit O O O O O
+被告 陈某 辩称 感情 好 吵闹 夫妻 感情 没有 达到 完全 破裂 程度
+B_Person O O O O O O O O O O O O
+原告 陈述 不 事实 从未 赌博
+O O B_Negated I_Negated O B_BadHabit

@@ -1,0 +1,8 @@
+原 告诉 称 被告 经人介绍 2008年 2月 14日 登记 结婚 婚前 商定 男 女家 生活 婚后 2008年 10月 10日 生育 女 静怡
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O B_Time I_Time I_Time B_Bear I_Gender I_Name
+婚前 双方 缺乏 了解 婚后 女儿 吃 奶粉 母亲 吃 药 看病 造成 家庭 困难 夫妻 二 人 发生 口角 被告 常年 外 打工 分文 不 家里 钱 使 家庭 生活 都 无法 维持
+O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+招 被告 毒打
+O B_Person B_DomesticViolence
+2012年 3月 分居 今 女儿 跟随 生活 被告 不 不 问
+B_Time I_Time B_Separation I_Time O O O O O O O

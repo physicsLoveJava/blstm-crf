@@ -1,0 +1,4 @@
+原告 李某 甲诉 称 原 被告 婚后 共同 生活 期间 双方 性格 差异 大 无 共同语言 未 建立 好 夫妻 感情
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O
+被告 生性 懒惰 双方 常 家庭 琐事 发生 矛盾 2008年 后 半 年 分居 生活 致 夫妻 感情 完全 破裂 起诉 请求 依法 解除 原 被告 婚姻 关系
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time I_Time B_Separation O O O O O O O O O O O O O O

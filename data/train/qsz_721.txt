@@ -1,0 +1,4 @@
+原 被告 1998年 12月 8日 登记 结婚 婚后 感情 尚 育 女 子 长女 冯蕾 已 成年 长子 冯萧 3 周岁 时间 推移
+O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Bear O O B_Gender B_Name O O B_Gender B_Name B_Age I_Age O O
+双方 感情 急转之下 琐事 争吵 双方 感情 确 已 破裂 特 贵院 提出 上述 申请
+O O O O B_FamilyConflict O O O O O O O O O O

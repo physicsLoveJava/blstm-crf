@@ -1,0 +1,8 @@
+原告 梁某 甲诉 称 1986年 初 原 被告 自由 相识 1988年 12月 14日 登记 结婚 婚后 生育 二 女 一儿
+O O O O B_Time O O O O B_Know B_Time I_Time I_Time O B_Marry O B_Bear O B_Gender B_Gender
+原 被告 婚后 性格 不合 争吵 难以 培养 夫妻 感情
+O O O O O B_FamilyConflict O O O O
+原 被告 自相识 恋爱 至今 已 30 年 婚后 生育 二 女 子
+O O O B_BeInLove O O B_Time I_Time O O O O O
+结婚 25 年 没有 吵 架
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

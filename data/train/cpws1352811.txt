@@ -1,0 +1,4 @@
+原告 张 XX 诉称 2007年 王 XX 网上 认识 2008年 3月 27日 登记 结婚 双方 均 系 再婚 婚后 三 口 家 还 和睦相处 被告 女儿 好 时间 变化 被告 渐渐 女儿 之间 感情 隔阂 越来越 大 女儿 照顾 没有 耐心 导致 母女 之间 感情 变 越来越 糟
+B_Person I_Person I_Person O B_Time O O O B_Know B_Time I_Time I_Time O B_Marry B_Person O O B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 母亲 变 不冷不热 看 眼里 疼 心里 生活 越来越 失去 信心 时常 痛苦 不堪 孩子 好好 生活 请求 判 令 解除 原、被告 之间 婚姻 关系
+O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

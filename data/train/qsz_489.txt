@@ -1,0 +1,10 @@
+原被告 1989年 10月 相识 确立 恋爱 关系 1992年 9月 4日 原被告 自愿 办理 结婚 登记 1992年 9月 30日 举行 婚礼 后 共同 生活
+O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O O O
+1993年 5月 18日 生育 儿子 贾志彬 现 原告 未孕
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+婚初 原被告 之间 夫妻 感情 原被告 之间 琐事 发生 争吵
+O O O O O O O O O B_FamilyConflict
+时间 推移 原告 发现 被告 酗酒 恶习 酒后 还 原告 实施 家庭 暴力 曾经 原告 肋骨 成 骨折
+O O O O B_Person B_BadHabit O O O B_Person O B_DomesticViolence I_DomesticViolence O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+原告 2017年 10月份 离开 被告 西安 回到 北京 生活 自此 原被告 分居
+O B_Time I_Time O O O O O O O O B_Separation

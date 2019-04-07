@@ -1,0 +1,6 @@
+原告 王某 诉称 2009年 3月 原 被告 经人介绍 认识 2009年 11月 9日 登记 结婚 2010年 2月 23日 生育 女 取名 马某 乙
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 性格 内向 不善 言语 夫妻 感情 缺乏 沟通 两 人 家庭 琐事 争吵 结婚 四 年 未 建立 真正 夫妻 感情 原告 无法 再 继续 被告 生活 下去 二 人 分居 已 年
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O B_Separation O O
+请求 依法 判决 原 被告 离婚 婚生 女 马某 乙 原告 抚养 被告 支付 抚养费 婚前 财产 所有
+O O O O O O O O O O O O O O O B_Wealth I_Wealth O

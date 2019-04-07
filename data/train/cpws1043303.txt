@@ -1,0 +1,12 @@
+原告 王某 诉称 2009年 2月份 被告 网络 认识
+O O O B_Time I_Time O O B_Know
+×××× 年×× 月××日 办理 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+婚后 被告 感情 性格 不合 吵架 有时 被告 还 动手
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 2月 8日 生 男孩 甲 现 被告 生活
+B_Time I_Time I_Time B_Bear B_Gender I_Name O O O
+2012年 3月 26日 诉 阳谷县 人民法院 请求 被告 离婚 抚养 孩子 被告 支付 抚养费 分割 财产
+B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court O O O O O O O O O O
+2012年 5月 12日 阳谷县 人民法院 判决 不准 被告 离婚
+B_Time I_Time I_Time O O O B_Judgment I_Judgment I_Judgment

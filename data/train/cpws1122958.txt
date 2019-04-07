@@ -1,0 +1,2 @@
+原告 张某 诉称 ×××× 年×× 月××日 原 被告 经人介绍 登记 结婚 双方 互不 了解 草率 结婚 婚后 未能 建立 真正 夫妻 感情 打闹 原告 被迫 离家 出走
+O O O B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O O O O I_FamilyConflict O O O O

@@ -1,0 +1,8 @@
+原告 李某 诉称 被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 2003年 10月 6日 生 女儿 孟思轩 2008年 10月 10日 生 儿子 孟靖城 现 均 被告 生活
+O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+原 被告 家务 琐事 吵架 生气 夫妻 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict O O O O
+请求 法院 依法 判 令 1 原 被告 离婚
+O O O O O O O O B_DivorceLawsuit

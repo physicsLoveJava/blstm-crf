@@ -1,0 +1,6 @@
+原告 林某 起诉 称 原 被告 双方 ×××× 年×× 月×× 日 登记 结婚 双方 均 再婚
+O O O O O O O O O O O O B_Marry O O B_Remarry
+再 原 被告 性格 不合 家庭 琐事 时 争吵 原告 考虑 二 小孩 需 抚养 成人 双方 再婚 减少 影响 原告 顺心 吞气 谦让 被告 却 得寸进尺 发展 侮辱 谩骂 原告 原告 当做 家庭 附属物 无 说话 权利
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+解脱 痛苦 现 分居
+O O O B_Separation

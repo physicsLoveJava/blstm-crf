@@ -1,0 +1,8 @@
+原告 陈 某某 诉称 2003年 2月份 原、被告 经人介绍 相识 同年 5月 1日 双方 举行 结婚 仪式 共同 生活 同年 6月份 领取 结婚证
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O O O B_Time B_Marry I_Marry
+2004年 1月 23日 生 女 取名 章 某某 2006年 5月 27日 生 子 取名 章 某某 原 被告 外面 打工 两 子女 都 被告 父母 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O O O O O
+婚后 夫妻 感情 还 好 2005年 下半年 左右 去 常州 看 被告 被告 冷淡 还 发生 争吵 2006年 7月 初 发现 被告 外遇 去 苏州 找 被告 发现 被告 找 女 事情 夫妻 感情 不好 2007年 生病 开刀 被告 家人 比较 冷淡 2008年 年底 双方 去 苏州 打工 小孩 被告 父母 带 双方 打工 期间 吵架 2011年 双方 一起 去 深圳 2012年 被告 去 广西 双方 年 没有 联系 2013年 双方 回家 过年 发生 争吵 2013年 双方 一起 去 深圳 打工 生病 被告 不闻不问 2013年 10月份 双方 分居 生活 今
+O O O O O O O O O O O O O O O O O O O O O B_Person I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+现 夫妻 感情 破裂 要求 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

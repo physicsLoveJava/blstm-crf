@@ -1,0 +1,10 @@
+原告 赵久秀 诉 称 2000年 底 经人介绍 来到 安徽 被告 相识 后 便 共同 生活 2001年 6月 结婚 2002年 4月 补办 结婚 登记 手续 2002年 女儿 纪梦萍 出生 今年 11 岁
+O O O O B_Time I_Time O O O O B_Know O O O O B_Time I_Time B_Marry B_Time I_Time O B_Marry I_Marry I_Marry B_Time B_Gender B_Name B_Bear O B_Age I_Age
+双方 2004年 原告 外出 后 分居
+O O O O O B_Separation
+被告 无 感情 基础 婚后 双方 生活 习性 差异 导致 矛盾 不 断
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2010年 5月 曾 起诉 法院 要求 离婚 法院 认为 和好 判决 不 准 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+诉至法院 请求 准予 原 被告 离婚 婚生 女 纪梦萍 原告 抚养 被告 付 抚养费 400 元／月
+I_DivorceLawsuit O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 陈某 起诉 称 原 被告 婚前 系 介绍 认识 1999年 月 某日 登记 结婚 1999年 月 某日 生育 儿子 林 某某
+O O O O O O O O O O O O O B_Marry I_Marry O O O B_Bear O O O
+婚前 双方 缺乏 了解 婚后 无 建立 夫妻 感情 尤其 原 被告 结婚 后 被告 出轨 女人 不 正当 男女 关系 两 人 被告 生活 作风 问题 发生 吵架 被告 还 实施 暴力 殴打 原告 致 肋骨 骨折 致 夫妻 感情 破裂 先 夫妻 已 分居 生活
+O O O O O O O O O O O O O O B_Person B_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

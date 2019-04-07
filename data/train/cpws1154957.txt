@@ -1,0 +1,6 @@
+原告 吴 某某 诉称 原 被告 经人介绍 相识 2011年 6月 10日 政府 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+2011年 11月 30日 婚生 男孩 取名 杨某甲
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 认识 时间 短 婚后 被告 平时 原告 不 近 人情 漠不关心 夫妻 感情 确 已 破裂 无 好 为此 诉至法院 请求 被告 离婚 婚生 男孩 原告 抚养 被告 支付 抚养费
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O

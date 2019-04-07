@@ -1,0 +1,4 @@
+2011年 5月份 分居 生活 今 现 夫妻 感情 破裂 请求 法院 判决 离婚
+B_Time I_Time B_Separation O I_Time O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+婚生 女 原告 抚养 被告 每月 支付 抚养费 300 元 直至 子女 18 周岁
+O O B_Person O O O O O O O O O O O

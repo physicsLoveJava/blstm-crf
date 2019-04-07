@@ -1,0 +1,12 @@
+原被告 介绍 相识 相处 1 年 后 2005年 12月 15日 登记 结婚 2005年 11月 5日 生长 女 李响 现年 12 周岁 2011年 2月 24日 生次 女 李靓 现年 7 周岁
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age
+夫妻 双方 家务 琐事 争吵
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 发展 动手 人
+B_Person O B_DomesticViolence I_DomesticViolence
+被告 动手 殴打 原告
+B_Person B_DomesticViolence I_DomesticViolence B_Person
+原告 返回 娘家 居住 今
+O B_Separation I_Separation I_Separation I_Duration
+原告 呈诉 贵院
+B_Person B_DivorceLawsuit B_Court

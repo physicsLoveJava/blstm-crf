@@ -1,0 +1,14 @@
+原 告诉 称 2006年 10月份 被告 魏 某某 经人介绍 认识 2007年 2月 5日 西峰区 婚姻 登记 中心 登记 结婚 同年 2月 11日 举行 婚礼 后 被告 魏 某某 便 入 赘 我家 共同 生活
+O O O B_Time I_Time O O O O B_Know B_Time I_Time I_Time O O O O O B_Marry O O O O O O O O O O O O O O O
+2008年 11月 14日 生育 女儿 取名 魏某甲
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 魏 某某 婚前 缺乏 了解 经人介绍 便 仓促 成婚 婚后 两 人 性格 差异 大 发生 矛盾 被告 魏 某某 凶残 粗暴 实施 家庭 暴力 持械 伤 提出 离婚 不管 家里 生活 父亲 劝解 后 勉强 度日
+O O O O O O O O O O O O O O O O O B_FamilyConflict B_Person I_Person I_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+共同 分割 被告 魏 某某 名下 存款 1万 元 债权 1万 元
+O O O O O O B_Wealth B_Price I_Price B_Credit B_Price I_Price
+被告 辩称 原告 齐 某某 2006年 10月份 经人介绍 认识 2007年 2月 5日 登记 结婚 同年 2月 11日 举行 婚礼 后 便 入赘 原告 家 共同 生活
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O
+婚后 2008年 11月 4日 生育 女孩 魏某甲
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2011年 3月 原告 齐 某某 庆城县 白马乡 郭存军 鬼混 一起 2012年 6月 24日 发现 原告 去 郭存军 幽会 便 赶到 郭存军 家 气愤 之下 郭存军 砍 伤 庆城县 人民法院 判处 有期徒刑 二 年 钱 郭存军 赔偿 10万 元 之外 处理 事 还 举债 数万 元
+O O B_Person I_Person I_Person O O O B_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

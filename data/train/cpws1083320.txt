@@ -1,0 +1,4 @@
+原告 魏某 诉称 原 被告 2005年 7月 1日 登记 结婚 婚后 生育 子 女
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear I_Gender I_Gender
+双方 家庭 琐事 发生 矛盾 发生 争吵 基此 原告 认为 原、被告 双方 已 无 感情 可言 人民法院 提起 离婚 诉讼
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

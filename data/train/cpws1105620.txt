@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2004年 8月 8日 登记 结婚 2006年 9月 25日 协议 离婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O
+2008年 初 原告 远 赴 日本 打工 期间 被告 网上 偶 联络
+B_Time I_Time O B_Separation I_Separation I_Separation I_Separation O O O O O
+2009年 12月 21日 原告 回国 探亲 期间 被告 办理 复婚 手续
+O O O O O O O O B_Remarry I_Remarry I_Remarry
+原告 曾 2010年 5月 提起 离婚 诉讼 后 法院 驳回
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment
+法院 驳回 原告 诉讼 请求 后 原 被告 分别 居住 日本 中国 未 实际 共同 生活 无 共同 生活 意愿
+O O O O O O O O B_Separation I_Separation I_Separation I_Separation O O O O O O O O
+原告 诉至法院 请求 判 令 解除 原 被告 婚姻 关系
+B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+之间 矛盾 之间 感情
+O B_FamilyConflict O O

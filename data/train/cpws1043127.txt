@@ -1,0 +1,4 @@
+原告 文 某某 诉称 被告 2006年 9月 18日 2007年 3月 5日 举行 结婚 仪式 3月 8日 领取 结婚证 2007年 7月 8日 生育 女 名 文某
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O O O O O
+原告 婚前 了解 少 婚后 没有 建立 真正 夫妻 感情 家庭 琐事 争吵 请求 人民法院 判 令 被告 离婚
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,16 @@
+原 告诉 称 1988年 9月 25日 原 被告 登记 结婚
+O O O B_Time I_Time I_Time O O B_Marry I_Marry
+1989年 10月 15日 生 男孩 取名 夏
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+1999年 2月 23日 生 女孩 取名 夏某甲
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 被告 原告 常年 分居 没有 夫妻 生活 聚 少 见面 吵 致 夫妻 感情
+O O O O O O O O O O O B_DomesticViolence O O O
+2013年 3月 8日 原告 被告 分居 今
+B_Time I_Time I_Time O O B_Separation I_Time
+原 被告 两 人 生活 互不 干涉 夫妻 关系 已 名存实亡 起诉 要求 被告 离婚
+O O O O O O O O O O O O O O B_DivorceLawsuit
+被告 辩称 婚后 原告 个性 太 强 不 人情 导致 夫妻 感情 破裂
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+现有 套 商品房 位于 商城县 新世纪 花园 21 号 楼 1 单元 301 辆 价值 约 30万 元 奥迪 轿车 牌号 皖 A3xxx3 欠 车 款 20万 元 欠 私人 债务
+O I_Wealth I_Wealth O O O O O O O O O O O O O B_Price I_Price B_Wealth I_Wealth O O O B_Debt I_Debt I_Debt B_Price I_Price O O B_Debt

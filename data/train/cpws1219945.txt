@@ -1,0 +1,10 @@
+原告 欧阳 诉称 被告 2006年 相识 ×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 女王 某乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2010年 被告 不 知情 情况 下 外借 17万 元 债务 出于 被告 次 改邪归正 机会 原因 原谅 被告 债务 已 双方 父母 清偿
+O O O O O O O B_Price I_Price B_Debt O O O O O O O O O O O O O
+被告 屡教不改 2010年 10月 借下 高利贷 参加 赌博 活动
+B_Person O O O O O O B_BadHabit O
+现 请求 判 令 被告 离婚
+O O O O O B_DivorceLawsuit

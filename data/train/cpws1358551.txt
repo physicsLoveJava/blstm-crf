@@ -1,0 +1,6 @@
+原告 石 某某 诉称 原 被告 经人介绍 相识 后 双方 父母 主持 下 订婚 2007年 11月 14日 志丹县 民政局 登记 结婚 婚初 双方 感情 好 2008年 10月 3日 生育 儿子 曹某甲
+O O O O O O O B_Know O O O O O O B_Time I_Time I_Time O O O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+后 被告 染上 赌博 恶习 为此 双方 发生 争吵 斗殴
+O O B_BadHabit I_BadHabit I_BadHabit O O O O O
+被告 还 原告 实施 家庭 暴力 2011年 7月 殴打 致 原告 两 颗 前 门牙 掉落 左耳膜 穿 孔致 原告 延安 大学 附属 医院 住院 治疗 19日 原告 2012年 10月 志丹县 人民法院 提起 离婚 诉讼 后 双方 亲戚 劝说 被告 写下 保证 后 原告 撤诉
+B_Person O O O O O O O B_DomesticViolence O B_Person O O O O O O O O O O O O O O O O B_Person B_Time I_Time O O B_DivorceLawsuit O O O O O O O O O O O O

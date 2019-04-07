@@ -1,0 +1,6 @@
+原告 吴某 诉称 原 被告 经人介绍 认识 于×××× 年×× 月××日 郑州市 金水区 民政局 登记 结婚 双方 属 再婚
+O O O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Person O B_Remarry
+婚后 双方 性格 不合 被告 脾气 暴躁 婚前 缺乏 了解 草率 结婚 导致 婚后 双方 家庭 琐事 发生 争吵 婚前 原告 被告 儿女 38000 元 被告 儿女 不仅 不 还 钱 还 态度 恶劣 双方 闹 严重 影响 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+被告 外出 不 回家 不 原告 联系 原告 长期 见 不 被告 一面 更 谈 不 上 被告 正常 生活 双方 感情 彻底 破裂 已 无 和好
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict

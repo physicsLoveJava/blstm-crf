@@ -1,0 +1,6 @@
+原 告诉 称 原被告 经人介绍 不久 便于 2012年 5月 3日 商丘市 睢阳区 民政局 登记 结婚
+O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+婚后 第三 天 被告 殴打 原告 原被告 都 次 婚姻 原告 忍让 被告 当年 6月份 被告 殴打 原告 原告 无助 情况 下 拨打 110 求助
+O O O B_Person B_DomesticViolence B_Person O O I_Remarry I_Remarry O O O O O O O O O O O O O O O
+后 家务 琐事 被告 殴打 原告 原告 无奈 2012年 9月 21日 诉 贵院 法庭 调解 原告 撤回 起诉
+O O O O O O O O B_Time I_Time I_Time B_DivorceLawsuit B_Court O O B_Judgment I_Judgment I_Judgment

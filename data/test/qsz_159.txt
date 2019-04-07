@@ -1,0 +1,10 @@
+原 被告 双方 2011年 相识 后 同居 生活 2012年 3月 o _ 27日 生育 女儿 闫琬 越 2014年 4月 19日 生育 儿子 闫帅彤
+O O O B_Time B_Know O O O B_Time I_Time O O O B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+2014年 12月 3日 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry O
+婚后 原告 被告 生活 不 检点 酒驾 被告 原告 打骂 造成 双方 夫妻 感情 不和 被告 种种 行为 致使 原告 被告 失去 信心 原告 2017年 7月 依法 被告 提起 离婚 诉讼
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O O O O O O B_Person B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit
+审理 贵院 2017年 月 16日 驳回 原告 诉讼 请求
+O O B_Time I_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment
+原告 诉讼 请求 驳回 后 双方 夫妻 感情 未 得到 改善 加强 双方 互 不 理睬 未 进行 沟通 交流 双方 未 夫妻 家庭 义务 现 双方 夫妻 感情 已 彻底 破裂 原告 解除 段 痛苦 早已 死亡 婚姻 特 依法 起诉
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

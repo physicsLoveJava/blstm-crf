@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 1993年 4月 6日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活
+O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O
+婚后 生育 男 女 婚生 长子 王欣男 现 已 成年 2007年 12月 27日 生育长 女王 新唯
+O B_Bear O O O B_Gender B_Name O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 原 被告 发现 夫妻 感情 不和 常常 家庭 琐事 争吵 不 休 吵闹 打架 时至今日 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

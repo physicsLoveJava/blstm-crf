@@ -1,0 +1,4 @@
+原 被告 2010年 经人介绍 相识 后 同居
+O O O O B_Know O O
+2012年 11月 20日 生 男孩 王奕童 2015年 9月 30日 原 被告 蓟县 民政 机关 补办 结婚 登记 手续 原告 发现 被告 性格 督异 生气 吵架 时有发生 特别 被告 不 思理家 夜 不 宿 规劝 被告 仍 不 改悔
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O O B_Marry O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O B_BadHabit I_BadHabit

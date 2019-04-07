@@ -1,0 +1,14 @@
+原 告诉 称 2010年 9月 原 被告 经人介绍 认识 同年 11月 17日 双方 长乐市 民政局 办理 结婚 登记
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry
+2011年 10月 8日 生育 子 取名 陈某乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 发现 性格 差异 大 争吵 不 和睦相处 被告 原告 拳脚 相向
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2011年 3月 原告 怀孕 后 被告 分居 今
+B_Time I_Time O O O O B_Separation I_Time
+双方 性格 不和 被告 不 存在 原告 拳脚 相向 情况
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 初 原告 回 娘家 双方 才 分居
+B_Time I_Time O O O O O B_Separation
+共同 财产 部分 礼金 5．6万 元 见面礼 2万 元 金器 2万 元
+O O O B_Wealth B_Price I_Price B_Wealth B_Price I_Price B_Wealth B_Price I_Price

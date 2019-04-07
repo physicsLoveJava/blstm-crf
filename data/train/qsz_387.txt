@@ -1,0 +1,6 @@
+原 被告 2006年 相识 建立 恋爱 关系 同居 生活
+O O B_Time B_Know O B_BeInLove O O O
+2017年 3月 29日 双方 黑龙江省 北安市 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry O O
+2017年 12月 21日 被告 入室 盗窃
+O O O B_Person B_BadHabit I_BadHabit

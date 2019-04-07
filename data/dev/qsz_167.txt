@@ -1,0 +1,10 @@
+原被告 2011年 5月 经人介绍 柑识 确立 恋爱 关系
+O B_Time I_Time O O B_BeInLove I_BeInLove I_BeInLove
+201l 年 1l 月 举行 结婚 仪式 共同 生活 2012年 5月 15 门 补 小 结婚 登记 手续
+B_Time I_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry O
+2012年 6月 23日 生 p 女 李佳琳 现 被告 共同 生活
+B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O O
+婚后 双 力 性格 差异 未能 建立 良好 夫差 感情
+O O O B_FamilyConflict I_FamilyConflict O O O O O
+原被告 琐事 发生 争吵 双方 性格 差刨 异 人 无 共同语言 夫妻 感情 逐渐 产 生 裂痕 直至 彻底 破裂 原告 2014年 J 武清区 人民法院 提起 flj 被告 离婚 诉 当时 法院 未 判 准 双方 离婚 判决 生效 后 原被告 夫妻 感情 未 改变 夫妻 感情 没有 好转
+O O O B_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_Person B_Time O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O

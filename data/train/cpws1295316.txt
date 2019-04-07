@@ -1,0 +1,6 @@
+原告 邢某 诉称 2008年 2月 原 被告 经人介绍 相识 times
+O O O B_Time I_Time O O O B_Know O
+原 被告 萧山区 民政局 登记 结婚 婚后 times
+O O O O O B_Marry O O
+生育 女 取名 茅某 乙
+B_Bear B_Gender O B_Name I_Name

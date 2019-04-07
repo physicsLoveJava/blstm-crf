@@ -1,0 +1,4 @@
+1988年 6月 1日 登记 结婚
+B_Time I_Time I_Time O B_Marry
+现有 两 儿子 长子 赵鹏 已 结婚 独立 生活 次子 赵伟 15 岁 在校 读书 被告 脾气 暴躁 性格 粗野 结婚 后 原告 长期 遭受 被告 欺辱 双方 打架 生活 无法 继续 下去
+B_Bear O O B_Gender B_Name B_Age I_Age I_Age I_Age B_Gender B_Name B_Age I_Age O O O O O O O O O O O O O O O B_FamilyConflict O O O O

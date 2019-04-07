@@ -1,0 +1,4 @@
+原 被告 2016年 3月 18日 登记 结婚 婚后感 情不和 共同 生活 期间 常 琐事 发生 矛盾
+O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+导致 无法 同居 生活 2017年 6月 12日 原告 曾 宝坻区 人民法院 提起 离婚 诉讼 同年 7月 27日 被告 提出 离婚 人民法院 依法 驳回 双方 保持 分居 状态 致 原告 起诉 时 双方 无 往来 夫妻 间 不 牢固 感情 已 彻底 破裂 婚姻 关系 名存实亡 人民法院 准予 离婚 2016年 5月份 拆迁 原告 分得 楼房 46 平米 属于 原告 特定 财产 应 原告 所有
+O B_Separation I_Separation I_Separation B_Time I_Time I_Time B_Person O B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

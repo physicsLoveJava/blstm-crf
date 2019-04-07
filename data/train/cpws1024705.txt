@@ -1,0 +1,6 @@
+原告 叶某 起诉 称 原 被告 经人介绍 认识 后 2010年 5月份 三门县 民政局 登记 结婚 2010年 12月 19日 生育 儿子 倪某甲
+O O O O O O O O O B_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 家 保险 公司 上班 工作 需要 顾客 保持 一定 联系 被告 怀疑 原告 冒充 原告 客户 手机 聊天 双方 为此 发生 争吵 被告 为此 曾 殴打 原告
+O O O O O O O O O O O O O O O O O O O O O O O O B_Person O O B_DomesticViolence B_Person
+2013年 5月 底 双方 琐事 争吵 两 天 后 原告 回 娘家 居住 双方 分居 今
+B_Time I_Time I_Time O O O O O O O B_Separation I_Separation O O O I_Time

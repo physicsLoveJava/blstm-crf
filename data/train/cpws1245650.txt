@@ -1,0 +1,12 @@
+原告 余某 起诉 称 1999年 上半年 原 被告 杭州 打工 期间 认识 后 被告 诱骗 原告 老家 共同 生活 半 年
+O O O O B_Time I_Time O O O O O B_Know O O O O O O O O O
+2000年 4月 3日 生育 女 取名 林凯丽
+B_Time I_Time I_Time B_Bear O O O
+2006年 11月 14日 双方 补办 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry O
+婚后 双方 性格 不合 常 琐事 发生 争吵 争
+O O O O O O O B_FamilyConflict B_FamilyConflict
+2012年 6月 原 被告 共同 江苏省 张家港市 谋生 期间 被告 殴打 原告 原告 曾 二 次 当地 公安 部门 报警
+B_Time I_Time O O O O O O O B_Person B_DomesticViolence B_Person O O O O O O O O
+现 原告 起诉 请求 判 令 准许 原告 被告 离婚
+O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

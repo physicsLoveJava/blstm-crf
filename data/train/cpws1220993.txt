@@ -1,0 +1,10 @@
+原告 张 某某 诉称 原 被告 2001年 12月 4日 登记 结婚 2004年 10月 24日 生育 女孩 ldquo
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O
+高某 甲 rdquo
+B_Name I_Name O
+2009年 8月 18日 生育 男孩 ldquo
+B_Time I_Time I_Time B_Bear B_Gender O
+高某 乙 rdquo
+B_Name I_Name O
+被告 犯罪 判 有期徒刑 17 年 现在 山东省 鲁宁 监狱 服刑 双方 感情 确 已 破裂 特 法院 提起 诉讼 请求 依法 判 令 原 被告 离婚 原告 抚养 子女
+O B_Separation I_Separation I_Separation B_Duration I_Duration O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit O O O

@@ -1,0 +1,8 @@
+原告 伍某 起诉 称 原 被告 ×××× 年×× 月经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 儿子 苏某 乙
+O O O O O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 脾气 暴躁 稍 不 顺心 毒打 原告 儿子
+B_Person O O O O O B_DomesticViolence B_Person B_Person
+2009年 双方 分居 生活 今
+B_Time O B_Separation O I_Time
+2012年 8月 原告 诉请 法院 要求 离婚 法院 审理 后 判决 不 准 离婚
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment

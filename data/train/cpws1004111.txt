@@ -1,0 +1,6 @@
+原告 张某 诉称 原被告 2007年 8月 相识 2008年 3月 确定 恋爱 关系 2008年 8月 举行 结婚 典礼 2009年 3月 31日 补 办 结婚 登记 2009年 4月 20日 生育 女 取名 倪凌薇
+O O O O O O B_Know O O O O O O O O O O O O O O O O O O O O O O O O
+3 分割 婚后 共同 财产 彩电 台 家 俱 套 三 件 沙发 套 两 组 汽车 配件 投资款 40000 元
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth B_Price I_Price
+被告 倪某 辩称 之间 夫妻 感情 没有 破裂 不 同意 离婚
+O O O O I_Negated B_Know I_Know O O O O

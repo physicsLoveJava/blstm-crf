@@ -1,0 +1,4 @@
+原告 钟 某某 诉称 2001年 原 被告 经人介绍 相识 2002年 4月 登记 结婚 2003年 2月 生育 子 钟某甲
+O O O O B_Time O O O B_Know B_Time I_Time O B_Marry B_Time I_Time B_Bear I_Gender B_Name
+询问 被告 跳楼 原因 被告 从不 正面 回答 引起 双方 矛盾 隔阂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

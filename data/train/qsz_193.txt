@@ -1,0 +1,6 @@
+原 被告 同一 单位 上班 相识 二 人 2010年 12月 确立 恋爱 关系 2011年 10月 24日 登记 结婚 2011年 11月份 举行 结婚 仪式
+O O O O O B_Know O O B_Time I_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time B_Marry I_Marry I_Marry
+婚后 分别 2012年 9月 2日 育 婚生女 张样营 2016年 1月 28日 育 婚生女 张样桐
+O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 家庭 琐事 发生 争吵 夫妻 感情 日超 恶化 原 被告 已经 分居 三 月
+O O O O B_FamilyConflict O O O O O O O B_Separation B_Duration I_Duration

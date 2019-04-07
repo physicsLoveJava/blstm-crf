@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 人 介绍 相识 互不 了解 情况 下 便于 1998年 12月 21日 登记 结婚 婚后 1999年 9月 29日 生 女孩 取名 吕某甲 2008年 4月 6日 生 男孩 取名 吕某乙
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 婚前 缺乏 了解 婚后 二 人 性格 不合 琐事 生气 导致 夫妻 感情 逐渐 破裂
+O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O
+被告 不但 不 体谅 原告 辛苦 时常 吵 闹 原告 嫌 原告 挣钱 少 为此 二 人 为此 生气
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+2011年 春 两 人 生气 后 原告 工地 打工 搬 回 娘家 居住 二 人 分居 今
+B_Time I_Time O O O O O O O O O O O O O B_Separation O

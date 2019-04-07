@@ -1,0 +1,12 @@
+原告 董某 诉称 原 被告 1989年 认识 后 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time O O O B_BeInLove O B_Time I_Time I_Time I_Time O B_Marry
+1994年 11月 23日 原 被告 生育 女孩 取名 马某 乙
+B_Time I_Time I_Time O O B_Bear I_Gender O B_Name I_Name
+婚后 原 被告 琐事 吵闹 被告 原告 实施 家庭 暴力 原 被告 现 已 分居 两 年 有余 夫妻 感情 确 已 破裂 现存 婚姻 名存实亡
+O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O B_Separation O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+诉至法院 要求 被告 离婚
+B_DivorceLawsuit O O O
+原 被告 婚后 感情 好 偶 摩擦 每个 家庭 都 存在 事情 不 影响 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+被告 没有 原告 实施 家庭 暴力 没有 分居 生活
+O O O O O O B_Separation I_Separation O

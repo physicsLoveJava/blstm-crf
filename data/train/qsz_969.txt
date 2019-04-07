@@ -1,0 +1,12 @@
+2013年 7月 30日 原 被告 依法 登记 结婚
+B_Time I_Time I_Time O O O B_Marry I_Marry
+2014年 5月 15日 生育 女孩 韩牧洁
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+发生 口角
+O B_FamilyConflict
+被告 便 无 端 怀疑 原告 作风 问题 伤害 原告 感情
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+原告 解释 双方 感情 裂痕 逐渐 加剧 2016年 11月 双方 分居 今
+O O O O O O O B_Time I_Time O B_Separation I_Time
+2017年 2月 原告 曾 贵院 起诉 贵院 马平 法官 承办 2017年 6月 2日 2017 津0114 民 初 1259 号 民事 判决书 判决 不 准 离婚
+B_Time I_Time B_Person O B_Court B_DivorceLawsuit O O O O B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

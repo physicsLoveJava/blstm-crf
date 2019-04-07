@@ -1,0 +1,12 @@
+原 被告 2004年 7月 经人介绍 相识 后 2006年 11月 6日 南开区 民政局 登记 结婚
+O O B_Time I_Time O B_Know O B_Time I_Time I_Time O O B_Marry I_Marry
+2007年 11月 育 女 现 已 满 11 周岁
+B_Time I_Time B_Bear I_Gender O O O B_Age I_Age
+婚后 感情 不和 无法 继续 共同 生活
+O B_FamilyConflict I_FamilyConflict O O O O
+被告 不 同意 离婚 孩子 小 没有 矛盾 结婚 时间 孩子 出生 时间 原告 说 准确 之间 问题 原告 单位 女 同事 之间 事情 想 原告 沟通 原告 感情 不 单位 女 同事 问题 原告 没有 感情 孩子 2 岁 时 发现 原告 问题
+O O O O O O B_Negated B_FamilyConflict B_Marry O B_Bear I_Bear O O O B_Negated O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 没 分居 住 天津市 南开区 芥园 西道 君北里 11-3-503 号
+O B_Negated B_Separation O O O O O O O O
+被告 信用卡 打印件 证明 被告 经营 美容院 时 夫妻 共同 债务
+O O O O O O O O O B_Debt I_Debt

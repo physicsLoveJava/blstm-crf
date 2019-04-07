@@ -1,0 +1,2 @@
+原告 张 某某 诉称 被告 婚后 常 琐事 发生 矛盾 被告 不 珍惜 夫妻 感情 家庭 孩子 照顾 少 长期 钱 赌博 不 听 劝阻 致 夫妻 感情 破裂 现 要求 离婚 抚养 孩子 分割 财产
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+2017年 7月 26日 原告 提出 离婚 诉讼
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit
+同年 9月 4日 贵院 2017 津0111 民 初 6229 号 民事 判决书 中 判决 驳回 原告 离婚 诉讼 请求
+B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment O O O
+半 年 以来 原被告 情况 依旧 被告 依然 不 回家 居住 不但 双方 没有 见 面 电话 短信 未 次
+B_Duration I_Duration O O O O O O B_Separation I_Separation I_Separation O O O O O O O O O

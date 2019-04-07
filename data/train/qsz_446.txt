@@ -1,0 +1,8 @@
+原 被告 双方 经人介绍 相识 后 1996年 2月 9日 民政 机关 办理 结婚 登记 手续 共同 生活
+O O O O O O B_Time I_Time I_Time O O O B_Marry O O O O
+现 二 人 育 两 子 长子 已 成年
+O O O B_Bear O B_Gender O O O
+原告 曾 被告 相互 沟通过 要求 被告 回心 转意 好好 过日子 被告 却 执意 不 改 被告 行为 做法 已 原告 心里 精神 上 带来 不可 愈合 创伤
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+现 二 人 已 分居 生活 二 年 半 时间 目前 双方 感情 已 彻底 破裂
+O O O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O

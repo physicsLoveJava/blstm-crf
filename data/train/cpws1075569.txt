@@ -1,0 +1,10 @@
+原告 郭某 甲诉 称 原告 被告 1998年 6月 工作 认识 自由 恋爱 2004年 3月 18日 登记 结婚
+O O O O O O B_Time I_Time O B_Know O O B_Time I_Time I_Time B_Marry I_Marry
+婚初 感情 尚 后 原告 妊高症 分别 2003年 2007年 二 次 怀孕 早产 孩子 没有 成活
+O O O O O O O B_Time B_Time O O B_Bear I_Bear O O O
+二 次 怀孕 后 双方 出现 矛盾 吵架 被告 天天 喝酒 原告 规劝 被告 不 听 致使 感情 破裂 2011年 7月 分居 今
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Duration I_Duration B_Separation I_Duration
+被告 郭某 乙辩 称 原告 所述 事实 不符
+O O O O O O B_FamilyConflict B_Negated
+2011年 7月 被告 仍 外地 工作 期间 原告 离家
+B_Time I_Time O O O O O O B_Separation

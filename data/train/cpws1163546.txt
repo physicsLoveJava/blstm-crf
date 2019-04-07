@@ -1,0 +1,8 @@
+原告 杨 X 诉称 原 被告 外 打工 时 认识 自由 恋爱 后 2008年 4月 3日 登记 结婚 2009年 6月 2日 生育 女儿 周 XX
+O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+2013年 4月 原 被告 芷江县 凯旋 小 花园 揭定 购 住房 套 每月 需 还 贷款 本息 2700 元
+O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+为此 故特 法院 提起 诉讼 请求 法院 依法 判决 1 判 令 原 被告 离婚
+O O O O B_DivorceLawsuit O O O O O O O O O O
+2 答 辩人所述 答辩 人 不 还 按揭 不 属实 系事 出
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

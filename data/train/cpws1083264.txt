@@ -1,0 +1,8 @@
+原告 陈 某某 诉称 1994年 农历 冬月 被告 农俗 举行 婚礼 后 1996年 4月 补办 结婚 登记
+O O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Time I_Time O B_Marry I_Marry
+1997年 11月 25日 被告 生育 子 高某 乙
+B_Time I_Time I_Time O B_Bear B_Gender B_Name I_Name
+2009年 6月 便 被告 分居 生活 今
+B_Time I_Time O O B_Separation O I_Time
+现 夫妻 感情 已 彻底 破裂 诉请 被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

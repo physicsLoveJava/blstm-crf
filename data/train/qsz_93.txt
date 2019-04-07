@@ -1,0 +1,4 @@
+原被告 经人介绍 1991年 登记 结婚 婚后 育 子 丛建华 现 已 29 岁
+O O B_Time B_Marry I_Marry O B_Bear B_Gender B_Name O O B_Age I_Age
+说 以后 别 想 好 被告 不断 原告 施加 家庭 暴力 出手 凶狠 抓 头发 墙上 幢 还 拖鞋 脸
+O O O O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O

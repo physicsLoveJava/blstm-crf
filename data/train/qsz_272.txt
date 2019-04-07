@@ -1,0 +1,16 @@
+2016年 年初 确立 恋爱 关系
+B_Time I_Time B_BeInLove I_BeInLove I_BeInLove
+双方 2016年 9月 2日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+随后 双方 举办 结婚 仪式 同居 生活
+O O B_Marry I_Marry I_Marry O O
+夫妻 未 生育 子女
+O B_Negated B_Bear O
+原、被告 性格 不合
+O B_FamilyConflict I_FamilyConflict
+夫妻 常 生活 琐事 发生 争吵 夫妻 感情 渐渐 出现 裂痕
+O O O O O B_FamilyConflict O O O O O
+夫妻 已 分居 两 月 无 好 表示
+O O B_Separation B_Duration I_Duration O O O
+婚后 夫妻 感情 不和
+O O B_FamilyConflict I_FamilyConflict

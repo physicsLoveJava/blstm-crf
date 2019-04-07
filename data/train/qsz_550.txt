@@ -1,0 +1,4 @@
+原 被告 1992年 上半年 经人介绍 相识 确立 恋爱 关系 署 9 _2月 2 想 办理 结婚 登记 手续 1995年 10月 7日 生育 子 孙凯祥 现 成家 独立 生活 原 被告 婚前 草率 结婚 没有 感情 基础
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O
+被告 琐事 原告 发生 争吵 长期 原告 实施 家庭 暴力 原告 年 孩子 没有 被告 离婚 现 孩子 成家 独立 生活 原告 被告 生活 每天 都 处于 恐惧 之中 现 原告 不 愿 再 被告 一起 共同 生活
+B_Person O O O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O

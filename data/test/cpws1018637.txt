@@ -1,0 +1,12 @@
+原告 王某 诉称 被告 经人介绍 1989年 春天 相识 同年 农历 四月份 定亲 1991年 2月 2日 办理 结婚 登记 同年 12月 18日 举行 婚礼 婚后 1992年 3月 27日 生 男孩 周志昊 现在 济南 上学
+O O O O O B_Time I_Time B_Know O O O O B_Time I_Time I_Time O B_Marry O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+结婚 初期 二 人 尚 勉强 相处 孩子 五 周岁 以后 被告 彻底 改变 整天 吃喝玩乐 家中 农活 孩子 上学 家庭 开支 被告 根本 不 不 问 实施 家庭 暴力 死 里 为此 曾 派出所 求助 次
+O O O O O O O O O O O O O O O B_BadHabit O O O O O O B_Person O O O O O O O O O O O O O O
+被告 外 不 正当 男女 关系
+B_Person O B_Derailed I_Derailed I_Derailed I_Derailed
+2011年 夏天 被告 第三者 单独 相约 外 吃饭 时 抓住 回 娘门 居住 至今 未 再 被告 同居 生活
+B_Time I_Time O O O O O O O O B_Separation I_Separation O B_Time O O O O O
+上次 起诉 离婚 法院 判决 不 准 离婚 后 至今 未 被告 联系 见面
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O
+被告 周某 辩称 原告 诉 婚姻 构成 子女 情况 属实 事实 不符
+O O O O O B_Marry O B_Bear I_Bear B_Negated O O

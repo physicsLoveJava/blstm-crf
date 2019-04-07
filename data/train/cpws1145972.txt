@@ -1,0 +1,4 @@
+原告 徐某 起诉 称 原 被告 同学 关系 相识 相恋 2×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 取名 杨泐
+O O O O O O O O B_Know B_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear O B_Gender B_Name
+婚初 双方 感情 尚 后 家庭 琐事 发生 争吵 被告 动手 殴打 原告
+O O O O O O O O O I_FamilyConflict O B_FamilyConflict I_FamilyConflict

@@ -1,0 +1,4 @@
+原告 赵延丽 诉 称 原告 被告 2009年 经人介绍 认识 后 不 月 2009年 12月 24日 登记 结婚 2010年 8月 12日 生育 儿子 张胜
+O O O O O O B_Time O B_Know O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 认识 时间 不 长 了解 不 双方 共同 生活 中 矛盾 逐渐 显现 琐事 争吵 不 休 矛盾 堆积 不可 化解 地步
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

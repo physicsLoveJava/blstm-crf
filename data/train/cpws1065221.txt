@@ -1,0 +1,8 @@
+原告 李某 诉称 原 被告 经人介绍 相识 ×××× 年×× 月××日 举行 结婚 仪式 ×××× 年×× 月××日补办 结婚 登记
+O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry O
+×××× 年 农历 12月 13日 生 女儿 李某 甲 2010年 农历 1月 9日 生 儿子 李某 乙
+B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 双方 感情 不和 脾气 不 投 家庭 琐事 发生 争吵
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 2013年 10月 31日 大名县 人民法院 提起 诉讼 原 被告 已 无法 共同 生活 下去 双方 感情 已 完全 破裂
+O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit O O O O O O O O O O O O

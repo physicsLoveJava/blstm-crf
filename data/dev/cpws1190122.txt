@@ -1,0 +1,14 @@
+原告 张某 诉称 2008年 腊月 原告 被告 经人介绍 相识 同月 农村 习俗 举行 结婚 仪式 2011年 1月 19日 宁县 中村乡 人民政府 补办 结婚 登记
+O O O B_Time I_Time O O O B_Know O O O O O O B_Time I_Time I_Time O O O O B_Marry O
+2009年 8月 6日 生 女孩 王某 甲 现 被告 父母 抚养
+B_Time I_Time I_Time B_Bear I_Bear O O O O O O
+原告 被告 婚前 缺乏 了解 婚后 双方 性格 不合
+O O O O O O O B_FamilyConflict I_FamilyConflict
+之后 生活 琐事 被告 殴打 原告
+O O O B_Person B_DomesticViolence B_Person
+原被告 2013年 正月 15日 分居 生活 双方 实在 没有 共同语言 一起 形 路人 原被告 夫妻 感情 已 彻底 破裂 原告 现 起诉 请求 被告 离婚 抚养 女儿 王某甲
+O B_Time I_Time I_Time B_Separation O O O O O O O O O O O O O O O O O O O O O O O
+被告 王某 辩称 原告 诉状 中 说 结婚 时间 孩子 出生 时间 都 合适
+O O O O O O O B_Marry O B_Bear O O O B_Negated
+未 殴打 原告 诉状 中 说 不 事实
+O B_DomesticViolence O O O O B_Negated I_Negated

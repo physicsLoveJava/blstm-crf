@@ -1,0 +1,8 @@
+原 告诉 称 被告 自由 恋爱 于×××× 年×× 月×× 日 登记 结婚 婚后 于×××× 年×× 月××日生 女孩 取名 姜某甲 现 被告 生活
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Time I_Time B_Bear B_Gender O I_Name O O O
+原 被告 相识 结婚 时间 短 缺乏 必要 了解 婚后 感情 不合 家庭 琐事 发生 争吵 打架
+O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 原告 诉至法院 请求 人民法院 依法 判决 原 被告 离婚
+O B_Person B_DivorceLawsuit O B_Court O O O O O
+婚生 女孩 姜某甲 原告 抚养 被告 承担 抚养费
+B_Bear B_Gender I_Name O O O O O

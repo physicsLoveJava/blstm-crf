@@ -1,0 +1,6 @@
+原告 王某 甲诉 称 原告 被告 2011年 8月 人 介绍 相识 2011年 10月 23日 双方 举行 典礼 仪式 同居 生活
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O
+2012年 2月 8日 原 被告 补办 结婚 登记
+B_Time I_Time I_Time O O O B_Marry I_Marry
+2012年 3月 8日 原 被告 生气 后 双方 分居 今
+B_Time I_Time I_Time O O O O O B_Separation I_Time

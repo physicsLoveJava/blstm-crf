@@ -1,0 +1,10 @@
+原告 梁 某某 诉称 被告 经人介绍 认识 2012年 2月 16日 登记 结婚 2013年 2月 5日 生育 女儿 名字 柴某甲
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 之间 性格 不合 被告 进行 殴打 家庭 不 不 问
+O O O O B_Person O B_DomesticViolence O O O O
+目前 双方 之间 已经 分居
+O O O O B_Separation
+被告 行为 严重 伤害 夫妻 感情 导致 夫妻 之间 感情 破裂
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+维护 孩子 合法 权益 起诉 请求 1． 依法 判决 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,6 @@
+原告 俞某 起诉 称 原 被告 1980年 经人介绍 相识 1986年 12月 2日 绍兴县 夏履镇 人民政府 登记 结婚 1987年 7月 生育 子 俞某 婚后 夫妻 关系 正常
+O O O O O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name O O O O
+2002年 始 性格 差异 被告 怀疑 原告 第三者 被告 亲戚 邻里 关系 处理 欠妥 为此 双方 发生 争吵 相打
+O O O O O O B_Derailed I_Derailed O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2004年 7月 2005年 10月 原告 曾 起诉 要求 被告 离婚 之后 分别 驳回 离婚 诉请 双方 夫妻 关系 没有 改善 2005年 9月 原 被告 因故 发生 争吵 相 后 分居 今
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O B_Separation O

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 生育 儿子 高某 乙 ×××× 年×× 月×× 日 生育 女儿 高某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 认识 时间 短 缺乏 了解 婚后 常 琐事 吵闹 两 孩子 长大 两 人 感情 疏远 名存实亡 婚姻 无力 维系 下去
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+原告 家当 上门 女婿 原告 家 年 原告 感情 好 老家 家产 房产 全部 卖 掉 后 原告 家 高坡村 盖 处 三 层 小 楼
+O O O O O O O O O O B_Wealth I_Wealth I_Wealth O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth

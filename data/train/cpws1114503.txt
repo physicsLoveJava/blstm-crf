@@ -1,0 +1,2 @@
+原告 张某 诉称 原 被告 1999年 相识 ×××× 年×× 月××日 谷城县 城关镇 婚姻 登记 管理所 办理 结婚 登记 ×××× 年×× 月×× 日 生育 男孩 取名 雷某 乙
+O O O O O B_Time B_Know B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name

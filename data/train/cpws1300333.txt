@@ -1,0 +1,6 @@
+原告 张某 诉称 原 被告 媒人 介绍 相识 2011年 农历 4月 16日 举行 典礼 同居 生活
+O O O O O O O B_Know O O O O O O O O
+2011年 11月 25日 办理 结婚 登记 2012年 2月 2日 二 人 婚生 子 王某甲
+B_Time I_Time I_Time O B_Marry O O O O O O B_Bear O B_Name
+共同 生活 后 发现 二 人 性格 不合 没有 共同语言 吵架 生气
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

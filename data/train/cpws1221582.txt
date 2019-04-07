@@ -1,0 +1,6 @@
+原告 某某 诉称 原 被告 双方 2004年 经人介绍 相识 2006年 1月 16日 登记 结婚 2008年 4月 22日 生育 女孩 赵某甲 2012年 10月 30日 生育 男孩 赵某乙
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 双方 婚前 认识 时间 短 缺乏 感情 基础 婚后 性格 不合 缺乏 共同语言 琐事 产生 矛盾 被告 存在 暴力 倾向 殴打 原告 已经 严重 影响 家庭 生活 无法 共同 生活
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence B_DomesticViolence O O O O O O O O O
+原告 某某 慎重 考虑 认为 双方 无 和好 请求 法院 判决 准予 离婚
+O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

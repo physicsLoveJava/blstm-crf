@@ -1,0 +1,4 @@
+原告 赵某 甲诉 称 原 被告 经人介绍 认识 2006年 12月 民政局 登记 结婚 2009年 3月 生育 子 赵某乙
+O O O O O O O B_Know B_Time I_Time O B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name
+婚前 了解 不够 草率 结婚 夫妻 之间 缺少 沟通 夫妻 感情 破裂 双方 分居 生活 苦不堪言
+O O O O O O O O O O O O O B_Separation O O

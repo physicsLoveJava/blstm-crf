@@ -1,0 +1,6 @@
+原告 林某 诉称 原 被告 系 同学 关系 2010年 确定 恋爱 关系 2011年 10月 18日 登记 结婚 2012年 5月 27日 生育 女 取名 李 某某
+B_Person O O O O O O O B_Time O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 被告 不 回家 缺乏 家庭 责任感 导致 原告 婚姻 失去 信心
+O O I_FamilyConflict I_FamilyConflict O O O O O O O O
+诉请 判 令 1 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原告 被告 2007年 自由 恋爱 2010年 12月 12日 举行 结婚 仪式 2011年 1月 7日 政府 登记 结婚 2008年 6月 17日 生育 女儿 燕某 2010年 11月 23日 生育 儿子 燕叙铭
+O O O O O B_Time B_BeInLove I_BeInLove O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 缺乏 了解 草率 结婚 生育 子女 未 建立 夫妻 感情 双方 性格 脾气 差异 大 琐事 吵闹 双方 分居 半 年 有余 夫妻 感情 确 已 破裂
+O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O B_Separation B_Duration I_Duration I_Duration O O O O O

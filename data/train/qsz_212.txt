@@ -1,0 +1,8 @@
+原 告 之间 熟人 介绍 2005年 9月 13日 武清 民政部门 登记 结婚
+O O O O O B_Time I_Time I_Time O O O B_Marry
+婚生 子 现 女方 抚养
+B_Bear B_Gender O O O
+被告 长期 找 原告 不
+B_Person O O O O
+发展 动手 原告
+O O B_Person

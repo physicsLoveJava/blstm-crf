@@ -1,0 +1,2 @@
+原被告 l993 年 秋天 朴识 建立 恋爱 关系 婚前 感情 1994年 5月 甘 双方 登记 结婚 1996年 5月 19日 双方 婚生 男孩 董皓宇 原被告什 结婚 以后 家务 琐事 发牛 矛盾 尤其 近 年 以后 双方 矛盾 激化 原被告 没有 共同 话言
+O O O O O O O O O O B_Time I_Time O O O B_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O O B_FamilyConflict O O O O O O O O O O O

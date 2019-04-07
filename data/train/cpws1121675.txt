@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 1988年 6月 25日 登记 结婚 双方 系 再婚 1994年 购买 厂 住宅楼 房屋 处 婚后 双方 性格 不和 吵闹 无奈 原告 2013年 1月 原告 起诉 法院 请求 判 令 被告 离婚 法院 审理 后 判决 不 准 离婚 法院 判决 后 被告 原告 不理不睬 双方 分居 今 诉至法院 请求 判 令 被告 离婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Person O B_Remarry O O I_Wealth I_Wealth I_Wealth I_Wealth O O O O I_FamilyConflict O B_Person B_Time I_Time O B_DivorceLawsuit O O O O O O O O O O B_Judgment I_Judgment O O O O O O O O O O O O O O O O

@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2007年 2月 5日 吉首市 婚姻 登记 机关 办理 结婚 手续
+O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O
+2008年 1月 13日 生育 子 伍熙朝
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 发现 双方 性格 不合 被告 无 责任心 不 守信用 不 尊重 原告 不 恰当 行为
+O O O O B_FamilyConflict I_FamilyConflict B_Person B_FamilyConflict I_FamilyConflict B_BadHabit I_BadHabit B_BadHabit I_BadHabit I_BadHabit O O O
+儿子 两 岁 后 被告 离开 吉首 前往 深圳 打工 至今 未 仅 每月 支付 儿子 300 元 生活 费用
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+原 被告 分居 期间 被告 原告 不闻不问 甚者 原告 进行 人身 威胁 原告 一心 儿子 创建 良好 家庭 环境 忍 再 忍
+O O B_Separation O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+被告 得寸进尺 严重 伤害 夫妻 感情 无 好 原告 诉至法院 请求 1 判 令 原 被告 离婚
+O O O O O O O O O O O O O O O O B_DivorceLawsuit
+2010年 初 家庭 经济 紧张 被告 对外 负有 大额 债务 原告 协商 后 被告 辞职 举家 深圳 谋生 儿子 深圳 龙岗红 苹果 幼儿园 上学 家 租房 居住 绝大部分 时间 居住 一起 仅 原告 回家 探亲 时间 里 双方 才 分开
+O O O O O B_Person O O O B_Debt O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

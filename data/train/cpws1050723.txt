@@ -1,0 +1,8 @@
+原告 邓 某某 诉称 被告 王某 甲 2008年 经人介绍 相识 建立 恋爱 关系 2008年 7月 18日 镇安县 民政局 办理 结婚 登记 手续 婚后 夫妻 感情 2009年 8月 25日 生育 子 王某 乙
+O O O O O O O B_Time O O O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 赌博 原告 不管 不顾 后 被告 患病 致 双方 感情 彻底 破裂
+B_Person B_BadHabit I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 王某 甲 辩称 原告 邓 某某 2008年 经人介绍 相识 双方 自由 恋爱 后 办理 结婚 登记 婚后 生育 子 双方 夫妻 感情 好
+O O O O O O O B_Time O B_Know O O O O O O O O O O O O O O
+打牌 玩耍 不 属于 赌博 后 患病 双方 之间 产生 隔阂 致 双方 夫妻 感情 淡薄
+B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O

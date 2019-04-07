@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 网友 介绍 相识 2010年 举行 婚礼 女儿 上 户口 2011年 补办 结婚 登记
+O O O O O O O O O B_Marry I_Marry O O O O O O O
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 发现 性格 不合 被告 生性 暴躁 动不动 原告 动手 原 被告 吵架 原告 实在 无法 忍受
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+昨天 原被告 孩子 问题 发生 争吵 被告 暴打 顿 使 根本 不 敢 回家
+B_Time O O O O O B_Person B_DomesticViolence O O O O O O
+平均 负担 夫妻 共同 债务 10000 元
+O O O O B_Debt B_Price I_Price

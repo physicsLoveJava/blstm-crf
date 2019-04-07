@@ -1,0 +1,4 @@
+原告 王某 甲诉 称 2011年 12月 29日 经人介绍 被告 认识 ×××× 年×× 月××日 领取 结婚证 ×××× 年×× 月×× 日 生 下 女儿 王某丙 现 生活
+B_Person I_Person B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name O O
+被告 婚前 不 了解 婚后 生活 琐事 发生 争吵 2013年 8月 8日 被告 被告 父母 进行 殴打 恶语 攻击 被迫 回 娘家 分居 今
+O O O O O O O O B_FamilyConflict O O O B_Person I_Person I_Person O B_DomesticViolence O O O O O B_Separation O

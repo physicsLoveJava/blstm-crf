@@ -1,0 +1,8 @@
+原告 刁某 诉称 原告 被告 经人介绍 相识 婚前 缺乏 了解 未 建立 夫妻 感情
+O O O O O O B_Know O O O O O O O
+原被告 ×××× 年×× 月×× 日 登记 结婚 婚后 育 女
+O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender
+共同 生活 期间 被告 好逸恶劳 不尽 家庭 义务 导致 双方 关系 一再 恶化 后 分居 生活 婚姻 关系 名存实亡
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Separation O O O O
+2013年 2月份 原告 带 孩子 移居 娘门 夫妻 分居 今
+B_Time I_Time O O O O O O B_Separation I_Time

@@ -1,0 +1,10 @@
+原告 周某 甲诉 称 原 被告 1994年 相识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 二 女 子 大 女儿 周某 乙 现年 17 岁 绍兴市 卫生 学校 就读
+O B_Bear O O O O B_Gender B_Name I_Name O B_Age I_Age O O O O
+二 女儿 周某丙 现年 5 岁 大唐镇 大地 幼儿园 就读
+O B_Gender B_Name O B_Age I_Age O O O O
+儿子 周 某丁 现年 3 岁
+B_Gender B_Name I_Name O B_Age I_Age
+原告 性格 脾气 原因 导致 夫妻 间 发生 矛盾 2012年 10月 双方 分居 致 夫妻 感情 彻底 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Time I_Time O B_Separation O O O O O

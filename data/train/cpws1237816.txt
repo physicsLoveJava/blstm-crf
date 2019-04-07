@@ -1,0 +1,6 @@
+原告 李某 诉称 原 被告 ×× ×× 年×× 月×× 日 登记 结婚 2008年 6月 10日 生 女孩 取名 李甲
+B_Person I_Person B_DivorceLawsuit O O B_Time I_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 草率 结婚 婚后 双方 常 琐事 发生 纠纷
+O O O O O O O O O O B_FamilyConflict
+2013年 2月 被告 带 女儿 回 娘家 居住 至今 未
+B_Time I_Time O O O B_Separation I_Separation I_Separation O O

@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 2001年 12月 3日 涉县 民政局 草率 登记 结婚 婚后 2002年 11月 7日 生 儿子 郝志利
+O O O O O O B_Time I_Time I_Time O O O O B_Marry O B_Time I_Time I_Time B_Bear I_Bear B_Name
+原 被告 结婚 后 便 性格 不合 常常 生气
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2006年 3月 原告 外出 打工 为名 被告 分居 生活 今
+B_Time I_Time O O O O O B_Separation O O
+现 夫妻 感情 已经 彻底 破裂 儿子 原告 共同 生活 时间 长 原告 抚养 宜
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O
+请求 判决 准许 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

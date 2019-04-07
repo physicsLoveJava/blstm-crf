@@ -1,0 +1,6 @@
+原 告诉 称 原被告 1985年 登记 结婚 共同 生活 中 被告 脾气 暴躁且 赌博 成 瘾 双方 发生 吵闹
+O O O O B_Time O B_Marry O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+被告 常 原告 拳打脚踢 致使 原告 痛苦 不堪
+B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+早年 孩子 年幼 原告 顾及 子女 教育 成长 没有 被告 离婚 现 双方 共同 子女 均 已 成人 原告 2012年 5月 法院 起诉 要求 被告 离婚 后 法院 判决 不 准 离婚
+O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment

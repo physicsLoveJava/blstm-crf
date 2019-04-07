@@ -1,0 +1,4 @@
+原被告 原系 同学 关系 毕业 后 柑恋 2015年 9月 18日 举行 婚礼 仪式 共同 生活 2016年 1月 17日 补办 结婚 登记 手续 领取 结婚证 2018年 4月 16日 婚生 子 取名 沙新洋 现 原告 一起 生活
+O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O
+原被告 婚后 感情 2017年 原告 发现 被告 网络 上 赌球 当时 进行 劝阻 被告 解释 只 娱乐
+O O O O O O B_Person O O B_BadHabit O O O O O O O

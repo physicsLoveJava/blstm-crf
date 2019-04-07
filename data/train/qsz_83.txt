@@ -1,0 +1,8 @@
+原 被告 2017年 7月 20日 网络 相识 2017年 10月 20日 被告 胁迫 原告 办理 结婚 登记 双方 均 系 再婚 未 生育 子女
+O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry B_Person O O B_Remarry O O O
+婚前 了解 甚 少 被告 不 工作 常 威胁 原告
+O O O O B_Person B_BadHabit I_BadHabit O B_DomesticViolence B_Person
+原告 无奈 2017年 10月 26日 携 女儿 回 娘家 居住 今
+O O B_Time I_Time I_Time O O B_Separation I_Separation I_Separation I_Time
+原告 曾 诉 贵院 请求 离婚 被告 不 同意 离婚 贵院 2017年 12月 25日 判决 驳回 原告 诉讼 请求
+B_Person O B_DivorceLawsuit O O O O O O O O B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment I_Judgment

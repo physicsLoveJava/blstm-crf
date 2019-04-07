@@ -1,0 +1,2 @@
+原 告诉 称 被告 2005年 2月 人 介绍 相识 同年 3月 双方 登记 结婚 11月 生育 子 取名 黄某浩 结婚 仓促 双方 接触 了解 太 少 性格 不合 婚后 吵架 感情 不 多年 夫妻 分居 各地 打工
+O O O O B_Time I_Time O O B_Know B_Time I_Time O B_Marry I_Marry B_Time B_Bear B_Gender O B_Name O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Separation O O

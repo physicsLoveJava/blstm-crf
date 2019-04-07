@@ -1,0 +1,16 @@
+原告 卢 X 琼诉 称 原告 被告 2004年 2月 25日 认识 同年 3月 10日 登记 结婚 2006年 8月 8日 生育 长子 施 X 存 2008年 5月 15日 生育 次子 施 X 光
+O O O O O O O B_Time I_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear O O O O O O O B_Bear O O O O
+原告 被告 相识 刚 15 天 登记 结婚 属于 闪婚
+O O B_Know O O O B_Marry I_Marry O O
+夫妻 双方 婚前 缺乏 了解 性格 不合 被告 原告 没有 感情 原告 漠不关心 不 信任 原告 原告 感到 压抑
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+导致 夫妻 生活 琐事 发生 争吵 拳脚 相加
+O O O O O O B_DomesticViolence I_DomesticViolence
+被告 不但 原告 伤 还 刀 相 威胁 原告 身上 伤痕 累累 原告 无法 忍受 被告 家庭 暴力 2011年 8月份 被迫 离家 出走 长 达 10 月 回家 后 夫妻 关系 没有 改善
+B_Person O B_Person O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence B_Time I_Time O B_Separation I_Separation O O O O O O O O O O
+2012年 9月份 分居 互不 履行 夫妻 义务 导致 夫妻 感情 破裂
+B_Time I_Time B_Separation O O O O O O O O
+3 夫妻 共同 财产 人民币 150000 元 原告 只 要求 分割 人民币 50000 元
+O O O O O O O O O O O B_Wealth I_Wealth I_Wealth
+被告 施 X 持 辩称 被告 原告 婚前 感情 基础 非常 牢固 原告 诉称 被告 婚前 感情 基础 差 无 事实 依据
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Negated I_Negated I_Negated

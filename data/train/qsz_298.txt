@@ -1,0 +1,6 @@
+原告 被告 2016 柑 识 片丁 2016年 登记 结婚
+O O O O O O B_Time B_Marry I_Marry
+2016年 I0 月 生育 名 张灭成
+O O O B_Bear O O
+j 原告 发/ l 争吵 跑 回 娘家 白 未 孩子 j 探视 卡时 婚后 原被告 购火 东谢牌 小轿车 变卖
+O O O O B_FamilyConflict B_Separation I_Separation I_Separation O O O O O O O O O O O O

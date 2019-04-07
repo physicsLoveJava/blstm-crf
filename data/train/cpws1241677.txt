@@ -1,0 +1,4 @@
+原告 黄 XX 诉 称 婚前 双方 了解 不够 婚后 原告 才 得知 被告 赌博 恶习 长期 夜 生活 丰富 喜欢 酗酒 毫无 家庭 责任感
+O O O O O O O O O O O O O B_Person B_BadHabit O O O O O O B_BadHabit O O O
+原告 2013年 1月 16日 搬离 被告 共同 租 住 地方 正式 分居 今
+O B_Time I_Time I_Time O O O O O O O B_Separation O

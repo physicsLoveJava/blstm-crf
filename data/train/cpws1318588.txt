@@ -1,0 +1,10 @@
+原告 刘 某某 诉称 原 被告 2002年 初 相识 2003年 4月 举办 结婚 仪式 2005年 8月 3日 办理 结婚 登记 手续
+B_Person I_Person I_Person B_DivorceLawsuit O O B_Time I_Time B_Know O O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+2003年 1月 27日 生育 长子 李某 甲 2004年 11月 2日 生育 次子 李某 乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 性格 差异 大 难以 沟通 生活 琐事 发生 冲突 被告 原告 破口 大 骂 拳打脚踢
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict B_Person B_Person O B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2010年 农历 正月十五 被告 离家 出走 至今 未 不 家人 联系
+B_Time I_Time I_Time O B_Separation I_Separation O O O O O
+请求 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

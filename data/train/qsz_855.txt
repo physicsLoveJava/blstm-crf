@@ -1,0 +1,4 @@
+2011年 4月 初 原告 经人介绍 被告 相识 双方 2011年 4月 25日 蓟州区 民政部门 办理 结婚 登记 手续
+B_Time I_Time O O O O B_Know O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+原被告系 再婚 原 被告 婚后 共同 生活 期间 婚后 双方 性格 差异 大 感情 不和 家庭 琐事 吵架 无法 进行 正常 沟通 被告 不 正确 处理 子女 原告 关系 导致 原 被告 无法 共同 生活 形 陌路 夫妻 关系 名存实亡
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 郑某 诉称 2008年 原 被告 经人介绍 认识 匆忙 登记 结婚
+O O O B_Time O O O B_Know O B_Marry I_Marry
+婚后 分居 二 生活 不 导致 夫妻 感情 破裂
+O B_Separation O O O O O O O

@@ -1,0 +1,2 @@
+原被告 经人介绍 1995年 1月 20日 登记 结婚 婚后 1995年 10月 6日 生 男孩 刘旭阳 已 成年 2004年 10月 8日 生 女孩 刘昕阳
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_Time I_Time I_Time B_Bear B_Gender B_Name

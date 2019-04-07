@@ -1,0 +1,4 @@
+原告 王某 强诉 称 被告 2012年 9月 14日 庆城县 人民政府 登记 结婚
+O O O O O B_Time I_Time I_Time O O B_Marry I_Marry
+婚前 缺乏 了解 婚后 双方 常 发生 争吵 厮打 致使 夫妻 感情 破裂 现 诉请 被告 离婚 财产 所有 被告 返还 彩礼款
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

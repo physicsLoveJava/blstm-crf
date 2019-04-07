@@ -1,0 +1,4 @@
+原告 王 某某 诉称 2013年 4月 原被告 经人介绍 认识 2013年 8月 2日 登记 结婚 婚前 原告 购买 王磊 位于 黄岛区 阅武路 XXXX 号 XX 栋 X 单元 XXX 室 房屋 处 原告 名下 房 双方 商定 房屋 落户 被告 名下
+O O O O B_Time I_Time O B_Know I_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O
+原告 购买 房屋 花 去 多年 积蓄 被告 投入 全部 感情 被告 种种 令人发指 行为 原告 实在 无法 忍受 登记 后 三 天 大 吵 要求 离婚 2013年 9月 2日 原告 起诉 要求 离婚 被告 不 同意 被告 原告 撤诉 后 却 意图 转移 房产 已经 实施 行动
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 相识 两 月 后 于×××× 年×× 月××日 高阳县 民政局 办理 结婚 登记 婚前 了解 少 仓促 结婚 没有 建立 深厚 夫妻 感情 婚后 发现 被告 脾气 秉性 极 不 投合 双方 没有 共同语言 生活 琐事 发生 争吵
+O O O O O O O O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 不但 原告 打架 还 原告 亲属 打架 导致 家庭 关系 紧张
+O O O O O O O B_DomesticViolence O O O O
+现 双方 感情 已经 破裂 原告 要求 被告 离婚
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_DivorceLawsuit O O
+双方 婚后 生育 子 文某 乙 现年 12 岁 孩子 健康 成长 要求 自行 抚养 孩子
+O O B_Bear I_Gender B_Name I_Name B_Age I_Age I_Age O O O O O O O

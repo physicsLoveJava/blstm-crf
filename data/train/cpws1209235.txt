@@ -1,0 +1,6 @@
+原告 吴 某某 诉称 原告 吴 某某 被告 黄 某某 住 村 1991年 人 介绍 相恋 同年 1月 23日 办理 结婚 登记 手续 1999年 农历 5月 初 1 生 男孩 黄 小某
+O O O O O O O O O O O O B_Time O O B_BeInLove B_Time I_Time I_Time O B_Marry I_Marry O B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+性格 不 原因 结婚 今 双方 感情 不好 现 已 分居 两 年 解除 段 痛苦 婚姻 为此 请求 1 依法 判决 原 被告 离婚
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation B_Duration I_Duration O O O O O O O O O O O O
+3 共同 财产 平均 分割 共同 债务 共同 承担
+O O O O O B_Debt I_Debt O O

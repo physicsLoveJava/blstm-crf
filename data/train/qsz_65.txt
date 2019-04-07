@@ -1,0 +1,12 @@
+原 被告 2004年 10月 人 介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O O B_Know O B_BeInLove O
+2005年 1月 31日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+2006年 4月 9目 生育 长子 刘昊 2008年 4月 11日 生育 次子 刘群
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 缺乏 了解 草率 结婚 婚后 发现 双方 性格 个合 家庭 琐事 发生 争吵
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 曾丁 2015年 10月 诉 贵院 要求 离婚 被告 不 同意 原告 无奈 撤诉
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O O B_Judgment
+现原 被告 分居 多年 夫妻 感情 早已 名存实亡 已 无 共同 生活 希望
+O O B_Separation I_Separation O O O O O O O O O

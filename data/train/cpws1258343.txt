@@ -1,0 +1,16 @@
+原告 李某 起诉 称 原 被告 均 系 再婚
+O O O O B_Person B_Person O O B_Remarry
+原 被告 2007年 网络 认识
+O O B_Time O B_Know
+2008年 12月 31日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+2009年 9月 1日 生育 儿子 取名 李嘉陈
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+渔业 养殖 后 被告 晚归 为此 双方 发生 争吵 感情 出现 裂痕
+O O O O O O O O B_FamilyConflict O O O
+2012年 9月 原告 发现 被告 外遇 双方 争吵 后 分居
+B_Time I_Time O O B_Person B_Derailed O O O B_Separation
+2013年 3月 原告 重新 被告 同居 争吵 不 断 分居 感情 已 彻底 破裂 请求 法院 判 令 解除 原 被告 婚姻 关系
+B_Time I_Time O O O O O O O B_Separation O O O O O O O O O O O O O
+夫妻 共同 财产 依法 分割
+O B_Wealth I_Wealth O O

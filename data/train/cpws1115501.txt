@@ -1,0 +1,8 @@
+原告 孙×诉 称 原告 被告 2010年 3月 22日 登记 结婚 婚后 育 女 孙 x1
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear I_Gender B_Name I_Name
+原告 此前 曾 起诉 离婚 后 法院 调解 撤诉
+O O O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment
+3． 依法 分割 夫妻 共同 存款 7万 元
+O O O O B_CommonProperty B_Wealth B_Price I_Price
+共同 存款 认可 只 2万 元 存款 孙 x1 出生 后 亲属 孩子 压岁钱 不 夫妻 共同 财产 原告 主张 7万 元 存款 不 存在
+B_CommonProperty I_CommonProperty O O B_Price I_Price B_Wealth O O O O O O O O O O O O O O O O O O

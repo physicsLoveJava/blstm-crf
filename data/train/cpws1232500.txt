@@ -1,0 +1,6 @@
+原告 汪某 诉称 原 被告 相识 不久 办理 结婚 登记 手续 婚后 2001年 生育 子 汪 A 2006年 生育 女 汪 B
+O O O O O B_Know O O B_Marry I_Marry I_Marry O B_Time B_Bear B_Gender B_Name I_Name B_Time B_Bear B_Gender B_Name I_Name
+原告 2010年 底 被告 分居 今 双方 夫妻 感情 确 已 破裂 婚姻 再 维持 下去 双方 子女 都 伤害
+O B_Time I_Time O B_Separation O O O O O O O O O O O O O O O
+原告 找 被告 协商 离婚 事宜 未果 为此 诉至法院
+B_Person O O O O O O O B_DivorceLawsuit

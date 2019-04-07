@@ -1,0 +1,22 @@
+原告 黄章 富诉 称 1994年 年底 原告 被告 认识 1997年 1月 6日 双方 大新县 桃城镇 政府 登记 结婚
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry
+2001年 5月 1日 生育 女儿 黄 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 好吃懒做 贪玩 林场 工人 女儿 出生 后 不 去 上班 女儿 上学 后 男人 喝酒 喝茶 赌钱 有时 晚上 十二点 都 未 回家
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 7月 被告 开发区 租 门面 开 土 特产 专营店 当时 原告 名下 信用卡 支付 货款 41000 元
+O O B_Person O O O O O O O O O O B_Credit I_Credit I_Credit B_Price I_Price
+2013年 1月 17日 被告 法院 起诉 要求 原告 离婚 法院 开庭 前 被告 撤诉
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment
+被告 不 偿还 信用卡 欠款 原告 只能 借款 12000 元 偿还
+O O O B_Person O O O B_Debt B_Price I_Price O
+夫妻 共同 财产 位于 大新县 银行 宿舍区 集资房 套 位于 大新县 林场 宿舍区 集资房 套 位于 大新县 开发区 市场 街 门面 土特产 专营店 间
+O B_CommonProperty I_CommonProperty O O O O B_Wealth I_Wealth O O O O B_Wealth I_Wealth O O O O O O B_Wealth I_Wealth I_Wealth
+夫妻 共同 债务 大新县 银行 宿舍区 集资房 尚 欠 原告 父亲 借款 40000 元
+O O B_Debt O O O O O O B_Person I_Person O B_Price I_Price
+支付 土特产 专营店 货款 尚 欠 原告 名下 信用卡 欠款 包括 手续费 共计 32904 元
+O O O B_Debt O O O O B_Person O O O O B_Price I_Price
+大新县 林场 宿舍区 集资房 尚 欠 原告 父亲 借款 10000 元
+O O O O O O B_Person I_Person B_Debt B_Price I_Price
+原告 认为 原 被告 分居 生活 年 被告 不 守信用 原告 无法 正常 生活 被告 曾 起诉 要求 原告 离婚 夫妻 感情 已 完全 破裂 夫妻 关系 名存实亡
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O

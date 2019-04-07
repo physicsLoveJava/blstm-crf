@@ -1,0 +1,14 @@
+原告 廖 某某 诉称 原 被告 2012年 冬 经人介绍 认识 2013年 4月 9日 登记 结婚
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+原告 2006年 4月 21日 谢 某某 未婚生 儿子 廖 某某
+O B_Time I_Time I_Time O O B_Bear B_Gender B_Name I_Name
+原 被告 婚前 不 太 了解 被告 隐瞒 前婚史 婚后 被告 嫌 原告 已 小孩 打骂 小孩 原告 父母 合 不 产生 矛盾 为此 夫妻 双方 吵架 夫妻 感情 完全 破裂
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O
+1 被告 没有 打骂 虐待 小孩
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2 被告 没有 原告 父母 合 吵架 制造 矛盾
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+二 原告 被告 结婚 前 曾 名 女性 结婚 事 隔 半 年 离婚 玩弄 人 感情
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 长期 外 打工 结识 第三者 家庭 妻子 不 负 责任 造成 被告 精神 痛苦
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

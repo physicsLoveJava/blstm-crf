@@ -1,0 +1,4 @@
+原被告 双方 2009年 9月份 介绍 相识 确立 恋爱 关系 2009年 11月 19日 办理 登记 结婚 同年 11日 举行 结婚 仪式 共同 生活 婚后 2010年 10月 24日 生育 字 取名 刘永硕
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O O O O O O B_Time I_Time I_Time B_Bear O O B_Name
+双方 原被告 双方 介绍 相识 短暂 相识 后 双方 确立 恋爱 关系 恋爱 中 双方 感情 尚 很快 办理 结婚 登记 相识 时间 短 原被告 双方 婚前 进 深入 了解 婚后 感情 基础 薄弱 薄弱 感情 没有 婚后 得以 巩固 婚后 不久 原告 渐渐 发现 双方 性格 不 珍惜 夫妻 感情 弥补 婚后 薄弱 感情 基础 增加 夫妻 感情 遗憾 年 夫妻 感情 没有 得到 好转 双方 日常 生活 中 依旧 沟通 困难 缺乏 共同语言 每次 交谈 双方 都 产生 争执 现 原告 认为 双方 婚姻 关系 多年 现在 婚姻 已 名存实亡
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 张某 诉称 1995年 原 被告 经人介绍 相识 1999年 12月 24日 原 被告 登记 结婚
+B_Person O O B_Time O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+2000年 11月 19日 生育 长子 刘某 甲 2006年 1月 17日 生育 次子 刘某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 性格 不合 吵架
+O O O O B_FamilyConflict
+被告 双方 夫妻 感情 不合 问题 外出 八 年 久 未 家庭 义务 夫妻 感情 彻底 破裂
+O O O O O O B_Separation B_Duration I_Duration O O O O O O O O
+请求 法院 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

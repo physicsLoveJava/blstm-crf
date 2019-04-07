@@ -1,0 +1,12 @@
+原告 王某 甲诉 称 原 被告 经人介绍 相识 2012年 12月 31日 登记 结婚 婚后 2013年 8月 16日 生育 女儿 伊某
+O O O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 被告 不 了解 婚后 发现 被告 脾气 不好 喝酒 闹事 赌博 不 孝敬 老人 孩子 不尽 丈夫 父亲 义务
+O B_Person O O O O O O O O O I_BadHabit O O O O O O O O
+2013年 末 被告 外出 打工 回来 不 原告 钱 不 孩子 抚养费 发生 争执 动手 殴打 原告 被告 离开 原告 家 回到 老家 挣钱 分 钱 不 原告 孩子 生活费 不 回家
+B_Time I_Time O O O O O O O O O O O O O B_DomesticViolence B_Person B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O O O O
+自此 原 被告 分居 生活 今年 现 感情 却 已 破裂 无 好
+O O O O O I_Time O O O O O O O
+被告 伊 某某 辩称 原告 诉 事实 不符
+O O O O O I_DomesticViolence I_DomesticViolence B_Negated
+房款 属于 答辩 人 婚前 财产 付 原告 彩礼 家具 三金 款项 导致 答辩人 家庭 生活 十分 苦难 原告 义务 以上 款项 10．8万 元 全部 返还 答辩 人
+B_Wealth O O O O I_PersonalProperty O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+2000年 6月份 原被告 山西省 大同市 矿区 办理 结婚 登记 手续
+B_Time I_Time O O O O O B_Marry I_Marry O
+同年 生育 长子 王秉基 现 已 成年 婚前
+B_Time B_Bear B_Gender B_Name O O O O
+双方 长期 吵 不 断
+O B_FamilyConflict I_FamilyConflict O O

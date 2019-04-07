@@ -1,0 +1,8 @@
+原告 许 某某 诉称 原 被告 1980年 自由 恋爱 1981年 农历 2月 19日 举行 结婚 仪式 未 办理 结婚 登记 手续
+O O O O O O B_Time B_BeInLove I_BeInLove O O O O O O O O O O O O
+婚后 生育 女 子
+B_Time B_Bear I_Gender I_Gender
+原、被告 双方 婚前 感情 基础 婚后 性格 不合 生活 琐事 发生 争吵 夫妻 感情 逐渐 淡薄
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2008年 原 被告 分居 今 分居 以来 双方 互不 联系 互不 履行 夫妻 义务 现 夫妻 关系 已 形同虚设 名存实亡 夫妻 感情 已 彻底 破裂 无 挽回 余地 原告 诉至法院 请求 判 令 准予 原被告 双方 离婚
+B_Time O O B_Separation I_Time O O O O O O O O O O O O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

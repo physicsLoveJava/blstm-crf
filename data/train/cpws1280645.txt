@@ -1,0 +1,8 @@
+原告 李 某某 诉称 原被告 经人介绍 认识 1997年 4月 24日 登记 结婚 1998年 2月 2日 生 子 取名 胡某甲
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 婚前 缺乏 了解 婚后 吵闹 生气 现 已经 分居 二 年
+O O O O O O O O O B_Separation B_Duration I_Duration
+原被告 夫妻 感情 已经 彻底 破裂 双方 没有 好
+O O O O B_FamilyConflict I_FamilyConflict O O O
+被告 胡某 辩称 原 告 之间 夫妻 感情 未 彻底 破裂 原告 诉状 上 称 分居 达 两 年 久 不 属实 被告 不 同意 离婚 应驳 回 原告 诉讼 请求
+O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation I_Separation O O O O O O O O O

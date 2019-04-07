@@ -1,0 +1,2 @@
+原 告诉 称 被告 婚前 缺乏 了解 婚后 没有 共同语言 生气吵闹 没有 建立 夫妻 感情 提起 诉讼 要求 被告 离婚 要求 分割 夫妻 共同 财产
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原被告 经人介绍 2017年 7月 12日 相识 建立 恋爱 关系
+O O B_Time I_Time I_Time B_Know O B_BeInLove O
+2018年 3月 1日 登记 结婚
+B_Time I_Time I_Time B_Marry I_Marry
+2018年 3月 25日 举办 婚礼 共同 生活 后 感情 不和 原告 2018年 7月 14日 回 娘家 居住
+B_Time I_Time I_Time B_Marry I_Marry O O O B_FamilyConflict I_FamilyConflict O B_Time I_Time I_Time B_Separation I_Separation O

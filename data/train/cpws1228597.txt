@@ -1,0 +1,2 @@
+原 告诉 称 原被告 经人介绍 相识 后 2011年 12月 8日 办理 结婚 登记 相识 时间 短 缺乏 了解 原告 智力 存在 残疾 遭受 被告 虐待 公婆 歧视 双方 无法 共同 生活 提起 离婚 诉讼 婚前 陪嫁 予以 返还 诉讼 费用 被告 承担
+O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O O O O B_Person B_DomesticViolence O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

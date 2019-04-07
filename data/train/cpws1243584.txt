@@ -1,0 +1,6 @@
+原告 韩某 诉称 原被告 2007年 2月 未 进行 结婚 登记 便 夫妻 名义 同居 生活 原告 陪嫁物 洗衣机 台 物 2010年 3月 3日 生育 女 白某 乙 同年 5月 6日 补办 结婚 登记 手续
+O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time O B_Marry O O
+原被告 婚姻 基础 差 婚后 被告 原告 实施 家庭 暴力 导致 原告 患病 被告 置之不理 原告 讲 好 说 好 散 夫妻 感情 已 彻底 破裂
+O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O
+家庭 共同 财产 三 间 层 半 楼房 物
+O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O

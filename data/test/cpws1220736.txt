@@ -1,0 +1,20 @@
+原告 杨某 甲诉 称 原 被告 系 再婚
+O O O O B_Person I_Person O B_Remarry
+1996年 2月份 双方 经人介绍 相识 恋爱 1996年 月 某日 草塔 人民政府 婚姻 登记处 办理 结婚 登记 手续 1998年 2月 生育 女儿 杨某丙
+B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O O O B_Marry I_Marry O B_Time I_Time B_Bear B_Gender B_Name
+婚后 前段 时间 双方 感情 尚 去年 被告 认识 女性 后 原告 另眼相看 双方 发生 口角 争吵
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2012年 4月 5日 原告 逼 离家 出走 外 打工 度日
+B_Time I_Time I_Time O O O O I_Separation I_Separation I_Separation
+2012年 8月 19日 被告 外 喝酒 回家 后 谩骂 女儿 天 女儿 想 不 开 跑 水库 寻 短见
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O
+女儿 不幸 被告 不轨 行为 原告 外 打工
+O O B_Person B_Derailed I_Derailed O I_Separation I_Separation
+2012年 9月 27日 原 被告 发生 争执 天 被告 打电话 村干部 婚姻 介绍人 家讲 事情 双方 言语 不 被告 竟 动手 原告 原告 110 警察 救护 下 才 得以 逃 出
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence O O O O O O O O O O
+现 原告 起诉 要求 被告 离婚 夫妻 共同 财产 依法 分割
+O O O O O B_DivorceLawsuit O O O O O
+被告 杨某 乙辩 称 1 原告 再婚 被告 第一 次 结婚
+O O O O O B_Person B_Remarry B_Person B_Remarry I_Remarry I_Remarry
+女儿 寻短 见 后 双方 口角 相 争 原告 外 打工 躲避 被告
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

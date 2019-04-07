@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 2007年 夏天 双方 打工 期间 经人介绍 相识 半 年 后 同居 生活 一起 2013年 1月 28日 政府 补办 结婚 登记
+O O O O O B_Time I_Time O O O O B_Know O O O O O O B_Time I_Time I_Time O O B_Marry O

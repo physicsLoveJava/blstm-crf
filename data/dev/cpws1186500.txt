@@ -1,0 +1,16 @@
+原告 林某 诉称 2009年 3月 27日 原 被告 媒人 介绍 相识 times
+O O O B_Time I_Time I_Time O O O O B_Know O
+双方 婚姻 登记 机关 办理 结婚 登记 双方 认识 时间 短 缺乏 了解 感情 基础 差
+O O O O B_Marry I_Marry I_Marry O O O O O O O O O
+结婚 后 原告 发现 被告 脾气 暴躁 不务正业 赌博 六合彩 成性 时常 昼夜 不
+O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O
+原告 劝 被告 不要 参赌 被告 竟 暴跳如雷 野蛮 拳头 拖鞋 殴打 原告
+O O O O O B_Person O O O O O B_DomesticViolence B_Person
+原告 再婚 女人 只好 委曲求全 勉强 迁就
+B_Person B_Remarry O O O O O
+不得已 原告 2012年 9月 1日 携带 女儿 回 莆田 娘家 居住 双方 分居 生活 夫妻 感情 已经 彻底 破裂
+O B_Person B_Time I_Time I_Time O O O O O O O B_Separation O O O O O O
+请求 法院 1 判决 准予 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+根本 没有 殴打 原告 事实 原告 离婚 随意 编造
+B_Negated I_Negated B_DomesticViolence B_Person O O O O O

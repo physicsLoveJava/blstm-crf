@@ -1,0 +1,20 @@
+2001年 5月 原 被告 双方 经纪人 介绍 建立 恋爱 关系 2004年 农历 2月 24 举行 结婚 仪式 病 同居 生活 2005年 4月 25日 补办 登记 结婚 手续
+B_Time I_Time O O O O O O B_BeInLove O B_Time I_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time O O B_Marry O
+2005年 3月 16日 生长 女 张轶晗 2017年 5月 13日 生次 女 张 轶灵
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 生活 中 发现 被告 酗酒 恶习
+O O O O O B_BadHabit I_BadHabit
+喝 被告 无故 原告 打闹
+O O O O B_FamilyConflict
+近 两 年 被告 还 变本加厉 酒后 殴打 原告
+O O O B_Person O O O B_DomesticViolence B_Person
+刀 砍 坏 家 件 物品
+I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+被告 还 不 肯 工作
+O O B_BadHabit I_BadHabit I_BadHabit
+被告 不 肯 认错 更 不 改正
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+2018年 7月 初 被告 酒后 刀 威胁 殴打 原告 原告 手机 摔 坏 后 被告 离家 双方 分居 今
+B_Time I_Time I_Time B_Person O O B_DomesticViolence I_DomesticViolence O B_Person O O O O O B_Separation O O I_Time
+酗酒 恶习 原告 长期 实施 家庭 暴力 使 双方 矛盾 越来越 深 已经 激化
+B_BadHabit I_BadHabit O O O O O O O B_FamilyConflict O O O O

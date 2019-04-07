@@ -1,0 +1,10 @@
+陈某 甲诉 称 ×××× 年×× 月××日 原告 陈某 甲 其父 做 主将 被告 朱某 安徽省 定远县 人 招亲 入赘 原 被告 未 办理 结婚 登记
+O O O O O O O O O O O O O O O O O B_Marry I_Marry O O O O O O
+×××× 年×× 月×× 日 长女 陈某 乙 出生
+B_Time I_Time I_Time I_Time B_Gender B_Name I_Name B_Bear
+×××× 年×× 月×× 日 次子 陈某丙 出生
+B_Time I_Time I_Time I_Time B_Gender B_Name B_Bear
+原 被告 系 包办 婚姻 婚后 原被告 缺乏 交流 无法 沟通 双方 家庭 琐事 争吵 斗殴
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2012年 1月 27日 原 被告 争吵 后 分居 生活 今
+B_Time I_Time I_Time O O O O B_Separation O I_Time

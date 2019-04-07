@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2004年 2月 3日 蓟州区 蓟县 民政局 办理 结婚 登记 手续 共同 生活
+O O O B_Know B_Time I_Time I_Time O O O O B_Marry O O O O
+2004年 10月 13日 生育长 女王 麒雅 2009年 5月 31日 生育 次 女王 志丹
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear O B_Gender B_Name
+婚后 初期 双方 感情 尚 时间 推移 原 被告 双方 发现 夫妻 感情 逐浙 不 合 常常 家庭 琐事 生气 打架 争吵 不 休 夫妻 感情 已 彻底 破裂
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

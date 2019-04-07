@@ -1,0 +1,8 @@
+原 被告 2006年 经人介绍 相识 后 2007年 11月 19日 办理 婚姻 登记 手续 共同 生活 婚后 2009年 3月 20日 生育 子 李 光耀 现年 9 周岁
+O O B_Time O B_Know O B_Time I_Time I_Time O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O B_Age I_Age
+十 年 婚姻 生活 中 大部分 时间 琐事 发生 争吵 双方 提出 离婚 诉求
+O O O O O O O O O B_FamilyConflict O O O O
+2 被告 原告 缺乏 关心
+O O O B_FamilyConflict I_FamilyConflict
+现 被告 回 娘家 居住 今
+O O B_Separation I_Separation I_Separation I_Time

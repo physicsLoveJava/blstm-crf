@@ -1,0 +1,4 @@
+原 被告 2016年 1月 18日 办理 结婚 登记 2017年 1月 15日 生育 长子 肖用辰 现 原告 共同 生活
+O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+原 被告 婚后 感情 尚 原告 生育 孩子 后 双方 家庭 琐事 争吵 被告 下班 回 家 后 不 总是 玩 手机 半夜 不 帮忙 照看 孩子
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O

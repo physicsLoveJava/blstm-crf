@@ -1,0 +1,6 @@
+原 告诉 称 原被告 双方 经人介绍 后 2012年 12月 24日 宝丰县 民政局 办理 结婚 登记 手续
+O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry O
+原被告 相识 相互 了解 少 生活 中 双方 无 共同语言 生活 琐事 生气 打架 被告 无端 找事 原告 致使 双方 夫妻 感情 已 彻底 破裂 无法 继续 生活 下去
+O O O O O O O O O O O O O O B_Person O O B_Person O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 起诉 离婚 理由 不 事实
+O O B_Negated I_Negated I_Negated I_Negated

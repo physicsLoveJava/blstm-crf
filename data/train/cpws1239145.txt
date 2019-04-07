@@ -1,0 +1,2 @@
+原告 孙 某某 诉称 原 被告 自由 恋爱 2011年 12月 1日 登记 结婚 被告 以前 曾 判刑 认为 被告 应 好转 恋爱 期间 领结 婚证 后 未 发现 被告 不良 嗜好
+O O O O O O O B_BeInLove B_Time I_Time I_Time O B_Marry O O O O O O O O O O O O O O O B_Person B_BadHabit I_BadHabit

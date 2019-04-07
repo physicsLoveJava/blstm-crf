@@ -1,0 +1,2 @@
+原告 闵某 诉称 原被告 双方 年 前 相识 2012年 3月 才 住 一起 婚前 被告 说 有钱 买 房子 买 东西 5月份 登记 结婚 婚后 全 变 说话 不 算 数 孩子 出生 后 孩子 买 奶粉 钱 都 不 原告 还 患 疾病 被告 不管 为此 诉至法院 要求 离婚
+O O O O O O O O O O O O O O O O O O O O O B_Time O B_Marry O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

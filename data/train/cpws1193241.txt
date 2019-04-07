@@ -1,0 +1,8 @@
+原告 徐某 诉称 原告 徐某 被告 2001年 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 2004年 7月 1日 婚生子徐 xx 出生
+O O O O O O B_Time O B_Know O O O O O B_Marry B_Time I_Time I_Time B_Bear B_Name O
+婚后 双方 性格 差异 大 吵架 2011年 3月 原被告 分居 生活
+O O O O O I_FamilyConflict B_Time I_Time O B_Separation O
+原告 2012年 8月 30日 法院 起诉 离婚 法院 判决 不 准 离婚 后 双方 分居 今 现 已 不再 联系
+B_Person B_Time I_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment I_Judgment O O O I_Time O O O O
+原告 婚外恋 第一 次 离婚 被告 提交 照片 外 近期 通话 录音 证明 原告 过错
+B_Person B_Derailed O O O O O O O O O O O O O

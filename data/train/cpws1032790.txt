@@ -1,0 +1,10 @@
+原告 张 某某 诉称 被告 1990年 正月 初 九日 未 办理 结婚 登记 手续 便 举行 结婚 仪式 后 夫妻 名义 同居 生活
+O O O O O B_Time I_Time I_Time I_Time I_Time O B_Marry O O O O O O O O O O O
+婚续 期间 生育 三 女孩
+O O B_Bear O B_Gender
+长女 王某 乙 1992年 2月 5日 出生 次 女王 某丙 1994年 12月 21日 出生 小女 张甲 1996年 12月 16日 出生
+O B_Name I_Name B_Time I_Time I_Time O O B_Name I_Name B_Time I_Time I_Time O O B_Name B_Time I_Time I_Time O
+婚后 被告 不尽 家庭 义务 无端 猜疑 原因 致 关系 不 睦 感情 破裂 为此 已 分居 生活 数 年
+O O O O O O O O O O O O O O O O B_Separation O O O
+2011年 曾经 提起 离婚 诉讼 判决 驳回 诉讼 请求 后 夫妻 关系 仍 未 得到 改善 现 提起 离婚 诉讼 要求 被告 离婚 抚养 女儿 张甲
+B_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O

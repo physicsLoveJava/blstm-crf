@@ -1,0 +1,8 @@
+原告 杨某 甲诉 称 被告 1994年 11月 11日 举行 结婚 仪式 共同 生活 同年 宁县 早胜镇 人民政府 办理 结婚 登记 手续
+O O O O O B_Time I_Time I_Time O O O O O B_Time O O O B_Marry I_Marry I_Marry I_Marry
+被告 婚初 夫妻 关系 还 生 两 子女 儿子 魏某乙 现年 18 岁 女儿 魏某丙 现年 3 岁
+O O O O O B_Bear O O B_Gender B_Name O B_Age I_Age B_Gender B_Name O B_Age I_Age
+2010年 腊月二十五 被告 殴打 肋骨 骨折
+B_Time I_Time B_Person B_DomesticViolence O O
+2011年 7月 被告 殴打 儿子 劝说 句 被告 木棍 出 家门 被迫 早胜街 租房 居住 供 女儿 上学
+B_Time I_Time B_Person B_DomesticViolence B_Person O O B_Person O O O O O O O O O O

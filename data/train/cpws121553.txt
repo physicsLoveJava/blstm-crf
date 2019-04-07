@@ -1,0 +1,2 @@
+原告 张 某某 诉称 被告 婚后 共同 生活 中 常 生活 琐事 发生 纠纷 遭 被告 殴打 致 夫妻 感情 彻底 破裂
+B_Person O O O O O O O O O O O O O O B_Person I_DomesticViolence O O O O O

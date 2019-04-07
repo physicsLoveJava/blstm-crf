@@ -1,0 +1,2 @@
+原 告诉 称 1980年 9月 登记 结婚 1985年 生 女 夫妻 感情 关系 2000年 双方 子女 教育 问题 产生 重大 分歧 2000 年 后 被告 提出 经济 独立 工资 分开
+O O O B_Time I_Time B_Marry I_Marry B_Time B_Bear B_Gender O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

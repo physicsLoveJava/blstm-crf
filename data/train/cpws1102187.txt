@@ -1,0 +1,8 @@
+原告 袁 某某 诉称 被告 2012年 2月 13日 登记 结婚
+B_Person O O O O B_Time I_Time I_Time B_Marry I_Marry
+2013年 4月 5日 婚生 女 取名 葛 某某 后 发现 被告 赌博 干活 挣 钱 不 家里 还 挣 钱 娘家 10000 元 钱 女儿 8000 元 锁子 钱 赌博 输 掉
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O B_Person B_BadHabit O O O O O O O O O O O O O O O O O O O O
+更 可气 被告 竟 项链 偷走 输 掉 赌债 人 跑 我家 去 债 劝说 被告 不但 不 改 还 打骂 扬言 离婚 一家 都 过不成
+O O O O O O O O O O O O O O O B_Person O O O O B_DomesticViolence O O O O O
+上述 被告 夫妻 关系 已 名存实亡 夫妻 感情 已 彻底 破裂 请求 依法 判决 被告 离婚 女儿 抚养 抚养费 被告 承担
+O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O

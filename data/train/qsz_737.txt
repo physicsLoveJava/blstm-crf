@@ -1,0 +1,6 @@
+原 被告 经人介绍 相识 2001年 9月 17日 办理 结婚 登记 1999年 10月 1日 生育 女 李汶轩
+O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear O O
+原 被告 婚后 感情 近 五 六 年 双方 感情 不 发生 争吵 被告 婚姻 不忠 出轨 来往
+O O O O O O O O O O O O B_FamilyConflict B_Person O O B_Derailed O
+原告 规劝 被告 根本 不 听 现 双方 已 分居
+O O O O O O O O O B_Separation

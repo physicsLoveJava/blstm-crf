@@ -1,0 +1,4 @@
+原 被告 均 系 再婚 2003年 7月份 原、被告 经人介绍 相识 确立 恋爱 关系 同年 11月 17日 登记 结婚 婚生 生育 女儿 李美玉 现年 14 周岁
+O O O O O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age
+原告 见 被告 总是 规劝 忍让 原告 更 变本加厉 吵架 成 家常便饭 被告 在家 呆 无 事 做 学会 上网 聊天 原告 不 在家 有时 长 达 月
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O

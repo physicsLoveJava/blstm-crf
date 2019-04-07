@@ -1,0 +1,16 @@
+原告 张某 诉称 原 被告 1993年 经人介绍 相识 ×××× 年×× 月××日 举办 结婚 仪式 7月 15日 登记 结婚
+O O O O O B_Time O B_Know O O O O O O B_Time I_Time O B_Marry
+婚后 生育 女 名 张庆庆 现年 20 周岁
+O B_Bear B_Gender O B_Name O B_Age I_Age
+双方 婚前 了解 甚 少 感情 基础 薄弱 婚后 生活 琐事 发生 争吵
+O O O O O O O O O O O O B_FamilyConflict
+更 令 人 气愤 被告 外 打工 原告 不予 关心 相反 每晚 近海 镇上 跳舞 作乐 男子 关系 暧昧 街上 勾肩搭背 为此 双方 发生 争执 惊动 110 夫妻 关系 日愈 疏远
+O O O O B_Person O O O O O O O O O O O O B_Derailed I_Derailed O O O O O O O O O O O O
+原 被告 双方 已 分居 近 四 年 夫妻 感情 已 彻底 破裂 不 再 共同 生活 要求 离婚
+O O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O O O O
+被告 汤某 辩称 原告 介绍人 认识 双方 婚前 都 联系 往来 原告 追求 下 两 人 登记 结婚 婚后 生育 女儿
+O O O O O O O O O O O O O O O O O O O B_Bear B_Gender
+原告 称 被告 名 男子 出入 娱乐 场所 关系 暧昧 系 无中生有
+O O B_Person O O O O O B_Derailed I_Derailed O O
+110 接处警 夫妻 之间 生活 琐事 争吵 导致 报警 不 原告 说 存在 不 正当 关系 问题
+O O O O O O B_FamilyConflict O O O O O O O O O O

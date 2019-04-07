@@ -1,0 +1,6 @@
+原告 谭某 诉称 原 被告 2005年 1月 31日 登记 结婚 婚后 2006年 3月 5日 生 女 取名 谭某
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原告 常年 外 打工 被告 长期 父母 生活 双方 无 联系 夫妻 关系 名存实亡
+O B_Separation I_Separation I_Separation O O O O O O O O O O
+现 原告 认为 双方 长期 分居 生活 夫妻 感情 已 彻底 破裂 无 好 法院 起诉 请求 法院 判决 准予 原 被告 离婚
+O O O O O B_Separation O O O O O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,4 @@
+原告 魏 某某 诉称 原 被告 经人介绍 认识 2011年 11月 16日 新化县 民政局 办理 结婚 登记 手续 2012年 2月 2日 生 男孩 周某轩
+O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O B_Time I_Time I_Time B_Bear O B_Name
+婚后 被告 脾气 暴躁 原告 实施 家庭 暴力 打牌 赌博 恶习 导致 夫妻 感情 完全 破裂
+O B_Person O O B_Person O B_DomesticViolence I_DomesticViolence O B_BadHabit O O O O O O

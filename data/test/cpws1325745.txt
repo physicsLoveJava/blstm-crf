@@ -1,0 +1,12 @@
+原告 汤某 诉称 双方 朋友 相识 2005年 10月 确定 恋爱 关系 2006年 12月 26日 登记 结婚 2007年 3月 25日 举行 婚礼 后 共同 生活 2008年 12月 5日 生育 子 名 姚某
+O O O O O B_Know B_Time I_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚初 双方 感情 尚 之后 被告 外 开 房 婚姻 不忠 原告 原告 父母 不 尊重 双方 没有 夫妻 生活
+O O O O O B_Person O O O I_Derailed I_Derailed I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 曾 2012年 11月 提起 离婚 诉讼 未 获 准许
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment
+之后 夫妻 感情 未 改善 夫妻 感情 已经 破裂 要求 被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+要求 取得 已 被告 退保 和谐 健康 保险 股份 有限公司 保险费 128万 元 中 50％ 金额 被告 持有 股票 价值 总计 39 143 元 原告 要求 取得 50％ 现金
+O O O O O O O O O O O O O O O O O O B_Wealth O O B_Price I_Price I_Price O O O O O
+要求 分得 被告 购买 太平 人寿保险 公司 太平 锦绣前程 少儿 两 全 保险 太平 附加 状元 大学 教育 研经 保险 保费 357 778．60 元 中 一半 金额
+O O O O O O O O O O O O O O O O O O O O B_Wealth B_Price I_Price I_Price O O O

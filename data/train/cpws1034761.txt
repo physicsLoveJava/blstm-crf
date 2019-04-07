@@ -1,0 +1,2 @@
+原告 杨某 诉称 婚后 被告 无故 辱骂 殴打 孩子 家庭 不 不 问 不尽 家庭 义务 大打出手 致 遍体鳞伤 村委 其他人 劝解 未果 变本加厉 造成 伤害 孩子 提心吊胆 日子
+O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2005年 经人介绍 相识 2008年 1月 18日 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+2008年 11月 30日 生 女儿 取名 华某 乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 双方 没有 共同语言 家务事 吵闹
+O O O O O B_FamilyConflict
+关键 被告 无 进取心 家中无事 干 原告 看不到 希望
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+综 上 原 被告 感情 已 彻底 破裂 故状 诉 法院 请求 判 令 解除 原 被告 婚姻 关系
+O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

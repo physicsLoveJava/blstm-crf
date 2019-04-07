@@ -1,0 +1,8 @@
+原被告 1988年 经人介绍 相识 确立 恋爱 关系 1989年 初 举行 婚礼 同居 生活 1990年 1月 6日 生育 长子 马则辉 2011年 8月 5日 办理 结婚 登记
+O B_Time O B_Know O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry
+原被告 结婚 初期 感情 被告 参与 传销 原被告 之间 争吵 打架 2016年 3月 被告 突然 离家 出走 2016年 6月 原告 接到 法院 转 被告 离婚 诉状 副本 开庭 传票
+O O O O B_Person B_BadHabit I_BadHabit O O B_FamilyConflict I_FamilyConflict B_Time I_Time O O B_Separation I_Separation O O O O O O B_Person O O O B_DivorceLawsuit O
+2016年 6月 14日 原被告 离婚 案 武清区 人民法院 崔黄口 法庭 开庭
+O O O O O O B_Court I_Court O O O
+当时 原告 考虑 家庭 没有 同意 离婚 被告 撤回 起诉
+O O O O O O O B_Judgment I_Judgment I_Judgment

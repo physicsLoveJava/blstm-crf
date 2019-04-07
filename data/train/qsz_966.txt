@@ -1,0 +1,2 @@
+原被告 1999年 建立 恋爱 关系 2000年 1月 10日 登记 结婚 婚后 2003年 8月 31日 生 子 刘家呈 2006年 5月 8日 生 子 刘家序 已 2018年 4月 29日 溺水 身亡 被告 殴打 原告 被告 异性 关系 暧味 2018年 3月 曾 此事 报警
+O B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O B_Person B_DomesticViolence B_Person B_Person I_Derailed I_Derailed I_Derailed O O O O O

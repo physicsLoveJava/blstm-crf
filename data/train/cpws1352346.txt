@@ -1,0 +1,4 @@
+原告 马某 诉称 原被告 2013年 1月 经人介绍 认识 后 2013年 2月 25日 登记 结婚
+B_Person I_Person O O B_Time I_Time O B_Know O B_Time I_Time I_Time O B_Marry
+被告 杜某 2013年 7月 回 娘家 居住 今 原被告 感情 已经 彻底 破裂 再 无 和好 请求 依法 判 令 1 准予 原被告 离婚
+O O B_Time I_Time B_Separation I_Separation I_Separation I_Time O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

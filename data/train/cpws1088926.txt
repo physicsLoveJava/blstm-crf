@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 2000年 结婚 后 双方 性格 不 合 发展 吵架 夫妻 感情 逐渐 恶化
+O O O O O B_Time B_Marry O O O O O O I_FamilyConflict O O O O
+2007年 6月 原告 曾 洋县 人民法院 提起 离婚 诉讼 法院 审理 判决 不准 双方 离婚
+B_Time I_Time B_Person O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment
+原告 便 外出 打工 被告 娘室 居住
+O O O O O I_Separation I_Separation
+现原 被告 已 分居 六 年 夫妻 感情 确 已 破裂 起诉 被告 离婚
+O O O B_Separation B_Duration I_Duration O O O O O O O O
+2001年 1月 双方 一同 外出 打工 2004年 10月 双方 洋县 民政局 婚姻 登记处 补办 结婚 登记
+O O O O O O B_Time I_Time O O O O O O B_Marry I_Marry

@@ -1,0 +1,6 @@
+原告 被告 经人介绍 士 2004年 11月 相识 2005年 11月 登记 结婚 婚后 生育 子
+O O O O B_Time I_Time B_Know B_Time I_Time O B_Marry O B_Bear B_Gender
+婚后 被告 家庭 暴力 造成 手指 节 缺 失 为此 报警 处理
+O B_Person B_DomesticViolence I_DomesticViolence O O O O O O O O
+现 婚前 缺乏 了解 婚后 被告 常年 外 不 家 不顾 家 不 生活费 原告 不闻不问 态度 冷漠 还 威胁 离婚 别 想 活
+O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O

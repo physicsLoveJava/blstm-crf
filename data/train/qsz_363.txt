@@ -1,0 +1,6 @@
+原被告丁 2016年 7月 经人介绍 相识 建立 恋爱 关系 2016年 8月 2L 双方 登记 结婚 原被告 均 系 丙婚 原被告 婚前 相识 时间 短 没有 建立 感情 基础
+O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time O O B_Marry I_Marry O O O O O O O O O O O O O
+结婚 以后 家务 琐事 发生 矛盾 尤其 被告 me 尤事生非酬洒无故 辱骂 殴打 原告 原告 浑身 伤 原告 家庭 阵 忍 内 忍 被告 却 不思悔 改故 造成 双方 感情 彻底 破裂
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O
+被告 酗洒 头行 家庭 暴力 原告 身心 造成 伤害
+B_Person B_BadHabit O B_DomesticViolence I_DomesticViolence O O O O

@@ -1,0 +1,6 @@
+原告 何某 诉称 2012年 春天 原告 介绍 被告 建立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚
+O O O B_Time I_Time O O O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚前 相识 短 结婚 登记 后 原告 发现 被告 性格 不合 被告 时常 家庭 琐事 原告 实施 家庭 暴力
+O O O O O O O O O O O B_Person O O O B_Person O B_DomesticViolence I_DomesticViolence
+2013年 6月 10日 早晨 7点 左右 被告 琐事 原告 进行 殴打 后 导致 原告 流产
+B_Time I_Time I_Time O O O B_Person O B_Person O B_DomesticViolence O O O O

@@ -1,0 +1,10 @@
+原 被告 2016年 12月 8日 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time I_Time O B_Know O B_BeInLove O
+2016年 12月 30日 办理 结婚 登记 手续 2017年 1月 18日 举行 结婚 仪式 后 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O O O O O
+原告 系 被婚 被告系 再婚
+O O O B_Person B_Remarry
+导致 原告 被告 婚后 不 月 时常 吵架 有时候 被告 还 器物 原告 茶壶 凳子 被告 患 精神 焦虑症 原告 婚前 不 知道 2017年 3月 6日 被告 宝平 医院 检查 怀孕 原告 非常 高兴 被告 却 不 想 孩子 2017年 4月 5日 晚上 被告 找茬 原告 吵架 凳子 追 原告
+O O O O O O O B_FamilyConflict O B_Person O O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Person O O B_FamilyConflict O B_DomesticViolence B_Person
+双方 感情 彻底 破裂 无 好 原告 2018年 1月 18日 贵院 提起 离婚 诉讼 贵院 2018 津0115 民 初892 号 民事 判决书 判 令 驳因 原告 离婚 请求 之后 双方 仍 无 往来 互 不 理睬 无 好 迹象
+O O O O O O B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O

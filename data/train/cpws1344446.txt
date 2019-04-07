@@ -1,0 +1,4 @@
+原 告诉 称 婚前 双方 认识 时间 短 缺乏 沟通 交流 生气 吵架 夫妻 感情 已经 破裂
+B_Person I_Person O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+为此 起诉 院 要求 离婚 婚生儿 女 人 抚养
+O O O B_DivorceLawsuit I_DivorceLawsuit B_Bear B_Gender O O

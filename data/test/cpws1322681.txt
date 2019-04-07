@@ -1,0 +1,18 @@
+原告 郑某 甲诉 称 2004年 3月 10日 原 被告 夫妻 双方 登记 结婚 婚后 夫妻 感情
+B_Person I_Person I_Person O O O O O O O O B_Marry I_Marry O O O
+2005年 8月 25日 原 被告 育 女 取名 郑某丙
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name
+原告 被告 共同 生活 期间 发现 被告 存在 严重 家庭 暴力 小孩 殴打 使 孩子 身心 造成 巨大 伤害
+O B_Person O O O O O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O
+被告 原告 无端 猜疑 缺少 必要 信任 造成 夫妻 感情 破裂 无法 继续 生活 一起
+O O B_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict O O O O
+为此 原告 特 诉至法院 请求 依法 判 令 1 原 被告 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+依法 分割 夫妻 共同 财产 原告 婚前 购买 住房 套 原告 所有
+O O O O O O B_PersonalProperty I_PersonalProperty B_Wealth O O O
+被告 刘某 辩称 1 原告 诉原 被告 夫妻 感情 破裂 不 属实 原 被告 夫妻 感情 未 破裂 原告 不 同意 离婚
+O O O O O O O O O O B_Negated I_Negated O O O O O O O O O O
+2 原告 诉 被告 存在 严重 家庭 暴力 孩子 殴打 不 属实 被告 孩子 教育 严厉 一点 未 孩子 进行 殴打
+O O O O O O O O O O B_Negated I_Negated O O O O O O O O O
+原、被告 夫妻 共同 生活 期间 对外 借款 41000 元 上述 借款 应 夫妻 共同 债务
+O O O O O O B_Debt B_Price I_Price O O O B_Person O O

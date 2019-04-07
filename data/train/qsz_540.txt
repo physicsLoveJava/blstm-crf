@@ -1,0 +1,8 @@
+原告 被告 均 系 再婚 2013年 12月 9日 登记 结婚 婚后 无 子女
+B_Person I_Person O O B_Remarry B_Time I_Time I_Time B_Marry I_Marry O O O
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 一致 意见
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O
+被告 事情 都 听 父母
+B_Person O O O O
+不 原告 商量 稍 不 顺心 动手 殴打 原告 被告 父母 原告 看 不 顺眼 不 高兴 辱骂 原告 还 殴打 原告 原告 认为 被告 父母 根本 没 一家人 对待
+O O O O O O O B_DomesticViolence B_Person B_Person I_Person O O O O O O O O O B_DomesticViolence B_Person O O O O O O O O

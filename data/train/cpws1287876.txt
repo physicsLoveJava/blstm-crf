@@ -1,0 +1,12 @@
+原告 范 某某 诉称 2011年 2月份 原 被告 经人介绍 相识
+O O O O B_Time I_Time O O O B_Know
+2011年 5月 登记 结婚 农村 风俗 举行 典礼
+B_Time I_Time B_Marry I_Marry O O O O
+2012年 农历 10月 14日 生 女孩 取名 柯某 甲 婚前 认识 时间 极 短 相互 不 了解 无 感情 基础
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O O O O O O O O O
+被告 婚前 隐瞒 已 结婚 离婚 年龄 真相 当时 被告 称 未 结 婚 年龄 1985年 出生
+B_Person O O B_Remarry I_Remarry I_Remarry O O O O O O O O O O O
+婚后 二 人 性格 不和 二 人 争吵 被告 脾气 暴躁 进行 殴打 实施 家庭 暴力 令 共同 生活 十分 恐惧 不仅如此 还 跑 娘家 威胁 母亲
+O O O O O O O B_FamilyConflict B_Person O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+现 二 人 已 分居 感情 破裂 无 和好 故特 诉至法院 请求 判 令 原 被告 解除 婚姻 关系
+O O O O B_Separation O O O O O B_DivorceLawsuit O O O O O O O O

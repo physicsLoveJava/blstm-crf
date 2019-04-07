@@ -1,0 +1,10 @@
+原 被告 2006年 上半年 相识 自由 恋爱
+O O B_Time I_Time O O B_BeInLove
+2010年 2月 3日 办理 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2012年 4月 5日 生育 女 史 紫萱
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 共同 购买 宝坻区 天泰园 20-3-201 号 楼房 登记 原告 名下 原 被告 婚前 一定 感情 基础
+O B_CommonProperty I_CommonProperty O O O O B_Wealth O B_Person O O O O O O O
+2018年 2月 14日 原 被告 双方 协商 协议 离婚 事宜 后 被告 睡 客厅 沙发 至此 夫妻 感情 彻底 破裂.20 18年 2月 22日 原 被告 协商 离婚 事宜 女儿 抚养权 房产 分割 问题 协商 未果
+B_Time I_Time I_Time O O O O O O O O O I_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O

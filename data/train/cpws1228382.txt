@@ -1,0 +1,8 @@
+原告 钱某 诉称 原被告 双方 经人介绍 相识 于×××× 年×× 月××日 高阳县 民政局 登记 结婚 婚前 缺乏 了解 草率 结婚 婚后 没有 建立 深厚 夫妻 感情 家庭 琐事 发生 争吵
+O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O O O O O O O O B_FamilyConflict
+婚后 双方 育 子 杨某乙 现年 5 岁 要求 孩子 被告 生活 原告 依法 支付 抚养费
+O O B_Bear B_Gender B_Name O B_Age I_Age O O O O O O O O
+双方 共同 债务 60000 元 原 被告 平均 负担
+O O B_Debt B_Price I_Price O O O O
+被告 杨某 甲辩 称 原告 2001年 人 介绍 相识 ×××× 年×× 月××日 高阳县 民政局 登记 结婚 婚后 双方 感情 好
+O O O O O B_Time O O B_Know O O O O O O O O O O O

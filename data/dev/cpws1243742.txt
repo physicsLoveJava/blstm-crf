@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1992年 经人介绍 相识 不久 同居 生活 1992年 1月 29日 补办 结婚 登记
+O O O O O B_Time O B_Know O O O B_Time I_Time I_Time O B_Marry O
+婚后 双方 性格 差异 大 被告 总是 无端 怀疑 原告 不忠 原 被告 发生 吵 无法 共同 生活 遂 2010年 9月 诉至法院 要求 被告 离婚 法院 2010年 10月 18日 判决 不准 原告 被告 离婚
+O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O
+后 原被告 分居 夫妻 感情 没有 改善 为此 原告 2011年 12月份 诉至法院 要求 被告 离婚 2012年 3月 19日 法院 判决 不准 原告 被告 离婚 后 原告 上诉 信阳市 中级 人民法院 2012年 7月 17日 信阳市 中级 人民法院 维持 商城县 人民法院 一审 判决
+O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 辩称 原告 第三者 插足 原告 偏执 要求 离婚 现 被告 身体 病 希望 原告 宽容 平和 心 对待 婚姻
+O O B_Person B_Derailed I_Derailed O O O O O O O O O O O O O O O

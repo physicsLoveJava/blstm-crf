@@ -1,0 +1,6 @@
+原告 余 某某 诉称 2012年 9月 26日 原告 提出 离婚 诉讼 判决 驳回
+O O O O B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment
+判决 过后 原 被告 状况 依旧 夫妻 感情 已经 破裂 无法 挽回 现 请求 判决 双方 离婚 共同 财产 位于 徐家沟村 三 间 平房 予以 分割 婚生子 徐甲 原告 抚养 被告 每月 支付 抚养费 1000 元
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_CommonProperty I_CommonProperty O O O O O O O B_Bear B_Name O O O O O O O O
+2 安康市 汉滨区 人民法院 2012 安汉民 初字 第01770 号 民事 判决书 证明 原告 曾经 起诉 要求 离婚 事实
+O B_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Person O B_DivorceLawsuit O O O

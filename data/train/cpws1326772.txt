@@ -1,0 +1,6 @@
+原告 邹 某某 诉称 被告 1987年 2月 登记 结婚 2009年 11月 4日 生育 子 取名 邹某 成
+B_Person I_Person I_Person O O B_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+年 双方 性格 差异 导致 夫妻 感情 破裂 无法 继续 生活
+O O B_FamilyConflict I_FamilyConflict O O O O O O O
+现特 诉至法院 要求 被告 离婚 儿子 邹某 成 生活 抚养 教育 不 需要 被告 出 抚育费
+O B_DivorceLawsuit O O O O O O O O O O O O O O

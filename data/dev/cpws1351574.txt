@@ -1,0 +1,10 @@
+原告 何某 诉称 原 被告 2008年 12月 自由 恋爱 2009年 4月 7日 登记 结婚 婚后 2012年 2月 7日 生育 子 取名 潘 XX
+O O O O O B_Time I_Time O B_BeInLove B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 双方 了解 不够 草率 结婚 后 发现 双方 性格 差异 大 没有 共同语言 共同 爱好 无法 正常 沟通 导致 双方 婚后 生活 中 常 琐事 争吵 严重 伤害 夫妻 之间 感情
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O
+原告 2013年 1月 曾 法院 提起 离婚 诉讼 法院 作出 2013 鹿民 初字 第204号 判决 不准 予 双方 离婚 近 年 时间 原 被告 仍 未能 好 矛盾 加深 双方 已 完全 无 和好
+B_Person B_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O
+上 请求 人民法院 判决 1 准予 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O
+被告 潘某 辩称 原 被告 现 分居 已 年 时间 夫妻 感情 已 破裂 被告 同意 原告 离婚
+O O O O O O B_Separation O I_Duration I_Duration O O O O O O O O

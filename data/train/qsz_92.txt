@@ -1,0 +1,4 @@
+原被告 经人介绍 1991年 相识 1993年 12月 13日 登记 结婚 婚后 1995年 3月 13日 生 男孩 耿宗开 现 已 成年 原被告 婚前 缺乏 了解 婚后 原被告 没有 共同语言 生气 打架 被告 殴打 原告
+O O B_Time B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person
+为此 原告 曾 2010年 起诉 贵院 要求 被告 离婚 被告 原告 保证 原告 撤回 起诉
+O B_Person O B_Time B_DivorceLawsuit O O O O O O O O B_Judgment I_Judgment

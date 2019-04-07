@@ -1,0 +1,4 @@
+原告 范 某某 诉称 2009年 原 被告 介绍 相识 同年 6月 17日 登记 结婚
+O O O O B_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 了解 不足 婚姻 基础 差 原 被告 共同 生活 过程 中 常 家庭 琐事 吵闹 被告 家庭 不 不 问 不务正业 致使 双方 夫妻 感情 彻底 破裂 请求 法院 判决 调解 原 被告 离婚
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O

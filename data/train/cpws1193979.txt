@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2002年 认识 2004年 8月 12日 生 男孩 取名 张晨雨 现在 二安井村 读书
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O
+2009年 4月 16日 生 女孩 取名 张 雨婷 现 原告 生活
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O O
+2010年 7月 内黄县 办理 结婚 登记 手续 同居 生活 期间 感情 好 女儿 后 原告 发现 被告 吃喝 嫖 赌 不务正业 种种 恶劣 行径 严重 伤害 原告 感情 致使 原告 脆弱 夫妻 感情 完全 破裂 没有 好
+B_Time I_Time O O B_Marry O O O O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O

@@ -1,0 +1,10 @@
+原告 吴某 甲诉 称 原告 吴某甲 被告 吴 某乙 经人介绍 1999年 9月 1日 举行 结婚 仪式 ×××× 年×× 月××日补办 结婚 登记 手续
+O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry O O
+×××× 年×× 月×× 日 生育 长子 吴志明 ×××× 年×× 月×× 日 生育 次子 吴俊明
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 草率 结婚 婚后 无 共同语言 被告 猜疑 约束 生活 夫妻 感情 不好 生气 吵架
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+为此 具状 起诉 请求 人民法院 依法 判 令 原告 吴某甲 被告 吴 乙 离婚 抚养 婚生子 吴俊明 平分 婚后 共同 财产
+O O B_DivorceLawsuit O O O O O O O O O O O O O O O O O O
+吴 甲婚 后 感情 好 平时 原告 恩爱 有加 事 都 原告 做主 原告 都 百依百顺
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

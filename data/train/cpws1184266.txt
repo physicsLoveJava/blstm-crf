@@ -1,0 +1,4 @@
+原告 赵强诉 称 被告 张荣华 经人介绍 相识 同年 8月 31日 登记 结婚 婚后 双方 性格 差异 大 产生 矛盾 2012年 年初 曾 诉至法院 要求 离婚 后 法院 调解 撤诉
+B_Person O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+撤诉 后 被告 分居 今 夫妻 感情 已 彻底 破裂 诉至法院 请求 判 令 被告 离婚
+B_Time I_Time O B_Separation I_Time O O O O O O O O O O O

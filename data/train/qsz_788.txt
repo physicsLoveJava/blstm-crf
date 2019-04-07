@@ -1,0 +1,2 @@
+原告 被告系 经人介绍 相互 认识 后 2005年 正月 初八 登记 结婚 婚后 生 子 马文斌 2006年 3月 2 | 日 出生 原告 被告 婚后 家庭 琐事 吵架 被告 婚外态 原告 被告 实在 无法 生活 导 夫妻 感情 彻底 破 份 上 2013年 11月 8日 被告 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time I_Time O O O O O O B_FamilyConflict B_Person B_Derailed O O O O O O O O O O O O O O O O O O

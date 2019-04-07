@@ -1,0 +1,12 @@
+原告 李某 诉称 原 被告 2012年 农历 12月 人 介绍 相识
+O O O O O B_Time I_Time I_Time O O B_Know
+2013年 农历 4月 13日 原 被告 举行 结婚 仪式
+B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry
+×××× 年×× 月××日 原 被告 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+原 被告 介绍 相识 后 农村 风俗 原告 给付 被告 彩礼款 4万 元 三 金 首饰 钱 1万 元
+O O O O O O O O O O B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+结婚 时 上车 礼 6000 元
+O O B_Wealth I_Wealth I_Wealth I_Wealth
+原 被告 接触 时间 短 双方 之间 缺乏 了解 婚后 二 人 生气 吵架 二 人 已 分居 付 被告 彩礼 款 导致 原告 家庭 生活 困难
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Separation O O O O O O O O O

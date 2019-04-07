@@ -1,0 +1,4 @@
+原被告 2009年 12月 18日 登记 结婚 2010年 6月 8日 生育 女孩 取名 张馨元
+O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原被告 结婚 后 家庭 琐事 时常 争吵 打架 感情 不和 现 原被告 之间 矛盾 越来越 深 日常 生活 中 根本 无法 沟通 感情 彻底 破裂 婚姻 关系 无法 维持
+O O O O O O B_FamilyConflict B_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O

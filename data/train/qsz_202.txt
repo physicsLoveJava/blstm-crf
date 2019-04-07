@@ -1,0 +1,4 @@
+原 被告 2005年 经人介绍 相识 2016年 8月 22日 天津市 武清区 民政局 登记 结婚 结婚 后 双方 感情 尚 关系 比较 融治
+O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O O
+最近 年 被告 待业 在家 无所事事
+O O B_Person B_BadHabit I_BadHabit I_BadHabit

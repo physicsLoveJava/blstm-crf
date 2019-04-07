@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 双方 ×××× 年×× 月×× 日 登记 结婚 婚后 生育 子 高某 乙 现年 7 岁
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Bear B_Gender B_Name I_Name O B_Age I_Age
+原 被告 婚后 性格 不合 被告 孩子 教育 方式 孩子 身心 造成 不良 影响 被告 长期 原告 父母 不 尊重 双方 怀疑 对方 原 被告 长期 冷战 分居 致 夫妻 感情 破裂 诉至法院 要求 依法 判 令 原 被告 解除 婚姻 关系
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Duration I_Duration I_Duration I_Duration B_Separation B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit O O O O O O O O O

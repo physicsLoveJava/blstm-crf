@@ -1,0 +1,4 @@
+原告 王某 诉称 2009年 原 被告 相识 段 时间 了解 后 2010年 8月 举行 结婚 仪式 2010年 10月 27日 宝塔区 婚姻 登记 中心 办理 结婚 登记 2010年 12月 21日 生 男孩 取名 刘某
+O O O B_Time O O B_Know O O O O O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚初 原 被告 感情 好 时间 推移 被告 原告 态度 急转直下 琐事 殴打 原告 无 端 辱骂 原告 父母 原告 看 孩子 份 上 被告 忍 再 忍 被告 仍 不知 悔改 致使 原 被告 夫妻 感情 彻底 破裂 现 原告 诉至法院 请求 1 判决 原 被告 离婚
+O O O O O O O B_Person O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

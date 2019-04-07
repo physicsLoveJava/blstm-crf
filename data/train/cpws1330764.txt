@@ -1,0 +1,6 @@
+原告 张某 甲诉 称 原 被告 ××××年 结婚
+O O O O O O B_Time B_Marry
+×××× 年×× 月××日 生育 男孩 取名 张某乙
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 婚前 缺少 了解 婚后 发现 性格 不和 吵嘴 打架 导致 夫妻 关系 恶化 现 夫妻 感情 已 完全 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O

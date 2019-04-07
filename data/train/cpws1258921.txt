@@ -1,0 +1,2 @@
+原告 陈 某某 诉称 被告 打工 时 工友 介绍 认识 结婚 后 生活 琐事 被告 打骂 离婚 相 要挟 夫妻 无法 继续 共同 生活 夫妻 感情 已 彻底 破裂 请求 被告 离婚 婚生 女 原告 抚养 被告 一次性 支付 抚养费 原告 婚前 财产 折价 被告 赔偿
+O O O O O O O O O B_Know B_Marry O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth O O O

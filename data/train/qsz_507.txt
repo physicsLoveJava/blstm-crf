@@ -1,0 +1,10 @@
+原 被告 1985年 1月 人 介绍 相识 1986年 10月 20日 宝坻区 民政局 办理 婚姻 登记 手续 共同 生活 婚后 1988年 4月 2日 生育 女王 雅杰 现 已 成年
+O O B_Time I_Time O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_Age
+现 双方 感情 确 已 破裂 具体 理由 1 婚前 双方 缺乏 了解 感情 基 薄弱 被告 非常 严重 大 男子 主义 性格 暴躁 原告 恶言 恶语
+O O O O O O O O O O O O O O O O B_Person O B_BadHabit I_BadHabit I_BadHabit I_BadHabit B_BadHabit I_BadHabit O O O
+3 被告 原告 打骂 没有 丈夫 父亲 应 责任
+O B_Person B_Person B_DomesticViolence O O O O O
+原告 患 上 严重 抑郁
+B_Person O O B_BadHabit I_BadHabit
+双方 长期 正常 感情 不和 双方 2016年 1月 分居 生活
+O O O O O O B_Time I_Time B_Separation I_Separation

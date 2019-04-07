@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2005年 打工 期间 相识 同居 2006年 7月 生育 子 取名 虞某 2009年 1月 20日 民政局 补办 结婚证
+O O O O O B_Time O O B_Know O B_Time I_Time B_Bear I_Gender O O B_Time I_Time I_Time O B_Marry I_Marry
+婚后 双方 东双河镇 购置 106 平方米 住房 套
+B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+被告 性格 暴躁 喜欢 赌博 喝酒 双方 无 共同语言 性格 不和 常 生活 琐事 发生 争吵
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O B_FamilyConflict I_FamilyConflict

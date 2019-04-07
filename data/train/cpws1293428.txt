@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 2011年 7月 11日 登记 结婚 被告系 二婚
+O O O O O O B_Time I_Time I_Time O B_Marry O B_Remarry
+婚姻 存续 期间 原告 心 存 忍让 还 争执 不 断
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

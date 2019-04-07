@@ -1,0 +1,16 @@
+原被告 2016年 经人介绍 相识 双方 均 再婚
+O B_Time O B_Know B_Person O B_Remarry
+2016年 8月 4日 办理 结婚 登记
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+同年 10月 4日 举行 结婚 仪式 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O O
+2017年 3月 5日 婚生 子 取名 付 赫然
+B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+今年 周岁 现 原告 生活
+B_Age I_Age O O O
+被告 常 生活 琐事 原告 争吵 有时 还 动手 殴打 原告 原告 报警 求助
+O O O O O B_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O
+原告 精神 心灵 进行 严重 摧残 违反 婚姻法 夫妻 应当 尊重 法律 规定 现 双方 已经 分居
+O O O O O O O O O O O O O O O O B_Separation
+原告 具状 起诉 离婚
+B_Person O B_DivorceLawsuit I_DivorceLawsuit

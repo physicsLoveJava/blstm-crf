@@ -1,0 +1,6 @@
+原告纪 某某 诉称 2010年 5月份 媒人 介绍 原 被告 定亲 同年 11月 24日 郯城县 民政局 登记 结婚 婚后 2011年 7月 25日 生育 女孩 倪××
+O O O B_Time I_Time O O O O B_BeInLove O B_Time I_Time O O B_Negated B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚前 缺乏 了解 婚后 双方 常 家庭 琐事 吵闹 殴打 原告 导致 未能 建立 夫妻 感情
+O O O O O O O O O B_DomesticViolence B_Person O O O O O
+2012年 6月份 原告 被告 殴打 后 携带 孩子 回 娘家 居住 今 期间 双方 无 联系 不 稳定 夫妻 感情 现 已 彻底 破裂
+B_Time I_Time O O O O O O B_Separation I_Separation O I_Time O O O O O O O O O O O O

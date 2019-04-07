@@ -1,0 +1,4 @@
+原告 侯某 诉称 原 被告 2008年 春节 前 经人介绍 认识 订婚 2008年 9月 4日 登记 结婚 2009年 生育 男孩 侯某乙
+O O O O O O O O O O O B_Time I_Time I_Time O B_Marry O B_Bear O B_Name
+双方 婚前 缺乏 了解 草率 结婚 婚后 发现 二 人 性格 不和 常 家庭 琐事 发生 矛盾 未 建立 真正 夫妻 感情
+O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O

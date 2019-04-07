@@ -1,0 +1,8 @@
+原告 徐 XX 诉称 原 被告 2009年 3月 人 介绍 相识 2010年 6月 22日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O O
+婚后 2011年 8月 1日 生 子 郑 X
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 了解 不 无 感情 基础 婚后 共同 生活 中 无 共同语言 常 琐事 发生 矛盾 争执 不 断 被告 原告 施 暴力 造成 原告 身体 精神 受到 伤害
+O O O O O O O O O O O O O O O O B_FamilyConflict B_FamilyConflict O O B_Person B_Person O B_DomesticViolence O O O O O O
+庭 审 中 原告 增加 诉讼 请求 要求 被告 付婚 后 原告 父母 盖 厢房 门楼 共 花费 33944 元 费用
+O O O O O O O O O O O O O O B_Wealth I_Wealth O O B_Price I_Price O

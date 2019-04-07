@@ -1,0 +1,6 @@
+2016年 2月 2日 原被告 天津市 蓟州区 民政局 领取 结婚证 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry
+原被告 均 结婚 婚后 没有 生育 女 结婚 后 蓟州区 鑫海苑 居住 生活
+B_Person O I_Remarry O O O O O O O O O O
+原被告 结婚 前 没有 了解 对方 婚后 吵架 2017年 11月 21日 双方 吵架 原告 被迫 离开 蓟州区 鑫海苑 居所 分居
+O O O O O O O B_FamilyConflict B_Time I_Time I_Time O I_FamilyConflict O O O O O O B_Separation

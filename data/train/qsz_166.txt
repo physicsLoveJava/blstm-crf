@@ -1,0 +1,4 @@
+2005年 5月 26 门 原被告 双方 登记 结婚
+B_Time I_Time I_Time O O O O B_Marry
+2009年 1月 10 口 生育 女孩 赵海玉 现 9 岁 婚后 原被告 感情 不和 被告 好吃懒做 2017年 6月 8日 原告 认为 夫妻 感情 已 破裂 诉至法院 请求 离婚
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O B_FamilyConflict I_FamilyConflict O B_BadHabit O O O O O O O O O O O O

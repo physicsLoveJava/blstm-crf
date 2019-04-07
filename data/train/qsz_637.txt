@@ -1,0 +1,6 @@
+原告 被告 J 年 6月 1日 登记 结婚 婚后 育 子 付 浩然
+O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name I_Name
+现年 19 岁
+O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 导致 婚后 矛盾 不 断 二 人 小事 发生 争吵 为此 双方 曾经 2011年 协议 离婚 后 家人 劝说 2012年 3月 23日 复婚
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O B_Remarry

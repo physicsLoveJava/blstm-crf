@@ -1,0 +1,6 @@
+原被告 系 自由 恋爱 相处 年 后 2016年 6月 24日 天津市 蓟州区 民政局 领取 结婚证 共同 生活
+O O O O O O O B_Time I_Time I_Time O O O O B_Marry O O
+2017年 2月 3日 生 婚生子 魏祺林 现年 1 周 零2 月
+B_Time I_Time I_Time B_Bear I_Bear B_Name O B_Age I_Age I_Age I_Age
+原被告 双方 结婚 后 生活 琐事 争吵 不 断
+O O O O O O B_FamilyConflict O O

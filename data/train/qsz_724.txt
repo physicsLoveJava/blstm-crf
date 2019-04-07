@@ -1,0 +1,4 @@
+19年 7月 26日 办理 结婚 登记 | 200年 4月 3日 生育 长 四有调 现在 正 西南昌 上 大学 206年 12月 26日 生育 长女 田珊芳 现在 朱头淀 小学 上 四 年级
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O
+原告 工作 原因 常年 外 双方 长明 两地 分展 原 被告 家庭 项事经 确 电请 中 单吵 导致 感情 还 新 设 没 原 被告 两 年 米 设有 夫妻 实
+O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O

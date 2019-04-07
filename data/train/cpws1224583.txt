@@ -1,0 +1,10 @@
+原告 郑 某某 诉称 原被告 经人介绍 2006年 认识 2010年 5月份 同居 生活 2012年 10月 8日 补办 结婚 登记 手续
+O O O O O O B_Time B_Know O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+2010年 11月 28日 生 男孩 郑某 甲 2012年 11月 初 原被告 发生 争吵 被告 回 娘家 居住
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O B_FamilyConflict O O O O
+2013年 被告 起诉 离婚 法院 判决 不 准 离婚
+B_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment
+以来 被告 孩子 不 不 问 不尽 母亲 义务 原告 起诉 请求 请求 判 令 原告 被告 离婚
+O O O O O O O O O O O O O O O O O B_DivorceLawsuit
+均 分 夫妻 共同 债务
+O O O O B_Debt

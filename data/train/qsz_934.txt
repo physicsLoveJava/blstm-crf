@@ -1,0 +1,8 @@
+1998年 原被告 经媒人 刘述清 介绍 结识
+B_Time O O O O B_Know
+2003年 4月 3 口 原告 被告 蓟州区 民政局 领取 结婚证
+B_Time I_Time I_Time I_Time O O O O O B_Marry
+被告 原告 进行 辱骂 致使 夫妻 感情 破裂 原被告 2014年 10月 分居
+B_Person B_Person O B_DomesticViolence O O O O O B_Time I_Time B_Separation
+已经 3 年 原告 2016年 1月 4日 2017年 6月 1日 已经 两 次 离婚 起诉 蓟州区 人民法院 均 判决 不予 离婚
+O B_Duration I_Duration O O O O O O O O O O O O O O O O O O

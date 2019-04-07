@@ -1,0 +1,8 @@
+原 被告 2014年 4月 微信 加 好友 认识 2014年 10月 20日 举办 婚礼 共同 生活
+O O B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O
+被告 再婚 前妻 现年 8 周岁 男孩 被告 共同 生活
+B_Person B_Remarry O O O O O O O O
+家庭 债务 问题 未 协商 一致 直到 2016年 7月 18日 才 天津市 蓟州区 民政局 领取 结婚证 婚后 两 人 感情 直 不好 被告 长期 不 在家 聚 少 没有 正常 夫妻 生活 不 体会 家人 关爱
+O B_Debt O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+领取 结婚证 之前 被告 给付 彩礼 共 7万 用于 结婚 筹办 花费 4万 购买 家庭 用品 生活 开支 花费 2万
+B_PersonalProperty I_PersonalProperty I_PersonalProperty O O B_Wealth O B_Price O O O O O O O O O O O O

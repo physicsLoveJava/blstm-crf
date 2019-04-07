@@ -1,0 +1,10 @@
+原告 唐 某某 诉称 被告梁 某某 2005年 夏天 经人介绍 相识 恋爱 2006年 1月 25日 登记 结婚 2006年 生 女孩 取名 梁 某某 2009年 生 男孩 取名 梁 某某
+O O O O O O B_Time O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear B_Gender O B_Name I_Name B_Time B_Bear B_Gender O B_Name I_Name
+婚后 琐事 发生 吵 致 夫妻 感情 破裂
+O O O B_FamilyConflict O O O O
+原告 2012年 正月 外出 打工 9月 提起 离婚 诉讼 法院 判决 不 准 离婚 后 双方 感情 未能 改善
+B_Person O O O O B_Time O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O
+被告 梁 某某 辩称 原告 陈述 相识 恋爱 结婚 时间 都 不错 平时 家庭 生活 矛盾 维护 原告
+O O O O O O B_Know B_BeInLove B_Marry O O O O O O B_FamilyConflict O O
+同意 离婚 两 条件 原来 23000 元 债务 已经 还 清 20000 元 剩余 欠 吴 某某 3000 元 应该 原告 还
+O O O O O B_Price I_Price B_Debt O O O O O O O O O O O O O O

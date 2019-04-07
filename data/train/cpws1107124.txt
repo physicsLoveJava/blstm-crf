@@ -1,0 +1,12 @@
+原告 孙 某某 诉称 原 被告 经人介绍 认识 2010年 11月 9日 登记 结婚
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚前 缺乏 了解 婚后 双方 性格 差异 越来越 明显 聚 少 至今 没有 孩子
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_Negated B_Bear
+两 人 争吵 夫妻 感情 已经 破裂 请求 法院 判决 原 被告 离婚 夫妻 财产 依法 分割
+O O B_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O
+被告 姜 某某 辩称 2005年 订婚 之后 同居 直到 2010年 结婚
+O O O O O O O O O B_Time B_Marry
+婚后 聚 少 原告 长期 外地 工作 才 没有 孩子
+O O O O B_Separation I_Separation I_Separation O O O
+生活 中 争吵 冷战 不 代表 性格 孤僻 每个 家庭 生活 中 都 出现 问题
+O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O

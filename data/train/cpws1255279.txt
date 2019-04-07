@@ -1,0 +1,6 @@
+原告 池某 诉称 原 被告 2009年 11月 20日 登记 结婚 婚前 相处 时间 短 双方 缺乏 相互 了解 婚后 无 感情 基础 性格 不合 发现 被告 哮喘病 严重 不 干活 吃药 维持
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O
+生育 子 贾某乙 后 更 造成 家庭 生活 困难 双方 常 家务 琐事 吵闹 不 休 夫妻 感情 破裂
+B_Bear B_Gender B_Name O O O O O O O O O O B_FamilyConflict O O O O O
+家庭 财产 依法 分割
+B_Wealth I_Wealth O O

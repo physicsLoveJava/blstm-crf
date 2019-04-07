@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2003年 经人介绍 认识 2004年 2月 13日 山西省 临县 办理 结婚 登记 2005年 11月 23日 2007年 11月 6日 分别 生育 儿子 刘某丙 女儿 刘某 乙 均 原被告 户籍 读书
+O O O O O B_Time B_Know I_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Gender B_Name I_Name O O O O
+原告 深圳市 中 深 会计师 事务所 上班 每月 少 回家 被告 外面 混 女人 导致 夫妻 感情 彻底 破裂
+O O O O O O O O O O O I_Derailed I_Derailed I_Derailed O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

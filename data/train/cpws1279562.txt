@@ -1,0 +1,4 @@
+原告 邵某 起诉 称 原 被告 双方 经人介绍 认识 后 2010年 12月 3日 办理 结婚 登记 手续 2011年 6月 1日 生育 子 徐明宇
+O O O O O O O O B_Know O B_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+琐事 争吵 被告 家庭 暴力 现象 2013年 9月 双方 琐事 争吵 分居 今 夫妻 感情 已 彻底 破裂 无 和好 现 要求 判决 原 被告 离婚
+O B_FamilyConflict B_Person B_DomesticViolence I_DomesticViolence O B_Time I_Time O O B_FamilyConflict B_Separation I_Time O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O

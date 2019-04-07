@@ -1,0 +1,6 @@
+原 被告 2011年 3月 18日 登记 结婚 婚后 感情 2011年 3月 13日 生育 子 满 好 双方 共同 生活 期间 被告 不 理 家务 不务正业 原告 吵闹 2015年 以后 被告 染上 赌博 恶习 输 掉 双方 积蓄 30 余 万 元 原被告 双方 家长 教育 被告 拒 不 改正
+O O O O O B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O B_Person O B_BadHabit O O O O O O O O O O O O O O O O O
+无奈 原告 2017年 6月 22日 宝坻区 人民法院 提起 离婚 诉讼 被告 拒 不 庭 配合 法院 调查
+O B_Person B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+致使 法院 无法 查明 真相 2017年 7月 3日 驳回 原告 诉讼 请求 法院 判决 不予 离婚 后 被告 更 变本加厉 恶习 不 改 非法 放贷 公司 借款 造成 原告 全家 无法 正常 生活
+O O O O O B_Time I_Time I_Time B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O

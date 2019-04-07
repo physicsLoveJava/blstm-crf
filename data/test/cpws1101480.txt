@@ -1,0 +1,10 @@
+原告 郭 某某 诉称 原 被告 1990年 结婚 婚后 1991年 8月 27日 生育 子 取名 张柱 后 家庭 琐事 生气 致使 双方 1994年 法院 判决 离婚
+B_Person O O O O O B_Time B_Marry O B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O B_FamilyConflict O O O O O O
+离婚 后 孩子 太 小 儿子 健康 成长 教育 方面 原因 被告 2009年 复婚 复婚 后 被告 不 思 改进 打骂 威胁 去 工作 地方 吵闹 致使 无法 正常 工作 造成 一定 压力
+O O O O O O O O O O O I_Person O B_Remarry O O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O
+被告 种种 原因 致使 原、被告 双方 感情 彻底 破裂 原告 诉至法院 请求 判 令 原 被告 离婚 婚后 财产 共同 分割 本案 费用 被告 承担
+O O O O O O O O O B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O
+庭 审 中 原告 述称 诉状 上 写 被告 情况 原 被告 再婚 时间 误 被告 名字 应 张 某某 出生 时间 应 1968年 2月 18日 双方 再婚 时间 应 2010年 10月 25日
+O O O O O O O O O O O O B_Remarry O I_Negated O O O O O O O O O O O O O O O O O O
+被告 2013年 11月 分居 今 坚决 要求 离婚 愿意 婚后 共同 财产 中 属于 部分 儿子 张柱
+O B_Time I_Time B_Separation O O O O O O O O O O O O O

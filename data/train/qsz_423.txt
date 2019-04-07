@@ -1,0 +1,14 @@
+原 被告 2004年 上半年月 相识 自由 恋爱
+O O B_Time I_Time O O B_BeInLove
+2007年 7月 1日 生育 女 马馨 雨.2008年 1月 7日 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2010年 下半年 被告 染 上 赌博 恶习 输 光 家中 所有 积蓄
+O O B_Person O O B_BadHabit O O O O O O
+被告 赌博 原告 被告 发生 争吵 被告 赌博 行为 伤害 原告 感情
+O O O O O B_FamilyConflict O O O O O O
+原被告 矛盾 爆发 被告 原告 实施 家庭 暴力 原告 打电话 报警 潮阳 派出所 新 开口 派出所 处警
+O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O
+2018年 3月 9日 被告 殴打 原告
+O O O B_Person B_DomesticViolence B_Person
+原告 被迫 家里 搬 出 娘家 居住
+O O O O O I_Separation I_Separation

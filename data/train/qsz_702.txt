@@ -1,0 +1,6 @@
+2013年 底 原被告 经人介绍 相识 2016年 5月 28日 举行 结婚 仪式
+B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry O
+2017年 7月 25日 生 女儿 刘晗睿
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 婚前 感情 婚后 吵架 2017年 8月 底 被告 原告 家中 离开 今 期间 孩子 不闻不问
+O O O O B_FamilyConflict B_Time I_Time I_Time O I_Separation I_Separation I_Separation I_Duration O O O

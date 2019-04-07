@@ -1,0 +1,8 @@
+原告 江某 诉称 被告 2007年 经人介绍 相恋 2009年 2月 18日 民政部门 登记 结婚 2009年 5月 25日 生育 女 取名 朱某
+B_Person I_Person O O B_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 感情 婚后 发现 被告 脾气 暴躁 缺乏 信任 常 家庭 琐事 争吵 动手
+O O O O B_Person B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+诉至法院 要求 被告 离婚 婚生 女 生活
+B_DivorceLawsuit O O O O O O
+被告 朱某 辩称 原告 诉 不 事实
+O O O O O B_Negated I_Negated

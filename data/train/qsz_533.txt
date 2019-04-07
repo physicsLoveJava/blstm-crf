@@ -1,0 +1,8 @@
+2017年 4月份
+B_Time I_Time
+原 被告 经人介绍 确立 恋爱 关系 2017年 8月 28日 双方 办理 结婚 登记手 后 2017年 9月 16日 举行 结婚 仪式 同居 牛活
+O O O O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry I_Marry O O O O O O O O O
+婚后 被告 整天 上网 游戏
+O B_Person B_BadHabit I_BadHabit I_BadHabit
+夫妻 生活 2018年 2月 20日 双方 发生 争吵 后 原告 离开 被告 处 被告 分居 今 双方 感情 已 彻底 破裂 无 好
+O O B_Time I_Time I_Time O O B_FamilyConflict O O O O O O B_Separation I_Time O O O O O O O

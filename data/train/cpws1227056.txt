@@ -1,0 +1,26 @@
+原告 徐某 诉称 原 被告 都 再婚 人士
+O O O B_Person I_Person O B_Remarry O
+两 人 2011年 初 介绍 相识 同年 2月 21日 民政局 登记 结婚 领取 结婚证
+O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O
+婚前 了解 不 深 婚后 不能 适应 感情 不 吵架
+O O O O O O O O O B_FamilyConflict
+被告 不但 原告 亲友 面前 讲 原告 坏话 还 偷走 原告 财物
+B_Person O O O O O O O O B_BadHabit O O
+原告 被告 行为 忍无可忍 认为 双方 之间 已 无 夫妻 感情 可言 2012年 5月 10日 花都区 人民法院 起诉 被告 离婚
+O O O O O O O O O O O O B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+花都 法院 受理 后 2012年 7月 5日 开庭 审理
+B_Court I_Court O O B_Time I_Time I_Time O O
+期间 法官 工作 原告 同意 被告 次 机会 改 单方面 撤回 起诉 详见 2012 穗花法民 一初字 第2455 号 民事 裁定书
+O O O O O O O O O O B_Judgment I_Judgment O O O O O O O O
+原告 起诉 离婚 期间 被告 串通 姐夫 黄 平安 捏造 借款 事实 敲诈 原告
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 法院 起诉 请求 法院 依法 判 令 1 判 令 原 被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+导致 双方 感情 破裂 原因 1 原告方 没有 工作 没有 收入
+O O O O O O B_Person O O O O
+每年 还要 抽 两三 包 烟 喝酒 家庭 开支 没有 责任心
+O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O
+2 被告 已经 被告 第四 妻子 没有 段 婚姻 珍惜 被告 骂
+O O O O O O O O O O B_Person O
+夫妻 财产 双方 结婚 后 共同 居住 位于 位于 新华街 新都 大道 北二街西 XX 号 原由 两 层 房屋 加建 层 半 属于 夫妻 共同 财产 增值 部分 主要 被告方 加建 原告方 导致 离婚 过错方 要求 被告 倾斜 分
+O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O O O O O

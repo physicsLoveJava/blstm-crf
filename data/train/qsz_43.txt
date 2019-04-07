@@ -1,0 +1,14 @@
+原被告 2009年 3月份 相识 确认 恋爱 关系
+O B_Time I_Time B_Know O B_BeInLove O
+2010年 8月 6日 登记 结婚
+B_Time I_Time I_Time O B_Marry
+婚后 2012年 7月 23日 生育 女 杨 舒涵
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚姻 缺乏 了解 婚后 双方 不断 发生 争吵 被告 整天 无所事事 不 工作 家庭 毫不 负责 家庭 照顾 孩子 责任 全部 推 原告
+O O O O O O O B_FamilyConflict B_Person O B_BadHabit O O O O O O O O O O O O
+被告 外 经常性 吃喝玩乐 具有 赌博 恶性 家庭 财产 挥霍一空 不知 踪
+O O O B_BadHabit O B_BadHabit O O O O O O
+原告 才 知道 被告 外边 高额 举债
+O O O B_Person O O B_Credit
+后 被告 2015年 7月份 原告 分居 今 原告 居住 天津市 西青区 辛口镇 当城村 父母 家里 被告 至今 未 任何人 联系
+O O B_Time I_Time O B_Separation I_Time O O O O O O O O O O O O O

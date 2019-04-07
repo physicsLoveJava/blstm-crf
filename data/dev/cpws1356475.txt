@@ -1,0 +1,8 @@
+原告 肖 某某 诉称 原 被告 2011年 12月 媒人 介绍 相识 恋爱 2012年 11月 1日 铜梁县 民政局 登记 结婚 2013年 1月 31日 生育 子 名 田某 乙现 母亲 生活 无 夫妻 共同 财产 债权 债务
+O O O O O O B_Time I_Time O O B_Know B_BeInLove B_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O O B_Negated O B_Wealth I_Wealth B_Credit B_Debt
+原 被告 均 系 再婚 恋爱 期间 被告 前妻 不 正当 关系 两 次 闹 矛盾 后 人 劝说 才 保持 恋爱 关系
+O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O
+生育 小孩 前段 时间 才 原告 再三 催促 下 办理 结婚 手续 生育 小孩 后 被告 从不 关心 帮助 原告 导致 原告 坐月子 期间 生气
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 8月 原 被告 协商 离婚 未果 同月 7日 原告 看 孩子 被告 母亲 发生 纠纷 派出所 出警 才 平息
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

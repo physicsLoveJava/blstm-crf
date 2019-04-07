@@ -1,0 +1,6 @@
+原告 被告 2016年 2月 14日 经人介绍 相识 后 双方 确立 恋爱 关系 双方 2016年 6月 21日 办理 结婚 登记 手续
+O O B_Time I_Time I_Time O B_Know O O B_BeInLove I_BeInLove I_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+双方 婚前 了解 不 深 婚后 被告 找茬 原告 生气 打架 双方 生气 吵架 时 曾 提出 离婚
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O O O
+被告 曾 双方 生气 后 原告 父母 打电话 有时 生气 后 纠集 母亲 姐姐 家中 原告 吵闹 现 双方 都 已 无法 忍受 分居 三 月 有余 双方 私下 协商 离婚 未能 达成 一致 。
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O

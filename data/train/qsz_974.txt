@@ -1,0 +1,2 @@
+原被告 2017年 5月 人 介绍 相识 同居 生活 2017年 12月 26日 依法 登记 结婚 婚前 没有 了解 缺乏 感情 基础 原告 2018年 怀孕 被告 从不 关心 原告 打骂 原告 造成 原告 回 娘家 居住 被告 迟迟 不 理 原告 不 接 回 原告 原告 长期 生气 导致 胎盘 不 正常 原告 要求 被告 原告 去 医院 检查 被告 口 称 贵贱 不 造成 原告 病情 加重 妇科 出血 造成 引产 现 原告 精神 上 受到 严重 打击 原被告 属 感情 破裂 为此 原告 起诉 离婚
+O B_Time I_Time O O B_Know O O B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O B_Time O O O O O O O O O B_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit

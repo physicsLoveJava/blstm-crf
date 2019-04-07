@@ -1,0 +1,6 @@
+原告 董桂丽 诉 称 原 被告 经人介绍 相识 后 1993年 11月 20日 举行 婚礼 共同 生活
+O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O
+婚后 生育 两 女 男 三 孩子
+O B_Bear O B_Gender B_Gender O O
+原被告 婚前 感情 基础 差 婚后 没 注重 培养 夫妻 感情 被告 原告 实施 家庭 暴力 双方 感情 确 已 破裂
+B_Person O O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O

@@ -1,0 +1,8 @@
+原被告 J2013 年 经人介绍 相识片 建立 恋爱 关系 2014年 5月 16日 登记 结婚 婚后 未 生 子女
+O B_Time I_Time O B_Know O O O B_Time I_Time I_Time B_Marry I_Marry O O O O
+F 相识 短 草率 结婚 婚后 未能 建 V 贞挚 夫妻 感情 常 k 活琐 小 争吵 打架 2016年 Il 月 双力 冉次 火琐 半 打架 被告 原告 打伤厂 原告 离开 被告 处
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O B_Person B_Person B_DomesticViolence O O O O
+被告 行为 导致 双力 感情 彻底 破裂 原告 广 2017年 7 门 起诉 被告 离婚 武浦区 人民法院 2017 津0114 民 初9944 判决书 判决 不 准 离婚
+O O O O O O O B_Person O B_Time I_Time O B_DivorceLawsuit O O B_Court I_Court I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment
+原告 起诉 被告 离婚
+B_Person I_DivorceLawsuit O O

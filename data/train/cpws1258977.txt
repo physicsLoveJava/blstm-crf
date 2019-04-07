@@ -1,0 +1,4 @@
+原告 胡某 甲诉 称 原 被告 网络 上 认识 三 月 后 ×××× 年×× 月×× 日 登记 结婚 婚后 工作 学习 需要 双方 两地 分居
+O O O O O O O O B_Know O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O O O B_Separation
+×××× 年×× 月×× 日 双方 生育 女 取名 胡某乙
+B_Time I_Time I_Time I_Time O B_Bear B_Gender O B_Name

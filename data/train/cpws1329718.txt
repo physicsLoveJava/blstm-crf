@@ -1,0 +1,2 @@
+原告 诉称 原被告 1986年 经人介绍 认识 1987年 举行 结婚 仪式 婚后 生育 子 女 均 已 成年
+O O O B_Time O B_Know B_Time O B_Marry O O B_Bear I_Gender B_Gender O O O

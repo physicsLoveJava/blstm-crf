@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2004年 认识 2009年 11月 27日 办理 结婚 登记 手续 结婚 后 双方 根本 无法 建立 真挚 夫妻 感情 脾气 性格 不 投 家庭 琐事 发生 争执 最终 导致 夫妻 感情 破裂 分居 生活
+O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_FamilyConflict O O O O O B_Separation O
+2． 女儿 徐 静静 原告 抚养 抚养费 原告 自负
+O B_Gender O O O O O O O
+2004年 2月 双方 认识 没有 固定 同居
+B_Time I_Time O B_Know O O O
+2005年 孩子 出生 时 原告 已经 告诉 被告 孩子 不 亲生 2009年 双方 都 没有 结婚 原因
+B_Time O B_Bear O O O O O O O O O O O O O O
+被告 表示 愿意 接受 原告 原告 孩子 提出 原告 徐静静 落户 被告 原告 感动 遂 愿意 被告 结婚 2009年 11月 结婚 后 孩子 带 被告 家中 一起 生活
+O O O O O O O O O O O O O O O O O O B_Time I_Time B_Marry O O O O O O O
+被告 第一 次 庭审 时 答辩 称 原 被告 2004年 2月 认识 之后 3月份 同居
+O O O O O O O O O B_Time I_Time B_Know O O O
+2005年 9月 26日 徐 静静 出生 之后 被告 不 知晓徐 静静 不 亲生
+B_Time I_Time I_Time B_Name I_Name B_Bear O O O O O O O

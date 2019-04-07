@@ -1,0 +1,8 @@
+原告 吕 某某 诉称 被告 周 某某 1990年 9月 办理 结婚 登记 手续 婚后 夫妻 感情
+B_Person I_Person I_Person B_DivorceLawsuit O O O B_Time I_Time O B_Marry I_Marry I_Marry O O O
+婚后 被告 家人 生活 琐事 原告 发生 纠纷 欺负
+O O O O O O B_FamilyConflict I_FamilyConflict O
+1999年 无奈 离家 外出 至今 未
+B_Time O O B_Separation I_Separation I_Separation
+被告 周 某某 答辩 称 原告 婚后 感情 不错 原 告诉 称 家人 欺负 不 事实
+O O O O O O O O O O O O O I_FamilyConflict O O

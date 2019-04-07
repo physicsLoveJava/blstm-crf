@@ -1,0 +1,6 @@
+原告 李 某某 诉称 2011年 1月 20日 经人介绍 被告 张 某某 登记 结婚 婚后 被告 我家 生活
+O O O O B_Time I_Time I_Time O O O O O B_Marry O O O O
+婚前 缺乏 了解 婚后 感情 不合 再 加 被告 整日 无所事事 游手好闲 常 生活 琐事 打骂 为此 被告 已 无 夫妻 感情 要求 被告 离婚 法院 使 好 被告 改过自新 机会 判决 不 准 离婚 被告 依然 不思悔改 进一步 虐待 原告 现 被告 夫妻 感情 彻底 破裂 再 无 和好 诉求 被告 离婚 依法 分割 共同 财产
+O O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O B_FamilyConflict O O O O O O O B_Person O O O O O O O O O O O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O
+原告 离婚 想 占有 共同 财产 婚前 原告 7000 元 婚后 卖 小麦 款 4500 元 交给 原告 10000 元 工资
+O O O O O O O O O O B_CommonProperty O B_Wealth I_Wealth B_Price I_Price O O B_Price I_Price B_Wealth

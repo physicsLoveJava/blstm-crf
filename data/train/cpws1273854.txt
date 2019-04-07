@@ -1,0 +1,6 @@
+原告 程某 诉称 原告 前任 妻子 病 去世 后 原告 经人介绍 离异 被告 ×× ×× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time O B_Marry
+双方 婚前 缺乏 了解 性格 不合 造成 双方 婚后 琐事 生气
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 再婚 目的 希望 晚年 时 找 老伴 相互 扶持 相互 关心 相互 照顾 现在 二 人 婚姻 已 名存实亡 二 人 感情 早已 破裂 请求 法院 判决 原 被告 离婚
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

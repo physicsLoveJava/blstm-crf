@@ -1,0 +1,12 @@
+原告 龙 某某 诉称 被告 1999年 介绍 相识 2000年 4月 10日 庆城县 桐川乡 人民政府 登记 结婚
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry
+2000年 10月 23日 生长子 方某 乙 2005年 1月 2日 生 次子方 某丙
+B_Time I_Time I_Time B_Bear B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 感情 发生 矛盾 被告 实施 家庭 暴力
+O O O B_FamilyConflict I_FamilyConflict B_Person O B_DomesticViolence I_DomesticViolence
+更有甚者 被告 异性 王 某某 2011年 7月 同居 生活
+O B_Person O O O O O B_Derailed I_Derailed
+被告 方某 甲 辩称 未 原告 实施 家庭 暴力 未 王 某某 同居 生活 被告 纯属 造谣 诽谤
+O O O O O O O B_DomesticViolence I_DomesticViolence O O O B_Derailed I_Derailed O O O O
+家庭 现有 财产 系 婚前 所有 无 婚后 财产 几万 元 债务
+O O O O O O O O O B_Price I_Price B_Debt

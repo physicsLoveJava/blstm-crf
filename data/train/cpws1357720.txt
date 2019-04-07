@@ -1,0 +1,4 @@
+原告 辛某 诉称 原 被告 2002年 介绍 相识 恋爱 2004年 12月 29日 登记 结婚 2005年 农历 正月 初七生 男孩 取名 辛润 现在 原告 处 生活
+O O O O O B_Time O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O
+原 被告 婚后 常 生活 琐事 吵 被告 原告 不 信任 导致 夫妻 感情 破裂 原告 曾 2012年 3月 诉至法院 要求 被告 离婚 驳回 诉讼 请求 双方 未能 好 现 要求 被告 离婚 婚生 男孩 原告 生活 被告 承担 小孩 抚养费 共同 财产 依法 分割 共同 债务 共同 承担 诉讼 费用 被告 承担
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

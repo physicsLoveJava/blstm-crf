@@ -1,0 +1,4 @@
+原告 冯 某某 诉称 原被告 2010年 2月 10日 登记 结婚 原告 陪嫁物 海尔 电冰箱 台 物 2011年 1月 13日 婚生 女 卢某甲
+O O O O O B_Time I_Time I_Time O B_Marry O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+两 人 婚姻 基础 差 婚后 常 生活 琐事 发生 矛盾 夫妻 感情 已 彻底 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

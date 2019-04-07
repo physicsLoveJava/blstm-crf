@@ -1,0 +1,6 @@
+2000年 4月 21 | | 双方 蓟州 { 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry I_Marry O
+2016年 4月 12 | | 原告 曾 离婚 为由 起诉 被告 贵院 作出 2016 津0225 民 初 1755 号 民事 判决书 驳 I l 告诉讼 请求
+B_Time I_Time I_Time O O B_Person O O O B_DivorceLawsuit O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O
+2016年 8月 18 | | 被告 离婚 巾 起诉 伏院 贵院 作出 2016 0225 民 初 8444 民事 判决书 驳 N 诉讼 请求
+B_Time I_Time I_Time O O B_Person O O B_DivorceLawsuit O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O

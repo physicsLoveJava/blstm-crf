@@ -1,0 +1,4 @@
+原告 被告 系 媒人 介绍 双方 2007年 12月 武清区 民政局 办理 结婚 登记 于续 2008年 1月 1日 举行 结婚 仪式
+O O O O O O B_Time I_Time O O O B_Marry O O B_Time I_Time I_Time O B_Marry O
+婚后 被告 原告 实施 家庭 暴力
+O B_Person B_Person O B_DomesticViolence I_DomesticViolence

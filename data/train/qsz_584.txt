@@ -1,0 +1,8 @@
+2007年 原被告 建立 恋爱 关系 2010年 3月 31日 登记 结婚
+B_Time O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+婚后 二 人生 女 许祎诺 现年 6 周岁
+O O B_Bear B_Gender B_Name O B_Age I_Age
+婚后 共同 生活 中 原被告 脾气 秉性 明显 格格不入 双方 难 沟通 相处
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict O
+为此 原被告 双方 2018年 3月份 民政 机关 协议 离婚 后 种种 原因 未能 成行 现 双方 已 分居 近 年 久
+O O O O O O O O O O O O O O O O O B_Separation O I_Duration O

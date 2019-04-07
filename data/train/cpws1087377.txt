@@ -1,0 +1,12 @@
+原 告诉 称 被告 2004年 6月 浙江 打工 期间 相识 谈婚 2005年 5月 17日 农村 习俗 举行 婚礼 仪式 后 同居 生活 2005年 8月 19日 生养 男孩 取名 闫 某乙
+O O O O B_Time I_Time O O O B_Know O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚前 缺乏 了解 草率 结合 婚后 常 生活 琐事 吵架 被告 小孩 生 下 八 月 后 不管 不 问 交 原告 父母 抚育
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O
+双方 外 共同 打工 期间 吵架 致使 不 停 换 厂 钱 没 挣 下 还 负债累累 至今 家里 租 住 房屋
+B_Person O O O O O O O O O O O O O O O B_Debt O O O O O
+被告 毫无 家庭 观念 自私自利 2013年 3月 双方 回洋县 后 被告 不 进 家门 却 回 娘室 生活 不理不睬 孩子 不 看 不 现 双方 夫妻 感情 彻底 破裂 法院 提起 诉讼 请求 依法 判处 原、被告 离婚
+B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+2004年 初 原告 打工 同一 车间 时 认识 后 原告 追求 表达 爱意 原告 感动 后 遂 原告 热恋 谈 婚论嫁 原告 父母 得知 二 人 关系 之后 十分 高兴 催促 完婚 情况 下 原告 2004年 5月 17日 农村 习俗 举行 结婚 仪式 后 共同 生活 2005年 农历 九月 二十九日 生养 男孩 闫某 乙 2008年 2月 补办 结婚 登记 手续
+B_Time I_Time O O O O O B_Know O O O O O O O O O O B_BeInLove O O O O O O O O O O O O O O O O O O O O O O O O O O O I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time O B_Marry I_Marry O
+2009年 冬 原告 关系 暧昧 发现 后 劝 原告 迷途知返 原告 不但 不 听 劝解 还 进行 殴打 眼睛 伤
+B_Time I_Time O I_Derailed I_Derailed O O O O O B_Person O O O O O O B_DomesticViolence O O

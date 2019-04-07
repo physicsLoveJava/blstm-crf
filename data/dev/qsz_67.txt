@@ -1,0 +1,8 @@
+原被告 2013年 春 经人介绍 谈婚 恋爱 后 同年 7月 17日 二 人 登记 结婚
+O B_Time I_Time O O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 感情 般 婚后 无 子女 婚后 被告 父母 挑唆 夫妻 感情 导致 打架 夫妻 感情 破裂
+O O O O O O O O O O O O O B_FamilyConflict O O O
+被告 周学龙 曾 2016年 11月 2 号 西青 法院 提起 离婚 诉讼 西青 法院 2016年 11月 24日 作出 2016 津 0111 民 初 8041 号 民事 判决书
+B_Person O O B_Time I_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document
+原告 段孝丹 2017什 3月 27日 西青 法院 提起 离婚 诉讼 西青 法院 2017年 4月 7 作 山 2017 津0111 民 初 3264 号 民事 判决书 判决驳 H 原告 段孝丹 离婚 诉讼 请求
+B_Person O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment O O O O O

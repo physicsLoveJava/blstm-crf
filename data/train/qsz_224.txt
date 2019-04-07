@@ -1,0 +1,4 @@
+被告 白山 恋爱 相识 原告 被告 20 5 年 4月 3日 武清区 民政局 办理 结婚 登记 手续 f2016 月 10 片 3xF- 女
+O O O O O O B_Time I_Time I_Time I_Time I_Time O O O B_Marry I_Marry O O O O O O O
+婚后 认 家庭 琐事发 今 被告 殴打 原告
+O O O O O B_Person B_DomesticViolence B_Person

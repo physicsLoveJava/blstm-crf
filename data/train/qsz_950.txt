@@ -1,0 +1,8 @@
+原告 被告系 经人介绍 相互 认识 后 2014年 5月 16日 登记 结婚
+O O O B_Know I_Know O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2016年 5月 2日 生 子 刘俊辰 现在 被告 处 生活
+O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+生活 中 父母 钱 过日子 父母 年岁 大 无力 支付 生活 开支 被告 瞒 家人 去 外面 高利贷 使 债主经常 家里 讨债
+O O O O O O O O O O O O O O O O O I_Debt O B_Person O O
+家里 人心 不 原告 上班 挣 点 钱 孩子 开支 非常 拮据 被告 均 不 看 眼里 还 女性 搞 暧味 原告 问 被告 钱 被告 称 女人 买 东西 原告 为此 生气 生气 被告 喝药 威胁 原告 原告 孩子 家庭
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O

@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 2007年 5月 认识 同年 9月 举行 结婚 仪式 2010年 9月 补办 结婚 登记 手续
+O O O O O O B_Time I_Time B_Know O O O O O B_Time I_Time O B_Marry O O
+原 被告 均 系 再婚 婚初 感情
+O O O O B_Remarry O O
+女儿 王某 乙系 原告 带 过来 双方 2008年 8月 生育 子 王某丙
+O O O O O O O B_Time I_Time B_Bear B_Gender B_Name
+2012年 春节 前 原 被告 修 房基 矛盾 不 断 原告 便 回居 娘家 被告 不 原告 便 外出 打工 年 两 人 分居 生活 夫妻 关系 名存实亡
+B_Time I_Time I_Time O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Separation I_Separation O O O O O O O O O O O O O O
+被告 辩称 被告 原告 均 系 再婚 被告 珍惜 这次 婚姻 2008年 12月 两 人 去 广东 打工 2011年 10月 回家 修 房基 原 被告 夫妻 感情 好
+O O O O O O B_Remarry O O O O O O O O O O O O O O O O O O O O O

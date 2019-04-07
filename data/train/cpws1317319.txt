@@ -1,0 +1,6 @@
+原告 陆某 诉称 原告 被告 2009年 4月 人 介绍 相识 谈婚 2010年 2月 25日 办理 结婚 登记 手续
+O O B_DivorceLawsuit O O B_Time I_Time O O B_Know O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+结婚 至今 三 年 无法 建立 夫妻 感情 双方 至今 未 同居 生活
+B_Duration I_Duration I_Duration I_Duration O O O O O O B_Separation I_Separation O
+被告 此前 曾 催促 原告 不 办 婚事 离婚 原告 却 不理不睬
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

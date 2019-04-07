@@ -1,0 +1,6 @@
+原 被告 媒人 介绍 2006年 6月 初六 农历 农村 习俗 拳办 婚礼 同居 生活 2007年 3月 2日 补办 结婚证 2007年 9月 8日 生 女 曹佳欣 2013年 9月 28日 生 子 曹皓轩
+O O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 无 共同 财产 无 共同 债务
+O O B_Negated O B_Wealth B_Negated O B_Debt
+原 被告 婚前 了解 少 感情 基础 差 原 被告 脾气 秉性 各异 婚后 吵架 生气 现 夫妻 感情 已经 破裂 原告 2017年 1月 被告 分居 2017年 2月 3日 法院 起诉 被告 不 同意 离婚 原告 撤诉
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O B_Time I_Time O B_Separation B_Time I_Time I_Time B_Court B_DivorceLawsuit O O O O B_Judgment I_Judgment

@@ -1,0 +1,18 @@
+原被告 1996年 初 经人介绍 相识 确立 恋爱 关系
+O B_Time O O B_Know O B_Know O
+1997年 登记 结婚 1998年 6月 29日 生育 长女 赵美佳 现 大学 读 2005年 10月 30日 生育 次女 赵美琪
+B_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚初 原被告 之间 夫妻 感情 双方 之间 琐事 发生 争吵
+O O O O O O O O B_FamilyConflict I_FamilyConflict
+期间 原被告 之间 矛盾 逐渐 加深
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+夫妻 感情 逐渐 疏远
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原被告 无力 支付 医疗 费用 原告 无奈 亲属 先后 借款 60000 元 用于 支付 医疗 费用
+O O O O O O O B_Person O B_Debt B_Price I_Price O O O O
+情况 下 被告 2016年 10月 13日 贵院 提起 离婚 诉讼
+O O B_Person B_Time I_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵院 审理 后 下发 2016 津 0115 民 初 8648 号 民事 判决书 驳回 被告 诉讼 请求
+O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+被告 曾经 琐事 次女 事实 殴打 导致 次女 眼睛 部位 受伤
+B_Person O O B_Person O B_DomesticViolence O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 系 夫妻 关系 婚后 生育长 女王 甲 今年 25 岁 已 成家 长子 王某 乙 今年 22 岁 已 成家
+O O O O O O O O O B_Marry O O O O O O O O O O O O O O O
+被告 原告 实施 家庭 暴力 导致 夫妻 感情 破裂 无法 继续 共同 生活
+O O O B_DomesticViolence I_DomesticViolence O O O O O O O O
+无 存款 无 债权 无 债务
+B_Wealth I_Wealth B_Credit I_Credit B_Debt I_Debt

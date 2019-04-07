@@ -1,0 +1,2 @@
+原告 王某 诉称 原 被告 婚前 缺乏 了解 草率 结婚 婚后 感情 不 发生 争吵 难以 共同 生活 夫妻 感情 确 已 破裂 诉至法院 请求 依法 判 令 原 被告 离婚 婚生子 张某 甲 原告 抚养 婚生子 张某 乙 被告 抚养
+O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O B_DivorceLawsuit B_Bear B_Name I_Name O O B_Bear B_Name I_Name O O

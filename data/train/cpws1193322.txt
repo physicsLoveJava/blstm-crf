@@ -1,0 +1,8 @@
+原告 刘某 诉称 被告 经人介绍 2002年 3月 20日 举行 结婚 仪式 后 良平乡 人民政府 进行 结婚 登记
+O O O O O B_Time I_Time I_Time I_Time O O O O O O B_Marry O
+2003年 4月 7日 生长子 贾某甲 2007年 8月 26日 生 次子 贾某乙
+B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 婚前 了解 少 草率 结婚 婚后 性格 不和 无 共同语言
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 使用 家庭 暴力 已 分居 达 三 年 久 夫妻 感情 彻底 破裂
+O O O O O B_Separation O B_Duration I_Duration O O O O O

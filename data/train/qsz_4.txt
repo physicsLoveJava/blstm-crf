@@ -1,0 +1,6 @@
+原 被告 2014年 11月份 经人介绍 相识 2015年 5月 20日 领取 结婚证 2015年 10月 18日 举行 结婚 仪式 后 双方 共同 生活 2017年 5月 21日 生 下 长子 霍相文 现 已 周 三 月
+O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O B_Time I_Time I_Time B_Bear O B_Gender B_Name O O I_Age I_Age I_Age
+结婚 初 双方 感情 孩子 出生 之后 双方 常 生活 琐事 发生 争吵 冷战 分居 夫妻 生活 苦不堪言
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O
+综 上 原告 认为 原 被告 婚前 认识 时间 短 了解 不够 婚后 双方 性格 三 观 不 合 不合 生气 吵架 被告 长辈 不 尊重 致使 夫妻 矛盾 愈演愈烈 夫妻 感情 彻底 破裂 生活 环境 孩子 成长 造成 不可逆转 影响
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict B_Person I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O

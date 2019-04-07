@@ -1,0 +1,4 @@
+原告 吴某 诉称 1991年 原被告 经人介绍 认识 1991年 农历 11月 12日 典礼 同居 1992年 07月 16日 补办 结婚 登记 手续
+O O O B_Time O O B_Know O O O O O O B_Time I_Time I_Time O B_Marry O O
+1993年 08月 03日 生育 男孩 原 被告 结婚 后 生气 打架
+B_Time I_Time I_Time B_Bear B_Gender O O O O O O

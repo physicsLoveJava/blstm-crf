@@ -1,0 +1,12 @@
+原告 路×× 诉 称 2004年 2月份 经人介绍 原、被告 认识 订婚
+O O O O B_Time I_Time O O B_Know O
+同年 4月 8日 汶上县 民政局 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+婚生子 曹×源 2006年 6月 28日 出生
+B_Bear B_Name B_Time I_Time I_Time O
+婚前 了解 不够 仓促 结婚 婚姻 基础 不好
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+后 原 被告 性格 不和 吵闹 生气 关系 不好
+O O O O O B_FamilyConflict I_FamilyConflict O O
+2011年 原告 曾 汶上县 人民法院 提起 离婚 诉讼 开庭 前 被告 藏匿 孩子 孩子 违心 撤回 起诉
+B_Time B_Person O B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O B_Judgment O

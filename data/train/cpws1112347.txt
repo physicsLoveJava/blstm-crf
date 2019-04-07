@@ -1,0 +1,8 @@
+原告 马 某某 诉称 原 被告 1978年 相识 相爱 1982年 4月 7日 登记 结婚 1985年 9月 22日 生育 子 取名 马某甲
+O O O O O O B_Time B_Know O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender O B_Name
+婚后 原告 工作 原因 没有 时间 照顾 家庭 被告 颇 怨言 双方 性格 不合 夫妻 间 常 发生 争执
+O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+1998年 原 被告 分居 分居 后 原告 居住 单位 办公室 长 达 十几 年 双方 无 交流 夫妻 感情 彻底 破裂 无 和好
+B_Time O O B_Separation O O O O O O B_Duration I_Duration I_Duration I_Duration O O O O O O O O O
+现 原告 第三 次 诉 本院 要求 离婚 自愿 放弃 本市 鼓楼区 观音 里 X 号 XX 室 房产 属于 份额
+O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_CommonProperty I_CommonProperty

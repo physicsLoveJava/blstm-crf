@@ -1,0 +1,4 @@
+原告 王某 诉称 原 被告 2010年 相识 后 结婚 感情 不好 2011年 6月 分开 后 离婚 双方 广州 打工 重新 和好 2012年 7月 重新 登记 结婚 2013年 元月 生 女孩 名 王某甲 夫妻 感情 不好
+O O O O O B_Time B_Know O B_Marry O O O O O O O O O O O O B_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time B_Bear B_Gender O B_Name O O O
+2013年 9月 2日 被告 人性 泯灭 杀害 原告 父亲 判 无期徒刑 现 要求 原告 被告 离婚 婚生 女 原告 抚养
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O

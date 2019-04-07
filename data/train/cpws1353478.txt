@@ -1,0 +1,6 @@
+原告 黄某 诉称 原告 被告 ×××× 年×× 月×× 日 登记 结婚 婚后 生育 女儿
+O O O O O B_Time I_Time I_Time I_Time O B_Marry O B_Bear B_Gender
+被告 希望 原告 生 小孩 原告 认为 体质 不好 坚决 不 同意 为此 被告 提出 离婚 要求 不顾 原告 劝阻 双方 父母 一起 谈 离婚 事宜 此事 原告 造成 大 伤害 本来 疏远 夫妻 关系 冷漠 令 家庭 氛围 变 紧张 压抑 双方 身心健康 特别 小孩 成长 不利 原告 不 愿意 再 维持 段 感情 破裂 婚姻
+O O O O O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+为此 请求 法院 依法 判 令 1 原告 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

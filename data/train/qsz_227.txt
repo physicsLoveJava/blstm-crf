@@ -1,0 +1,12 @@
+原 被告 均 系 再婚 双方 2009年 5月 人 介绍 相识 2009年 8月 6日 民政部门 办理 结婚 登记 同月 举办 结婚 仪式 共同 生活
+B_Person I_Person O O B_Remarry O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O O O O O O
+婚初 原 被告 感情 尚 被告 人 自私 原告 缺乏 关心 照顾 原 被告 生活 中 经济 问题 发生 矛盾 争吵 夫妻 感情 逐渐 破裂
+O O O O O B_Person I_BadHabit I_BadHabit O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2016年 初 双方 争吵 后 原告 被迫 离家
+B_Time I_Time O O O O B_Separation I_Separation
+双方 分居 月 后 人 解劝 原告 回家
+O O I_Duration O O O O O
+2018年 卷节 双方 发生 矛盾 被告 无理 要求 原告 搬走
+B_Time O O O O O O O O O
+原告 无奈 只得 离家
+O O O I_Separation

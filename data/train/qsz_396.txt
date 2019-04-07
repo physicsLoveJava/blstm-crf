@@ -1,0 +1,8 @@
+原 街 2000年 相识 厂 确立 恋爱 关系
+O O B_Time B_Know O O O O
+2001年 IlJ25 | | 原 牛 比政 部门 办 踝 结婚 登记 2003f1 21I 原 代 女 取名 刘禹繁
+B_Time I_Time I_Time I_Time O O O O O O B_Marry O O O O O O O O
+婚初 原 被告 使 常发 争吵 后 争吵 愈演愈烈
+O O O O O B_FamilyConflict O O O
+匙 2017年 10月 10H4 民政部门 登记 离婚 详见 离婚 协议 20 18年 5 片 16 | 复婚
+O O O O O O O O O O O O O O O O B_Remarry

@@ -1,0 +1,6 @@
+登记 结婚 双方 均 系 再婚 再婚 后 未 生育 子女
+B_Marry I_Marry B_Person O O B_Remarry O O O O O
+婚后 双方 性格 不合 琐事 争吵 致 夫妻 感情 破裂
+O O O O O B_FamilyConflict O O O O
+2013年 1月 16日 曾 起诉 离婚 后 2013年 3月 29日 撤回 起诉 撤诉 后 夫妻 关系 仍 未 改善 状诉 法院 请求 被告 离婚
+B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time B_Judgment I_Judgment O O O O O O O O O O O O

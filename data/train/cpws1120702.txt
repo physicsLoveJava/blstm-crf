@@ -1,0 +1,2 @@
+原告 胡某 诉称 原 被告 婚前 缺乏 了解 婚后 性格 不合 发生 争吵 导致 夫妻 感情 破裂 请求 依法 判决 被告 离婚
+O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O O O O O O O O O

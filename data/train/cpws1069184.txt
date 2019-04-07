@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1989年 10月 相识 次年 结婚 后 生育 子 王某
+O O O O O B_Time I_Time B_Know O O O B_Bear I_Gender B_Name
+婚初 双方 感情 好 后 儿子 去世 被告 在家 乱 发 脾气 胡乱 猜疑 原告 已 无法 忍受 被告 所作所为
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

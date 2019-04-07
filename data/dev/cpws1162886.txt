@@ -1,0 +1,12 @@
+原告 杨 某某 诉称 被告 2008年 2月 相识 同年 3月 宜宾市 南溪区 婚姻 登记 机关 办理 结婚 登记 同年 10月 1日 举行 婚礼 2009年 5月 12日 生育 儿子 陈某甲
+O O O O O B_Time I_Time B_Know B_Time I_Time O O O O O O B_Marry O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2010年 宜宾市 南溪区 人民政府 被告 家人 房屋 产权 调换 形式 进行 搬迁 5 人 共 调换 房屋 390 平方米 全家人 辛勤 劳动 共有 存款 40 余 万 元
+O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth B_Price I_Price I_Price I_Price
+被告 认识 时间 短 双方 了解 不 够 便 草率 结婚 婚后 才 发现 被告 性格 多疑 脾气 暴躁
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+今年 4月 被告 母亲 大姐 发 短信 被告 发生 争执 被告 便 出手 毒打 面部 伤
+O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O
+为此 特 起诉 法院 请求 判决 被告 离婚 孩子 陈某 甲 抚养 被告 每月 承担 400 元 抚养费
+O O B_DivorceLawsuit O O O O O O O O O O O O O O O
+原告 要求 分割 40万 元 存款 不 存在
+O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

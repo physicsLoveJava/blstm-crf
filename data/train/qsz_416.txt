@@ -1,0 +1,12 @@
+原被告 经人介绍 2012年 冬 相识 2013年 4月 8日 双方 领取 结婚证 2013年 4月 30日 双方 举行 婚礼 共同 生活
+O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry O O
+2013年 12月 9日 双方 婚生 女 贾汝霏 出生
+B_Time I_Time I_Time O O B_Gender B_Name B_Bear
+时间 推移 原告 发现 间 性格 不合 双方 家庭 琐事 发生 矛盾
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+共同 生活 期间 间 难 交流 沟通
+O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2017年 6月 底
+B_Time I_Time I_Time
+双方 琐事 发生 矛盾 原告 离家 回 娘家 居住 生活 今
+O O O O O O B_Separation I_Separation I_Separation O I_Time

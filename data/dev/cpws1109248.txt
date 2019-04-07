@@ -1,0 +1,18 @@
+原告 景×诉 称 马× 1975年 12月 10日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+初婚 马× 再婚
+B_Remarry B_Person B_Remarry
+婚后 没有 生育 子女
+O B_Negated B_Bear I_Bear
+第一 次 发生 矛盾 1989年 9月份 天 晚上 马×骂 绝后 当时 觉得 不 痛快 和好 2004年 一共 骂 27 次 绝后 还 闺女 儿子 挂 嘴边 造成 大 伤害
+O O O B_FamilyConflict O O O O B_DomesticViolence O O O O O O O O B_DomesticViolence O O O O O O O O O O O
+1995年 11月 分居 2009年 搬 门头沟区 剧场 东街 后 至今 分屋 居住 平时 不 说话
+B_Time I_Time B_Separation O O O O O O O O O O O O
+马× 早就 已经 没有 感情 平时 言行 造成 大 伤害
+O O O O O O B_FamilyConflict O O O
+起诉 要求 1 判 令 马× 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2 交付 套 80 平方米 拆迁 安置 房归 马×所有
+O O O O O B_Wealth I_Wealth I_Wealth O
+3 交付 套 40 平方米 拆迁 安置 房 存款 3000 元 所有 3万 元 债权 享有
+O O O O O B_Wealth I_Wealth I_Wealth B_Wealth B_Price I_Price O B_Price I_Price B_Credit O

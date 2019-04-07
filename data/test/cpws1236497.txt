@@ -1,0 +1,10 @@
+原告 陈某 甲诉 称 原告 被告 ×××× 年×× 月×× 日 结婚 领有 结婚 证书 双方 至今 未 生育 子女
+B_Person I_Person B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time I_Time I_Time B_Marry O O O O O O O O
+原告 被告 婚前 缺乏 了解 婚姻 基础 差 双方 没有 共同语言 导致 婚后 双方 常 生活 琐事 发生 争吵 特别 被告 好吃懒做 喜好 六 合 彩等 赌博 原告 劝导 被告 戒赌 家庭 被告 却 原告 争吵 导致 夫妻 感情 严重 破裂 原告 2013年 正月 被告 分居 生活 今
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O B_Person O O O O O B_BadHabit O O O O O O O O B_FamilyConflict O O O O O O B_Time I_Time O B_Separation O O
+没有 参加 民间 六 合彩 赌博 无 夫妻 共同 财产 认为 夫妻 感情 未 破裂 不 同意 离婚
+O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O
+原告 被告 ×××× 年×× 月×× 日经 登记 结婚 双方 至今 未 生育 子女
+O O B_Time I_Time I_Time I_Time O B_Marry O O O O O
+围绕 原 被告 双方 争议 争议 夫妻 感情 是否 破裂 问题 本院 查明 分析 认定 原告 认为 被告 双方 婚前 缺乏 了解 婚后 性格 不合 夫妻 感情 完全 破裂 本院 提交 证据 1 结婚证 证明 原、被告 双方 ×××× 年×× 月×× 日 登记 结婚 原、被告 双方 系 合法 夫妻 关系
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time B_Marry O O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原被告 1991年 5月 结婚 婚后 双方 琐事 争吵 分居 产生 猜疑 导致 争吵 伤害 快 常年 分居 使 双方 厌憎 心理 更 深 没有 感情 关怀 婚姻 不道德 婚姻 再 继续 共同 生活 下去 已 没有 意义 结束 段 婚姻 现 双方 感情 彻底 破裂
+O O O O B_Time I_Time B_Marry O O O O B_Separation O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+请求 法院 依法 判 令 解除 原被告 婚姻 关系 婚生 女 上 大学 期间 学费 住宿费 每月 1500 元 生活费 原告 承担
+O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O

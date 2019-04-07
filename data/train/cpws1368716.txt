@@ -1,0 +1,4 @@
+原告 谢某 诉称 原告 被告 2012年 5月 12日 互联网 认识 2012年 6月 16日 番禺区 民政局 登记 结婚 婚姻 仓促 草率 双方 缺乏 了解 感情 基础 薄弱 生活 价值观 大 差异 婚后 感情 长期 不 被告 脾气 暴躁 耍 小 脾气 离家 出走
+O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O
+夫妻 感情 已经 完全 破裂 起诉 要求 判 令 原告 离婚
+O O O O O B_DivorceLawsuit O O O O O

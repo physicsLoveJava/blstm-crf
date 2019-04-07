@@ -1,0 +1,4 @@
+原告 宋某 诉称 原告 宋某 被告 周 某某 2002年 10月 17日 登记 结婚 2003年 4月 4日 生育 子 宋文烨
+O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 周 某某 沉迷 麻将 赌博 关系 暧昧 原告 宋某 发现 双方 此时 常 发生 争吵 纠纷 使 夫妻 感情 受到 严重 影响 已 完全 破裂
+B_Person O O B_BadHabit I_BadHabit I_BadHabit I_Derailed I_Derailed O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O

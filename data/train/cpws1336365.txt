@@ -1,0 +1,2 @@
+原告 刘某 起诉 称 原 被告 双方 2004 认识 2008年 8月 7日 登记 结婚
+O O O O O O O B_Time B_Know B_Time I_Time I_Time B_Marry I_Marry

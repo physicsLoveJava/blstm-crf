@@ -1,0 +1,4 @@
+原告 杜 某某 诉称 被告 2004年 5月份 经人介绍 相识 2004年 8月 16日 登记 结婚 2004年 11月份 举行 婚礼 2005年 4月 7日 生 女儿 杜有青
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2012年 2月 6日 双方 济源市 民政局 协议 离婚 后 被告 提起 行政诉讼 济源市 人民法院 依法 作出 2012 济行 初字 第28 号 行政 判决书 撤销 2012年 2月 6日 双方 办理 离婚 登记 2013年 2月 4日 起诉 要求 离婚 济源市 人民法院 2013 济民 一初字 第325 号 民事 判决书 判决 驳回 诉讼 请求
+O O O O O O O O O B_Person O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment

@@ -1,0 +1,6 @@
+原告 诉称 原被告 1992年 经人介绍 认识 1993年 12月 26日 结婚 婚后 感情
+B_Person B_DivorceLawsuit O B_Time O B_Know B_Time I_Time I_Time B_Marry O O
+1995年 生长子 2009年 9月 19日 生 次子
+B_Time B_Bear B_Time I_Time I_Time B_Bear B_Gender
+孩子 出生 负担 加重 锁事 吵闹 无法 共同 生活
+O O O O O B_FamilyConflict O O O

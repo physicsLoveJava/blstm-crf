@@ -1,0 +1,10 @@
+原告 被告 经人介绍 相识 2011年 12月 30日 民政部门 登记 结婚 婚后 育 女 张梦涵 现年 5 岁 子 张皓轩
+O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name O B_Age I_Age B_Gender B_Name
+现年 3 岁
+O B_Age I_Age
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚 导致 婚后 矛盾 不 断
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+被告 酗酒
+B_Person B_BadHabit
+被告 酒后 原告 推搡 威胁 原告 孩子 一再 忍让 被告 不但 没有 悔改 变本加厉 刀 威胁 原告
+O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict O

@@ -1,0 +1,6 @@
+原告 彭某 甲诉 称 被告 自幼 原告 父母 抱养 长大 2003年 12月 3日 父母 包办 下 双方 办理 结婚 登记 手续 婚后 久 未 生育 双方 2009年 4月 9日 抱养 弃婴 取名 彭某丙 2009年 4月 5日 出生 2012年 7月 13日 厦门市 翔安区 民政局 办理 收养 手续 已 办理 户籍 登记 2012年 4月 28日 生育 子 彭 某丁
+O O O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+共同 生活 中 互不 关心 感情 难以 建立 常 家庭 琐事 纠纷 不 断 特别 夫妻 生活 长期 不 协调 导致 矛盾 激化
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+2013年 3月 18日 原告 夫妻 感情 破裂 为由 人民法院 起诉 被告 离婚 法院 审理 判决 不准 予 离婚
+B_Time I_Time I_Time B_Person O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O B_Judgment I_Judgment I_Judgment

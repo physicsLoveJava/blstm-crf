@@ -1,0 +1,4 @@
+原告 被告 经人介绍 2010年 7月 5日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后生 长 女 张宇平 9 岁 次女 张宇馨 7 岁 双方 婚前 缺乏 了解 婚后 生活 琐事 发生 争吵 原告 孩子 一再 忍让 想 孩子 大 被告 有所 改变 被告 我行我素 现 原告 被告 感情 不 分居 已 1 年 久 互不 联系 互不 履行 夫妻 义务
+B_Bear O B_Gender B_Name B_Age I_Age B_Gender B_Name B_Age I_Age O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O I_Separation I_Separation I_Separation O B_Duration I_Duration I_Duration O O O O O O

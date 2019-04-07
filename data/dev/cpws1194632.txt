@@ -1,0 +1,4 @@
+原告 陈某 诉称 2012年 大年初一 经人介绍 原 被告 相识 ×××× 年×× 月××日 县 民政局 办理 结婚 手续 领取 结婚证 认识 两 月 时间 便于 ×××× 年×× 月×× 日 农村 习俗 仓促 举行 婚礼 共同 生活 婚后 无 子女
+O O O B_Time I_Time O O O B_Know O O O O O O O O O B_Marry O O O O O O O O O O O O O O O O O O O
+婚前 二 人 认识 晚 接触 少 相互 之间 没有 真正 了解 造成 婚后 性格 不合 吵架 生气 无法 一起 共同 生活 相互之间 看 问题 不 一致 持 意见 相互 不 沟通 不 谅解 没有 共同语言 婚后 二 人 仅 块 生活 两 月 时间 便 生气 后 分居 今 被告 提到 要求 婚姻 根本 不 原告 婚姻 被告 原告 结合 不 理想 婚后 生活 上 经济 上 从未 原告 事 更 没有 原告 花 被告 钱 原告 妹妹 出嫁 大事 通知 被告 被告 家人 后 被告 家 不 出 礼 不来人
+O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 亢 某某 诉称 1996年 12月 原 被告 经人介绍 相识 1998年 1月 13日 登记 结婚 婚后 2000年 3月 17日生 男孩 王 某某 甲
+O O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time B_Bear B_Gender B_Name I_Name I_Name
+结婚 初期 双方 感情 尚 好 后 发现 双方 性格 大 差异 琐事 发生 争吵
+O O O O O O O O O O O O O O B_FamilyConflict
+原告 不 容忍 被告 家庭 孩子 不 负 责任 被告 时而 夜 不 宿 原告 探究 原因 被告 却 原告 施暴 110 出 警到场 才 解围
+O O O O O O O O O O O O O O B_Person O O B_Person O O B_DomesticViolence O O O O O
+原告 诉至法院 请求 1 判 令 被告 离婚
+B_Person B_DivorceLawsuit O O O O O O

@@ -1,0 +1,4 @@
+原告 孙某 诉称 原 被告 经人介绍 认识 2011年 5月 24日 邹城市 民政局 办理 登记 手续
+O O O O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry O
+婚后 双方 性格 不合 始终 未 建立 夫妻 感情
+O O B_FamilyConflict I_FamilyConflict O O O O O

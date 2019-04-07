@@ -1,0 +1,18 @@
+2000年 原告 介绍 被告 结婚
+B_Time O O O B_Marry
+双方 系 再婚
+B_Person O B_Remarry
+被告 第三者 暖昧 关系
+B_Person I_Derailed I_Derailed I_Derailed
+之后 原被告 2007年 5月 29日 办理 结婚 登记
+O O B_Time I_Time I_Time O B_Marry I_Marry
+原告 仍 张口 骂
+O O B_FamilyConflict I_FamilyConflict
+2018年 2月 21日 原告 家庭 琐事 险些 遭 被告 殴打
+B_Time I_Time I_Time B_Person O O O O B_Person B_DomesticViolence
+为此 原告 只得 离开 被告 至今 已 达 两 月
+O O O B_Separation I_Separation B_Time O O B_Duration I_Duration
+原告 解除 精神 痛苦
+B_Person O O O
+特 依法 具状 起诉 提出 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O

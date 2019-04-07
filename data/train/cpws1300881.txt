@@ -1,0 +1,4 @@
+原告 许某 诉称 1998年 3月 原 被告 经人介绍 相识 同年 10月 登记 结婚 双方 均 系 再婚 双方 均 子女
+O O O B_Time I_Time O O O B_Know O B_Time O B_Marry O O O O O O O
+2010年 4月 原告 女儿 结婚 2011年 12月 27日 原告 被告 提出 原告 名字 加 房产证 上 不料 被告 暴跳如雷 宣扬 死 不 房子 原告 房屋 留给 被告 女儿 离家 出走 今 被告 离家 出走 后 家庭 不顾 不 从未 打电话 原告 更 谈 不 上 夫妻 生活
+B_Time I_Time O O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

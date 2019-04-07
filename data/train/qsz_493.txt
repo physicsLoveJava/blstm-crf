@@ -1,0 +1,10 @@
+原 被告 1997年 下半年 相识 自由 恋爱 确立 恋爱 关系
+O O B_Time I_Time B_Know O O B_BeInLove I_BeInLove I_BeInLove
+2000年 1月 22日 举行 结婚 仪式 后 共同 生活 2001年 2月 26日 办理 结婚 登记 手续
+O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+2000年 11月 1日 生育 女 李嘉琦
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+琐事 发生 激烈 争吵
+O O B_FamilyConflict I_FamilyConflict
+原 被告 婚后 一起 共同 生活 没有 建立 真挚 夫妻 感情 2012年 年初 原 被告 感情 不 长期 分居 原 被告 间 夫妻 关系 早已 名存实亡
+O O O O O O O O O O O B_Time I_Time O O O O O B_Separation O O O O O O O

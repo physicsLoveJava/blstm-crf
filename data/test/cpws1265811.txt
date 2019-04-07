@@ -1,0 +1,12 @@
+原告 刘某 诉称 原 被告 经人介绍 2011年 正月 认识 订婚 订婚 后 双方 联系 不 相互 不 了解
+O O O O O O B_Time I_Time B_BeInLove I_BeInLove O O O O O O O O
+办理 结婚证 同年 11月 21日 举行 婚礼 同居 生活
+B_Marry I_Marry O B_Time I_Time O O O O
+婚后 发现 被告 生性 多疑 新婚 夜 双方 闹 矛盾 原告 遂 回 娘家 后 被告 父母 去 劝说 才 回 被告家
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+2012年 大年初二 被告 嫌 电费 高 剪 坏 电褥子 2012年 秋 被告 无端 怀疑 原告 殴打 原告 原告 回 娘家 后 被告 亲戚 都 去 接叫 保证 被告 不再 犯
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O
+事实 没 天 被告 找茬 生气 还 撵 原告 说 原告 浪费 他家 粮食
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 12月 24日 双方 闹 矛盾 原告 回 娘家 现 原告 具状 贵院 请求 判决 离婚 判 令 被告 返还 原告 陪嫁
+O O O O O O B_Person O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

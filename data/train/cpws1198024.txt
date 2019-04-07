@@ -1,0 +1,8 @@
+1994年 10月 17日 原告 语言 不通 被告 家人 诱骗 下 东岸镇 民政办 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O O O O O B_Marry O O
+原告 1995年 8月 2日 生育 女儿 莫 甲 2002年 7月 10日 生育 儿子 莫 乙 2004年 5月 26日 生育 女儿 莫某丙 2005年 10月 30日 生育 儿子 莫 某丁
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原 被告 婚前 缺乏 了解 没有 婚姻 基础 婚后 双方 性格 不合 经济 教育 子女 问题 发生 争吵
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2008年 今 原 被告 正式 分居 生活 致使 夫妻 感情 彻底 破裂
+B_Time I_Time O O O B_Separation O O O O O O

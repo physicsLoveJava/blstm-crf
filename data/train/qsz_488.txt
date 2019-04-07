@@ -1,0 +1,12 @@
+2010年 12月 原 告 经人介绍 草率 结婚
+B_Time I_Time O O O O B_Marry
+婚后 感情 不和 2012年 1月 4日 生育 女 李佳怡
+O B_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_Bear B_Gender B_Name
+2016年 3月 28日 生育 子 李禄坤
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 共同 生活 后 原告 发现 被告 好逸恶劳
+O O O O O O O B_Person B_BadHabit
+不务正业 出入 牌场 参与 赌博 原告 不尽 夫妻 义务
+B_BadHabit O O O B_BadHabit O O O O
+特别 2017年 2月 后 被告 拒绝 原告 子女 共同 生活
+O B_Time I_Time O O B_Separation I_Separation I_Separation I_Separation I_Separation

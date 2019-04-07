@@ -1,0 +1,8 @@
+原 告诉 称 2010年 11月 被告 经人介绍 相识 2011年 1月 25日 登记 结婚
+B_Person I_Person O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry
+2011年 11月 27日 生 女孩 郭 某某
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 脾气 暴躁 拳打脚踢
+B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence
+2012年 10月 被告 打骂 无法 在家 被告 共同 生活 便 外出 打工 今 夫妻 关系 名存实亡
+B_Time I_Time O O O O O O O O B_Separation I_Separation I_Time O O O

@@ -1,0 +1,4 @@
+原被告 双方 2016年 3月 7口 武清区 民政局 登记 结婚
+O O B_Time I_Time I_Time O O O B_Marry
+二 人 经人介绍 相识 婚前 了解 不 深 婚后 琐事 发生 争吵 被告 经常性 酗酒 回家 后 便 原告 发生 争吵
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Person O B_BadHabit O O O O O O

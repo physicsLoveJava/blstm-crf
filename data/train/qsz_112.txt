@@ -1,0 +1,8 @@
+原 被告 2002年 介绍人 相识
+O O B_Time O B_Know
+2003年 2月 原被告 民政部门 办理 结婚 登记
+B_Time I_Time O O O B_Marry I_Marry
+2004 1月 5日 生育 男孩 取名 吴峙宜
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原被告 婚后 感情 婚后 共同 生活 期间 双方 琐事 发生 矛盾 导致 夫妻感 破裂
+O O O O O O O O O O B_FamilyConflict O O O

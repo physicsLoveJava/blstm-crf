@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 均 属 再婚 夫妇 1999年 初 经人介绍 相识 同年 5月 6日 佐龙镇 人民政府 办理 结婚 登记 手续
+O O O O O O O O O B_Time O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+此事 发生 后 原 告 之间 感情 急剧 恶化 双方 一起 发生 争吵 被告 张口 闭 口 分割 财产 毫无 夫妻 感情 可言 原告 担心 被告 发生 争执 引发 心脏病 便 昆山市 女儿 家中 居住 2012年 8月 7日 法院 起诉 离婚 法院 2012年 9月 26日 判决 不 准 离婚
+O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 双方 经人介绍 相识 1998年 2月 被告 原告 家 1999年 5月 双方 登记 结婚 1998年 2013年 15 年 里 被告 料理 家务 照顾 原告 起居 任劳任怨 双方 共同 努力 2002年 原来 两 间 土墙 房子 修建 成 现在 两 间 砖房 当时 资金 有限 小工 都 被告 做 只 请 大工
+O O O O O O O O O O O O O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2 被告 这笔 财产 原因 黄泥坝 修 移民 新村 占用 原 被告 包产地 二级 公路 三 地基 共 卖 210000 元 青苗 补偿 款 共计 20 万 被告 只 3．3万 元 被告 认为 完全 合理
+O O O B_Wealth O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+1992年 5月 19日 生 女 取名 白艳
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+1997年 11月 16日 生 子 取名 原 双乐
+B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+被告 白文智 性情 粗暴 琐事 殴打 原告 原亚芹 致 夫妻 感情 彻底 破裂
+B_Person O O O O B_DomesticViolence B_Person O O O O O O
+2012年 12月 27日 被告 白文智 原告 原 亚芹 大打出手 致 原告 原亚芹 身体 处 受伤 身心 受到 严重 伤害
+B_Time I_Time I_Time B_Person O B_Person O O B_DomesticViolence O O O O O O O O O O

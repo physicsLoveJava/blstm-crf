@@ -1,0 +1,6 @@
+原告 某某 诉称 原 被告 经人介绍 1999年 8月 相识 2000年 1月 1日 登记 结婚 同年 12月 2日 生 女儿 何露露
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry O B_Time I_Time B_Bear O B_Name
+婚前 缺乏 了解 婚后 发现 双方 性格 差异 大 无 共同语言
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+被告 无事生非 原告 找茬 破口大骂 殴打 原告
+O O O O I_FamilyConflict B_DomesticViolence I_DomesticViolence

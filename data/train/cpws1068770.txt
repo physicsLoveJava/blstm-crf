@@ -1,0 +1,4 @@
+原告 赵 某某 诉称 原 被告 结婚 生子 后 吵架 生气 2010年 农历 8月 12日 被告 殴打 原告 后 原告 离家 今
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Person B_DomesticViolence B_Person O O B_Separation O
+原告 曾 2011年 10月 9日 睢县 人民法院 提起 离婚 诉讼 后 判决 不 准 离婚
+O O B_Time I_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

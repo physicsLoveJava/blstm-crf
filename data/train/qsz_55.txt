@@ -1,0 +1,8 @@
+原 被告 经人介绍 2000年 5月 相识 2000年 10月 18日 登记 结婚
+O O O B_Time I_Time B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 2002年 9月 23日 生育 女儿 冯若恬 现 原告 生活
+O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O
+双方 结婚 半 年 后 琐事 原因 吵
+O O O O O O O B_FamilyConflict
+这种 状态 持续 2017年 11月 底 后 双方 分居 过活 直到 现在
+O O O B_Time I_Time I_Time O O B_Separation O O B_Time

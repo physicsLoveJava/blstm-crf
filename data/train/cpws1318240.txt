@@ -1,0 +1,4 @@
+原 告诉 称 被告田 某某 2012年 春 经人介绍 认识 2012年 7月 3日 办理 登记 手续
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry
+婚后 三 月 被告 无故 回到 娘家 至今 未
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O

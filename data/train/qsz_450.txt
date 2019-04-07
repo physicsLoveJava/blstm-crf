@@ -1,0 +1,2 @@
+原被告 双方 2015年 经人介绍 相识 2015年 3月 31日 登记 结婚 未 举行 婚礼 仪式 原被告 双方 婚前 缺乏 相互 了解 草率 结合 致使 双方 婚后 未能 建立 美好 婚姻 导致 双方 长期 分居 感情 不合 最终 导致 感情 破裂 原告 诉至法院
+O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O B_Separation B_FamilyConflict I_FamilyConflict O O O O O O

@@ -1,0 +1,12 @@
+2000年 原 被告 经人介绍 确立 恋爱 关系 2002年 11月 4日 双方 办理 结婚 登记 手续
+B_Time O O O O B_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry O
+之后 举行 仪式 同居 生活 2005年 6月 30日 生 女儿 吕子涵
+O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 感情 近 年 原 告 之间 隔阂 越来越 深 原告 难以 被告 沟通
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+导致 双方 之间 互 不 理睬
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 2016年 3月 已 分 屋 居住
+O B_Time I_Time O B_Separation I_Separation I_Separation
+实际 分居 二 年 久
+O O B_Duration I_Duration O

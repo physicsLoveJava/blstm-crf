@@ -1,0 +1,14 @@
+原 被告 双方 自由 恋爱 相识 2010年 10月 10日 登记 结婚 婚后 生育 李生 兄妹 石松航 石熠然 现年 4 周岁
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear O B_Gender B_Name B_Name O B_Age I_Age
+双方 婚后 感情 琐事 吵闹 被告 不 孝敬 原告 父母 存在 家庭 暴力 致 双方 感情 完全 破裂
+O O O B_FamilyConflict I_FamilyConflict B_Person O O B_Person O O B_DomesticViolence I_DomesticViolence O O O O O
+2015年 6月 分居 生活 原告 名存实亡 婚姻 生活 已经 不 抱 希望
+B_Time I_Time B_Separation I_Separation O O O O O O O O
+原告 曾 2016年 3月 23日 起诉 天津市 东丽区 人民法院
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court I_Court
+后 法院 审理 2016年 3月 25日 作出 2016 津 0110 民 初 2378 号 民事 判决书 判决 不准 原 被告 离婚
+O O O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+之后 原告 2017年 7月 17日 提起 离婚 诉讼 东丽 法院 2017年 9月 4日 作出 2017 津0110 民 初5617 号 民事 判决书 判决 不准 原 被告 离婚
+O B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+双方 至今 处于 分居 状态 分居 时间 已经 长 达 三 年 久
+O O O B_Separation I_Separation O O O O O B_Duration I_Duration O

@@ -1,0 +1,14 @@
+原 告诉 称 2005年 11月 29日 原 被告 登记 结婚 婚后 生育 子 蒋某
+O O O B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender B_Name
+原 被告 经人介绍 相识 没有 相处 多久 仓促 完婚
+O O O B_Know O O O O O
+婚后 共同 生活 中 性格 脾气 差异 双方 隔阂 深
+O O O O O O O O B_FamilyConflict I_FamilyConflict
+2013年 2月 10日 原告 内心 压抑 绝望 下 离开 被告 回到 娘家
+O O O O O O O O O O B_Separation I_Separation
+现 双方 感情 完全 破裂 维护 原告 合法 权益 特 提起 离婚 诉讼 人民法院 依法 公正 判决
+O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O
+二 婚生子 蒋某 2006年 10月 1日 出生 被告 抚养 被告 承担 抚养费
+O O O B_Time I_Time I_Time I_Time O O O O O
+两口子 争吵 正常 都 希望 以后 生活 好 第一 次 原告 离家 出走 回来 后 说 原告 希望 考虑 孩子
+O B_FamilyConflict O O O O O O O O O O O O O O O O O O

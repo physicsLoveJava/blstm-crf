@@ -1,0 +1,6 @@
+原 被告 双方 2014年 5月份 经人介绍 相识 后 2014年 12月 12日 蓟州区 民政局 登记 结婚
+O O O B_Time I_Time O B_Know O B_Time I_Time I_Time O O O B_Marry
+2015年 8月 2日 双方 生育 长女 冯佳宁
+B_Time I_Time I_Time O B_Bear B_Gender B_Name
+双方 婚前 感情 基础 薄弱 婚后 不 沟通 交流 导致 婚后 矛盾 频发 双方 整日 生活 吵架 之中 指责 琐事 争吵
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O

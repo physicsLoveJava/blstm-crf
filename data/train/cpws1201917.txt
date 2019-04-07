@@ -1,0 +1,4 @@
+原告 田 某某 诉称 被告系 介绍 1996年 1月 11日 登记 结婚 1997年 1月 19日 生育 女孩 林某甲
+O O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 性格 差异 夫妻 间 常 发生 争吵 矛盾 孩子 健康 成长 夫妻 关系 勉强 维持 今
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

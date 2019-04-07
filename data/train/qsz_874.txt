@@ -1,0 +1,8 @@
+原 被告 2006年 底 自由 恋爱 确立 恋爱 关系 2008年 2月 农村 习俗 举行 结婚 仪式 共同 生活 2008年 10月 20日 生育 男孩 李俊哲
+O O B_Time O O O O B_BeInLove O B_Time I_Time O O O B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 2010年 5月 24日 蓟州区 蓟县 民政局 补办 结婚 登记 手续
+O O B_Time I_Time I_Time O O O O B_Marry O O
+2014年 1月 31日 生育 女孩 李俊蕊
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 了解 少 婚后 双方 感情 不合 家庭 琐事 生气 吵架
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict

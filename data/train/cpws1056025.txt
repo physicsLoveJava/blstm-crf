@@ -1,0 +1,2 @@
+原告 许 某某 诉称 被告 2009年 相识 两 月 后 结婚 结婚 时 被告 只 知道 钱 钱 补贴 儿子 身上 婚后 年 双方 便 无 房事 没有 感情 基础 后 被告 媳妇 不合 回家 闹 鸡犬 不 2012年 7月 原告 搬 去 妹妹 家 居住 夫妻 分居
+O O O O O B_Time O O O O B_Marry O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_Time I_Time O O O O O O O B_Separation

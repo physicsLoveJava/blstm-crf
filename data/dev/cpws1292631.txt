@@ -1,0 +1,6 @@
+原告 胥某 诉称 原告 被告 经人介绍 认识 后 ×××× 年×× 月××日 东阿县 民政局 登记 结婚 婚后 于×××× 年×× 月×× 日 生育 女孩 取名 梁某 乙 于×××× 年×× 月×× 日 生育 男孩 取名 梁某丙
+O O O O O O O O O O O O O O B_Marry O O O O O B_Bear B_Gender O B_Name I_Name O O O O B_Bear B_Gender O B_Name
+原告 被告 经人介绍 认识 婚前 互不 了解 草率 结婚 婚后 了解 被告 酗酒 成性 原告 孩子 忍辱负重 委曲求全
+O O O O O O O O O O O O B_BadHabit I_BadHabit O O O O
+原告 认为 再 维持 名存实亡 婚姻 关系 已 无 实际 意义 原告 依据 相关 法律 规定 诉至法院 请求 法院 依法 判决 原告 被告 离婚 婚生 女孩 梁某 乙 婚生 男孩 梁某 丙 原告 抚养 被告 依法 承担 抚养费
+O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

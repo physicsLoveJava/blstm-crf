@@ -1,0 +1,16 @@
+双方 2004年 经人介绍 确立 恋爱 关系
+O B_Time O O B_BeInLove O
+双方 2004年 年底 举办 婚礼 同居 生活
+O B_Time I_Time B_Marry I_Marry O O
+后 2005年 8月 24日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 2005年 10月 26日 生育 女 荣文轩
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+夫妻 间 生活 琐事 发生 争吵 夫妻 间 根本 无法 沟通
+O O O O O B_FamilyConflict O O O O O
+被告 原告 母 破口大骂
+O O O B_FamilyConflict
+宁艳 曾 半 年 前 起诉 离婚
+B_Person O B_Time I_Time O B_DivorceLawsuit O
+最终 武清区 人民法院 判决 不 准 离婚
+O B_Court I_Court O B_Judgment I_Judgment I_Judgment

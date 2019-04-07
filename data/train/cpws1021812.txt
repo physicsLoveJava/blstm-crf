@@ -1,0 +1,6 @@
+原告 杨 某某 诉称 原 被告 双方 1994年 结婚 1995年 双方 育 子 杨某 目前 已经 年 满 十八 周岁
+O O O O O O O B_Time B_Marry B_Time O B_Bear B_Gender B_Name O O O O B_Age I_Age
+复婚 后 被告 性格 暴躁 双方 感情 逐步 出现 裂痕 被告 不仅 原告 施 暴力 更 原告 母亲 施 暴力
+O O O O O O O O O O B_Person O B_Person B_DomesticViolence I_DomesticViolence O O O O O
+2013年 年初 原告 不堪 忍受 被告 折磨 搬离 双方 住所
+B_Time O O O O O O B_Separation O O

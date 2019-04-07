@@ -1,0 +1,6 @@
+F200815 月 22 | | 登记 结婚 婚2009年 I0 月 24 | | 女 取名 上贞
+B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time I_Time O O B_Gender O B_Name
+原 被告 性格 { 合 人生观 价值观 存作 重大 分歧 为此 争吵 断 家庭 矛盾 频发
+O O O O O O O O O O O B_FamilyConflict O O O O
+尤奈 卜 白 20121 原 被告 川始 分居 生活 今
+O O B_Time I_Time O O O B_Separation O I_Time

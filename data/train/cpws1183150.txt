@@ -1,0 +1,6 @@
+原告 佘某 甲诉 称 原 被告 ×××× 年×× 月×× 日领证 结婚 婚后 育 女 佘某 乙
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear I_Gender B_Name I_Name
+原被告 婚内 出现 感情 问题 已经 婚内 分床 睡 两 年 有余 女方 不 担任 家庭 重任 不 照顾 孩子 丈夫 起居 生活 孩子 学习 生活 不 不 问 更 不 容忍 被告 同事 朋友 一起 喝酒 家庭 所有 事情 不管 不 问 原告 劝说 无效 原告 造成 心理 上 无法 弥补 伤害
+O O O O O O O B_Separation I_Separation B_Duration I_Duration I_Duration B_Person O O O O O O O O O O O O O O O O O O O O O O O B_BadHabit O O O O O O O O O O O O O O O O
+现 双方 感情 已 破裂 更 被告 婚姻 轻视 陷入 无可挽回 窘境 原告 诉至法院 要求 被告 离婚 婚生 女 原告 抚养 女儿 抚养费 教育费 双方 共同 负担 被告 每月 支付 原告 400 元
+O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O

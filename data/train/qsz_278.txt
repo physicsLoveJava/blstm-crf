@@ -1,0 +1,2 @@
+原 被告 2006年 经人介绍 柑识 2008年 4月 21日 保定市 徐水县 婚姻 登记处 登记 结婚 婚后 二 人 2009年 7月 I5 日 生育 长女 周子涵 结婚 后 感情 基础 薄弱 双方 感情 直 不好 意见 不 统一 性格 不合 家中 无论 大事 小情 都 争吵 中 结束 越 吵 越 凶 使 夫妻 关系 紧张
+O O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O

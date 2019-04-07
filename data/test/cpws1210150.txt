@@ -1,0 +1,10 @@
+原告 王某 诉称 2007年 冬季 原 被告 经人介绍 认识 2008年 9月 25日 原 被告 登记 结婚
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+2009年 9月 22日 婚生子牛 某某 出生 孩子 体 弱 病 原 被告 家境 贫寒 双方 争吵 愈加 频繁 被告 语言 侮辱 亦 愈加 狠毒
+B_Time I_Time I_Time B_Bear B_Name O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+特别 最近 两 年 被告 原告 猜疑 更 愈演愈烈 绝不 允许 原告 男性 说 句 话
+O O O O O B_Person O O O O O O O O O O
+否则 被告 男性 猜疑 对象 施 暴力 原 告 之间 无法 沟通 见面 吵
+O B_Person O O O B_DomesticViolence I_DomesticViolence O O O O O O O
+2012年 年底 原 被告 分居 今 被告 没有 原告 说 句 道歉 没有 次 正式 沟通 原告 伤心 至极 被告 已 完全 丧失 信心 双方 关系 已经 不 重 归于好 半 年 冷静 思考 原告 深感 婚前 了解 不足 缺乏 感情 基础 婚后 被告 真相 毕露 已 无 和好 夫妻 感情 完全 破裂 原告 起诉 离婚 请求 法院 依法 判 令 原 被告 离婚
+B_Time I_Time O O B_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

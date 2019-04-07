@@ -1,0 +1,10 @@
+原告 陈某 起诉 称 原 被告 经人介绍 相识 相恋 1991年 月 某日 原 诸暨市 东溪乡 人民政府 办理 结婚 登记 手续
+O O O O O O O O O B_Time I_Time I_Time O O O O O B_Marry O O
+婚后 感情 1991年 月 某日 生育 子
+O O B_Time I_Time I_Time B_Bear B_Gender
+原 被告 婚前 相识 时间 短 双方 性格 脾气 缺乏 了解 婚后 常 性格 脾气 不 合 吵架 夫妻 感情 逐渐 破裂
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+2009年 上半年 原 被告 分居 两地 原告 外 打工
+B_Time I_Time O O B_Separation O O O O
+原告 认为 被告 夫妻 感情 已 破裂 夫妻 关系 已 名存实亡 现 原告 起诉 请求 判决 原 被告 离婚
+B_Person O O O O O O O O O O O O B_DivorceLawsuit O O O O O

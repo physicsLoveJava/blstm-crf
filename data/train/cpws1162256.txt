@@ -1,0 +1,6 @@
+2003年 2月 27日 生 女儿 庞某 乙 2006年 农历 八月 二十九日 生次 女庞 某丙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O B_Bear B_Gender B_Name
+婚后 脾气 性格 不和 打架 生气 被告 家庭 不 负 责任
+O O O O B_DomesticViolence O O O O O O
+要求 被告 离婚
+B_DivorceLawsuit O O

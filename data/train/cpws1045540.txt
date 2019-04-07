@@ -1,0 +1,4 @@
+原告 巴某 诉称 年×月×日 原告 被告 登记 结婚 婚后 于×年 ×月 ×日 生育 子 武某 乙
+O O O I_Time O O B_Marry I_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+性格 不合 夫妻 二 人 矛盾 不 断 被告 打骂 原告 导致 夫妻 感情 彻底 破裂 请求 依法 判 令 原 被告 离婚
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O

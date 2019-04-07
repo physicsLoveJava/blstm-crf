@@ -1,0 +1,6 @@
+原告肖 XX 诉称 原 被告 1988年 11月 2日 登记 结婚 婚后 感情
+O O O O O B_Time I_Time I_Time O B_Marry O O
+1992年 12月 生育 长女肖 某某 1995年 4月 生育 次女 肖某 均 已 年 满 18 周岁
+B_Time I_Time B_Bear B_Gender B_Name B_Time I_Time O B_Gender B_Name O O B_Age I_Age I_Age I_Age
+性格 不合 吵闹 已经 没有 夫妻 感情 原告 孩子 小 忍 没有 提出 离婚 现在 孩子 已 成年 提出 离婚 请 法院 准予 双方 离婚
+O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

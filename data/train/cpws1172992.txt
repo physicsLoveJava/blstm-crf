@@ -1,0 +1,8 @@
+原告 薛某 起诉 称 2006年 年初 原告 被告 打工 时 相识 同居 生活
+O O O O B_Time I_Time O O O O B_Know O O
+2007年 1月 双方 办理 结婚 登记 手续 之后 双方 生育 子 取名 甲
+B_Time I_Time O O B_Marry I_Marry O O O B_Bear I_Gender O I_Name
+婚前 交往 中 被告 掩盖 缺点 导致 原告 被告 了解 少 双方 婚后 没有 共同语言 无法 交流 争吵 不 断
+O O O O O O O O O O O O O O O O O B_FamilyConflict O O
+被告 这种 行为 已 严重 伤害 原本 脆弱 夫妻 感情 现 双方 感情 确 已 破裂 没有 好 原告 起诉 要求 被告 离婚 请求 法院 判 令 被告 抚养 孩子
+O O O O O O O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 被告 X 年 X 月 X 日经人介绍 相识 X 年 X 月 X 日 登记 结婚 X 年 X 月 X 日 生 女
+O O O O B_Time I_Time I_Time I_Time I_Time I_Time B_Know B_Time I_Time I_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time I_Time I_Time B_Bear I_Gender
+婚后 被告 家庭 意识 淡薄 少 关心 过问 家中 事务 外 吃喝玩乐 严重 原告 使用 家庭 暴力 殴打 原告 严重 破坏 夫妻 感情
+O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O
+现 诉至法院 请求 判决 离婚
+O B_DivorceLawsuit O O O

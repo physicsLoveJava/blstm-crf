@@ -1,0 +1,4 @@
+原告 陈某 诉称 原 被告 双方 2010年 2月 人 介绍 相识 于×××× 年×× 月×× 日 登记 结婚 婚后 夫妻 感情 2012年 8月 24日 生育 女儿 蔡某乙
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time I_Time B_Bear B_Name
+婚前 双方 了解 不够 草率 结婚 婚后 发现 被告 家庭 不 负 责任 已 严重 伤害 夫妻 感情 双方 某某 不合 已 分居 月 现 夫妻 感情 已 彻底 破裂 无 好
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O

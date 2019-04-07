@@ -1,0 +1,12 @@
+原告 杨某 诉称 1987年 2月 被告 邓 某某 经人介绍 相识 草率 同居 至今 未 办理 结婚 登记
+O O O B_Time I_Time O O O O B_Know O O O O O O O
+婚后 原 被告 生育 子女 两
+O O O B_Bear B_Gender O
+共同 生活 期间 双方 年龄 差距 大 无 共同语言 被告 邓 某某 脾气 暴躁 动不动 动手 殴打 致使 夫妻 关系 雪上加霜
+O O O O O O O O O B_Person I_Person I_Person O O O O B_DomesticViolence O O O O
+2000年 双方 发生 纠纷 后 离家 外出 被告 断绝 往来 分居 生活 已 达 13 年 久 夫妻 关系 已 名存实亡 夫妻 感情 已 破裂 起诉 要求 被告 邓 某某 离婚
+B_Time O O O O O O O O O B_Separation O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O
+被告 邓 某某 辩称 原告 杨某 1987年 2月 结婚 原告 杨某 说 草率 结婚
+O O O O O O B_Time I_Time B_Marry O O O O O
+婚后 家庭 生活 困难 导致 双方 外出 务工 分居 生活 今
+O O O O O O O O B_Separation O O

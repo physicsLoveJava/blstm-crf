@@ -1,0 +1,4 @@
+2014年 10月 10日 原 被告 依法 登记 结婚
+B_Time I_Time I_Time O O O B_Marry I_Marry
+原 被告 均 系 再婚 婚后 原、被告 性格 不合 琐事 吵架
+B_Person I_Person O O B_Remarry O O O O O B_FamilyConflict

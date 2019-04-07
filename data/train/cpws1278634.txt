@@ -1,0 +1,2 @@
+原告 马 某某 诉称 原 被告 2008年 腊月经人介绍 认识 确立 恋爱 关系 2009年 6月 1日 邹城市 民政局 登记 结婚 2010年 5月 1日 举行 婚娶 仪式 2011年 1月 20日 生 女儿 马 某某 婚前 缺乏 了解 草率 结婚 婚后 双方 夫妻 感情 无 共同语言 双方 生活 琐事 发生 吵闹 发生 厮打 造成 夫妻 感情 破裂 无法 共同 生活 下去 被告 曾 2011年 3月 11日 法院 起诉 离婚 法院 判决 不 准 离婚
+O O O O O O B_Time I_Time B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O O

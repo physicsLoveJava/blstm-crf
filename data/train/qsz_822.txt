@@ -1,0 +1,8 @@
+201 年 3月 原 被告 自由 恋爱 2012年 5月 18日 原告 被告 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_BeInLove I_BeInLove B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2014年 5月 31日 原告 被告 生 女孩 孟思渲
+B_Time I_Time I_Time O O B_Bear B_Gender B_Name
+原 被告 共同 生活 中 双方 生活 琐事 生气 吵架
+O O O O O O O O B_FamilyConflict I_FamilyConflict
+特别 被告 看不惯 原告 直 挑 原告 毛病 为此 发牛 矛盾 导致 原告 夫妻 感情 彻底 破裂 被告 提出
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O O O O O O O

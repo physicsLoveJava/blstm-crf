@@ -1,0 +1,4 @@
+原告 邵×× 诉 称 2008年 12月 底 邵×× 郭×× 经人介绍 相识 确立 恋爱 关系 2009年 3月 23日 登记 结婚
+O O O O B_Time I_Time I_Time O O O O O B_BeInLove O B_Time I_Time I_Time O B_Marry
+双方 家庭 琐事 发生 争吵 被告 不仅 不 履行 家庭 义务 还 原告 遍体鳞伤
+O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

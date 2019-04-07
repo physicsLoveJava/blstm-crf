@@ -1,0 +1,18 @@
+原告 罗×1 诉 称 原 被告 1995年 5月 人 介绍 相识 1996年 7月 登记 结婚 2000年 9月 生 子 罗×2
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time B_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 脾气 性格 不合 缺乏 信任 时常 发生 矛盾
+O O O O O O O O O B_FamilyConflict
+双方 生活 方式 不同 被告 原告 父母 关系 不 和睦 进一步 导致 原、被告 夫妻 关系 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 2011年 2月 至今 分居 没有 沟通 夫妻 感情 已 严重 破裂 无法 弥补 夫妻 关系 名存实亡 无 好
+O B_Time I_Time B_Time B_Separation O O O O O O O O O O O O O O
+2011年 4月 原告 曾诉 北京市 东城区 人民法院 要求 离婚 该院 判决 驳回 原告 诉讼 请求 之后 双方 没有 沟通 交流 关系 未 改善
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O
+同年 12月 被告 曾 诉至法院 要求 离婚 后 撤诉
+B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+2012年 6月 原 告诉 北京市 大兴区 人民法院 要求 离婚 该院 判决 驳回 原告 诉讼 请求
+B_Time I_Time O O B_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment
+2013年 6月 被告 曾 诉至法院 要求 离婚 后 撤诉
+B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O
+诉请 判 令 原 被告 解除 婚姻 关系 婚生子罗×2 原告 抚养 被告 每月 支付 1500 元 抚养费 案件 受理费 双方 共同 负担
+I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O

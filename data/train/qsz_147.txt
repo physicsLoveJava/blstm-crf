@@ -1,0 +1,12 @@
+原告 被告 2017年 11月份 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 2018年 3月 14日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+原 被告 均 系 再婚
+B_Person I_Person O O B_Remarry
+原告 被告 未 生育 子女
+O O B_Negated B_Bear O
+夫妻 间 生活 琐事 吵架
+O O O O B_FamilyConflict
+夫妻 已 分居 月 夫妻 生活 痛苦 婚姻 家庭 中
+O O B_Separation I_Duration O O O O O O

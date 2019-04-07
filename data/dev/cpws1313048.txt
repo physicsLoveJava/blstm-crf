@@ -1,0 +1,10 @@
+原告 丁某 诉称 原 被告 自×××× 年×× 月 结婚 以来 未 共同 生活 无 子女 共同 财产
+O O O O O B_Time I_Time I_Time B_Marry O O O O O O O O
+为此 原告 诉至法院 请求 判 令 1 原 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 霍某 辩称 被告 原告 前夫 早 认识 当时 原告 前夫 娄建华 带 女子 去 香港 原告 离婚 原告 提出 被告 结婚 被告 带到 香港 去 被告 说 香港 满 65 岁 养老金 还 被告 介绍 开车 朋友 被告 开车 赚钱 被告 原告 劝说 下 ×××× 年×× 月××日 原告 登记 结婚
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+2008年 3月 娄建华 被告 父亲 70万 元 目前 该案 尚未 审结
+O O O B_Person I_Person B_Price I_Price O O O O
+2008年 底 被告 申请 购买 经济 适用 房 原告 娄建华 说 先 帮 被告 垫付 一共 付 22万 娄建华 被告 写 条 转让 姐姐 再 姐姐 法院 起诉 被告 败诉
+O O O O O O O O B_Person I_Person O B_Debt I_Debt I_Debt I_Debt O O B_Price O O O O O O O O O O O O

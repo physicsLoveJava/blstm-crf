@@ -1,0 +1,4 @@
+原告 被告 自由 恋爱 丁 2013年 相识 2014年 2月 I1 门 登记 结婚 婚后 未 生育 子女 双方 均 系 肖婚
+O O O B_BeInLove O B_Time B_Know B_Time I_Time I_Time I_Time O B_Marry O O O O B_Person O O B_Remarry
+2015年 4月 天 双方 干活 发生 争吵 被告 竟 离家 至今 直 没有 问 米 双方 没有 联系 原告 卞动 联系 均 被告 扣绝
+B_Time I_Time O O O O B_FamilyConflict O O B_Separation B_Time O O O O O O O O O O O O O

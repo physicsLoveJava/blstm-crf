@@ -1,0 +1,4 @@
+原 告诉 称 2008年 年底 媒人 孙广海 介绍 相识 确立 恋爱 关系
+O O O B_Time I_Time O O O B_Know O B_BeInLove O
+2009年 12月 23日 登记 结婚 2011年 6月 8日 生育 儿子 李某 乙
+B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name

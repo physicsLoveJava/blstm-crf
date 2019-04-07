@@ -1,0 +1,2 @@
+原告 姜某 诉称 被告 ×××× 年×× 月 登记 结婚 婚后 琐事 被告 发生 争吵 被告 外遇 致 夫妻 感情 破裂 诉至法院 要求 被告 离婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O B_Person B_Derailed O O O O O O O O

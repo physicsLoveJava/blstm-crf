@@ -1,0 +1,12 @@
+原告 王磊 诉称 原 被告 2000年 认识 2003年 确立 恋爱 关系 2005年 12月 20日 登记 结婚
+O O O O O B_Time B_Know B_Time O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2006年 10月 5日 生育 女孩 王某 甲 2010年 3月 18日 生育 男孩 王某 乙
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 初期 双方 感情 尚 后 琐事 原告 吵架
+O O O O O O O O B_FamilyConflict
+发生 矛盾 双方 2012年 3月 14日 陵县 民政局 办理 离婚 登记 后 孩子 复婚
+O O O O O O O O O O O O O B_Marry
+复婚 后 被告 仍 未 改变 原告 家人 态度 原告 忍无可忍 2012年 11月 15日 向陵县 人民法院 提起 离婚 诉讼 被告 不 同意 离婚 法院 判决 不准 原 被告 离婚
+O O O O O O O O O B_Person O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment O O O
+被告 从未 主动 联系 原告 双方 2012年 6月份 分居 今
+O O O O O O B_Time I_Time B_Separation O

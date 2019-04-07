@@ -1,0 +1,6 @@
+原告 袁某 甲诉 称 原 被告 2009年 4月 1日 结婚 2009年 10月 28日 生育 长女 赖某乙 原 被告 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 发生 吵 闹 造成 夫妻 感情 恶化 原告 回避 被告 矛盾 关系 2010年 春节 后 离家 外出 务工 被告 分开 居住 原 被告 关系 不 分居 时间 已 超过 两 年 夫妻 感情 已 彻底 破裂
+O O O O O O B_Time I_Time I_Time B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_Time I_Time I_Time O O O O B_Separation I_Separation O O O O O O O B_Duration I_Duration I_Duration B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现特 诉至法院 请求 依法 判决 1 原 被告 离婚 婚生 女 赖某 乙归 原告 抚养
+O B_Court O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+4 被告 承担 夫妻 共同 债务 4万 元
+O O O O B_Debt I_Debt B_Price I_Price

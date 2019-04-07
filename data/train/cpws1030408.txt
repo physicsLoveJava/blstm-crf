@@ -1,0 +1,4 @@
+原告 郑某 诉称 被告 2006年 后 季经 介绍 认识 2006年 农历 11月 20日 农村 习俗 举行 结婚 仪式 2008年 1月 10日 早胜镇 人民政府 补办 结婚 登记 手续
+O O O O B_Time O O O B_Know O O O O O O O O O B_Time I_Time I_Time O O O B_Marry O O
+2012年 正月 原告 琐事 发生 争吵 原告 父亲 打电话 其父 家 原告 接 走 原告 走 时 全部 衣服 用品 三 金 都 拿走
+B_Time I_Time O O O B_FamilyConflict O O O O O I_Separation I_Separation I_Separation O O O O O O O O O O

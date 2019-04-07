@@ -1,0 +1,8 @@
+原告 简某 诉称 被告 2004年 9月 重庆 工商 大学 读书 时 相识 2005年 3月 确定 恋爱 关系 2010年 11月 9日 登记 结婚 2011年 4月 28日 生育 双胞胎 女儿
+O O O O B_Time I_Time O O O O O B_Know O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender I_Gender
+婚后 双方 性格 不合 无法 进行 沟通 交流 感情
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 性格 怪异 家庭 小事 无故 发火 不 尊重 父母 还 进行 殴打 辱骂 不 支持 工作 单位 去 干扰 工作
+O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+现 夫妻 感情 已经 破裂 请求 法院 判决 被告 离婚 婚生 双胞胎 女儿 抚养 被告 不 支付 抚养费
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

@@ -1,0 +1,8 @@
+原被告 2004年 6月 自巾 恋爱 X 系 2005年 初 举行 婚礼
+O B_Time I_Time O B_BeInLove O O B_Time I_Time B_Marry I_Marry
+2005年 12月 2口 女孩 !
+B_Time I_Time I_Time B_Gender O
+徐梦 涵.2009年 8月 20日 补办 结婚 登 记
+B_Name I_Name O O O O O O
+原被告 结婚 后 之间 时常 争吵 打架 感情
+O O O O O B_FamilyConflict I_FamilyConflict O

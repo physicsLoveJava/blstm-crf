@@ -1,0 +1,12 @@
+原告 朱某 诉称 原告 离异 后 朋友 介绍 被告 认识 未经 了解 双方 ×××× 年×× 月×× 日 登记 结婚 未 生育 子女
+O O O O O O O O O B_Know O O O B_Time I_Time I_Time I_Time I_Time B_Marry O B_Bear I_Bear
+被告 心胸 狭窄 年 动不动 原告 进行 殴打 辱骂
+O B_Person O O O O B_Person O I_DomesticViolence
+2012年 3月 14日 家庭 琐事 遭到 被告 殴打 致 原告 处 软组织 挫伤 夫妻 关系 逐渐 恶化 双方 2012年 6月 15日 夫妻 分居
+O O O O O O O O O O O O O O O O O O B_Time I_Time I_Time I_Time I_Time
+2012年 6月 29日 原告 曾 法院 提起 离婚 诉讼 玉环县 人民法院 2012 台玉民 初字 第909 民事 裁定 原告 撤回 起诉
+B_Separation B_Time I_Time I_Time I_Time B_Person I_Person O O I_DivorceLawsuit O I_Court O O O O O O O O
+期间 被告 原告 家庭 成员 进行 威胁 辱骂
+B_Judgment I_Judgment O O O O O O
+双方 性格各异 被告 酒后 原告 发脾气 家庭 琐事 殴打 辱骂 原告 导致 夫妻 分居 生活
+O B_Bear O O O O O O O O O O O O O

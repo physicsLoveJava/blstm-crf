@@ -1,0 +1,4 @@
+原被告 2013年 11月 人 介绍 相识 建立 恋爱 关系 2013年 12月 10日 双方 登记 结婚 原被告 均 系 再婚 原被告 婚前 相识 时间 短 没有 建立 感情 基础
+O B_Time I_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry B_Person O O B_Remarry O O O O O O O O O
+结婚 以后 家务 琐事 发生 矛盾 尤其 被告 实行 家庭 暴力 辱骂 殴打 原告 原告 浑身 伤 最为 严重 2017年 4月 9日 被告 拿刀 威胁 杀死 原告 原告 只得 报警 离开 家中 被告 分居 生活 今 原告 家庭 和睦 忍 再 忍 被告 却 不 思 悔改 造成 双方 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict O B_Person O O O B_DomesticViolence I_DomesticViolence B_Person O O O O O B_Time I_Time I_Time O O O O O O O O O O O B_Separation O I_Time O O O O O O O O O O O O O O O O

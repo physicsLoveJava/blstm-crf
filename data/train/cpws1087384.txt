@@ -1,0 +1,4 @@
+原告 孙某 诉称 原 被告 1997年 12月 18日 登记 结婚 1999年 10月 29日 生 女孩 取名 王某 乙 2007年 12月 29日 生 女孩 取名 王某丙
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+原 被告 婚后 家庭 琐事 发生 争执 原告 曾 2012年 8月 临淄区 人民法院 提起 离婚 诉讼 法院 判决 不 准 离婚
+O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

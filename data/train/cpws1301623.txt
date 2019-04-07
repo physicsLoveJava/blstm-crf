@@ -1,0 +1,4 @@
+原告 代 某某 诉称 被告 2004年 恋爱 同年 10月 结婚 2006年 6月 15日 生育 儿子 谢某甲
+O O O O O B_Time B_BeInLove O O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+婚后 感情 被告 2012年 7月 外遇 不 回家 2013年 1月 不 回家 同年 7月 正式 搬家 出走
+O O O B_Time I_Time B_Derailed O O O O O O O O O O O

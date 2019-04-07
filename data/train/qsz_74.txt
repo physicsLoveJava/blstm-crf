@@ -1,0 +1,6 @@
+2015年 12月 28日 原告 被告 登记 结婚 婚后 生育 子
+B_Time I_Time I_Time O O B_Marry I_Marry O B_Bear B_Gender
+没有 共同语言 无法 相互 沟通
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2017年 10月 双方 因故 发生 矛盾 后 分居 生活 今
+B_Time I_Time O O O O O B_Separation O I_Duration

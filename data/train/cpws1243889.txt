@@ -1,0 +1,10 @@
+2011年 原告 父亲 吵架 后 离家 半 年 被告 原告 回家 后 无端 猜疑 原告 双方 争吵 不 断
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 被告 离婚 要挟 原告 争吵 拳脚 相向
+O O O O O O B_FamilyConflict I_FamilyConflict
+2013年 1月 双方 分居 今
+B_Time I_Time O B_Separation O
+被告 魏霈 辩称 原告 所述 事实 异议 原告 2011年 2月 14日 确 曾 离家 出走 8 月 不 父亲 争吵 第三 见面 去 被告 未 无端 猜疑
+O O O O O O O B_Person O O O O O O O O O O O O I_Derailed I_Derailed O O O O O
+双方 争吵 过程 中 相互 肢体 冲突
+O O O O O B_FamilyConflict I_FamilyConflict

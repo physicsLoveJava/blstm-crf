@@ -1,0 +1,8 @@
+原告 被告 2013年 4月 14日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 2014年 11月 29日 生育 女
+O B_Time I_Time I_Time B_Bear B_Gender
+原告 曾 2017年 10月 12日 贵院 提出 离婚 诉讼 法院 2017年 12月 4日 作出 2017 津0110 民 初7560 号 民事 判决 双方 感情 未 完全 破裂 为由 判决 原被告 双方 不准 离婚
+B_Person O B_Time I_Time I_Time B_Court O B_DivorceLawsuit I_DivorceLawsuit O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O O O O O
+2107年 9月 21日 双方 争吵 后 截止 目前 双方 分居 两地 感情 未 缓和 不断 恶化 孩子 直 原告 生活 今
+O O O O B_FamilyConflict O O O O O O O O O O O O O O O O

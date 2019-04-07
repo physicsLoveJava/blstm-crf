@@ -1,0 +1,6 @@
+原 被告 1999年 人 介绍 相识 确立 恋爱 关系 2000年 年底 办理 结婚 登记 手续 2001年 春 举行 婚礼 仪式
+O O B_Time O O B_Know O B_BeInLove O B_Time O O B_Marry I_Marry O O O O O O
+2002年 3月 20日 生育 子 唐 年鑫
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原告 无奈 2017年 春节 后 具状 起诉 贵院 要求 离婚 原告 身份证 存在 瑕疵 不 得以 进行 撤诉
+O O B_Time I_Time O O O B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment I_Judgment

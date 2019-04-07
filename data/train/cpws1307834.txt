@@ -1,0 +1,4 @@
+原告 赵 某某 诉称 原 被告 2001年 2月 登记 结婚 婚后 生育 子 女 现婚 生女 已 成人 婚生子 13 岁
+O O O O O O B_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Gender O O O O O O O
+婚初 双方 感情 尚 好 后 产生 矛盾 被告 殴打 原告 致 夫妻 感情 破裂 无 和好 起诉 要求 1 原 被告 离婚
+O O O O O O B_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

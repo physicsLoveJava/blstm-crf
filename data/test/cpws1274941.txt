@@ -1,0 +1,6 @@
+原告 郁某 诉称 原 被告 2004年 1月 15日 登记 结婚 2005年 2月 21日 生育 女儿 郁某 乙 婚前 缺乏 了解 草率 结婚 双方 性格 不合 婚后 未 建立 夫妻 感情 分 聚 少 常 家庭 琐事 发生 争吵
+O O O O O O O O O B_Marry B_Time I_Time I_Time B_Bear O B_Name I_Name B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 曾经 2012年 11月 7日 广东省 佛山市 顺德区 人民法院 起诉 离婚 该院 同年 12月 28日 判决 不准 原 被告 离婚 夫妻 感情 仍 无 好转 导致 目前 夫妻 感情 已经 完全 破裂 无 好
+B_Person O O O O I_Court I_Court I_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2013年 11月 14日 起诉 院 请求 法院 判 令 原 被告 离婚 婚生 女儿 郁某 乙 原告 抚养 本案 诉讼 费用 被告 承担
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O

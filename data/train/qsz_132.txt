@@ -1,0 +1,4 @@
+J2012 年 6月 3门 生育 女 刘诺熙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2013年 8月 19口 民政局 登记 结婚 婚后 感情 尚 街 染 上 吸毒 恶习 屡教不改 导致 原被告 之间 不断 争吵 直至 2016年 10月 21日 原告 离开 共 问 居住 家中 分居 今
+B_Time I_Time I_Time O O B_Marry O O O O O O B_BadHabit O O O B_Person O O B_FamilyConflict O B_Time I_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation O I_Time

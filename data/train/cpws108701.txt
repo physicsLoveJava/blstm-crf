@@ -1,0 +1,2 @@
+原告 姚 某某 诉称 被告 性格 不和 婚后 常 生活 琐事 发生 矛盾 致 夫妻 感情 破裂 要求 离婚 分割 财产 抚养 孩子
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

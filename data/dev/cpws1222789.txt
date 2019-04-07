@@ -1,0 +1,10 @@
+原告 刘 XX 诉称 原告 被告 2000年 下半年 经人介绍 认识 双方 确立 恋爱 关系 2001年 2月 14日 兰州市 城关区 民政局 登记 结婚 2001年 11月 12日 女儿 刘 X 出生
+O O O O O O B_Time I_Time O B_Know O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Gender B_Name I_Name B_Bear
+孩子 两 岁 后 被告 便 带 孩子 娘家 居住 从不 回家 为此 双方 发生 争吵 原告 父母 被告 不 回家 居住 伤心 至极
+B_Time I_Time I_Time I_Time O O O O I_Separation I_Separation O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O
+原告 母亲 病 治疗 期间 原告 要求 被告 家 照顾 被告 找 借口 仍 不 回家 2013年 9月 9日 原告 母亲 去世 时 被告 才碍于情面 回家 办理 完 母亲 丧事后 被告 继续 回 娘家 居住 至今 不
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Time O
+被告 长期 娘家 居住 双方 没有 共同语言 双方 感情 已 彻底 破裂
+O O O O O B_FamilyConflict I_FamilyConflict O O O O O
+现 诉至法院 要求 解除 双方 婚姻 关系
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

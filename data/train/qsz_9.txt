@@ -1,0 +1,10 @@
+1996年 5月 7日 原被告 介绍 登记 结婚
+B_Time I_Time I_Time O O B_Marry I_Marry
+1997年 6月 23日 生育 子 丁诗洋 已 成年
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O
+婚后 原告 才 发现 被告 实际 年龄 原告 年龄 大 12 岁 尤其 被告 婚前 曾 人民法院 判 过刑 竟 未 告知 原告 为此 双方 婚姻 基础 极 差
+O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 却 无缘无故 地处处 原告 产生 戒备 心理
+B_Person O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+生活 中 不 原告 讲 实话 背着 原告 转移 共同 财产 期间 原告 曾 作 努力 试图 被告 缓和 关系
+O O O O O O O O B_BadHabit I_BadHabit I_BadHabit O O O O O O O O O

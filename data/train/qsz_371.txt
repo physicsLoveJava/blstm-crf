@@ -1,0 +1,4 @@
+原 被告 2005年 7月 25 门 武清区 民政部门 登记 再婚
+B_Person I_Person B_Time I_Time I_Time I_Time O O B_Marry B_Remarry
+发展 争吵 分居 居住 不 一起 至此 造成 双方 感情 不和
+O I_FamilyConflict B_Separation O O O O O O O O

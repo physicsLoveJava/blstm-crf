@@ -1,0 +1,8 @@
+原告 王某 诉称 原 被告 2008年 8月 经人介绍 认识 2008年 12月 登记 结婚 婚前 缺乏 感情 基础 原告 被告 了解 不够 不断 催促 下 草率 结婚 婚后 亦 未 建立 夫妻 感情 婚后 月 余 便 分居 家庭 各项 开支 实行 AA 制
+O O O O O B_Time I_Time O B_Know B_Time I_Time O B_Marry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婚后 原告 发现 被告 参与 赌博 违法 活动 规劝 无效 还 发现 被告 婚前 债务 问题 起诉 被告 没有 固定 工作 婚后 大肆 举借 外债 用于 偿还 婚前 欠 下 巨额 债务 变婚 前 债务 婚后 夫妻 共同 债务 行为 严重 侵害 原告 合法 权益
+O O O B_Person O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3 夫妻 共同 债务 98000 元 借款 均 被告 承担
+O O O O B_Price I_Price B_Debt O O O
+原告 主张 98000 元 借款 不 存在 原告 无权 主张
+O O B_Price I_Price B_Debt B_Negated I_Negated O O O

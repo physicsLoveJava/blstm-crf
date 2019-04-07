@@ -1,0 +1,4 @@
+原被告 1998年 8月 18 登记 结婚 婚后 生育 女 名 李昕彦 t17 岁
+O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender O B_Name B_Age I_Age
+原被告 婚前 感情 基础 薄 j 婚后 未 建立 良好 婚姻 关系
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

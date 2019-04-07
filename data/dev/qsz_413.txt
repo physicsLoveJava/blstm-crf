@@ -1,0 +1,20 @@
+2011年 秋 原 被告 经人介绍 相识 建立 恋爱 关系
+B_Time I_Time O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2012年 2月 双方 举行 婚礼 同居 生活
+B_Time I_Time O B_Marry I_Marry O O
+2012年 9月 21日 生育 长女 李芸熙 2013年 1月 14日 双方 补办 结婚 登记 手续 现 双方 已 分居 三 月 夫妻 感情 已 完全 破裂
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry B_Time O O B_Separation B_Duration I_Duration O O O O O
+孩子 出生 后 被告 逐渐 好逸恶劳 不 铮 钱 贴补 家用 夫妻 关系 逐渐 淡漠
+O O O B_Person O B_BadHabit O O O O O O O O O
+2017年 10月
+B_Time I_Time
+提出 异议 被告 父 原告 不满 便 外思 被告 原告 离婚
+O O O O I_FamilyConflict I_FamilyConflict O O O O O
+原告 携女 回到 娘家 被告 分居 被告 曾 原告 联系 离婚 事宜
+O O O O O B_Separation O O O O O O
+原告 父母 共 还 迁房 三 套
+B_Person I_Person O B_Wealth I_Wealth I_Wealth I_Wealth
+现 尚 25万 元 售房款 未 到位
+O O B_Price I_Price O O O
+10万 元 原、被告 夫妻 共同 债权
+B_Price I_Price B_Person I_Person B_Credit B_Credit

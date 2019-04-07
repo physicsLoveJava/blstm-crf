@@ -1,0 +1,2 @@
+双方 婚前 相处 时间 短 卓率 结婚 婚后 双方 家庭 琐事 发生 矛盾 被告 还 原告 进行 殴打 轰原告 回 娘家 致使 夫妻 感情 现 已 破裂
+O O O O O O O O O O O O O B_Person O B_Person O B_DomesticViolence O O O O O O O O O

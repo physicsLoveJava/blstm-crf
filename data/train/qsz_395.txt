@@ -1,0 +1,8 @@
+原被告 广 1986年 存天 人 介纠 相识
+O O B_Time O O O B_Know
+建立 恋爱 关系 婚前 感情
+O B_BeInLove O O O
+l987 年 10月 举行 结婚 仪式 双方 尼牛活 1988片 1月 25日 双方 登记 结婚 1988年 11月 25日 双方 婚生 男孩 马波 已 成年 原被告 白 结婚 以后 家务 琐事 发生 矛盾 感情 出现 裂痕 尤其 近 年 米 双方 矛盾 激化 被告 不 关心 照顺 原告
+B_Time I_Time I_Time O B_Marry I_Marry O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O
+无事/非 无故 辱骂 原告 被告 行为 原告 身心 造成 伤害 原9 告 家庭 和睦 忍 再 忍 被告 却 思悔改 造成 双方 感情 彻底 破裂
+O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

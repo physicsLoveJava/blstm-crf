@@ -1,0 +1,6 @@
+原告 史某 诉称 原 被告 1991年 人 介绍 相识 1999年 1月 28日 办理 结婚 登记 手续 婚后 生育 两 名 男孩
+O O O O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O B_Bear O O B_Gender
+夫妻 感情 尚 后 脾气 不 性格 方面 差异常 发生 争吵 被告 疑心 重 原告 缺乏 信任 常 实施 家庭 暴力 殴打 原告 被告 曾 提出 离婚 原告 两 名 子女 没有 同意 现在 已 无法 共同 生活
+O O O O B_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict B_Person B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O
+请求 被告 离婚 抚养 名 男孩 分割 共同 财产
+O O B_DivorceLawsuit O O O O O O

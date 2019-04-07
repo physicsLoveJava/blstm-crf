@@ -1,0 +1,10 @@
+原告 吴某 诉称 2010年 8月 初 原告 吴某 被告 蒋某 经媒人 介绍 认识 当时 原告 家庭 经济 困难 认识 不 月 原告 不 情愿 被告 家 同居 生活 2011年 7月 未 结婚 生育 儿子 蒋某甲 之后 2011年 9月 28日 才 补办 结婚 登记 手续
+B_Person O O B_Time I_Time I_Time O O O O O O B_Know O O O O O O O O O O O O O O O B_Time I_Time O O B_Bear B_Gender B_Name O B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+婚前 缺乏 了解 原告 年幼无知 双方 婚后 不久 家庭 矛盾 不断 发生 还 争吵 打架
+O O O O O O O O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict
+被告 女 同学 婚外恋 被告 家庭 暴力 倾向 动不动 打骂 原告 有时 还 使用 冷 暴力 原告 精神 受到 折磨
+B_Person O O B_Derailed B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O
+现 请求 人民法院 依法 判决 准许 离婚 婚生 儿子 蒋某 甲归 原告 抚养 被告 每月 付 生活费 3000 元 原告
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O
+被告 蒋某 辩称 被告 不 同意 离婚 原告 被告 婚姻 基础 好 婚后 家庭 幸福 原告 结婚 以来 享受 被告 家庭 厚爱 没有 吵架 现象 原告 起诉状 中 诉 称 被告 婚外恋 暴力 倾向 完全 无中生有 原告 起诉 前不久 还 被告 共同 居住 说明 夫妻 感情 好 生活 幸福
+O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O B_Derailed B_DomesticViolence I_DomesticViolence O B_Negated O O O O O O O O O O O O O

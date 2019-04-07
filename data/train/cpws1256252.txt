@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 经人介绍 相识 ×××× 年××月 枣强县 民政局 办理 结婚 登记 手续 婚后生 女孩 苏某 乙
+O O O O O O O B_Time I_Time O O B_Marry I_Marry I_Marry I_Marry B_Bear B_Gender B_Name I_Name
+缺乏 婚姻 基础 婚后 原、被告 性格 差异 被告 嫌弃 原告 致 夫妻 感情 破裂 坚决 要求 被告 离婚 女儿 苏某 乙 原告 抚养 被告 承担 抚养费 婚前 财产 所有 婚后 夫妻 共同 财产 依法 分割
+O O O O O O O O O O O O O O O O O O O O O O O O O O O I_Wealth O O O B_Wealth I_Wealth O O

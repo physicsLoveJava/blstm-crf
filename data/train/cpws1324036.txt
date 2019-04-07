@@ -1,0 +1,6 @@
+原告 周某 诉称 原 被告 经人介绍 相识 于×××× 年×× 月×× 日 登记 结婚 二 人均 属 再婚 婚后 无 子女
+B_Person I_Person B_DivorceLawsuit O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Person I_Person O B_Remarry O O O
+原 被告 婚前 无 感情 基础 婚后 双方 性格 不合 生气 吵架 导致 夫妻 感情 已 彻底 破裂 无法 继续 共同 生活
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+3 共同 债务 20040 元 原 被告 负担 一半
+O O B_Debt B_Price I_Price B_Person I_Person O O

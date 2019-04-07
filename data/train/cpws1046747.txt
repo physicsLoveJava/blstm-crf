@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 2003年 下半年 经人介绍 相识 2003年 2月 11日 圃田乡 人民政府 登记 结婚
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+婚后 被告 丑陋 性情 低下 素质 暴露 无疑 每次 人来客 去 时 都 无故 使 性子 发脾气
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+双方 已 2009年 分居 今 人 调解 均 无法 好
+O O B_Time B_Separation O O O O O O
+家里 亲戚 朋友 做客 时 被告 都 热情 款待 原告 称 被告 每次 人来客 去 时 都 无故 使 性子 发脾气 原告 撒谎 被告 家里 都 不 敢 随意 说话 说 句 话 产生 误解 发生 不必要 矛盾
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

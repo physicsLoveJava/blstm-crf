@@ -1,0 +1,6 @@
+原告 宋 某某 诉称 原 被告 经人介绍 相识 2003年 1月 27日 阜城县 民政局 办理 结婚 登记 手续
+O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2003年 9月 19日 生育 长子 宋某甲 2007年 7月 16日 生育 长女 宋某乙
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 结婚 前 了解 少 没有 感情 基础 婚后 原、被告 性格 不合 语言 无法 沟通 夫妻 感情 淡薄
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

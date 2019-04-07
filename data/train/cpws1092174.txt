@@ -1,0 +1,6 @@
+原告 黄 某某 诉称 原 被告 经人介绍 相识 2013年 1月 17日 阜城县 民政局 办理 结婚 登记 双方 均 系 再婚
+O O O O O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Person O O B_Remarry
+婚前 了解 少 婚后 发现 性格 不合 生活 琐事 发生 纠纷 双方 性格 均 内向 日 不 进行 语言 思想 沟通 双方 早已 分居 夫妻 关系 有名无实 请 法院 判决 原 被告 离婚 返还 原告 彩礼款 30000 元
+O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O O O O O O O O O O B_Wealth B_Price I_Price
+被告 刘 某某 辩称 原 被告 婚后 感情 不错 不 存在 导致 夫妻 感情 破裂 事实 被告 不 同意 离婚
+O O O O O O O O O B_Negated I_Negated O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

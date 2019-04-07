@@ -1,0 +1,6 @@
+原告 马凤英 诉称 被告 经人介绍 1993年 3月 26日 举行 婚礼 婚后 生 女 子 女儿 李巧玲 1994年 10月 2日 出生 儿子 李巧峰 1995年 2月 1日 出生 被告 婚前 缺乏 了解 草率 结婚 婚后 家庭 琐事 吵架 拌嘴 感情 不和 被告 实施 家庭 暴力 打骂 使 无法 忍受 2012年 6月 28日 搬 回 娘家 居住 二 人 分居 生活 至今 已 年 时间
+O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Gender B_Gender B_Name O O O O B_Gender B_Name O O O O B_Person O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O B_Time I_Time I_Time B_Separation I_Separation I_Separation I_Separation O O O O O O I_Duration O
+现在 被告 感情 已 彻底 破裂 解除 痛苦 婚姻 关系
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+共同 财产 依法 分割 共同 建 正房 三 间 半 西配房 两 间 院落 房产 套 价值 19万 元
+B_CommonProperty I_CommonProperty O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O B_Price I_Price

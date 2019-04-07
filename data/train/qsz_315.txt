@@ -1,0 +1,4 @@
+2009f 元月 原 被告 经人介绍 相识 恋爱 同年 6月 19日 领证 结婚
+B_Time I_Time O O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry
+2009年 11月 俩 人 分居 今 名存实亡 婚姻
+B_Time I_Time O O B_Separation I_Time O O

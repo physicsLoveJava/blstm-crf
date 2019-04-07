@@ -1,0 +1,6 @@
+原告 2013年 5月 20日 诉 本院 要求 被告 离婚
+O B_Time I_Time I_Time O O O O B_DivorceLawsuit
+原告 2011年 2月份 朋友 介绍 认识 分得 单位 公房 办理 结婚 登记
+O B_Time I_Time O O B_Know O O O O O O
+父母 9万 元 嫁妆 属 财产 原告 无权 分割 原告 无 共同 财产
+O B_PersonalProperty I_PersonalProperty B_Wealth O O O O O O O O O

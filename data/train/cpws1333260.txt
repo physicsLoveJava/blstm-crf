@@ -1,0 +1,4 @@
+原告 蒋某 诉称 原 被告 2006年 1月 人 介绍 相识 2006年 10月 登记 结婚 婚前 缺乏 牢固 感情 基础
+O O O O O B_Time I_Time O O B_Know B_Time I_Time O B_Marry O O O O O
+被告 种种 理由 不 肯 生育 2010年 5月 原 被告 分居
+O O O O O O B_Time I_Time O O B_Separation

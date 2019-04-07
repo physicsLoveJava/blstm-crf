@@ -1,0 +1,6 @@
+原 被告 相识 后 被告 要求 下 2008年 双方 登记 结婚 结婚 不 半 月 双方 便 民政局 离婚
+O O O O O O O B_Time O O B_Marry O O O O O O O B_DivorceLawsuit
+2011年 4月 29日 双方 岳阳楼区 民政局 登记 结婚 之后 生育 儿子 王永坤
+B_Time I_Time I_Time O O O O B_Marry O B_Bear B_Name B_Name
+2013年 6月 天 双方 家庭 琐事 争吵 原告 一气之下 被告 耳光 被告 却 剪刀 原告 胸部 刺伤 跑
+O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O

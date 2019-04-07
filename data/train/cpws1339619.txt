@@ -1,0 +1,4 @@
+原告 孙 某某 诉称 原 被告 2002年 10月 新疆 认识 同年 12月 确立 恋爱 关系 同居 生活 2004年 12月 28日 进行 结婚 登记
+O O O O O O B_Time I_Time O B_Know B_Time I_Time O B_BeInLove I_BeInLove O O B_Time I_Time I_Time O B_Marry I_Marry
+2013年 元月 被告 私自 带 孩子 回到 娘家 至今 不
+B_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation B_Time O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 介绍 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 子 贾某乙
+O O O O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+近 年 双方 性格 不和 生气 2012年 5月 分居 今
+O O O O O O B_Time I_Time B_Separation I_Time
+2012年 8月 原告 曾 法院 起诉 要求 离婚 法院 判决 不 准 离婚
+B_Time I_Time B_Person O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment

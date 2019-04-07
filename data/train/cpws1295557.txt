@@ -1,0 +1,8 @@
+原告 魏某 诉称 原被告 经人介绍 认识 于×××× 年×× 月×× 日 登记 结婚 婚后 2003年 1月 16日 生 男孩 魏金荣
+O O O O O B_Know O O O O O B_Marry O B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚前 相处 时间 短 缺乏 必要 了解 再 被告 脾气 暴躁 双方 性格 差异 大 缺乏 共同语言 婚后 生活 中 家庭 琐事 发生 冲突 矛盾
+O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+被告 婚后 公婆 关系 不好 时常 发生 家庭 矛盾 原被告 夫妻 感情 造成 恶劣 影响
+O O O O O O O O B_FamilyConflict O O O O O O
+久而久之 原被告 夫妻 之间 产生 不可 调和 矛盾 激化 现在 实在 难以 继续 共同 生活 下去
+O O O O O O O B_FamilyConflict O O O O O O O O

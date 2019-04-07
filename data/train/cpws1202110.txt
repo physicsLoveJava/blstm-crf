@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1991年 3月 登记 结婚 婚后 生育 子 二 女 现 均 已 成年
+O O O O O B_Time I_Time O B_Marry O B_Bear B_Gender O B_Gender O O O O
+原 被告 婚前 没有 感情 基础 性格 原因 婚后 没有 建立 夫妻 感情 生气 吵架
+O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict
+年 原 被告 名 夫妻 实 路人 长期 分居 互不 履行 夫妻 义务 夫妻 关系 名存实亡
+O O O O O O O B_Duration B_Separation O O O O O O O
+共同 财产 房屋 处 存款 两万 元 分 一半
+B_CommonProperty I_CommonProperty B_Wealth O B_Wealth B_Price I_Price O O

@@ -1,0 +1,4 @@
+原告 史某 甲诉 称 原 被告 系 朋友 介绍 相识 婚后 育 女 史某 乙
+O O O O O O O O O B_Know O B_Bear B_Gender B_Name I_Name
+原告 2011年 4月 20日 被告 分居 2011年 2012年 先后 两 次 法院 起诉 要求 被告 离婚 均 未 获 支持
+O B_Time I_Time I_Time O B_Separation B_Time I_Time O O O O O O O B_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment

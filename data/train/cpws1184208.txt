@@ -1,0 +1,16 @@
+原告 陆某 诉称 原 被告 2004年 经人介绍 相识 ×××× 年×× 月××日草率 结婚 双方 均 系 再婚 婚后 双方 性格 不合 无法 沟通 困 家庭 琐事 争吵 矛盾 激化
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry B_Person O O B_Remarry O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+2010年 7月 2日 原告 起诉 法院 被告 子女 劝解 被告 愿意 改掉 坏 习惯 原告 继续 共同 生活 签 下 和解 协议书 原告 只好 撤回 离婚 诉讼
+B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O
+原告 2012年 10月 16日 起诉 丛台区 人民法院 2013年 3月 7日 法院 作出 2012 丛民 初字 第3433 号 民事 判决书 驳回 陆某 离婚 诉讼 请求
+B_Person B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court B_Time I_Time I_Time O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+之后 双方 感情 未 好转 处于 分居 状态 夫妻 感情 确 已 破裂 夫妻 关系 名存实亡
+O O O O O O B_Separation O O O O O O O O O
+原告 起诉 法院 请 依法 解除 原 被告 婚姻 关系 使 原告 场 晚年 痛苦 婚姻 中 解脱
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O
+被告 陈某 辩称 原 告诉 称 双方 草率 结婚 性格 不 合 无法 沟通 琐事 争吵 不 事实
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Negated I_Negated
+原 被告 双方 2004年 3月 人 介绍 相识 相识 后 频繁 接触 了解 双方 深刻 认识 适合 生活 伴侣 慎重 考虑 ×××× 年×× 月××日 婚姻 登记 机关 办理 结婚 登记 双方 家属 一起 吃饭 祝贺 确立 双方 夫妻 关系
+O O O B_Time I_Time O O B_Know O O O O O O O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry O O O O O O O O O
+导致 原告 提起 离婚 原因 双方 感情 不和 2007年 原 被告 共同 丛台区 联沁街 2 号 纺织楼 1-6 号 购买 房产 套 被告 现 居住 房屋 登记 原告 女儿 名下
+O O O O O O O O O B_CommonProperty I_CommonProperty O O O O O O O O O B_Wealth I_Wealth O O O O O O O O

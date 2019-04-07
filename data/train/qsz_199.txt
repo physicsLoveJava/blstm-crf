@@ -1,0 +1,8 @@
+i 原告 被告 2009年 相识 恋爱 关系
+O O O B_Time B_Know B_BeInLove O
+后 2013年 7月 10日 补办 登记 结婚 手续
+O B_Time I_Time I_Time O O B_Marry O
+夫妻 2011年 4月 30日 生育 女 金天睿
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 2015年 6月份 没有 告知 原告 情况 下 便 离开 原告 家 夫妻 便 分居 生活 今
+O B_Time I_Time O O O O O O O O O O O B_Separation O I_Time

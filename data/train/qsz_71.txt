@@ -1,0 +1,8 @@
+2015年 6月 8日 原 被告 登记 结婚 2016年 5月 27日 生 女 刘曼妮
+B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+双方 相识 时间 短 便 草率 结婚 感情 基础 差 共同 生活 期间 双方 生活 琐事 发生 争执 婚后 双方 不 正常 交流 沟通
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+现 双方 感情 彻底 破裂 原告 分别 2017年 7月 18日 起诉 离婚 双方 未能 达到 离婚 条件 贵院 驳回 起诉 期间 双方 没有 好
+O O O O O B_Person O B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O B_Court B_Judgment I_Judgment O O O O
+原告 贵院 提起 诉讼 表明 原告 离婚 信念 坚定
+B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O

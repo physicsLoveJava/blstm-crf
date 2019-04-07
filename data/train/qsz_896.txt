@@ -1,0 +1,6 @@
+2010年 11月 21日 育 长女田 一童
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2015年 12月 29日 原被告 双方 蓟州区 民政局 婚姻 登记 管理科 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O O O B_Marry O O
+双方 性格 不合 家庭 琐事 争吵 致使 感情 每况愈下 现 完全 破裂
+O O O O O B_FamilyConflict O O O O O O

@@ -1,0 +1,2 @@
+原告 被告 均 系 再婚 2016年 12月 29日 民政部门 登记 结婚 婚后 育有 女 周思涵 10 半月大 被告 婚前 别的 女人 染 刻意 隐瞒 原告 情况 下 原告 草率 结婚 婚后 原告 怀孕 生产 期间 还 不 停 别的 女人 语音 微信 聊天 语言 露骨 暧昧 原告 坐 月子 时 被告 一言不合 辱骂 殴打 原告
+B_Person I_Person O O B_Remarry B_Time I_Time I_Time O B_Marry I_Marry O B_Bear B_Gender B_Name B_Age I_Age B_Person O I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person

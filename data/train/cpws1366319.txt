@@ -1,0 +1,14 @@
+原 告诉 称 被告 别人 介绍 认识 2006年 1月 17日 登记 结婚 双方 感情 尚 2006年 10月 30日 生 女儿 黄某
+O O O O O O O B_Time I_Time I_Time O B_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+2009年 原告 被告 一起 邯郸 被告 收购 旧 电器 生活 缓解 家庭 困难 原告 找 份 工作 补贴 家用 被告 心胸 狭窄 琐事 无理取闹 原告 一再 忍让 被告 变本加厉 不断 无事生非
+O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 6月份 天 被告 回到 共同 租 住 房屋 原告 破口 大 骂 还 掐 住 原告 脖子 致 原告 差点 昏死 过去
+B_Time I_Time I_Time B_Person O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O
+天 被告 回 老家 双方 分居 今
+O O O O O B_Separation I_Time
+同年 11月份 被告 闯入 原告 正在 工作 药房 不顾 众人 劝阻 原告 脸上 腹部 进行 殴打 还 满嘴 脏话 进行 谩骂
+O O B_Person O O O O O O O O B_Person B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O
+维持 婚姻 已 没有 必要 原告 只得 人民法院 起诉 请求 法院 判 令 解除 原、被告 之间 婚姻 关系 女儿 黄某 原告 抚养 被告 每月 承担 500 元 抚养费 被告 承担 诉讼费
+O O O O O B_Person O B_Court B_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O
+2012年 6月份 天 不知 原告 回家 后 大 骂 不止 说 些 伤 感情 话 当时 非常 生气 领 女儿 回 老家 导致 双方 分居
+O O O O O O O O O O O O O O O O O O O O O O O O B_Separation

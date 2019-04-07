@@ -1,0 +1,8 @@
+原 被告 经人介绍 2015年 11月 11日 登记 结婚 婚后 双方 感情 2017年 1月 15日 生育 女 杨薇 近 两 年 原 被告 双方 琐事 发生 矛盾 年 之前 双方 已 分居 被告 带 孩子 回 娘家 居住 至今 不
+O O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O I_Time I_Time B_Separation I_Separation I_Separation O O O O O O B_Time O
+2017年 11月 被告 贵院 提起 离婚 诉讼
+O O B_Person B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+贵院 2018 津0115 民 初 1151 号 民事 判决书 判决 驳回 原告 离婚 诉讼 请求
+O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+之后 原、被告 双方 互 不 理睬 互 无 往来 被告 诉 原告 付 女儿 抚养费 导致 双方 感情 进一步 恶化 已 无 好
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O

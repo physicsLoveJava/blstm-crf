@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 1997年 上半年 经人介绍 相识 ×××× 年×× 月××日 原 平湖市 徐埭镇 人民政府 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 女儿 顾某 乙
+O O O O O B_Time O O B_Know O O O O O O O O B_Marry O O O O O O B_Bear B_Gender B_Name I_Name
+女儿 出生 后 感情 更 双方 琐事 发生 争吵 被告 有时 还 无故 殴打 原告
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O O O B_DomesticViolence B_Person

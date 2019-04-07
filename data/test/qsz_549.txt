@@ -1,0 +1,18 @@
+2015年 10月份 原被告 共同 旅游 相识 2015年 12月份 确立 恋爱 关系 2016年 11月 8日 自愿 办理 结婚 证书
+B_Time I_Time O B_Know I_Know I_Know B_Time I_Time O B_BeInLove O B_Time I_Time I_Time O B_Marry I_Marry I_Marry
+2016年 11月 27日 举行 婚礼 后 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry O O O
+2017年 4月 19日 生育 儿子 马俊一
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 之间 夫妻 感情 原被告 之间 琐事 发生 争吵 时间 推移 原告 发现 被告 参与 电脑 赌博 酗酒 抽烟 不良 习惯 原告 劝解 被告 均 未果
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O B_Person B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O
+婚姻 关系 存续 期间 原被告 之间 天天 矛盾 不 断 逐渐 导致 夫妻 感情 出现 裂痕
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2018年 1月份
+B_Time I_Time
+原告 在家 照顾 孩子 被告 外出 喝酒 原告 被告 打电话 要求 被告 早 回家 帮助 照看 儿子 被告 回家 后 原告 实施 殴打 此事 原告 报警 公安 宝坻 分局 宝平 派出所 民警 出警
+O O O O O O O O O O O O O O O O O B_Person O O B_Person O B_DomesticViolence O O O O O O O O O O
+2018年 9月 7日 原告 带 儿子 父母 家 被告 父母 找到 原告 父母 家中 双方 出现 矛盾 自此 原告 离开 被告 住所 被告 分居 今 原被告 双方 夫妻 感情 彻底 破裂 夫妻 关系 无法 维持
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O B_Separation I_Time O O O O O O O O O O
+原告 早日 结束 这种 毫无 意义 夫妻 关系
+B_Person O O O O O O O

@@ -1,0 +1,6 @@
+原告 俞某 甲诉 称 原告 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+2011年 6月 原告 外 租房 生活
+B_Time I_Time O I_Separation I_Separation I_Separation
+原告 陈述 内容 不 事实 被告 没有 蛮 不 讲理 性格 暴躁 无 人 助威 家里 打砸 事实 原告 还 在家 生活
+O O O O O O O O O O O O O O O O O O O O B_Separation I_Separation

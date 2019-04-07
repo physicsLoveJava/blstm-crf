@@ -1,0 +1,4 @@
+原 告诉 称 原告 被告 婚后 家庭 生活 琐事 发生 争吵 无法 共同 生活 曾 2012年 10月 间 起诉 被告 离婚 法院 判决 不 准 离婚 后 双方 未能 好 现 仍 分居 生活
+O O O B_Person O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_Time I_Time O B_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment O O O O O O O O
+请求 被告 离婚 抚养 女孩 田某 乙 原告 婚前 财产 原告 所有 婚后 共同 财产 依法 分割
+O O O O O O O O B_PersonalProperty I_PersonalProperty B_Wealth O O O O O O

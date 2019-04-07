@@ -1,0 +1,8 @@
+原告 徐甲诉 称 原 被告 2010年 5月 自行 相识 2010年 11月 13日 登记 结婚
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+被告 脾气 暴躁 曾 辱骂 原告 父亲 踢 原告 暴力 行为
+B_Person O O O B_FamilyConflict O O B_DomesticViolence B_Person O O
+2013年 11月 10日 深夜 被告 带 父母 一行 7 人 闯入 原告 家 强行 原告 父亲 定期 存单 银行 存折 房产证 拍照 取证 车子 导航仪 结婚 项链 戒指 42 寸 液晶 彩电 财产 抢走 期间 还 打肿 原告 父亲 手 背 原告 施 拽 头发 卡 脖子 暴力 行为 原告 无奈 报警 才 平息 暴力 事件
+O O O O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence B_Person I_Person O O B_Person O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O
+婚后 共同 财产 闽 JXXXXX 长安 福特 2012款 经典 福克斯 轿车 1 辆 依法 分割 被告 负担 诉讼费
+B_CommonProperty I_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O

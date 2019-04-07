@@ -1,0 +1,4 @@
+原告 仓某 诉称 原 被告 经人介绍 相识 2007年 8月 1日 登记 结婚 婚前 缺乏 了解 婚后 生活 琐事 发生 争吵
+O O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O B_FamilyConflict
+被告 根本 没有 原告 生活 愿望 长期 居住 娘家 子女 抚养 不
+O O O O O O B_Separation I_Separation I_Separation O O O

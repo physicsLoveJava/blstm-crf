@@ -1,0 +1,4 @@
+2009年 2月 儿子 出生 后 未 改善 双方 关系 被告 不 母子 零花钱 双方 脾气 性格 不和 无 共同语言 无法 共同 生活
+B_Time I_Time B_Gender B_Bear O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O
+2012年 农历 二月 初三 分居 生活 今 要求 离婚
+B_Time I_Time I_Time I_Time B_Separation O I_Time O O

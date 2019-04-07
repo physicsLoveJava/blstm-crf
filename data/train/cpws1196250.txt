@@ -1,0 +1,4 @@
+原告 何某 甲诉 称 原被告 1995年 上半年 认识 后 恋爱 于×××× 年×× 月××日 办理 结婚 登记 手续 ×××× 年×× 月×× 日 生育 子 某乙
+O O O O O B_Time I_Time O O B_BeInLove O O O O B_Marry O O O O O O B_Bear B_Gender I_Name
+原被告 性格 差异 大 草率 结婚 婚后 未 建立 正常 夫妻 感情 现 夫妻 感情 已 彻底 破裂 无 和好 请求 依法 判决 原被告 离婚
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O

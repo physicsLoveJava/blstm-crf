@@ -1,0 +1,8 @@
+原告 周某 诉称 原告 被告 朋友 介绍 认识 后 2009年 8月 12日 结婚 被告 原告 家当 上门 女婿 2010年 1月 15日 生育 女儿 周紫怡
+O O O O O O O O O B_Time I_Time I_Time B_Marry O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原告 发现 被告 参与 赌博 嫖娼 违法 活动 不务正业 原告 家人 规劝 仍 劣性 不 改
+O O O B_Person O B_BadHabit I_BadHabit O O O O O O O O O O
+2012年 6月 19日 被告 没有 争吵 情况 下 抛弃 妻 女 离家 2012年 8月 27日 弟 母亲 送 回 事件 加剧 夫妻 感情 破裂 两 人 仍 处于 分居 状态 达成 婚内 分居 协议
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O O O O
+原告 特诉 本院 要求 判 令 原 被告 离婚 女儿 周 紫怡 原告 抚养 被告 承担 相应 抚养费 每月 500 元 双方 共同 承担 本案 诉讼 费用
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O O O O O O O

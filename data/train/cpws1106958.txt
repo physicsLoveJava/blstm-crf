@@ -1,0 +1,4 @@
+原告 李某 诉称 原 被告 ×××× 年×× 月×× 日 结婚 婚后 生育 女 取名 马某 乙
+O O O O O B_Time I_Time I_Time I_Time B_Marry O B_Bear B_Gender O B_Name I_Name
+共同 生活 中 发现 双方 性格 处事 方式 存在 差异 琐事 争执 原 被告 夫妻 感情 破裂 无法 共同 生活 起诉 要求 离婚 婚生 女 原告 抚养 生活 被告 每月 支付 抚养费 600 元 依法 分割 夫妻 共同 财产
+O O O O O O O O O O O B_FamilyConflict O O O B_FamilyConflict I_FamilyConflict O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 王某 诉称 2008年 原 被告 外 务工 时 相识 2009年 正月 建立 未婚 关系 2009年 1月 17日 农历 生子洪 某乙 同年 11月 27日 登记 结婚 腊月 农村 习俗 举行 婚礼
+O O O B_Time O O O O O B_Know O O O O O B_Time I_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Marry I_Marry B_Time O O B_Marry I_Marry
+性格 情趣 志向 爱好 差异 原 被告 婚后 争吵 无法 共同 生活 原告 只好 外出 务工
+O O O O O O O O B_FamilyConflict O O O O O I_Separation I_Separation
+2010年 3月 被告 带 孩子 原告 打工处 双方 矛盾 加大 致 原告 无法 工作 同年 7月 原 被告 回家 后 分居 今
+O O O O O O O O O O O O O O O O O O O O B_Separation I_Separation
+现 原告 起诉 请求 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit O

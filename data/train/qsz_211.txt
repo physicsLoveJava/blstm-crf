@@ -1,0 +1,6 @@
+原 被告 2010年 6月份 经人介绍 相识 2011年 1月 21 天津市 武清区 民政局 办理 结婚 登记
+O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O B_Marry O
+婚后 无 子女 相识 时间 短 感情 基础 薄弱 双方 感情 不好 双方 总 种种 理由 找 借口 争吵 越 吵 越 凶
+O O O O O O O O O O O O O O O O O O B_FamilyConflict O O O O
+分居 使 夫妻 关系 紧张
+B_Separation O O O O

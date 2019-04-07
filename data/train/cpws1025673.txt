@@ -1,0 +1,4 @@
+原告 陈某 诉称 原告 被告 经人介绍 于×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry
+2006年 以来 被告 原告 感情 不忠 原告 劝告 被告 被告 至今 仍 不 改悔 再 被告 原告 实施 严重 家庭 暴力 伤害 原告 感情 身体 现 夫妻 已 分居 7 年 夫妻 感情 确 已 破裂 特 诉至法院 坚决 要求 被告 离婚
+O O B_Person O B_Derailed I_Derailed O O O O O O O O O B_Person B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O B_Separation B_Duration I_Duration O O O O O O O O O O O

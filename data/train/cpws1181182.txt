@@ -1,0 +1,4 @@
+原告 闫 某某 诉称 被告 婚姻 基础 差 仓促 结合 导致 婚后 关系 不 2010年 7月 分居 现 要求 被告 离婚 两 女儿 被告 抚养
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time B_Separation O O O O O O O O
+被告 某某 辩称 原告 感情 和睦 生 两 女儿 总 想 生 男孩 二 女儿 出生 时 交 原告 母亲 抚养 支持 原告 外出 打工 人 承担 抚养 长女 赡养 老人 种地 全部 家务 收到 原告 离婚 诉状
+O O O O O O B_Bear B_Gender B_Gender O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

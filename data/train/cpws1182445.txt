@@ -1,0 +1,10 @@
+原 告诉 称 被告 2007年 春天 经人介绍 认识 双方 父母 催促 下 ×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time I_Time O B_Know O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+×××× 年×× 月×× 日 农村 风俗 举办 结婚 仪式 2010年 10月 6日 生 女孩
+O O O O O O O O O B_Time I_Time I_Time B_Bear I_Gender
+婚后 被告 好吃懒做 常常 夜 不 宿 打电话 被告 不 接 女儿 不 不 问 常 家庭 琐事 吵架 生气
+O B_Person B_BadHabit B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+为此 诉至法院 要求 法院 依法 判 令 被告 离婚 婚生 女儿 扶养 被告 支付 抚养费
+O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O
+事实 原告 婚前 经人介绍 相识 双方 相互 了解 基础 上 于×××× 年×× 月×× 日 结婚
+O O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry

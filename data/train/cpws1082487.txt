@@ -1,0 +1,8 @@
+原告 陈某 甲 起诉 称 原 被告 介绍 认识 1991年 2月 民俗 举行 婚礼 结 夫妻 ×××× 年×× 月×× 日 生育 儿子 陈某 乙 ×××× 年×× 月××日补领 结婚证
+O O O O O O O O B_Know O O O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time B_Marry I_Marry
+双方 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 家庭 琐事 发生 纠纷
+O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 生活 作风 不 检点 不 尊重 长辈 谩骂 长辈
+B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+夫妻 双方 发生 争执 20 余 年 导致 夫妻 感情 破裂
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

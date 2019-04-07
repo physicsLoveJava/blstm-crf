@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1993年 认识 2003年 12月 2日 登记 结婚 登记 后 两地 分居 生活 原告 珠海 工作 被告 深圳 工作
+O O O O O B_Time B_Know B_Time I_Time I_Time O B_Marry O O O O O O O O O O O
+长期 两地 分居 双方 性格 不合 原告 2009年 10月 法院 起诉 离婚
+O O O O O O O B_Time I_Time O O B_DivorceLawsuit
+2013年 7月 3日 止 被告 尚 210510 元 欠款 未 付
+O O O O O O B_Price I_Price B_Debt O O

@@ -1,0 +1,14 @@
+2015年 10月 1日 原被告 经人介绍 相识 2016年 1月 19日 登记 结婚 同年 3月 30日 举行 婚礼 后 共同 生活 现 被告 未孕
+B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O
+婚初 原被告 之间 夫妻 感情 双方 之间 琐事 争吵 时间 推移 应该 发现 被告 长辈 不 尊敬 脾气 暴躁
+O O O O O O O O B_FamilyConflict O O O O O O O O O O
+无理取闹 导致 原被告 之间 感情 逐渐 疏远 被告 还 主动 提出 原告 分居 2016年 10月份 原被告 分居 夫妻 感情 逐渐 破裂
+O O O O O O O O O O O O B_Separation B_Time I_Time O O O O O O
+2017年 5月 15日 原告 贵院 提起 离婚 诉讼 贵院 审理 后 下发 2017 津0115 民 初 4287 号 民事 判决书 驳回 原告 诉讼 请求
+B_Time I_Time I_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+宝坻区 人民法院 2017 津0115 民 初 4287 号 民事 判决书 下发 后 被告 原告 之间 没有 和好 意思 表示
+B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O O O O O O O O O
+期间 被告 张伟 原告 父母 被告 宝坻区 人民法院 提起 不 利 诉讼 请求 法院 判 令 原告 父母 返还 土地 补偿费 临时 安置费 费用 开庭 前 被告 原告 母亲 伤 该案 尚未 审结
+O O O O O O O O O O O O O O O O O O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O
+被告 提起 不当 得利 诉讼 殴打 原告 母亲 行为 明确 表明
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O

@@ -1,0 +1,8 @@
+2015年 10月 人 介绍 认识 2016年 9月 28日 登记 结婚
+B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 冯新炜 2017年 11月 19日 出生 婚前 缺乏 了解 婚后 吵架
+O B_Bear B_Gender B_Name B_Time I_Time I_Time O O O O O B_FamilyConflict
+2018年 7月 原被告 次 发生 口角 原告 带 孩子 回 娘家 居住 今 期间 被告 原告 孩子 生活 不闻不问 没有 丈夫 父亲 责任
+B_Time I_Time O O O B_FamilyConflict O O O B_Separation I_Separation O I_Time O O O O O O O O O O
+现原 告诉 人民法院
+B_Person B_DivorceLawsuit I_DivorceLawsuit

@@ -1,0 +1,2 @@
+原告 王欢诉 称 原 被告 认识 后 2003年 10月 1日 结婚 婚生 女王 某某 现年 9 岁 原 被告 婚后 感情 女孩 出生 后 被告 外遇 夫妻 感情 冷谈 被告 不 回家 居住 两 人 2011年 7月 1日 分居 已 两 年 解除 名存实亡 婚姻 关系 特 起诉 离婚 抚养 婚生 女 不 要求 被告 支付 抚养费
+O O O O O O O B_Time I_Time I_Time B_Marry B_Bear B_Gender B_Name O B_Age I_Age O O O O O O O B_Person B_Derailed O O O O O O O O O B_Time I_Time I_Time B_Separation O O O O O O O O O O O O O O O O O O

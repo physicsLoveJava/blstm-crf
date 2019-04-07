@@ -1,0 +1,6 @@
+原告 李某 诉称 原被告 朋友 介绍 认识 恋爱 双方 2009年 2月 领取 结婚证
+O O O O O O B_Know B_BeInLove O B_Time I_Time O B_Marry
+婚后 2010年 5月 21日 生 女 孙 某某
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原告 无意间 看到 被告 手机 短信 推断 被告 外遇 被告 沟通 后 被告 承认 错误 原告 原谅 被告
+O O O O O O O B_Person B_Derailed O O O O O O O O O

@@ -1,0 +1,8 @@
+原告 王某 方诉 称 1984年 年底 被告 云南省 金平县 搞 建筑 认识 当时 才 15 岁
+O O O O B_Time I_Time O O O O O B_Know O O O O
+1985年 5月份 被告 带 回 家 同居 生活 生育 三 男 女 2006年 补办 结婚 登记 手续
+B_Time I_Time O O O O O O B_Bear O O O B_Time O B_Marry I_Marry I_Marry
+婚后 被告 性格 不合 争吵 动手 被迫 1994年 4月 外出 打工 每年 春节 才 回家
+O B_Person O O O B_DomesticViolence O O O O O O O O O
+被告 2009年 分居 今 夫妻 感情 已 彻底 破裂 根本 无法 好
+O B_Time B_Separation O O O O O O O O O

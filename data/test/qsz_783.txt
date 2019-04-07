@@ -1,0 +1,18 @@
+原 被告 2005年 下半年 经人介绍 相识 恋爱 农村 习俗 2006年 4月 15日 举行 婚礼 同居 生活
+O O B_Time I_Time O B_Know B_BeInLove O O B_Time I_Time I_Time B_Marry I_Marry O O
+2006年 11月 17日 生长 女 李思诺
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2008年 4月 7日 补办 结婚 登记 手续
+B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+2014年 5月 26日 生次 女 李道平
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+原 被告 婚前 一定 感情 基础 婚后 共同 生活 中 缺乏 思想 感情 沟通 生活 中 事情 处理 上 持己见 家庭 琐事 吵架
+O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict
+2016年 5月 底 共同 经营 管理 慢头房 管理 上 意见 不 一致 导致 矛盾 激化 被告 2016年 5月 29日 离开 原告 原 被告 夫妻 感情 破裂
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_Time I_Time I_Time B_Separation O O O O O O
+2016年 6月 14日 原告 起诉 离婚 蓟县 人民法院 2016 津0225 民 初 7108 号 缺席 判决 驳回 原告 诉讼 请求
+B_Time I_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit B_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document O O B_Judgment I_Judgment I_Judgment I_Judgment
+最 令 原告 不 容忍 被告 不 忠诚 原告 异性 性行 55
+O O O O O B_Person O O O I_Derailed I_Derailed I_Derailed
+原 被告 琐事 吵架 矛盾 越来越 大 打架 后 曾 报警 夫妻 感情 早已 破裂
+O O O B_FamilyConflict B_FamilyConflict O O B_FamilyConflict O O O O O O O

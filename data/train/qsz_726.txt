@@ -1,0 +1,6 @@
+原告 被告 2002年 乡俗 举行 结婚 仪式 后 2009年 12月 2日 补办 结婚 登记 手续 期间 生育 两 子 长子 邵建波 次子 邵建涛
+O O B_Time O O B_Marry O O B_Time I_Time I_Time O B_Marry O O O B_Bear O O B_Gender B_Name B_Gender B_Name
+结婚 初期 原被告 双方 感情 尚 后 琐事 发生 口角
+O O O O O O O O O B_FamilyConflict
+双方 没有 共同语言 被告 外 赌博 家庭 没有 丈夫 父亲 责任
+O O O O O B_BadHabit O O O O O

@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2006年 1月 4日 登记 结婚
+O O O O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 初期 夫妻 感情 尚 2009年 9月 被告 工作 调动 后 被告 不 忠实 夫妻 义务 不尽 父亲 职责 长期 麻将 原告 规劝 被告 被告 原告 实施 家庭 暴力 现 夫妻 感情 已 破裂 无 好 起诉 请求 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O B_Person O O B_Person O O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O

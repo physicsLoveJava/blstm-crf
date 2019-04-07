@@ -1,0 +1,20 @@
+被告 2015年 底 经人介绍 相识 确立 恋爱 关系
+O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+2016年 5月 25 口 办理 结婚 登记 手续
+B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+同年 8月 28日 举行 结婚 仪式
+B_Time I_Time I_Time B_Marry I_Marry I_Marry
+2017年 I 月 I5 门 生育 子 刘嘉越
+B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+原被告 婚后 初期 双方 感情 尚 时间 推移 原被告 琐事 发生 争吵 双方 性格 差异 大 无 共同语言 夫妻 感情 逐渐 产生 裂痕
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O
+被告 家庭 孩子 不 负 责任
+B_Person O O O O O
+孩子 出生 后 仍 夜 不 宿 夫妻 发生 争吵 已 致 夫妻 感情 破裂
+O O O O B_BadHabit I_BadHabit I_BadHabit O O B_FamilyConflict O O O O O
+2017年 6月 原被告 发生 争吵 后 被告 出手 殴打 原告 原告 回 娘家 居住 双方 分居 今
+B_Time I_Time O O B_FamilyConflict O B_Person O B_DomesticViolence B_Person O B_Separation I_Separation I_Separation O O I_Time
+原告 2017年 12月 武清区 人民法院 提起 被告 离婚 诉 当时 法院 未 判 准 双方 离婚
+B_Person B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+判决 牛效 后 原被告 夫妻 感情 未 改变 夫妻 感情 没有 好转 双方 仍 直 分居 今 现 原告 被告 婚姻 关系 已 彻底 失望
+O O O O O O O O O O O O O O O B_Separation I_Time O O O O O O O O

@@ -1,0 +1,10 @@
+年 后 1986年 11月 20日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+1987年 6月 4日 生子 李洪昊
+B_Time I_Time I_Time B_Bear B_Name
+现年 30 周岁
+O B_Age I_Age
+婚后 双方 家务 琐事 争吵
+O O O O B_FamilyConflict
+2015年 6月 原告 实在 无法 忍受 情况 下 只得 高 家 不
+B_Time I_Time O O O O O O O B_Separation I_Separation I_Separation

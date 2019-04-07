@@ -1,0 +1,6 @@
+原告 马 某某 诉称 原 被告 经人介绍 认识 2012年 1月 6日 登记 结婚 婚后 无 子女
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O
+婚后 被告 不 持 家务 每日 上网 原告 劝说 时 被告 大发雷霆 同年 4月 28日 回 娘家 居住
+O O O O O O O O O O O O B_Time I_Time I_Time B_Separation I_Separation I_Separation
+后 被告 起诉 涿州市 人民法院 要求 原告 离婚 同年 10月 9日 涿州市 人民法院 做出 2012 涿民 初字 第2633 号 民事 判决书 判决 双方 不准 离婚
+O B_Person B_DivorceLawsuit B_Court I_Court O O O B_Time I_Time I_Time O O O B_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

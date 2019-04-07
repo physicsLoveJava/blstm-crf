@@ -1,0 +1,2 @@
+原 被告 自由 恋爱 2005年 1月 13日 登记 结婚 婚后 感情 尚 被告 外 第三者 原告 实在 忍无可忍 彻底 失去 家 希望 特 提出 离婚 婚后 原告 被告 共同 购买 砖 40000 块 地基 25000 元 彩电 冰箱 洗衣机 家庭 用品 原 被告 共同 平分
+O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth B_Price I_Price B_Wealth B_Price I_Price B_Wealth B_Wealth B_Wealth O O O O O O

@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1991年 2月 23日 经人介绍 结婚 婚后生 子 章伟伟 现 已 成年
+O O O O O B_Time I_Time I_Time O B_Marry B_Bear B_Gender B_Gender O O O
+婚后 夫妻 感情 后 性格 不合 原因 导致 夫妻 感情 逐渐 破裂 无法 继续 维持 地步
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+二 双方 婚生子章伟伟 现 已 22 岁 已 娶 亲 年龄 不 影响 儿子 娶亲 被告 亦 不 同意 离婚
+O O B_Bear O O B_Age I_Age O O O O O O O O O O O O O

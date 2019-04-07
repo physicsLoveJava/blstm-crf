@@ -1,0 +1,4 @@
+原告 胡某 诉称 2007年 下半年 原 被告 介绍 相识 恋爱 2008年 3月 28日 绍兴县 民政局 登记 结婚 2008年 10月 7日 生育 女 胡 某某 现年 4 周岁 就读 裕民 小区 幼儿园
+O O O B_Time O O O O B_Know O B_Time I_Time I_Time O O O B_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name O B_Age I_Age O O O O
+原 被告 婚前 缺乏 了解 婚后 未 建立 真正 夫妻 感情 双方 个性 不 合 脾气 不 投 常 家庭 生活 琐事 发生 争吵 被告 常 借故 原告 父母 吵架 出 家门 原告 沟通 无效
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O

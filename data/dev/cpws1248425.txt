@@ -1,0 +1,12 @@
+原告 李×诉 称 被告 1988年 1月 1日 登记 结婚 1989年 6月 6日 生 女 穆×2 婚后 性格 不合 意见 不 统一 生活 琐事 发生 口角
+O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O O B_FamilyConflict
+年 亲友 单位 领导 调解 被告 不良 嗜好 丝毫 没有 改变 关系 未 得到 改善
+O O O O O B_Person B_BadHabit I_BadHabit O O O O O O O
+2000年 矛盾 升级 打架 被告 不顾 夫妻 情 感冒 发烧 被告 不闻不问 两 人 冷若冰霜 感情 完全 破裂
+O O O O B_Person O O O O O O O O O O O O O
+2001年 2月 张坊 法庭 提出 离婚 领导 同事 劝说 孩子 劝 孩子 上 大学 再 离婚 分居 冷战 被告 外 间 睡 不 动 东西 动 大发雷霆
+B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Separation O O O O O O O O O O
+家中 共同 财产 要求 分割 一半 购买 楼房 后 被告 女儿 共同 还款 女儿 应 拥有 一定 财产 份额 要求 楼房 女儿 共同 所有
+O B_Wealth I_Wealth O O O O O O O O O O O O O O O O O O O O O
+第六 从不 打骂 原告 原告 病 生气 不 理 走 没有 去 做 违法 事
+O O B_DomesticViolence O O O O O O O O O O O O

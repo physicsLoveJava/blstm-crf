@@ -1,0 +1,8 @@
+原 被告 经人介绍 2015年 8月 31日 蓟州区 蓟县 民政部门 领证 结婚
+O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+被告 性格 古怪 双方 总是 发生 争吵
+O O O O O O B_FamilyConflict
+夫妻性 生活 不合 晚间 原告 睡眠 不足 导致 生病
+B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+被告 在家 不 给予 生活费 打骂 原告
+O O O O O B_FamilyConflict O

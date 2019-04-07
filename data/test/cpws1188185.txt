@@ -1,0 +1,14 @@
+原告 蔡 某某 诉称 原告 被告 2010年 初 经人介绍 相识 年 相处 原被告 双方 2011年 6月 2日 厦门市 翔安区 登记 结婚 登记 结婚 后 原被告 双方 均 没有 工作 没有 积蓄 原被告 商量 好 原告 朋友 钱 办理 婚礼 日后 再 慢慢 归还
+O O O O O O B_Time I_Time O B_Know O O O O B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O O O O O O O O O O O O O O O O
+最终 被告 背叛 原告 感情 出轨
+O B_Person B_Derailed I_Derailed I_Derailed I_Derailed
+为此 原被告 双方 吵架 被告 2013年 11月 2日 无声无息离家 出走 带走 存在 被告 建行卡 上 30000 元 存款 结婚 时 购买 金器
+O O O I_FamilyConflict O O O O O O O O O O O O O O O O O O
+原告 诉至法院 请求 法院 判 令 1 解除 原告 被告 婚姻 关系
+B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+2 分割 夫妻 共同 债务 130000 元 夫妻 共同 财产 现金 存款 30000 元 价值 11695．2 元 金器
+O O B_Debt I_Debt I_Debt B_Price I_Price O B_CommonProperty I_CommonProperty B_Wealth I_Wealth B_Price I_Price B_Price I_Price I_Price B_Wealth
+被告 没有 出轨 情况
+B_Person I_Negated B_Derailed O
+六 同民 医院 原被告 子 死亡 支付 原被告 50000 元 安抚费 原告 处 属于 夫妻 共同 财产 应当 予以 分割
+O O O O O O O O B_Price I_Price B_Wealth O O O O B_CommonProperty I_CommonProperty O O O

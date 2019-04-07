@@ -1,0 +1,4 @@
+原告 苏×诉 称 原 被告 1997年 3月 自由 相识 谈 爱 1998年 8月 9日 办理 结婚 登记 手续 1998年 农历 10月 15日 生育 大儿子 谭一 2001年 农历 12月 9日 生育 小儿子 谭二
+O O O O O B_Time I_Time O B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O B_Marry O O B_Time I_Time I_Time I_Time B_Bear O B_Name B_Time I_Time I_Time I_Time B_Bear O B_Name
+婚后 原、被告 性格 不合 常 家庭 琐事 发生 争吵 2002年 被告 犯 盗窃罪 判刑 15 年 2011年 11月 提前 释放 后 猜疑 原告 致使 原告 无法 再 被告 一起 共同 生活 夫妻 感情 确 已 破裂 为此 诉请 法院 判 令 原告 被告 离婚 原 被告 儿子 谭 谭 二 跟随 被告 生活 被告 承担 全部 抚养费
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O

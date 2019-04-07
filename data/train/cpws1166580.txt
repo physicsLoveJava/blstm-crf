@@ -1,0 +1,10 @@
+杜某 诉称 原 被告 2003年 经人介绍 相识 恋爱 times
+O O O O B_Time O B_Know O O
+双方 共同 生育 子 取名 王某 乙
+O O B_Bear I_Gender O B_Name I_Name
+双方 性格 不和 吵架 特别 近 年 被告 外 打工 脾气 变 越来越 暴躁 原告 大打出手 2012年 11月 7日 被告 原告 头部 大 口子 还 香烟 烫 原告 耳朵 致 原告 耳朵 出血 还 原告 右手 扭伤
+O O O O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O
+现 双方 夫妻 感情 已 完全 破裂 无 好
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+王某 甲 辩称 原 被告 夫妻 感情 好 原告 诉称 双方 发生 争吵 应 夫妻 日常 生活 中 在所难免 不 影响 夫妻 感情
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O

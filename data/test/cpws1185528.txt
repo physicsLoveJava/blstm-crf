@@ -1,0 +1,14 @@
+原告 刘×诉 称 原告 被告 2006年 底 经人介绍 相识 2008年 12月 26日 登记 结婚 双方 均 系 再婚 婚后 无 子女
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry O O O
+原被告 婚后 家庭 琐事 发生 争吵 被告 还 损坏 家庭 财物
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+之后 曾 法院 起诉 离婚 后 顾及 双方 感情 撤诉 本来 想 被告 和好 机会 撤诉 之后 双方 感情 未 好转 进一步 恶化
+O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O O O O
+2013年 1月 原告 诉至法院 要求 离婚 法院 驳回 诉讼 请求
+B_Time I_Time B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Judgment I_Judgment I_Judgment
+双方 夫妻 感情 已经 彻底 破裂 现 诉至法院 请求 判决 原被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 李×辩 称 原告 述 相识 过程 结婚 情况 子女 状况 均 属实
+O O O O O B_Know I_Know B_Marry I_Marry O O O B_Negated
+12月 结婚 当年 5月 原告 不 上班 年 没 上班 家里 开支 都 负担
+B_Time B_Marry O O O O O O O O O O O O

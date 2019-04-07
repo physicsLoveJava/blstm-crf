@@ -1,0 +1,16 @@
+原告 某某 诉称 2010年 5月 12日 被告 经人介绍 订婚 同年 6月 2日 草率 结婚
+O O O O O O O O O B_Time I_Time I_Time O B_Marry
+2011年 9月 11日 生育 子毛 某甲
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+夫妻 共同 财产 位于 宣汉县 土黄镇 街道 小 地名 铁山 碑 房屋 栋 价 45000 元
+O B_CommonProperty I_CommonProperty O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth B_Price I_Price I_Price
+婚前 缺乏 了解 草率 结婚 婚后 常 家庭 琐事 吵架 打架
+O O O O O O O O O B_FamilyConflict I_FamilyConflict
+2012年 农历 1月 15日 感情 不合 分居 生活 今 夫妻 感情 已 彻底 破裂
+B_Time I_Time I_Time I_Time O O B_Separation O I_Time O O O O O
+被告 毛 某某 辩称 原告 述 订婚 结婚 时间 属实
+O O O O O O O B_Marry O B_Negated
+婚后 主要 被告 好逸恶劳 参与 赌博 不 付 赌债 怀恨 心
+O O B_Person O O B_BadHabit O O O O O
+2 邮政 储蓄 银行 存款 凭条 3 张 证明 2012年 2月 4月 被告 原告 母 付 小孩 抚养费 2000 元
+O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O O O O O O

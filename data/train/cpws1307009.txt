@@ -1,0 +1,4 @@
+原告 张 某某 诉称 原 被告 经人介绍 相识 婚初 感情 尚 后 被告 生活 上 独断专行 双方 性格 差异 大 2009年 4月 双方 分居 今 2012年 8月 原告 曾 起诉 离婚 未果 嗣后 夫妻 关系 未 改善 夫妻 感情 已 破裂 要求 被告 离婚
+O O O O O O O B_Know O O O O O O O O O O O O B_Time I_Time O B_Separation O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 某某 辩称 原 被告 2002 2003年 同居 共同 生活 2008年 登记 结婚
+O O O O O O O O O O B_Time B_Marry I_Marry

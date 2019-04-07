@@ -1,0 +1,4 @@
+原被告 1992年 1月 人 介绍 相识 建立 恋爱 关系
+O B_Time I_Time O O B_Know O B_BeInLove O
+1992年 5月 15日 领取 结婚证 当时 原告 属于 丈夫 死亡 后 再婚 被告 初婚
+B_Time I_Time I_Time B_Marry I_Marry O B_Person O O O O B_Remarry B_Person B_Remarry

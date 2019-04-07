@@ -1,0 +1,8 @@
+原被告 熟人 介绍 建立 恋爱 关系 1992年 9月 16日 武清区 民政部门 批准 登记 结婚
+O O O O B_BeInLove O B_Time I_Time I_Time O O O O B_Marry
+婚生 两 儿子 长子 已 成年 被告 共同 生活
+B_Bear O B_Gender O O O O O O
+双方 被告 经营 不好 外债务 问题
+O O O O B_FamilyConflict O
+产生 矛盾 争吵 造成 感情 不和 依据 双方 协商 离婚
+O B_FamilyConflict B_FamilyConflict O O O O O O B_DivorceLawsuit

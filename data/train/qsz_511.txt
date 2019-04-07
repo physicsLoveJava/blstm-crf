@@ -1,0 +1,6 @@
+原 被告 1990年 经人介绍 确立 恋爱 关系 1992年 农历 11月 29日 举行 结婚 仪式 同居 生活
+O O B_Time O O B_BeInLove O O O O O O O O O O
+1994年 2.月 | f4 办理 结婚 登记 手续 1994年 正月初三 生 儿子 秦宏宇 现 已 成年
+B_Time I_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Time I_Time B_Bear B_Gender B_Name O O O
+根本 合 不 上 感情 冷漠 原告 凑合 现在
+O O O O B_FamilyConflict I_FamilyConflict O O O

@@ -1,0 +1,8 @@
+原告 彭 某某 诉称 原 被告 1999年 7月 登记 结婚 婚后 关系 1998年 生 男孩 刘某子 现在 郭店 技校 就读
+B_Person I_Person I_Person O O O B_Time I_Time B_Marry I_Marry O O B_Time B_Bear B_Gender B_Name O O O O
+近 年 被告 刘 某某 原告 彭 某某 无事生非 导致 双方 无法 共同 生活 2013年 正月初三 被告 刘 某某 打骂 原告 彭 某某 后 双方 分居 生活
+O O O O O O O O B_FamilyConflict O O O O O B_Time I_Time O O O B_FamilyConflict O O O O O B_Separation O
+现 依据 法律 规定 诉至法院 请求 判决 原 被告 离婚
+O O O O B_DivorceLawsuit O O O O O
+被告 刘 某某 辩称 原告 彭 某某 诉 不 符合 事实
+O O O O O O O O B_Negated I_Negated I_Negated

@@ -1,0 +1,4 @@
+原告 许某 诉称 被告 2008年 经人介绍 相识 ×××× 年××月1 举行 结婚 仪式 ×××× 年×× 月×× 日 生育 女儿 张某 乙 ×××× 年×× 月××日补办 结婚 登记 手续
+O O O O B_Time O B_Know O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Marry O O
+婚后 被告 性格 脾气 不 家庭 琐事 发生 争吵 被告 总是 恶言 恶语 没 建立 夫妻 感情 请求 法院 判决 被告 离婚 女儿 抚养 被告 承担 抚养费 婚前 财产 所有
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

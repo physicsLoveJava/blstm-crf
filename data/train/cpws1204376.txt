@@ -1,0 +1,14 @@
+原告 李 某某 诉称 原告 被告 经人介绍 1989年 2月 结婚 未 办理 结婚 登记 手续
+O O O O O O O O O B_Marry O O O O O
+婚后 生育 三 子女 均 已 成年
+O B_Bear O B_Gender O O O
+被告 不但 子女 不 抚养 义务 还 原告 实施 家庭 暴力
+B_Person O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Person O B_DomesticViolence I_DomesticViolence
+7 年 前 被告 涉嫌 杀人 判刑 入狱
+O O O O I_BadHabit I_BadHabit I_BadHabit I_BadHabit
+被告 刑满释放 后 仍 不思悔改 扬言 见到 原告 原告 杀死 惧 被告 淫威 原告 只好 被告 常年 分居 迫 生计 继续 外 打工
+O O O O O O O O O O O O O O O O B_Separation I_Separation O O O O O
+判决 后 年 时间 双方 仍 分居
+O O I_Duration O O O B_Separation
+刑满释放 后 原告 一起 生活 没有 分居
+O O O O O B_Negated B_Separation

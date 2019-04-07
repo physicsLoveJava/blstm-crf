@@ -1,0 +1,20 @@
+2012年 6月
+B_Time I_Time
+原 被告 经人介绍 相识 确立 恋爱 关系
+O O O B_Know B_BeInLove I_BeInLove I_BeInLove
+2012年 8月 29日 双方 民政部门 办理 结婚 登记 手续
+B_Time I_Time I_Time O O B_Marry I_Marry I_Marry I_Marry
+2012年 农历 10月 20日 举行 婚礼 同居 生活 2014年 6月 21日 生育 婚生 女 林思佳 现在 被告 生活
+B_Time I_Time I_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Bear O B_Gender B_Name O O O
+2017年 被告 好逸恶劳 还 喝酒 外 喝酒 闹事 打架 回到 家里 无故 殴打 原告人
+B_Time B_Person B_BadHabit I_BadHabit I_BadHabit O O O O O O B_DomesticViolence I_DomesticViolence B_Person
+被告 要求 原告 先 去 接 自来水 当时 孩子 睡觉 刚 醒 原告 先 哄 孩子 没 去 及时 接 水 被告 鞋底 原告 膝盖 抽 扬言 原告 腿 骨折 无奈 原告 跑 回 娘家 弟弟 家 被告 找到 后 弟弟 家 闹事 后 原告 弟弟 报警
+O O O O O O O O O O O O O O O O O O O O O B_Person O I_DomesticViolence I_DomesticViolence I_DomesticViolence O B_Person O O O O O O O O O O O O O O O O O O O
+2018年 6月 2日 原告 孩子 放假 被告 商量 好 次日 带 孩子 附近 游乐场 去 玩 天 被告 朋友 去 外区 旅游 傍晚 才 家
+B_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O O O
+无法 带 孩子 去 娱乐场 双方 发生 争吵 被告 棍子 凳子 殴打 原告 致使 原告 身上 处 受伤 无奈 原告 报警
+O O O O O O O O B_Person I_DomesticViolence I_DomesticViolence I_DomesticViolence B_Person O O O O O O O O
+原 被告 分居
+O O B_Separation
+社会 上 被告 交际 不良 嗜好 人 不 学 无术 喝酒 打架 时常 派出所 传唤 处理
+O O B_Person O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O

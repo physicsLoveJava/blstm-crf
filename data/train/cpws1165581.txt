@@ -1,0 +1,6 @@
+原告 起诉 称 原 被告 ×××× 年×× 月×× 日 登记 结婚 于×××× 年×× 月×× 日 生育 长子 周某 乙 ×××× 年×× 月×× 日 生育 次子 周某丙
+O O O O O B_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+原告 早日 结束 名存实亡 婚姻 关系 曾 2012年 12月 法院 起诉 要求 被告 离婚
+O O O O O O O B_Time I_Time O B_DivorceLawsuit O O O
+法院 驳回 原告 诉讼 请求 后 被告 仍 漠然置之 致 夫妻 感情 彻底 破裂
+O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O

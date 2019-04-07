@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1983年 经人介绍 相识 1984年 4月 22日 举行 婚礼 未 办理 结婚 登记 便 生活
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O
+婚后 夫妻 感情 1985年 2月 5日 生育 子 李某 甲 1990年 1月 2日 生育 女 李某 乙
+O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+为此 原告 被告 争吵 打架
+O O O B_FamilyConflict I_FamilyConflict
+2008年 被告 赌钱 问题 双方 发生 吵闹 后 分居 生活 今
+B_Time O O O O O O O B_Separation O I_Time

@@ -1,0 +1,8 @@
+原告 冯某 甲诉 称 原 被告 2007年 8月 人 介绍 相识 同年 8月 10日 登记 结婚 8月 28日 举行 结婚 仪式 后 被告 原告 家落户 共同 生活
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time O B_Marry I_Marry O O O O O O
+双方 2008年 9月 28日 婚生 男孩 取名 冯 某乙
+O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 辱骂 殴打 原告
+B_Person B_DomesticViolence I_DomesticViolence B_Person
+现原 被告 分居 生活 多年 夫妻 感情 已 彻底 破裂 和好 无望
+O O B_Separation O B_Duration O O O O O O O

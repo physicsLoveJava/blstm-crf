@@ -1,0 +1,6 @@
+原 被告 2011年 底 经人介绍 相识 双方 2012年 3月份 确立 恋爱 关系 2012年 5月 订婚 2013年 5月 亲人 朋友 见证 下 举行 结婚 仪式 同居 生活 二 人 2015年 2月 14日 补办 结婚证
+O O B_Time I_Time O B_Know O B_Time I_Time O B_BeInLove O O O O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Marry
+2014年 7月 生育 女 马雨妍 现 原告 生活
+B_Time I_Time B_Bear B_Gender B_Name O O O
+双方 家庭 琐事 争吵 不 休 导致 感情 破裂 感情 不合 2017年 6月 分居 生活 原告 带 孩子 居住 娘家 分居 以来 感情 无 改观 双方 离婚 问题 进行 协商 无 果 无奈 之下 诉 贵院
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict O O B_Time I_Time B_Separation O O O O O O O O O O O O O O O O O O O O O O

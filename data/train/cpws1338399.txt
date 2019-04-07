@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 2010年 12月 人 介绍 相识 期间 无 往来 2012年 农历 8月 6日 原 被告 举行 结婚 仪式 同居 生活 2013年 1月 17日 双方 办理 结婚 登记 手续 结婚 后 月 时间 里 原 被告 婚前 互不 了解 没有 建立 夫妻 感情 不断 生气 打架 被告 原告 使用 家庭 暴力
+O O O O O B_Time I_Time O O B_Know O O O B_Time I_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O O O O O O O O O O O O O O B_Person B_Person O B_DomesticViolence I_DomesticViolence
+办理 结婚 登记 手续 天 原 被告 打架 分居 今
+I_Time I_Time I_Time I_Time I_Time O O O B_Separation I_Time

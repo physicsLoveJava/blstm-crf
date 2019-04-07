@@ -1,0 +1,8 @@
+原 被告 2015年 10月份 经人介绍 相识 确立 恋爱 关系 2016年 3月 7日 办理 结婚 登记 手续 领证 当天 付 被告 彩礼 60000 元
+O O B_Time I_Time O B_Know O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O O O O O O O
+2016年 4月 30日 举行 结婚 仪式 后 共同 生活
+B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O
+原 被告 均 系 再婚 被告 原籍 内蒙古 被告 隐瞒 真实 年龄 欺骗 原告 直至 办理 结婚 登记 时 原告 才 知道 被告 实际 年龄 大 五 岁 原 被告 婚前 缺乏 了解 草率 结婚 没有 感情 基础
+B_Person I_Person O O B_Remarry O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+结婚 后 在家 三 天 便 外出 上班 为由 原告 分开 居住 原告 接 被告 被告 不 愿意 回家 被告 饭店 打工 都 居住 饭店 回家 不 原告 夫妻 生活
+O O O O O O O O O I_Separation I_Separation I_Separation O O O O O O O O O O O O O O O O O O

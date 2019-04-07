@@ -1,0 +1,6 @@
+原告 温某 梅诉 称 原 被告 2008年 10月 被告 亲属 介绍 后 相互 认识 应 被告 要求 2009年 1月 19日 仓促 办理 结婚 登记 手续 未 生育 子女 亦 无 共同 债权 债务
+O O O O O O B_Time I_Time O O O O O B_Know O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O O O O O O O O
+夫妻 感情 不 常 生活 琐事 引起 吵闹 被告 还 无缘无故 损坏 财物
+O B_FamilyConflict I_FamilyConflict O O O O O O O O O O
+现 双方 已 分居 半 年 以上 期间 被告 原告 不闻不问 亦 无 资金 往来
+O O O B_Separation B_Duration I_Duration I_Duration O O O O O O O O

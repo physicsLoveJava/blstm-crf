@@ -1,0 +1,8 @@
+原 被告 初中 同学 2016年 处 男女 朋友 2016年 12月 19日 天津市 蓟州区 民政局 领取 结婚证 蓟州 区别山镇 大黄土庄村 居住 生活
+O O O O B_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O O B_Marry I_Marry O O O O O
+2017年 7月 24日 原被告 婚生 女 李欣泽 出生 周岁
+B_Time I_Time I_Time O B_Bear B_Gender B_Name O I_Age
+原被告 结婚 前 没有 了解 对方 性格 不合 婚后 吵架 2018年 1月份 被告 遂 离开 蓟州区 去 外地 打工 今
+O O O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict B_Time I_Time O O O O B_Separation I_Separation I_Separation O
+被告 外地 打工 每月 工资 7000 元 左右 未 原告 孩子 抚养费 请求 法院 夫妻 共同 财产 进行 分割 暂 定 10万 元
+O O O O O O O O O O O O O O B_CommonProperty O B_Wealth O O O O B_Price I_Price

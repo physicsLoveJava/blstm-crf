@@ -1,0 +1,16 @@
+原告 罗某 诉称 双方 2001年 10月 登记 结婚 2004年 11月 生育 子 名林 某某
+O O O O B_Time I_Time O B_Marry O O B_Bear O O O
+原 被告 自由 恋爱 期间 被告 隐瞒 已婚 事实 还 瞒 原告 异性 保持 暧昧 关系
+O O O O O B_Person O O O O O O I_Derailed I_Derailed I_Derailed I_Derailed
+婚后 被告 暴躁 脾气 卑劣 性格 表现 越来越 明显 双方 吵架 被告 常常 恶劣 言语 侮辱 原告 人格 孩子 发泄 出气筒 逐步 演变 成 原告 采取 肢体 暴力 动手 殴打 原告 孩子 肆意 摔 砸 家里 物品
+O O O O O O O O O O O B_Person O O O O O O O O O O O O O O O B_DomesticViolence O O B_Person B_Person O O O O O
+被告 擅自 原告 名下 越野车 转移 妹妹 名下 上海市 长宁区 某路 两 套 房屋 钥匙 更换 阻止 原告 进入 上述 房屋
+O O B_Person O B_Wealth O O O O O O B_Wealth I_Wealth I_Wealth O O O O O O O
+2012年 8月 双方 正式 分居 今
+B_Time I_Time O O B_Separation I_Time
+2012年 原告 曾 提起 离婚 诉讼 法院 判决 不予 准许
+B_Time B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment
+被告 林某 辩称 原告 述 不 属实 被告 不 存在 异性 关系 暧昧 家庭 暴力 行为
+O O O O O O O B_Person B_Negated I_Negated I_Derailed I_Derailed I_Derailed B_DomesticViolence I_DomesticViolence O
+2011年 11月 被告 患 恶性肿瘤 回国 开刀 无法 进行 夫妻 生活 双方 2011年 11月 正式 分居
+O O O O O O O O O O O O B_Time I_Time O B_Separation

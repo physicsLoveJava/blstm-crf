@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2005年 1月 19日 依法 登记 结婚 2005年 8月 14日 生 女孩 ldquo
+O O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O
+原、被告 缺乏 了解 被告 说谎 婚后 双方 常 家务 琐事 吵闹 被告 殴打 原告
+O O O O B_BadHabit O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person
+为此 原告 2011年 10月 10日 2012年 5月 22日 两 次 提起 离婚 诉讼 法院 判决 不 准 离婚 后 原 被告 分居 生活 没有 好
+O O B_Time I_Time I_Time B_Time I_Time I_Time O O O B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O B_Separation O O O

@@ -1,0 +1,8 @@
+原告 白某 甲诉 称 原 被告 1998年 初 经人介绍 相识 1998年 12月 4日 登记 结婚 1999年 12月 29日 生育 子 白某 乙
+O O O O O O B_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name I_Name
+被告 原告 猜疑 常 离婚 相 威胁 原告 母亲 不好 致使 原告 十分 痛苦
+O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+原告 曾 二 次 起诉 离婚 未 得到 法院 准许
+O O O O B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment
+原告 2010年 被告 分居 双方 已 无 共同语言 夫妻 感情 业已 破裂 提起 诉讼 请求 判 令 1 原告 被告 离婚
+O O O B_Separation O O O O O O O O O O O O O O O O O

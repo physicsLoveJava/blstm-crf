@@ -1,0 +1,6 @@
+原告 温某 诉称 原告 被告 ×××× 年×× 月 登记 结婚 婚后 于×××× 年×× 月×× 日 生育 女儿 取名 籍 某乙
+O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+婚后 原告 被告 根本 没有 共同语言 被告 性格 孤僻 酗酒 夜 不 宿 有时 还 原告 实施 家庭 暴力
+O O O O O O B_Person O O B_BadHabit O O O O O B_Person O B_DomesticViolence I_DomesticViolence
+婚后 家务 琐事 发生 口角 争 不至于 导致 感情 破裂
+O O O O B_FamilyConflict I_FamilyConflict O O O O

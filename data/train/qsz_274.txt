@@ -1,0 +1,16 @@
+原告 被告 1996年 经人介绍 相识 确立 恋爱 关系
+O O B_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 1998年 举办 婚礼 同居 生活
+O B_Time B_Marry I_Marry O O
+双方 2000年 12月 8日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 1999年 11月 2日 生育 子 赵俊
+O B_Time I_Time I_Time B_Bear B_Gender B_Name
+源于 被告 异性 保持 不 正当 同居 关系
+O B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+导致 夫妻 间 争吵 不 休
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+夫妻 已 分居 生活
+O O B_Separation O
+原 被告 共同 生活 二十 年 被告 出轨 行为
+O O O O O O B_Person B_Derailed O

@@ -1,0 +1,10 @@
+2006年 3月份 确立 恋爱 关系 2011什 7月 13日 武清 I 区 K 民政局 办理 结婚 登记 婚后 共同 生活
+B_Time I_Time B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry O O O
+2011年 7月 15日 育 女 取名 沈纹锐
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2014年 7月 12日 生育 取名 沈义泽
+B_Time I_Time I_Time B_Bear O B_Name
+共同 生活 期间 大 娄 感情 般 被告 家庭 不 负 责任 原告 争吵 孩子 关心
+O O O O O O O O O O O O O B_FamilyConflict O O
+2018年 8月 初 还 银行 贷款 事情 双方 发生 争执 后 分纠 今
+B_Time I_Time I_Time O B_Debt I_Debt O O O B_FamilyConflict O B_Separation O

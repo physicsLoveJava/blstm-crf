@@ -1,0 +1,10 @@
+原被告 经人介绍 相识 相处
+O O B_Know O
+2012年 3月 5日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry I_Marry
+双方 均 系 二 婚 婚后 未 生育 子女
+B_Person O O B_Remarry I_Remarry O B_Negated B_Bear O
+婚前 缺乏 了解 婚后 性格 不合 家庭 琐事 争吵 难以 共同 生活
+O O O O O O O O B_FamilyConflict O O O
+后 成诉 案经 2017 津0119 民 初9352 号 民事 判决书 判 准 不予 离婚
+O B_DivorceLawsuit O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

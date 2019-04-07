@@ -1,0 +1,8 @@
+原告 付 某某 诉称 被告 深圳 打工 期间 认识 系 自由 恋爱
+O O O O O O O O B_Know O O B_BeInLove
+2008年 举行 结婚 仪式
+B_Time O B_Marry O
+婚初 关系 尚 一点 小事 发生 争吵
+O O O O O B_FamilyConflict I_FamilyConflict
+听 别人 说 被告 女人 关系 暧昧
+O O O B_Person I_Derailed I_Derailed I_Derailed

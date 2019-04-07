@@ -1,0 +1,12 @@
+原告 被告 2005年 10月 人 介绍 相识 2006年 8月 7日 登记 结婚 共同 生活 2006年 12月 7日 生育 子 取名 谭杰文
+O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 性格 差异 大 婚后 生活 琐事 吵架
+O O O O O O O B_FamilyConflict
+2016年 1月 感情 不 分居 今
+B_Time I_Time O O B_Separation I_Duration
+原告 2017年 3月 提起 离婚 诉讼
+B_Person B_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit
+贵院 2017年 4月 24日 判决 不 准 离婚
+B_Court B_Time I_Time I_Time O B_Judgment I_Judgment I_Judgment
+被告 2017年 10月 18日 提起 离婚 诉讼 后 财产 分割 未 协商 一致 被告 2017年 11月 15日 撤诉
+B_Person B_Time I_Time I_Time O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Judgment

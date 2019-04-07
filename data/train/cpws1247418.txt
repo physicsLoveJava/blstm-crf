@@ -1,0 +1,6 @@
+原告席 某某 诉称 被告 2003年 8月 13 办理 结婚 登记 婚后 感情 好
+O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O O
+被告 2004年 7月 21日 生长女 取名 席 甲 2007年 5月 23日 生 次女 取名 席某 乙 2010年 7月 4日 生 男孩 取名 席某丙
+O B_Time I_Time I_Time B_Bear O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+被告 冀 某某 辩称 原告 说 办理 结婚 登记 子女 情况 属实 原告 建立 深厚 感情 生育 三 子女 不 同意 离婚 原告 离婚 不 符合 法定 条件
+O O O O O O B_Marry I_Marry I_Marry B_Bear I_Bear O O O O O O O O O O O O O O O O O

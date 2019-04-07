@@ -1,0 +1,2 @@
+被告 妻子 2012年 11月 再婚 2017年 9月 30日 自主 离家 出走 至今 不 在家 期间 上班 外出 打工 未曾 照顾 家庭 责任 严重 影响 生活 家庭 和睦 现在 感情 已经 破裂
+O O B_Time I_Time B_Marry B_Time I_Time I_Time O B_Separation I_Separation O O O O O O O O O O O O O O O O O O O O

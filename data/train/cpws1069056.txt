@@ -1,0 +1,6 @@
+原告 王某 诉称 原 被告 系 自由 恋爱 2006年 6月 5日 登记 结婚
+O O O O O O O O B_Time I_Time I_Time B_Negated B_Marry
+2006年 11月 21日 生育 女孩 杨某 甲 2007年 12月 28日 生育 男孩 杨某 乙 2009年 5月 4日 生育 男孩 王某丙
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 原、被告 双方 感情 不好 家庭 琐事 争吵
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict

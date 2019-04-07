@@ -1,0 +1,26 @@
+2001年 8月 3日 原 被告 临沂市 罗庄区 民政局 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O B_Marry I_Marry I_Marry I_Marry
+2002年 3月 15日 原 被告 生育 子 取名 解某 甲
+B_Time I_Time I_Time O O B_Bear B_Gender O B_Name I_Name
+被告 生活 中 严重 酗酒 抽烟 习惯 性格 骄横 狂妄 生性 风流 脾气 暴躁 常 生活 琐事 原告 发生 吵闹
+B_Person O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O B_FamilyConflict I_FamilyConflict
+2007年 始 被告 人 同居 夜 不 宿 回家 原告 无端 挑衅 非 骂 原告 赶出 家门
+B_Time I_Time B_Person I_Derailed I_Derailed O O O O O O O O O O O O
+2008年 8月份 被告 姓 女子 生 下 子 取 名字 二伟 至此 原告 彻底 出 家门
+B_Time I_Time O O O B_Bear O B_Gender O O B_Name O O O O O
+原告 出 家门 后 被告 还 理由 强横 阻止 原告 探望 孩子 原告 实施 打骂
+O O O O B_Person O O O O O O O B_Person B_DomesticViolence I_DomesticViolence
+被告 行为 已经 触犯 刑法 第二百五十八 条 规定 涉嫌 重婚罪 被告 行为 致使 原告 身心 受到 巨大 伤害 二 人 夫妻 感情 确 已 破裂
+O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+依据 相关 法律 规定 法院 提起 诉讼 请求 法院 依法 判 令 原 被告 离婚 婚生 男孩 解某 甲 原告 抚养 被告 赔偿 原告 精神 损失费 40000 元
+O O O O O O B_DivorceLawsuit O B_Court O O O O O O O O O O O O O O O O O O O
+原 被告 2001年 8月 3日 登记 结婚 婚后 感情 好 2002年 3月 15日 生育 男孩 取名 解某 甲
+O O B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name
+被告 家庭 尽职尽责 老实 本分 没有 不良 嗜好 原告 无理 请求 取闹 包容 根本 没有 打骂 原告
+B_Person O O O O B_Negated B_BadHabit I_BadHabit O O O O O O B_Negated B_DomesticViolence B_Person
+被告 女人 没有 不 正当 关系 更 没有 女人 生 孩子
+B_Person O B_Negated B_Derailed I_Derailed I_Derailed O B_Negated O B_Bear O
+原告 称 原告 2008年 今 四 年 没有 回家 原告 长 达 四 年 时间 内 孩子 生活 不 不 问 不尽 抚养 义务
+O O O B_Time I_Duration I_Duration I_Duration B_Separation I_Separation O O O O O O O O O O O O O O O
+2007年 4月 9日 被告 交通 事故 受伤 住院 住院 208 天 尚 欠 债务 43000 元 至今 未 还
+O O O O O O O O O O O O B_Debt I_Debt B_Price I_Price O O O

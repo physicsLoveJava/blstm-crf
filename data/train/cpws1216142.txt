@@ -1,0 +1,6 @@
+原告 李 某某 诉称 被告 柳 某某 1973年 9月 6日 登记 结婚 婚后 生育 两 儿子 现 都 长大成人
+B_Person O O O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear O B_Gender O O B_Age
+婚前 草率 仓促 相互 交往 少 了解 不够 婚后 才 发现 两 人 性格 差异 被告 性情 粗暴 无故 发脾气 动手 人 造成 精神 上 恐惧感
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence I_DomesticViolence O O O O
+1991年 4月 27日 干 农活 被告 鞭子 身上 猛 抽 猛打 无奈 一气之下 离家 出走 今
+O O O O O B_Person O O O O O O O O O O

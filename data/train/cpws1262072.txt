@@ -1,0 +1,12 @@
+原 告诉 称 2010年 中旬 被告 经人介绍 认识 2010年 10月 18日 政府 登记 结婚
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry
+婚后 双方 性格 不合 生气 吵架 未 建立 真正 夫妻 感情
+O O O O O B_FamilyConflict O O O O O
+被告 家人 孩子 进行 辱骂
+O O O O B_FamilyConflict
+原告 系 再婚 婚姻 珍惜 原告 无法 忍受 这种 生活
+B_Person O B_Remarry O O O O O O O
+现 被告 已 分居 生活 夫妻 之间 长期 互不尽 夫妻 义务 夫妻 感情 彻底 破裂 已 无 和好
+O O O B_Separation O O O O O O O O O O O O O O
+被告 辩称 原告 诉称 根本 不 事实 被告 2010年 阴历 6月 经人介绍 认识 2010年 10月 18日 登记 结婚
+O O O O O O O O O O O O B_Know O O O B_Marry I_Marry

@@ -1,0 +1,10 @@
+原告 被告 2007年 1月 初 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 2007年 1月 8日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+被告系 再婚
+B_Person B_Remarry
+被告 2007年 1月 20日 高 开 原告 家 出走
+O B_Time I_Time I_Time O O O O O
+至今 双方 分居 生活
+B_Time O B_Separation O

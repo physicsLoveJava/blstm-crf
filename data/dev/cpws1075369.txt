@@ -1,0 +1,4 @@
+原告 李 某某 诉称 被告 2009年 10月 人 介绍 认识 2010年 1月 27日 双方 领取 结婚证 结婚 2011年 4月 24日 生 女孩 取名 李凯忻
+O O O O O B_Time I_Time O B_Know I_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 便 仓促 结婚 婚后 发现 被告 性格 粗暴 无事生非 导致 夫妻 结婚 矛盾 重重 为此 被告 2011年 5月 离家 出走 原告 遂 2012年 4月 诉 周至县 人民法院 要求 被告 离婚 后 法院 调解 原告 撤回 起诉 被告 原告 撤诉 后 今 夫妻 关系 仍 未 和好 被告 家 不 不尽 做 妻子 母亲 义务 现 夫妻 感情 已 彻底 破裂 诉至法院 坚决 要求 被告 离婚
+O O O O O O O O B_Person B_BadHabit I_BadHabit I_BadHabit O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Time I_Time B_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O

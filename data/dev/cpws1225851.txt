@@ -1,0 +1,8 @@
+原告 范某 诉称 原 被告 婚后 感情 双方 脾气 性格 差异 常 家庭 事务 发生 矛盾 难于 沟通
+O O O O O O O O O O O O O O O B_FamilyConflict O O
+X 路 29 号 院 1-1-2 号 房屋 养老房 任何人 都 无权 动用 被告 X 路 29 号 院 1-1-2 号 房屋 许愿 范某 甲 不 同意 诉至法院 要求 解除 原 被告 婚姻 关系
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 郭某 辩称 原告 结婚 以来 没有 家庭 承担 应 负 责任 整个 家 抛弃 被告 含辛茹苦 儿女 拉扯 大 老婆 婆伺候 舒服 周到
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O
+被告 要求 邯郸市 丛台区 新兴 大街 X 小区 1-5-6 号 房屋 无偿 过户 范某 甲 X 路 29 号 院 1-1-2 号 房屋 售出 款 分 三分之二
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O

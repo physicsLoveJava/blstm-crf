@@ -1,0 +1,6 @@
+原告 李某 甲诉 称 原 被告 ×× ×× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 李某 乙
+O O O O O O B_Time I_Time I_Time I_Time I_Time O B_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+双方 婚前 缺乏 了解 性格 不和 缺乏 共同语言 导致 婚后 常 家庭 琐事 争吵 使 双方 薄弱 夫妻 感情 逐渐 破裂 现 已 分居 四 年 久 再 无 和好
+O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O
+原告 2011年 曾 贵院 提起 离婚 诉讼 2012年 12月 20日 贵院 作出 不 准 离婚 判决 法院 作出 判决 半 年 里 原告 每日 都 生活 痛苦 之中 被告 不 沟通 交流 只 不断 升级 争吵 感情 确 已 破裂 再 无 好 现 原告 提起 离婚 诉讼 请求 判 令 解除 原 被告 婚姻 关系 婚生 女儿 李某 乙 原告 抚养 被告 每月 支付 抚养费 人民币 500 元 直至 独立 生活 为止 依法 分割 夫妻 共同 财产
+B_Person B_Time O O O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

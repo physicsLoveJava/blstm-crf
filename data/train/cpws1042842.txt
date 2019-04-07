@@ -1,0 +1,14 @@
+原告 冯某 起诉 称 原 被告 1995年 4月 28日 宁海县 力洋镇 人民政府 登记 结婚
+O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+×××× 年×× 月×× 日 生育 子 取名 孔某 乙 现 跟随 原告 生活 就读 宁波市 北仑区 明港 高级 中学
+B_Time I_Time I_Time I_Time B_Bear O O B_Name I_Name O O O O O O O O O O
+2006年 12月份 双方 原告 名义 购买 北仑区 霞浦 街道 锦港 佳园 9 幢 4 单元 507室 套房 被告 法院 次 判决 不 准 离婚 后 未 协议 履行 原告 无奈 2013年 3月 房屋 卖 卖 房前 通知 被告 房屋 出卖 总价款 906000 元 卖房款 部分 用于 还 债 付 揭款 日常 消费 目前 还 剩 500000 元 均 儿子 名义 购买 基金
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth O B_Price I_Price I_Price O O O O O O O O O O O O I_Price I_Price I_Price O O
+债务 十 万 元 卖 房 后 已 全部 归还 被告 说 债务 中 王文通 处 15000 元 卢 某某 处 4000 元 哥冯乙 王 某某 20000 元 事实 哥冯乙 王 某某 20000 元 卖 房 后 已 归还 被告 债务 不 清楚
+O O O O O O O B_Debt I_Debt B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 不 承担 家庭 责任 不 抚养 儿子 双方 家庭 琐事 发生 争吵 2009年 7月份 双方 分居 生活 今 为此 原告 曾 两 次 法院 起诉 离婚 法院 两 次 判决 不 准 离婚 双方 关系 仍 未 改善 夫妻 感情 已 彻底 破裂 无 好 希望
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O I_Time I_Time I_Time O O O B_Separation O O O O O O O O O O O O O O O O O O O O O O
+2009年 7月份 分居 不 事实 被告 去 新疆 打工 双方 只 分开 生活 不 分居
+O O O O O O O B_Time I_Time I_Time O B_Separation I_Separation O O
+婚后 共同 债务 三十 万 元 原告 说 债务 中 孔丙处 10000 元 孔丁处 68000 元 事实 没有 人 债务 各人 负责 偿还
+O O O O O O O O O O O O B_Debt B_Price I_Price O O O O O O O O

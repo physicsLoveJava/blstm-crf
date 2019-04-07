@@ -1,0 +1,10 @@
+原告 被告 经人介绍 相识 2000年 12月 7日 当地 民政部门 登记 结婚
+O O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry
+双方 婚前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚
+O O O O O O O B_FamilyConflict I_FamilyConflict O O
+二 人 发生 矛盾
+O O O B_FamilyConflict
+双方 2014年 4月 22日 签订 分居 协议书 后 分居 生活 今
+O B_Time I_Time I_Time O B_Separation O O O O I_Time
+原告 提出 诉讼
+B_Person B_DivorceLawsuit I_DivorceLawsuit

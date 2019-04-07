@@ -1,0 +1,8 @@
+2012年 7月 原 被告 经人介绍 确立 恋爱 2013年 10月 28日 带 女儿 曹洛琪 被告 处 生活 2014年 6月 25日 生 女儿 曹梦琪
+B_Time I_Time O O O O B_BeInLove O O O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 感情 被告 始终 未 原告 同心 持家 被告 凡事 皆 听 父母 命 双方 矛盾 不 断
+O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2018年 5月 中旬 被告 单位 派遣 去 四川 出差 2 月 期间 嫖娼 出轨
+O O O B_Person O O O O O O O O B_Derailed I_Derailed
+原告 知晓 后 告诉 求 原谅 原告 难以 释怀 双方 感情 确 已 破裂 无 好
+O O O O O O B_Person O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 单某 诉称 原 被告 1997年 经人介绍 相识 1998年 举行 结婚 仪式 1999年 补领 结婚证 婚后 生育 二 子 长子 现年 15 岁 取名 吴 某乙 次子 现年 10 岁 取名 吴某丙
+O O O O O O O B_Know O O O O B_Time O B_Marry O B_Bear O O B_Gender O B_Age I_Age O B_Name I_Name B_Gender O B_Age I_Age O B_Name
+原 被告 婚后 生活 尚 好 2006年 被告 外出 务工 后 发生 改变 被告 不但 第三者 不 正当 关系 第三者 带 回 家中 还 原告 实施 家庭 暴力 伤 原告 后 还 不 不 问 孩子 不 履行 抚养 义务 家庭 家人 极 不 负责 直至 原 被告 2010年 分居 今
+O O O O O O O O O O O O O B_Person O O B_Derailed I_Derailed I_Derailed O O O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O

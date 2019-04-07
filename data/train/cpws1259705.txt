@@ -1,0 +1,6 @@
+原 告诉 称 原被告 明水 工作 时 相识 2005年 底 建立 恋爱 关系 2006年 9月 25日 登记 结婚 婚后生 女儿 取名 蔡梦瑶 现 被告 生活
+O O O O O O O O B_Time O O B_BeInLove O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender O B_Name O O O
+被告 好吃懒做 还 酒后 闹事 2013年 初 被告 嫌 原告 上班 双方 发生 矛盾 之后 原告 搬 出 被告 分居 现 已 无 和好
+O O O O O B_Time I_Time O O O O O O B_FamilyConflict O O O O O B_Separation O O O O
+合理 分割 共同 财产
+O O B_Wealth I_Wealth

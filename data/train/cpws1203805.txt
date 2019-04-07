@@ -1,0 +1,2 @@
+原 告诉 称 被告 性格 不合 婚后 常 家庭 琐事 生气 打架 夫妻 感情 已经 破裂 提起 诉讼 要求 被告 离婚 孩子 抚养 被告 支付 抚养费
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_Bear O O O O

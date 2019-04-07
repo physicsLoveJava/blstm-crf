@@ -1,0 +1,8 @@
+原告 被告 均 乐 再 娟 J2015 年 12月 16日 民政部门 登记 结婚 婚后 无 子女
+O O O O O O B_Time I_Time I_Time I_Time O B_Marry I_Marry O O O
+方娇 前 缺少 了解 生活 习惯 脾气 性格 不合 草率 结婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O
+导致 娟后 矛盾 不 断 二 人 小事 发生 争吵 难以 沟通 无法 达成 致 j 儿
+O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O
+原告 已经 再婚 被告 外面 打工 双方 聚少离乡 l !
+B_Person O B_Remarry O O O O O O O

@@ -1,0 +1,8 @@
+原告 曹某 诉称 被告 认识 不 半 年 匆忙 结婚 相互 了解 不够 两 人 性格 生活 习惯 不同 未 建立 良好 夫妻 感情
+O O O O B_Know O O O O B_Marry O O O O O O O O O O O O O O
+被告 没有 丈夫 父亲 责任 赌博 嗜烟 酒 打骂 夫妻 感情 已 名存实亡 特 提起 诉讼 请求 法院 判决 离婚 婚生 女儿 抚养 被告 每月 支付 抚养费 500 元 依法 分割 共同 财产
+B_Person O O O O B_BadHabit B_BadHabit I_BadHabit B_DomesticViolence O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O B_Bear B_Gender O O O O O O O O O O O
+被告 不顾 家庭 谩骂 殴打
+B_Person O O B_DomesticViolence I_DomesticViolence
+被告 暴力 行为 致使 不 正常 生活 夫妻 感情 早已 破裂 无法 一起 共同 生活 保护 合法 权益 特 起诉 要求 被告 离婚 婚生 女儿 抚养 被告 每月 支付 抚养费 800 元 依法 分割 共同 财产 依法 承担 共同 债务
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Debt I_Debt

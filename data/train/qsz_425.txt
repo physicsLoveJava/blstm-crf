@@ -1,0 +1,6 @@
+原 被告 双方 2016年 5月 人 介绍 相识 2016年 7月 11日 办理 婚姻 登记 手续 双方 均 系 再婚 婚前 没有 感情 基础
+O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry B_Person O O B_Remarry O O O O
+2017年 1月份 双方 琐事 产生 争执
+O O O O O B_FamilyConflict
+被告 原告 刺伤
+B_Person B_Person B_DomesticViolence

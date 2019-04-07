@@ -1,0 +1,4 @@
+原告 刘 XXX 诉称 原 被告 2003年 相识 2009年 10月 登记 结婚
+B_Person I_Person I_Person O O O B_Time B_Know B_Time I_Time O B_Marry
+请求 法院 判 令 双方 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

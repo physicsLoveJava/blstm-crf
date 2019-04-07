@@ -1,0 +1,14 @@
+原告 杨甲诉 称 被告 经人介绍 相识 1993年 10月 25日 登记 结婚
+O O O O O O B_Time I_Time I_Time O B_Marry
+1994年 9月 21日 生育 子 杨乙
+B_Time I_Time I_Time B_Bear I_Gender B_Name
+双方 性格 爱好 差异 大 婚后 家庭 琐事 吵闹 夫妻 感情 早已 破裂 考虑 儿子 年龄 小 没有 离婚
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+曾 2012年 12月 24日 法院 起诉 离婚 2013年 3月 7日 法院 判决 不 准 离婚
+O B_Time I_Time I_Time O B_DivorceLawsuit O B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment
+判决 后 双方 关系 仍 未 改善 分居
+O O O O O O O B_Separation
+现 诉至法院 请求 判决 1 原被告 离婚
+O B_DivorceLawsuit O O O O O
+被告 徐甲 辩称 原告 杨甲 感情 尚未 破裂
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

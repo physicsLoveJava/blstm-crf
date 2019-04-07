@@ -1,0 +1,6 @@
+原告 褚某 甲诉 称 被告 夏 某某 经媒人 介绍 相识 1991年 11月 28日 举行 结婚 仪式 同居 生活 1993年 3月 19日 生育 男孩 取名 夏某
+O O O O O O O O O B_Know B_Time I_Time I_Time O B_Marry I_Marry O O B_Time I_Time I_Time B_Bear B_Gender O B_Name
+1993年 9月 2日 原 镇安县 锡铜乡 人民政府 登记 结婚 婚后 感情 不好 被告 整天 游手好闲 不务正业 沉迷 打牌 赌博 之中 不 挣钱 补贴 家用 家庭 经济 十分 困难 2005年 带 孩子 县城 上学 租房 居住 打工 为生 经济 争吵 打架 2010年 4月 14日 曾 起诉 要求 被告 离婚 法庭 调解 好 事后 被告 未 改正 错误 夫妻 感情 没 得到 改善
+B_Time I_Time I_Time O O O O B_Marry I_Marry O O O B_Person O O O O B_BadHabit I_BadHabit O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_Judgment I_Judgment I_Judgment O O O O O O O O O O
+2012年 2月份 起诉 请求 被告 夏 某某 离婚 维护 婚姻 家庭 稳定 法院 判决 驳回 诉讼 请求 实际 被告 分居 生活 多年 夫妻 感情 确 已 破裂 诉讼 请求 被告 离婚
+B_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O O B_Separation O O O O O O O I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

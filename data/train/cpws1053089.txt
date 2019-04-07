@@ -1,0 +1,4 @@
+原告 安 某某 诉称 被告 1984年 介绍 相识 1989年 12月 10日 庆城县 马岭镇 人民政府 登记 结婚 婚后 生育 女 子 现 均 已 成人
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O B_Bear B_Gender B_Gender O O O O
+被告 常 家庭 琐事 大 骂 原告 原告 无奈 之下 外出 打工 被告 无法 联系 原告 便 原告 娘家 闹事
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

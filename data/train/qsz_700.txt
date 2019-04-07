@@ -1,0 +1,10 @@
+原告 被告 经人介绍 相识 1994年 4月 2日 登记 结婚
+O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 消任 现 已 成年 女 紫绪
+O B_Bear B_Gender I_Name O O O B_Gender I_Name
+后 家庭 琐事 发生 口角
+O O O O B_FamilyConflict
+现 双方 无 交流
+O O B_FamilyConflict I_FamilyConflict
+现 原被告 双方 已经 分居 居住
+O O O O B_Separation O

@@ -1,0 +1,10 @@
+原告 黄 xx 诉称 原 被告 平果县 xx 包装厂 打工 时 认识 不久 后 夫妻 名义 同居 生活 2007年 2月 7日 补办 结婚 登记 2007年 6月 9日 生育 女孩 取名 李 Xx
+O O O O O O I_Time I_Time I_Time I_Time I_Time B_Know O O O O O O B_Time I_Time I_Time O B_Marry O B_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name
+小孩 出生 后 原 被告 常 家庭 琐事 争吵 被告 好 赌 原告 家庭 不 负 责任
+O O O O O O O O O O B_BadHabit I_BadHabit O O O O O
+原 被告 2011年 8月 6日 分居 今
+O O B_Time I_Time I_Time B_Separation I_Duration
+2012年 9月 4日 原告 曾 诉至法院 要求 被告 离婚 后 法庭 调解 好
+B_Time I_Time I_Time B_Person O B_Court O O B_DivorceLawsuit O O B_Judgment I_Judgment
+为此 原告 人民法院 起诉 请求 法院 依法 判决 原告 被告 离婚
+O B_Person B_Court O O O O O O O B_DivorceLawsuit

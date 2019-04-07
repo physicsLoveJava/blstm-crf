@@ -1,0 +1,10 @@
+原 告诉 称 原 被告 经人介绍 相识 2005年 7月 4日 登记 结婚
+B_Person B_DivorceLawsuit I_DivorceLawsuit O O O B_Know B_Time I_Time I_Time B_Marry I_Marry
+原 被告 都 系 再婚 感情 基础 差
+O O O O B_Remarry O O O
+共同 生活 期间 发现 性格 不合 常 家庭 琐事 争吵 被告 殴打 原告
+O O O O O O O O O B_FamilyConflict B_Person B_DomesticViolence B_Person
+2012年 9月 17日 被告 家庭 琐事 殴打 原告 原告 报警 后 转塘 派出所 进行 调解 应 民警 要求 被告 当晚 搬 出 转塘 街道 良户村 244 号 住处 居住
+B_Time I_Time I_Time O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O
+被告 原告 同居 期间 共同 建造 间 约 40 平米 房屋 婚后 共同 转塘 街道 良户村 244 号 住房 进行 加层 全面 整改 装修 双方 同居 以后 被告 经济 收入 都 交 原告 管理
+O O O O O O O O O O O O B_CommonProperty O O O O O B_Wealth O O O O O O O O O O O O O O O

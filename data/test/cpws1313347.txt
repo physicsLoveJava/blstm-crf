@@ -1,0 +1,14 @@
+原告 魏 某某 诉称 被告 陈某 甲 经人介绍 确立 恋爱 关系 2008年 3月 21日 登记 领取 结婚 证书
+O O O O O O O O O B_BeInLove O B_Time I_Time I_Time O O B_Marry O
+20XX 年 XX 月 XX 日 生育 女儿 取名 陈某丙 20XX 年 XX 月 XX 日 生育 儿子 取名 陈某丁
+B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚前 缺乏 了解 婚后 发现 双方 脾气 性格 不合 被告 脾气 暴躁 爱 喝酒 有时 酒后 发 酒疯 使用 暴力
+O O O O O O O O O B_Person O O O O O O O O O B_DomesticViolence
+平时 被告 不 顺心 时常 使用 暴力 拳打脚踢 被告 来说 已 成家常便饭
+O B_Person O O O O O B_DomesticViolence O O O O
+被告 夫妻 分居
+O O B_Separation
+坚决 要求 被告 离婚 请求 法院 依法 判决
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O B_Court O O
+婚后 2011年 购买 海尔 牌 挂机 台 计 2000 元 海尔 牌 冰箱 台 计 3000 元 2012年 购 联想 牌 电脑 台 计 4000 元 共计 9000 元 要求 依法 分割
+O O O I_Wealth I_Wealth I_Wealth O O B_Price I_Price I_Wealth I_Wealth I_Wealth O O B_Price I_Price O O I_Wealth I_Wealth I_Wealth O O B_Price I_Price O O O O O O

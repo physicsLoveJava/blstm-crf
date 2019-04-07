@@ -1,0 +1,6 @@
+原告 谢 某某 诉称 原 被告 2000年 自由 恋爱 2001年 1月 4日 登记 结婚 同年 11月 8日 生育 女孩 谢 某某 乙 小孩 原告 父母 一起 生活
+O O O O O O B_Time B_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name I_Name O O O O O
+双方 婚前 缺乏 了解 草率 结婚 导致 婚后 吵打 始终 未 建立 良好 夫妻 关系
+O O O O O O O O B_DomesticViolence O O O O O O
+原 被告 2008年 分居 生活 今 现 夫妻 关系 已 名存实亡 夫妻 感情 已 彻底 破裂 请求 法院 依法 判决 原 被告 离婚
+O O B_Time B_Separation O O O O O O O O O O O O O O O O O O O

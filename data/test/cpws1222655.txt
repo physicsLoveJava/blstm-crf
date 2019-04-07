@@ -1,0 +1,8 @@
+原告 杨某 诉称 原告 2005年 12月 经人介绍 被告 相识 谈婚 仅 见面 次 2006年 8月 8月 未 办 结婚 登记 手续 农村 习俗 举行 婚礼 共同 生活 原告 仅 被告 家 生活 三 天 后 回 娘家 居住 生活 至今 未 生育 孩子
+O O O O B_Time I_Time O O B_Know B_BeInLove O O O B_Time I_Time I_Time O O O O O O O B_Marry I_Marry O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation O B_Bear I_Bear O
+2010年 6月 17日 被告 联系 原告 回来 桂平市 民政局 补办 结婚 登记 手续 后 原告 继续 广东 中山市 务工 被告 在家 务农
+B_Time I_Time I_Time O O O O O O O B_Marry I_Marry O O O O O O O O O O
+2012年 9月 原告 广东 回到 被告家 被告 原告 钱 原告 说 没有 钱 双方 发生 争吵 后 原告 不 被告 家 生活 广东 中山市 务工 今 双方 互不 往来
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O
+原告 认为 被告 一起 共同 生活 时间 仅 10 天 双方 缺乏 沟通 没有 共同语言 夫妻 感情 无法 培养 现 夫妻 感情 已 完全 破裂 特 诉至法院 请求 法院 依法 判决 准许 原告 被告 离婚
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O

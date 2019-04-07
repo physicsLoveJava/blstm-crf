@@ -1,0 +1,6 @@
+原告 李某 诉称 原被告 2006年 认识 ×××× 年×× 月×× 日 登记 结婚 婚后 于×××× 年××月 生育 女 夏某
+O O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Time I_Time B_Bear B_Gender B_Name
+双方 性格 不和 争吵 被告 离家 出走 2013年 3月 6日 被告 孩子 丢 家中 出走 今 不 支付 抚养费 不 探望 孩子
+O O O O O B_Separation I_Separation O O O O O O O O O O O O O O O
+请求 判决 原被告 离婚 婚生 女儿 夏某 原告 抚养 被告 支付 抚养费 教育费 医疗 保健费 判 令 被告 支付 2013年 3月 离婚 日 孩子 抚养费 依法 分割 夫妻 共同 财产
+O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Wealth I_Wealth I_Wealth

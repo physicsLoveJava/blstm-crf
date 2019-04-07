@@ -1,0 +1,6 @@
+2010年 3月 15日 双方 登记 结婚 均 系 再婚
+B_Time I_Time I_Time O B_Marry I_Marry O O O
+2010年 夏天 被告 打工地 回到 洋县 原告 租 住房 处 言语 不 双方 发生 撕打 致 双方 关系 恶化 后 被告 外出 打工
+O O O O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O
+2010年 夏天 被告 离开 原告 双方 分居 生活 今 无 联系 互不 履行 夫妻 义务 现 夫妻 感情 已 彻底 破裂 请求 人民法院 依法 判决 原 被告 离婚
+B_Time I_Time O O O O B_Separation O O O O O O O O O O O O O O O O O O O O O

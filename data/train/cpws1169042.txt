@@ -1,0 +1,6 @@
+原告 王某 甲 起诉 称 原 被告 经人介绍 认识 于×××× 年×× 月××日 余姚市 泗门镇 婚姻 登记 机关 办理 结婚 登记 手续 婚后 于×××× 年×× 月×× 日 生育 女 取名 王某 乙 现 已 高中 毕业
+O O O O O O O O O O O O O O O O O O B_Marry O O O B_Time I_Time I_Time I_Time B_Bear I_Gender O B_Name I_Name O O B_Age I_Age
+原 被告 均 好 工作 双方 之间 个性 知趣 爱好 不一 缺乏 共同语言 沟通 特别 被告 家庭 观念 淡薄 缺乏 坚贞如一 爱情观 导致 夫妻 感情 恶化 原告 曾 规劝 被告 仍 我行我素 一意孤行 导致 感情 彻底 破裂 现 夫妻 已 分居 生活
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O B_Separation O
+原 被告 夫妻 感情 彻底 破裂 原告 起诉 要求 法院 依法 判 令 1． 原 被告 双方 离婚
+O O O O O O O B_DivorceLawsuit O O O O O O O O O O

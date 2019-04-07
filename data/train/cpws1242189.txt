@@ -1,0 +1,6 @@
+原告 某某 诉称 原 被告 1987年 经人介绍 相识 恋爱 1988年 登记 结婚
+O O O O O B_Time O O B_BeInLove B_Time O B_Marry
+婚期 缺乏 了解 婚后 夫妻 感情 双方 爱好 兴趣 生活 习惯 上 均 不 双方 无 共同语言 家庭 事务 上 被告 从不 顾及 原告 意见 感受 原告 不 关心 更 小事 原告 单位 大 吵 大 闹
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 2011年 9月 外租房 居住 今 双方 实际 处于 分居 状态 夫妻 关系 名存实亡 现 夫妻 感情 已 彻底 破裂
+O B_Time I_Time O O O O O O B_Separation O O O O O O O O O O

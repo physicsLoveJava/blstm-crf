@@ -1,0 +1,2 @@
+王某 诉称 ×××× 年×× 月×× 日 原 被告 结婚 婚后 感情 不和 常 琐事 吵闹 分居 已 超过 两 年 至今 无 子女
+O O B_Time I_Time I_Time I_Time O O B_Marry O O O O O O B_Separation O B_Duration I_Duration I_Duration O O O

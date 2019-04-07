@@ -1,0 +1,10 @@
+原告 王×诉 称 原 被告 1993年 相识 1994年 结婚 1995年 生育 子 王×1
+O O O O O B_Time B_Know B_Time B_Marry B_Time B_Bear B_Gender B_Name
+婚后 年 中 双方 相识 短 脾气 性格 不 常有 争吵
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 1999年 染 上 赌博 恶习 不顾 孩子 后 赌场 玩 亲朋好友 相劝 无效 期间 两 次 公安 机关 抓获 拘留 处 罚款
+B_Person O O O B_BadHabit O O O O O O O O O O O O O O O O O O
+2007年 原告 诉至法院 要求 被告 离婚 调解 被告 表示 悔改 原告 撤诉
+B_Time O O O O B_DivorceLawsuit O O O O O B_Judgment
+2009年 被告 赌博 原告 诉至法院 要求 被告 离婚 劝说 被告 表示 悔改 原告 撤诉
+B_Time O O O O O O B_DivorceLawsuit O O O O O B_Judgment

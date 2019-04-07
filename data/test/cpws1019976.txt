@@ -1,0 +1,16 @@
+原告 周某 诉称 原告 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O O O O O B_Marry
+婚后 于×××× 年×× 月×× 日育 子 郭 某乙
+O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原告 被告 婚后 发现 双方 性格 存在 大 差异 沟通 困难 双方 之间 争执 冷战 矛盾 不 断 加剧
+O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O O
+双方 子 现 已 岁 有余 被告 孩子 出生 现在 不顾 原告 原告 父母 一再 请求 始终 拒绝 原告 父母 家人 探视 导致 原告 父母 家人 至今 未能 见到 郭某 乙 一面 被告 行为 损害 夫妻 原告 家人 感情
+O O O O I_Age O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+夫妻 感情 严重 受损 原告 已 2011年 4月 被告 正式 分居 搬离 共同 居住地 金尚路 33-1 号 802室
+O O O O O O B_Time I_Time O O B_Separation O O O O O O O
+双方 分居 后 原告 父母 居住 前埔华 林东盛 花园 期 9 号 楼 601室 至今 已 分居 2 年 6 月
+O O O O O O O O O O O O O O B_Time O O B_Duration I_Duration I_Duration I_Duration
+原告 曾 2013年 2月 提起 离婚 诉讼 4月 8日 法院 判决 驳回 请求 半 年 余 双方 均 未能 做出 妥协 分居 情况 依旧 持续
+B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit B_Time I_Time O O B_Judgment I_Judgment O O O O O O O O O O O O
+要求 共同 房产 被告 所有 需要 补偿 原告 款项 郭某乙 10 年 生活 费用 一次性 抵扣
+O B_CommonProperty B_Wealth O O O O O O O O O O O O O

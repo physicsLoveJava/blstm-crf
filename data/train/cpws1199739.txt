@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 1986年 4月 10日 登记 结婚 婚后 夫妻 感情 尚 未 生育 子女
+O O O O O B_Time I_Time I_Time O B_Marry O O O O O O O
+1990年 6月 被告 子女 原告 发生 争执 导致 夫妻 关系 紧张
+O O B_Person O O O O O O O O
+双方 系 再婚 被告 心中 子女 为重 遇到 事情 帮 子女 谩骂 殴打 原告
+O O O B_Remarry I_Remarry I_Remarry I_Remarry O O O O O O O
+房权证 复印件 证 金华市 得春路 36 号 105室 房屋系 夫妻 共同 财产 事实
+O O O O O O O O B_Wealth O B_CommonProperty I_CommonProperty O

@@ -1,0 +1,10 @@
+原告 李 某某 诉称 原 被告 经人介绍 认识 2005年 农历 8月 初 8日 举行 婚礼 次日 登记 结婚
+O O O O O B_Person O O B_Time I_Time I_Time I_Time I_Time O O O B_Negated B_Marry
+2006年 农历 2月 5日 生 女孩 取名 某甲
+B_Time I_Time I_Time I_Time B_Bear B_Gender O I_Name
+婚后 双方 性格 不合 琐事 争吵 殴打 原告
+O O O O O O B_DomesticViolence B_Person
+被告 某某 辩称 1 原告 感情 确实 不和 原因 不 在于 别人 长期 保持 不 正当 关系
+O O O O B_Person O O O O O O O O B_Derailed I_Derailed I_Derailed I_Derailed
+4 没有 殴打 原告
+O B_Negated B_DomesticViolence O

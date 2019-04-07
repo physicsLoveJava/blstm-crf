@@ -1,0 +1,14 @@
+2010年 夏天 原被告 双方 相识 确立 恋爱 关系
+B_Time I_Time O O B_Know O B_BeInLove O
+同年 腊月16 举行 结婚 仪式 2011年 7月 I1 日 生育 长女 谢紫嫣 2013年 6月 17/日 生育 长子 谢超 2015年 5月 20日 补办 结婚 登记 手续
+B_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry
+原被告 双方 婚前 缺乏 了解 草率 结合 生气 吵架
+O O O O O O O I_FamilyConflict I_FamilyConflict
+生育 两 子女 原被告 双方 双方 没有 夫妻 感情 可言 相互 不 体贴 照顾
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+生活 上 原告 置之不理 2016年 4月 28日 原告 回 娘家 居住 今
+O O O O B_Time I_Time I_Time B_Separation I_Separation I_Separation I_Separation I_Time
+双方 夫妻 感情 已 破裂 原告 2016年 5月 9日
+O O O O O B_Person B_Time I_Time I_Time
+贵院 依法 提起 离婚 诉讼 后 原告 被告 次 机会 2016年 5月 20日 撤诉 贵院 依法 准予 原告 撤诉 后 双方 关系 不但 没 6MR88.6MX8 M-A 匙8 M256 .t R -KR EK 8.hRal 次 起诉
+B_Court O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Time I_Time I_Time B_Judgment O O O O O O O O O O O O O O O O O O O O O

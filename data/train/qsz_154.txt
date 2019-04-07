@@ -1,0 +1,6 @@
+原被告 2007年 秋天 经人介绍 相识 建立 恋爱 关系 2008年 4月 16日 双方 登记 结婚 2009年 11月 12日 双方 婚生 女孩 王陪怡 原被告 婚前 相识 时间 短
+O B_Time I_Time O B_Know O B_BeInLove O B_Time I_Time I_Time O O B_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name O O O O O
+被告 无事生非无故 找 原告 麻烦 原告 争吵 打闹
+O O O O O O B_FamilyConflict B_FamilyConflict
+2018年 1月 9日 琐事 被告 用婉 原告 头部 砍 破 剪子 胳膊 扎 破
+O O O O B_Person O B_Person O B_DomesticViolence I_DomesticViolence O O B_DomesticViolence I_DomesticViolence

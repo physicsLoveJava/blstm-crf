@@ -1,0 +1,2 @@
+原 告诉 称 原 被告 双方 认识 不久 后 ×××× 年×× 月×× 日 登记 结婚 婚前 不 甚 了解 感情 基础 不 牢固 婚后 双方 依然 没有 能够 相处 融洽 双方 性格 差异 使 已 脆弱 婚姻 彻底 走向 破裂
+O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

@@ -1,0 +1,8 @@
+原 被告 2006年 3月 人 介绍 相识 确立 恋爱 关系 2008年 5月 1日 举行 婚礼 2008年 10月 23日 双方 武清区 民政局 办理 结婚 登记 手续
+O O B_Time I_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time O O O B_Marry I_Marry I_Marry I_Marry
+婚后 生育 王春莹
+O B_Bear B_Name
+原 被告 婚后 常 家庭 琐事 发生 口角 双方 已经 没有 夫妻 生活 现 已经 分居 多年
+O O O O O O B_FamilyConflict I_FamilyConflict O O O O O B_Time O B_Separation B_Duration
+原告 曾 2017年 3月 起诉 离婚 武清区 人民法院 2017年 5月 22日 2017 津0114 民 初 3693 号 民事 判决书 驳回 原告 离婚 请求
+B_Person O B_Time I_Time B_DivorceLawsuit O B_Court I_Court B_Time I_Time I_Time I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment

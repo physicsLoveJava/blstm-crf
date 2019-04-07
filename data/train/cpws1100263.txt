@@ -1,0 +1,2 @@
+原告 莫 XX 诉称 原 被告 2010年 2月 人 介绍 相识 2010年 5月 5日 登记 结婚 婚前 了解 不够 婚后 性格 不合 夫妻 双方 家庭 琐事 争吵 产生 矛盾 被告方 妇科 疾病 未 怀孕 生育 家人 发生 矛盾 夫妻 双方 无法 共同 生活 感情 已经 破裂 我方 曾 2012年 10月 法院 起诉 要求 被告 离婚 法院 作出 判决 不准 离婚 判决 后 双方 没 和好 现在 患病 被告 没有 理睬 法院 起诉 要求 被告 离婚 分割 夫妻 共同 财产
+O O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O B_Time I_Time I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment O O O O O O O O O O O O O O O O O O O

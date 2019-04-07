@@ -1,0 +1,4 @@
+原告 刘守明 诉称 原告 刘守明 被告 马江伟 经人介绍 认识 2006年 9月 6日 结婚 当时 被告 患 精神病
+O O O O O O O O O B_Time I_Time I_Time B_Marry O O O O
+2011年 被告 回 父母 家 后 至今 不
+B_Time O O O O O B_Separation I_Separation

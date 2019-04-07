@@ -1,0 +1,14 @@
+2010年 7月 14日 生育 长子 祁子瀚
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2011年 2月 10日 双方 婚姻 登记 机关 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O B_Marry I_Marry I_Marry I_Marry
+夫妻 双方 性格 不合 丁 家庭 琐事 生气 吵架
+O O O O O O O O B_FamilyConflict
+原告 2016年 11月 起诉 离婚 法院 判决 驳回 原告 诉讼 请求
+B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit O O B_Judgment I_Judgment I_Judgment I_Judgment
+2017年 8月 23日 被告 提起 离婚 诉讼 原告 看 孩子 份 上
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O O O
+想 挽回 双方 婚姻 法院 判决 驳回 被告 离婚 请求
+O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+被告 天津 开 饭店 以来 夫妻 双方 分居 今 已 达到 法定 离婚 理由
+O O O O O O O B_Separation I_Time O O O O O

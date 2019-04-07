@@ -1,0 +1,16 @@
+二 人 1997年 10月 7日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 女 女儿 张萍 H 生于 1999年 7月 8日
+O O B_Gender B_Name O B_Bear B_Time I_Time I_Time
+儿子 张昱安 出生 2006年 11月 28H
+B_Gender B_Name B_Bear B_Time I_Time I_Time
+原 被告 婚后 感情 尚 被告 不 正当 关系
+O O O O O B_Person I_Derailed I_Derailed I_Derailed
+二 人 争吵 不 断 家庭 矛盾 频发
+O O B_FamilyConflict O O O B_FamilyConflict O
+原 被告 2017年 7月 分居
+O O B_Time I_Time B_Separation
+无奈 之下 原告 现 依据 相关 法律 规定
+O O B_Person O O O O O
+诉 人民法院
+B_DivorceLawsuit B_Court

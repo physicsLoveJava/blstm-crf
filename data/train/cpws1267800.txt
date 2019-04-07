@@ -1,0 +1,6 @@
+原告 王某 甲诉 称 原 被告 2009年 5月 网络 认识 相恋 2009年 8月 27日 登记 结婚
+O O O O O O B_Time I_Time O B_Know O B_Time I_Time I_Time O B_Marry
+婚前 接触 少 婚后 发现 被告 懒惰 成性 原告 身体 残疾 为由 不断 辱骂 殴打 原告
+O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit I_BadHabit I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+2010年 11月 11日 女儿 祁某 乙 出生 被告 没有 改变 恶习 原告 孩子 不管 不顾 原告 生活 不 保障 2012年 农历 十一月 原告 女儿 回 娘家 居住 生活 今
+B_Time I_Time I_Time O B_Name I_Name B_Bear O O O O O O O O O O O O O O O O O O O O O O

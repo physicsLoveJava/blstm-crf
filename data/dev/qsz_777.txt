@@ -1,0 +1,14 @@
+2006年 10月 12日 原 被告 务人 介绍 蓟县 民政局 登记 结婚
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry
+2004年 12月 22日 生长 女 李冬园 现 蓟州 二中 上学 2008年 12月 22日 生次 女 李欣怡 现 乐 小学 上学
+B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O
+2014年 3月 18日 生长子 李梓骏 现 华艺 幼儿园
+B_Time I_Time I_Time B_Bear B_Name O O O
+拆迁 分配 俩 100 平米 90 平米 乐园 楼房
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth
+婚后 夫妻 双方 共同 购买 福特 汽车 摩托 跑车 嘉陵 摩托车 辆
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth O
+双方 婚后 打打闹闹 积怨 越 米 越 深 特别 址 2018年 10月 6日 被告 无理 殴打 原告
+O O B_FamilyConflict O O O O O O O B_Time I_Time I_Time B_Person O B_DomesticViolence B_Person
+福特 汽车 摩托 跑车 嘉陵 摩托车 辆 被告 占有 使用
+B_Wealth I_Wealth B_Wealth I_Wealth B_Wealth I_Wealth O O O O

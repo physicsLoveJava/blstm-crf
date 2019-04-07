@@ -1,0 +1,18 @@
+原 被告 经人介绍 后 2012年 11月 28日 登记 结婚
+O O O O B_Time I_Time I_Time B_Marry I_Marry
+2013年 9月 11日 生育 女儿 郑语鑫
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+被告 好逸恶劳 根本 担不起 家庭 生活 重担
+B_Person B_BadHabit O O O O O
+被告 好 高聋远
+B_Person B_BadHabit I_BadHabit
+嗜酒 成 瘾 原 被告 为此 口角 不 断
+B_BadHabit I_BadHabit I_BadHabit O O O O O O
+长期 原告 恶言冷语
+B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2017年 2月 初
+B_Time I_Time I_Time
+自此 今
+O I_Time
+双方 分居 生活 夫妻 关系 已经 名存实亡
+O B_Separation O O O O O

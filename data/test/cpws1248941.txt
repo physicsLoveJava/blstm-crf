@@ -1,0 +1,10 @@
+原告 胡 某某 诉称 2007年 农历 腊月经人介绍 被告 徐 某某 相识 谈婚 2008年 2月 2日 登记 结婚 属男 女家
+O O O O B_Time I_Time I_Time O O O B_Know O B_Time I_Time I_Time B_Marry I_Marry O O
+2009年 1月 11日 婚生 女 取名 胡某涓
+B_Time I_Time I_Time B_Bear B_Gender O B_Name
+谈婚 时间 短 草率 结婚 婚后 被告 原告 不 信任 经济 问题 家庭 琐事 发生 争吵 打架 严重 2012年 11月 15日 被告 找 事 伤 头部 后 住院 治疗 缝合 3 4 针 被告 做法 不仅 没有 认识 错误 一走了之 还 进一步 导致 双方 父母 矛盾 被告 行为 已 造成 夫妻 感情 完全 破裂 现 要求 被告 离婚
+O O O O O O O B_Person O O O O O O O B_FamilyConflict B_DomesticViolence O O O O B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+被告 徐 某某 辩称 2007年 经人介绍 原告 相识 谈婚 2008年 登记 结婚 婚后 生育 女 胡某涓
+O O O O O O O B_Know O O O B_Marry O B_Bear O O
+母亲 生病 后 征 原告 同意 情况 下 花费 1100 元 母亲 看病 再 去 看 母亲 原告 发气 不 饭 吃 无意 失手 伤 原告 为此 后悔 曾 原告 家人 道歉 原告 不依不饶
+O O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence O O O O O O O O O O

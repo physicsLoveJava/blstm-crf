@@ -1,0 +1,6 @@
+原告 李某 诉称 被告 2008年 12月 12日 自愿 登记 结婚 婚后 无 子女
+O O O O B_Time I_Time I_Time O B_Marry I_Marry O O O
+婚初 感情 好 2011年 9月 28日 被告 前往 法国 留学 没有 回国 长期 分居 生活 夫妻 感情 彻底 破裂 诉讼 法院 要求 被告 离婚
+O O O B_Time I_Time I_Time O O O O O O O B_Separation O O O O O O O O O O
+原告 2005年 法国 留学 时 相识 相恋 感情 基础 十分 牢固 婚后 从未 争吵
+O B_Time O O O B_Know B_BeInLove O O O O O O O

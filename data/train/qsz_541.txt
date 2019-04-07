@@ -1,0 +1,14 @@
+原 被告 1993年 7月 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know O B_BeInLove O
+同年 10月份 举行 结婚 仪式 后 共同 生活 1994年 6月 1日 补 办 结婚 登记 手续 1994年 6月 13日 生育 子 许宏伟 现 已 成年 独立 生活 2006年 3月 23日 生育 女 许宏媛 原 被告 婚前 草率 结婚 没有 感情 基础
+B_Time I_Time B_Marry I_Marry I_Marry O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O O O O O O O
+结婚 后 琐事 发生 矛盾 被告 长期 原告 实施 家庭 暴力 2015年 4月 3日 感情 不 原告 起诉 被告 要求 离婚 后 考虑 孩子 年龄 尚 小 撤回 起诉
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person O B_Person O B_DomesticViolence I_DomesticViolence B_Time I_Time I_Time O O B_Person B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+2015年 10月份 原告 离家 外出 被告 分开 居住
+B_Time I_Time B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation
+2016年 1月 5日 原告 起诉 被告 要求 离婚 被告 未 出庭 法院 缺席 审理 后 驳回 原告 诉讼 请求 见 2016 津 0115 民 初 194号 离婚 诉讼 请求 驳回 后 原告 提起 上诉
+B_Time I_Time I_Time B_Person B_DivorceLawsuit O O O O O O O O O O B_Judgment I_Judgment I_Judgment I_Judgment O O O O O O O O O O O O B_Person B_DivorceLawsuit I_DivorceLawsuit
+天津市 第一 中级 人民法院 2016 津 01 民终 2913 号 民事 判决书 判决 驳回 原告 上诉 请求
+B_Court I_Court I_Court I_Court I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document O B_Judgment I_Judgment I_Judgment I_Judgment
+现原 被告 感情 长期 不 分居 已经 3 年 夫妻 感情 已经 彻底 破裂 无 和好 原告 认为 原、被告 婚姻 关系 根本 没有 再 存在 必要
+O O O O O B_Separation O B_Duration I_Duration O O O O O O O O O O O O O O O O O

@@ -1,0 +1,6 @@
+原告 张某 诉称 原被告 经人介绍 相识 2005年 11月 25日 登记 结婚 双方 均 系 再婚 婚后 无 子女
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Person O O B_Remarry O O O
+原被告 婚初 感情 尚 时间 推移 被告 恶习 逐渐 暴露 酗酒 夜 不 宿 原告 被告 打电话 被告 不 接 原告 不 理 不 问 还 生活 琐事 原告 争吵 没有 共同语言 现 原被告 夫妻 感情 已 彻底 破裂 无 好 原告 起诉 要求 被告 离婚 夫妻 共同 财产 依法 分割
+O O O O O O B_Person O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O
+原 告诉 称 不 回家 不 属实 工作 原因 不 回家
+O O O B_BadHabit I_BadHabit B_Negated I_Negated O O O O

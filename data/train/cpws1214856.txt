@@ -1,0 +1,6 @@
+原告 白 某某 诉称 原 被告 2000年 经人介绍 相识 2001年 11月 5日 登记 结婚
+O O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 两 女儿 取名 白 某某 白 某某
+O B_Bear O B_Gender O B_Name I_Name B_Name I_Name
+婚后 脾气 性格 不和 吵架
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

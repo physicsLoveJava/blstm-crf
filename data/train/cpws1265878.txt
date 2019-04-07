@@ -1,0 +1,12 @@
+原告 韩×诉 称 原 被告 双方 2010年 10月 9日 结婚 婚后 原 被告 感情 尚 男方 无法 担负 婚姻 责任 未能 家庭 中 丈夫 责任 义务 致使 婆媳 矛盾 不断 激化 无法 调和
+O O O O O O B_Time I_Time I_Time B_Marry O O O O O O O O O O O O O O O O O O O O O O O
+发生 矛盾 期间 处于 长 时间 冷战 状态 中 无 积极 处理 矛盾 意 无论 精神 上 经济 上 都 摧残 导致 之间 感情 破裂
+I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原 被告 双方 2010年 10月 9日 登记 结婚
+O O O B_Time I_Time I_Time O B_Marry
+原 被告 婚前 被告 婚前 财产 共 偿还 贷款 本息 86651．60 元
+O O O B_Debt I_Debt I_Debt I_Debt I_Debt I_Debt I_Debt B_Price I_Price
+原 被告 婚后 被告 2011年 4月 14日 提前 偿还 部分 贷款 本息 共计 13万 元 l3 万 元 中 101000 元 被告 父母 出资 2011年 1月 27日 被告 母亲 赵灵会 工商 银行 北京 中关村 支行 育新 分理处 现金 3万 元 直接 存入 被告 工行 还贷 账户 中 存款 凭证 赵灵会 代 被告 签字 申请 法院 调取
+O O O O O O O O B_Debt I_Debt I_Debt O O B_Price I_Price O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2013年 4月 16日 被告 婚后 共 偿还 贷款 本息 186242．59 元 扣除 被告 父母 出资 偿还 101000 元 被告 婚后 工资 收入 偿还 贷款 本息 85242．59 元
+O O O O O O B_Debt I_Debt I_Debt B_Price I_Price O O O O O O O O O O O B_Debt I_Debt I_Debt B_Price I_Price

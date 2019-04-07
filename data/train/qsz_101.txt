@@ -1,0 +1,14 @@
+原被告 2010年 相识 3 年 后 2013年 4月 17日 登记 结婚
+O B_Time B_Know O O O B_Time I_Time I_Time B_Marry I_Marry
+2014年 5月 30日 生 女 肖涵允
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+现年 4 周岁
+O B_Age I_Age
+夫妻 感情 尚 双方 性格 上 存在 大 差异 家务 琐事 争吵 致使 双方 2017年 7月 分居 双方 夫妻 感情 确 已 破裂
+O O O O O O O O O O O B_FamilyConflict O O B_Time I_Time B_Separation O O O O O O
+原告 曾 2017年 7月 26日 呈诉 法院
+B_Person O B_Time I_Time I_Time B_DivorceLawsuit O
+审理 天津市 北辰区 人民法院 2017年 8月 30日 天津市 北辰区 人民法院 2017 津0113 民 初 4596 号 民事 判决书 驳回 原告 诉讼 请求
+O B_Court I_Court I_Court B_Time I_Time I_Time O O O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment
+分居 今
+B_Separation I_Time

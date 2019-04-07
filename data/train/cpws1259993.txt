@@ -1,0 +1,10 @@
+原告 曾 某某 诉称 原 被告 经人介绍 2004年 春节 相识 确立 恋爱 关系 2004年 10月 1日 举行 婚礼 2004年 12月 7日 补办 结婚 登记 2005年 6月 1日 生育 子 取名 王某坤 现 就读 人民 小学
+O O O O O O O B_Time O B_Know O B_BeInLove O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O
+婚后 原、被告 性格 不合 常 生活 琐事 吵骂
+O O O O O O O B_FamilyConflict
+原告 怀孕 3 月 时 被告 一点 小事 殴打 原告 差点 造成 流产
+O O O O O O O O B_DomesticViolence O O O O
+原告 2013年 3月 提起 诉讼 法院 判决 不 准 离婚 双方 没有 一起 生活 感情 零
+B_Person B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O B_Separation I_Separation I_Separation O O
+被告 王某 辩称 原 告诉 称 事实 理由 中 结婚 登记 时间 生育 子女 情况 属实 均 不 属实
+O O O O O O O O O B_Marry I_Marry O B_Bear I_Bear O O O O O

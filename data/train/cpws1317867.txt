@@ -1,0 +1,4 @@
+原 告诉 称 被告 经人介绍 相识 2008年 1月 14日 岐山县 民政局 登记 结婚 2009年 8月 28日 生育 女孩 取名 杨某乙
+O B_DivorceLawsuit I_DivorceLawsuit O O B_Know B_Time I_Time I_Time O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+双方 性格 差异 大 婚后 常 琐事 吵嘴 2011年 9月 16日 分居 生活 今 要求 离婚 抚养 孩子 分割 财产
+O O O O O O I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_Separation I_Separation O O O O O O O

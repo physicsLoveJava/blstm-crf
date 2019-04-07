@@ -1,0 +1,6 @@
+原告 夏某 诉称 2009年 4月 原 被告 经人介绍 认识 于×××× 年×× 月××日 领取 结婚证 同年 10月 1日 堵城镇 外岭村 家中 举行 婚礼
+O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time O O O B_Marry I_Marry
+婚后 双方 了解 甚 少 夫妻 间 关系 渐渐 产生 裂痕 ×××× 年×× 月×× 日 生 下 女儿 胡某乙 后 刚 满 月 原告 无法 忍受 精神 压力 外 散工 谋生 今 期间 每年 被告 家中 看 次 女儿 均 未果 致使 原告 彻底 死心 夫妻 感情 彻底 破裂 名存实亡 为此 原告 夏某 具状 诉 人民法院 请求 判 令 原 被告 离婚
+O O O O O O O O O O O B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name O O O O O O O O O I_Separation I_Separation O O O O O O O O O O O O O O O O O O O O O B_Person I_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 胡某 甲 辩称 夏某 感情 确 已 破裂 无 好 之前 夏某 已经 起诉 次 离婚 法院 判决 不 后 两 人 分居 今 同意 解除 夏某 婚姻 关系
+O O O O O O O O O O O O O O O O O O O O O O O B_Separation O O O O O O

@@ -1,0 +1,6 @@
+原告 申某 诉称 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 性格 不和 吵闹 发现 被告 患 不宜 结婚 疾病
+O O O I_FamilyConflict O O O O O O
+现在 被告 夫妻 感情 确 已 破裂 请求 判 令 被告 离婚 婚前 财产 所有 被告 返还 彩礼款 15000 元
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_DivorceLawsuit O O O O O O O O

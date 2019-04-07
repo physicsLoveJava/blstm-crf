@@ -1,0 +1,10 @@
+原 被告 经人介绍 2013年 相识 2014年 5月 12日 蓟州区 民政部门 登记 结婚 共同 生活 原告系 再婚 婚后 原、被告 双方 未 生育 子女 无 共同 财产
+O O O B_Time B_Know B_Time I_Time I_Time O O B_Marry I_Marry O O O O O O O B_Negated B_Bear O B_Negated B_CommonProperty B_Wealth
+原 被告 婚前 了解 少 婚后 发现 双方 感情 不 投 生气 吵架 被告 原告 带 两 女儿 冷漠 不闻不问 夫妻 感情 彻底 破裂
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+原告 曾 先后 2015年 11月 2017年 8月 蓟州区 人民法院 提起 诉讼 请求 判 准 离婚
+B_Person O O B_Time I_Time B_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O
+天津市 蓟州区 人民法院 分别 2015年 11月 16日 出具 2015 蓟民 初字 第8564 号 民事 裁定书 2017年 9月 15日 出具 2017 津0119 民 初9441 号 民事 裁定 书 未 判 准 原 被告 离婚
+O O O O B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Time I_Time I_Time O I_Document I_Document I_Document I_Document I_Document I_Document I_Document I_Document B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原 被告 分居 今 没有 和好
+O O B_Separation I_Time O O

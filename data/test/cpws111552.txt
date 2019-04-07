@@ -1,0 +1,6 @@
+原告 孙 某某 诉称 原被告 经人介绍 认识 2009年 农历 11月 27日 举行 结婚 仪式 2010年 1月 7日 进行 结婚 登记 婚后 感情 被告 有时 琐事 原告 争吵 原告 婚姻 不 儿戏 原告 被告 认错 后 原告 没有 深究 影响 夫妻 感情 建立 2010年 9月 7日 原被告 生育 男孩 取名 王某甲
+O O O O O O O O O O O O O O B_Time I_Time I_Time B_Marry I_Marry I_Marry O O B_Person O O O B_FamilyConflict B_Person O O O O O O O O O O O O O O B_Time I_Time I_Time O B_Bear B_Gender O B_Name
+维护 合法 权益 特诉 贵院 请求 法院 判 令 原被告 离婚 请求 判 令 婚生子 原告 抚养 被告 依法 一次性 支付 法定 抚养费 请求 判 令 被告 承诺 原告 财产 原告 所有 婚前 财产 原告 所有 婚后 财产 依法 分割 欠 原告 父母亲 欠款 被告 偿还
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person I_Person B_Debt O O
+被告 王 某某 庭 审 中 口头 辩称 1 被告 不 同意 离婚 原告 诉状 中 部分 陈述 不 属实 被告 从未 原告 双方 2007年 冬天 经人介绍 相识 2010年 1月 7日 进行 结婚 登记 2009年 农历 11月 27日 举行 结婚 仪式 婚前 双方 深入 了解 以后 才 结婚 婚后 未 发生 大 争执 2010年 9月 7日 生 男孩 取名 王某 甲 孩子 不 缺少 父 爱 不 缺少 母爱 请求 法院 判决 原被告 不 准 离婚
+O O O O O O O O O O O O O O O O O O B_Negated I_Negated O O O O B_Time I_Time O B_Know O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

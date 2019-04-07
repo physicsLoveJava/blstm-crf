@@ -1,0 +1,8 @@
+原被告 2014年 朋友 介绍 后 相识 很快 确认 恋爱 关系
+O B_Time O O O B_Know O O B_BeInLove O
+2016年 11月 2 原 街 { Kl 政 部门 小 刑 结婚 登记 手续 婚后 双方 未 生自 r 女
+B_Time I_Time I_Time O O O O O O O O B_Marry O O O O O O O O
+山 双方 婚前 了解 片 少 草率 结婚 后 原告 发现 两 性格 不和 生活 琐事 争吵 被告 整 酗酒 在家 游手好闲 常年 微信 异性 聊天 不尽 耍 贡{.2017年 11月 初 被告
+O O O O O O O O O O O O O O O O B_FamilyConflict B_Person O B_BadHabit O B_BadHabit O O O O O O B_Time I_Time I_Time O
+j 原告 吵架 后 双方 分居
+O O O O O B_Separation

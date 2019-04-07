@@ -1,0 +1,6 @@
+原 告诉 称 2006年 12月 18日 原 被告 经人介绍 登记 结婚 2008年 8月 28日 生 子 取名 白翔宇 家庭 财产 平板房 三 间 现金 50000 元 被告 婚后 不 正确 对待 夫妻 关系 双方 常 生活 琐事 发生 矛盾 矛盾 发生 后 暴力 解决 限制 原告 人身 自由
+O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O O B_Person O O O O O O O O O O O B_FamilyConflict O O O B_DomesticViolence O O O O O
+原告 法院 提起 诉讼 请求 1 依法 判决 原 被告 离婚
+O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O
+被告 辩称 原告 说 都 不 事实 被告 没有 原告 实施 家庭 暴力 没有 限制 原告 人身自由 现 原告 提出 离婚 被告 坚决 不 同意 孩子 被告 抚养
+O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O

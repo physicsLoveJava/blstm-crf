@@ -1,0 +1,10 @@
+原告 黄某 甲诉 称 被告 1989年 人 介绍 相识 订婚
+O O O O O B_Time O O B_Know O
+1998年 11月 12日 补办 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry O O
+2011年 10月 南部县 人民法院 起诉 离婚
+B_Time I_Time B_Court I_Court B_DivorceLawsuit O
+同年 11月 被告 广州 相遇 被告 亲属 劝说 下 撤回 起诉
+O O O O O O O O O B_Judgment I_Judgment
+综 上 被告 现 夫妻 感情 已 完全 破裂 特 请求 人民法院 准许 被告 离婚
+O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit O O O O

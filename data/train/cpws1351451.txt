@@ -1,0 +1,4 @@
+原告 王善某 诉称 原 被告 1992年 5月 登记 结婚 1994年 4月 生 子 王某
+O O O O O B_Time I_Time O B_Marry B_Time I_Time B_Bear B_Gender B_Name
+孩子 上 高中 时 矛盾 激化 发展 分居 原告 曾 2013年 3月 起诉 离婚 后撤诉 被告 2013年 8月 起诉 离婚 后 亦 撤诉
+O O O O O O O B_Separation B_Person O B_Time I_Time B_DivorceLawsuit I_DivorceLawsuit B_Judgment B_Person B_Time I_Time O B_DivorceLawsuit O O B_Judgment

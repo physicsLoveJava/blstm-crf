@@ -1,0 +1,6 @@
+原告 陈某 诉称 原 被告 系 临沂 打工 期间 自由 恋爱 2011年 2月 22日 登记 结婚 2012年 4月 24日 生育 子 陈某甲
+O O O O O O O O O O B_BeInLove B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Gender
+被告 不顾 家庭 孩子 外 乱 游 回家 原告 打架 还 曾 伤 原告 家人
+O O O O O O O O O B_FamilyConflict O O O O O
+原告 婚前 财产 房屋 处 原告 所有
+B_Person B_PersonalProperty I_PersonalProperty B_Wealth O O O

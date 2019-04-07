@@ -1,0 +1,10 @@
+原 被告 双方 1986年 夏天 经人介绍 相识片 确立 恋爱 关系
+O O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+1887年 3月 25I | 双力 登记 结婚
+B_Time I_Time I_Time I_Time O B_Marry I_Marry
+婚后 FI989 年 6门 婚生子 取名 李明洋 现年 30 岁 L 独 V 生活
+O B_Time I_Time I_Time B_Bear O B_Name O B_Age I_Age O O O O
+1998年 10 川婚 长女 李杰琼 现年 20 岁 L 纶成年俱大学 学
+B_Time I_Time B_Bear B_Gender B_Name O B_Age I_Age O O O
+原 被告 双方 共 kj 沉 期间 因性 格不投始至终 未曾 建立 夫叁 感情
+O O O O O O O B_FamilyConflict I_FamilyConflict O O O O

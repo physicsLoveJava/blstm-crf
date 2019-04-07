@@ -1,0 +1,2 @@
+原告 李 XX 诉称 原 被告 1992年 1月 9日 登记 结婚 双方 性格 不合 琐事 争吵 现 双方 感情 已经 破裂 原告 诉至法院 请求 依法 判 令 原 被告 离婚 诉讼 费用 被告 承担
+O O O O O O O O O B_Marry I_Marry O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O

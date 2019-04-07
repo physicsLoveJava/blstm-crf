@@ -1,0 +1,6 @@
+原 告诉 称 原告 被告 2008年 相识 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日 生育 女儿 梁某乙
+O O O O O B_Time B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 不务正业 家庭 不 不顾 还 吵闹 打骂 原告
+O B_Person O O O O O B_DomesticViolence I_DomesticViolence B_Person
+原告 请求 法院 判 令 1 准许 原 被告 离婚
+B_Person O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

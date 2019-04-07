@@ -1,0 +1,6 @@
+原告 韩 某某 诉称 被告 2002年 经人介绍 相识 2002年 7月 29日 宜宾市 翠屏区 人民政府 南岸 街道 办事处 登记 结婚 婚后 感情 尚 2003年 7月 24日 生育 女 取名 罗某甲
+O O O O O B_Time O B_Know B_Time I_Time I_Time O O O O O O O B_Marry O O O B_Time I_Time I_Time B_Bear O O B_Name
+婚后 发现 被告 不 忠实 夫妻 感情 行为 外 名 17 岁 女子 公开 同居 生活 再三 规劝 被告 不 思 悔改 实施 家庭 暴力 拒 不 承担 孩子 抚养费 导致 夫妻 感情 确 已 破裂 曾 2012年 4月 9日 诉 南溪区 人民法院 要求 被告 离婚 人民法院 判决 不准 予 离婚 后 分居 生活 今 夫妻 感情 已 完全 破裂 无 好 请求 人民法院 依法 判决 1 准予 被告 离婚
+O O O O O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+没有 原告 实施 家庭 暴力
+O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

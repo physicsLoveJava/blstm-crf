@@ -1,0 +1,4 @@
+原告 林某 诉称 被告 2003年 认识 系 初中 同学 2011年 确认 恋爱 关系 2012年 9月 27日 登记 结婚
+O O O O B_Time B_Know O O O B_Time O B_BeInLove O B_Time I_Time I_Time O B_Marry
+2012年 12月 25日 被告 离开 国内 后 双方 没有 联系 从未 寄 生活费 更 没有 做 丈夫 责任 长期 分居 没有 沟通 由此 产生 感情 破裂
+O O O O O O O O O O O O O O O O O O O B_Separation O O O O O O

@@ -1,0 +1,22 @@
+原告 被告 1999年 年底 经人介绍 相识 确立 恋爱 关系
+O O B_Time I_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+随后 举办 婚礼 同居 生活
+O B_Marry I_Marry O O
+后 2002年 4月 10日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 婚 2001年 11月 4日 生育 女 杜鑫宇
+O O B_Time I_Time I_Time B_Bear B_Gender B_Name
+夫妻 感情 渐渐 出现 裂痕 夫妻 性格 不合
+O O O O O O B_FamilyConflict I_FamilyConflict
+夫妻 吵架 事 越发 频繁
+O B_FamilyConflict O O O
+夫妻 间 越发 难以 沟通 无 共同语言
+O O O B_FamilyConflict I_FamilyConflict O O
+原告 曾 2016年 2017年 起诉 被告 离婚
+B_Person O B_Time B_Time B_DivorceLawsuit O O
+后 原告 撤诉 法院 判决 不准 予 离婚 结案
+O B_Judgment I_Judgment B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment O
+现 夫妻 感情 不 已 分居 二 年
+O O O O O B_Separation B_Duration I_Duration
+婚后 夫妻 矛盾 冲突 不 断
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

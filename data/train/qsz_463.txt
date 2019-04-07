@@ -1,0 +1,12 @@
+原被告 经人介绍 1996年 相识 1997年 5月 18日 双方 领取 结婚证 1997年 农历 11月 8日 双方 举行 婚礼
+O O B_Time B_Know B_Time I_Time I_Time O B_Marry I_Marry B_Time I_Time I_Time I_Time O B_Marry I_Marry
+2000年 双方 婚生 女 贾蔷薇 出生 现 女 已经 独立 生活
+B_Time O O B_Gender B_Name B_Bear O O O O O
+时间 推移 原告 发现 被告 性格 偏激 自私 双方 家庭 琐事 发生 矛盾
+O O O O B_Person O B_BadHabit I_BadHabit O O O O O
+被告 曾 原告 实施 家庭 暴力
+B_Person O B_Person O B_DomesticViolence I_DomesticViolence
+被告 变本加厉 无端 原告 找茬 打架 限制 原告 人身自由 导致 双方 毫无 夫妻 感情 可言
+O O O O B_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+2018年 5月 初 双方 家庭 琐事 发生 矛盾 双方 分居 生活
+B_Time I_Time I_Time O O O O O O B_Separation O

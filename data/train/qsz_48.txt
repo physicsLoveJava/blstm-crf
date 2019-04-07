@@ -1,0 +1,4 @@
+原 被告 经人介绍 相识 2011年 1月 7日 蓟州区 民政局 办理 结婚 登记 手续 共同 生活
+O O O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry O O O
+婚后 生育 二 子 长子 石恩奇 6 周岁 次子 石恩科 4 周岁 婚前 了解 少 婚后 双方 发现 感情 不 投 生活 琐事 生气 吵架 时至今日 夫妻 感情 已 彻底 破裂
+O B_Bear O O B_Gender O B_Age I_Age B_Gender O B_Age I_Age O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_FamilyConflict I_FamilyConflict O O O O O O

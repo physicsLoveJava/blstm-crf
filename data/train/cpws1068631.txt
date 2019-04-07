@@ -1,0 +1,4 @@
+原告 刘某 起诉 称 原 被告 ×××× 年×× 月经人介绍 认识 后于 ×××× 年×× 月×× 日 登记 结婚
+O O O O O O B_Time I_Time I_Time B_Know O B_Time I_Time I_Time I_Time B_Negated B_Marry
+×××× 年×× 月×× 日 生育 女 取名 毛某戊
+B_Time I_Time I_Time I_Time B_Bear I_Gender B_Negated B_Name

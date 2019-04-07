@@ -1,0 +1,8 @@
+原告 尹某 诉称 原 被告 2003年 相识 建立 恋爱 关系 ×××× 年×× 月×× 日 生育 女儿 张某 乙 ×××× 年×× 月×× 日 生育 儿子 张丁 ×××× 年×× 月×× 日 生育 儿子 张某丙 2010年 3月 5日 补 办 结婚 登记 手续
+O O O O O B_Time B_Know O B_BeInLove O B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear I_Bear B_Gender I_Name B_Time I_Time I_Time I_Time B_Bear B_Gender I_Name B_Time I_Time I_Time I_Time O B_Marry I_Marry
+原 被告 结婚 后 感情 被告 脾气 不好 打骂 原告 导致 夫妻 关系 恶化
+O O O O O O B_Person I_Person O B_DomesticViolence I_DomesticViolence B_Person O O
+双方 2013年 5月 已 分居 两地 已经 无法 共同 生活
+O B_Time I_Time I_Time I_Time I_Time I_Separation O O O
+现 原告 认为 夫妻 感情 已经 彻底 破裂 诉至法院 请求 判 令 原 被告 离婚
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O

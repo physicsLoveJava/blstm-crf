@@ -1,0 +1,12 @@
+原告 潘 XX 诉称 原告 被告 2003年 2月 认识 恋爱 后 同居 生活 被告 原告 家 入赘
+O O O O O O B_Time I_Time O B_BeInLove O O O O O O O
+2004年 8月 14日 生育 大 女儿 取名 潘 XX 双方 2009年 3月 25日 补 办 结婚 登记 手续 2009年 4月 2日 生育 小 女儿 取名 潘 XX 现 两 女儿 原告 父母 家 原告 生活
+B_Time I_Time I_Time B_Bear O O O B_Name I_Name O B_Time I_Time I_Time O O B_Marry O O B_Time I_Time I_Time B_Bear O O O B_Name I_Name O O O O O O O O
+婚后 被告 脾气 暴躁 好逸恶劳 看 不 原告 父母 2005年 5月 夫妻 间 闹 矛盾 夫妻 感情 逐渐 恶化
+O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2009年 7月 家庭 琐事 被告 原告 争吵 被告 动手 殴打 原告 原告 提出 被告 离婚 被告 不 同意 2010年 9月 感情 不和 原告 被告 分居 生活
+O O I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O B_Time I_Time O O O O B_Separation O
+原告 2012年 2月 起诉 离婚 要求 解除 婚姻 鹿寨县 人民法院 作出 2012 鹿民 初字 第363 号 判决 判决 不予 离婚
+B_Person O O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O O O O O O
+法院 判决 后 原 被告 未 联系 原告 为此 法院 提起 诉讼 请求 法院 判决 1 原 被告 离婚
+O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

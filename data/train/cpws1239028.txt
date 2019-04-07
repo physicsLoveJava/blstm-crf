@@ -1,0 +1,4 @@
+原告 张 某某 诉称 被告 经人介绍 相识 成亲 2012年 1月 11日 登记 结婚 同年 5月份 同居 生活
+O O O O O O O O B_Time I_Time I_Time O B_Marry O O O O
+婚前 缺乏 了解 婚后 性格 不合 双方 家庭 琐事 发生 争吵 导致 夫妻 感情 完全 破裂 无法 一起 共同 生活
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O

@@ -1,0 +1,12 @@
+原告 普 某某 起诉 称 原 被告 2000年 1月 26日 昆明市 五华区 民政局 登记 结婚 2002年 3月 1日 生育 女儿 张某
+O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 被告 脾气 暴躁 殴打 原告
+O B_Person O O B_DomesticViolence B_Person
+最近 年 被告 婚外 异性 长期 发生 性关系 原告 女儿 着想 劝 被告 珍惜 原告 家庭 第三者 刀 两 断 被告 置之不理 原告 劝阻 被告 反 被告 殴打
+O O B_Person I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O
+被告 原告 实行 家庭 暴力 婚外 异性 持续 不断 偷情 原告 造成 严重 伤害 属 过错方 被告 应 承担 过错 赔偿 责任 支付 原告 精神 抚慰金
+B_Person B_Person O B_DomesticViolence I_DomesticViolence O O O O B_Derailed O O O O O O O O O O O O O O O O
+综上 请求 人民法院 判决 1 原 被告 离婚
+O O B_Court O O O O B_DivorceLawsuit
+被告 张 某某 答辩 称 夫妻 感情 确 已 破裂 被告 同意 离婚 被告系 自主 择业 职工 生活 迫 外 打工 原告 感情 有所 疏远 不 存在 婚外情 无 同居 事实 原告 要求 精神 抚慰 金 不 符合 法律 规定
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O B_Negated I_Negated B_Derailed O O O O O O O O O O O O

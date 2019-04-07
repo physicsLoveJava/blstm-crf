@@ -1,0 +1,4 @@
+原 告诉 称 被告 经人介绍 相识 1997年 1月 28日 办理 结婚 登记 手续 2003年 1月 12日 生育 长子王 x 2008年 3月 4日 生育 次子王 x
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O B_Bear B_Name I_Name B_Time I_Time I_Time B_Bear B_Name I_Name
+婚前 被告 缺乏 了解 婚后 才 发现 被告 性格 孤僻 小 肚鸡肠 琐事 生气
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

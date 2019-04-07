@@ -1,0 +1,6 @@
+原被告系 夫妻 关系 1990年 12月 14日 登记 结婚
+O O O B_Time I_Time I_Time B_Marry I_Marry
+1991年 生育 男孩 于辉 现 已 成年
+B_Time B_Bear B_Gender B_Name O O O
+无法 生活 无奈 起诉 离婚 婚后 夫妻 建 平房 五 间 东侧 厢房 平 四 间
+O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth

@@ -1,0 +1,6 @@
+原告 王某 甲诉 称 2012年 原 被告 经人介绍 相识 2012年 农历 11月 16日 农村 风俗 习惯 结婚 2013年 1月 7日 补办 结婚 登记 手续
+O O O O B_Time O O O B_Know O O O O O O O O B_Time I_Time I_Time O B_Marry O O
+婚前 了解 不 深 仓促 结婚 婚后 感情 不好 被告 打骂 原告 被告 隐瞒 疾病 导致 原 被告 感情 破裂
+O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+2013年 8月 22日 被告 琐事 殴打 原告 菜刀 砍 原告 原告 受伤 严重 导致 原、被告 夫妻 感情 彻底 破裂
+O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict

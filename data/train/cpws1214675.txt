@@ -1,0 +1,6 @@
+王某 甲诉 称 原 被告 经人介绍 相处 约 年 于×××× 年×× 月×× 日 登记 结婚 婚后 生育 女王 某乙
+O O O O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name
+2008年 原 被告 争吵 次数 频率 越来越 直至 现在 转为 旷日持久 冷战
+O O O O O O O O O O B_FamilyConflict I_FamilyConflict
+多年 争吵 冷战 已经 消磨 二 人 夫妻 感情 现 双方 分居 已 长 达 年 形 陌路 夫妻 关系 已经 没有 继续 维持 下去 必要 慎重 考虑 后 原告 请求 法院 判 令 离婚 婚生 女 原告 抚养 依法 分割 夫妻 财产
+O O O O O O O O O O O B_Separation O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O O O O O O O O O

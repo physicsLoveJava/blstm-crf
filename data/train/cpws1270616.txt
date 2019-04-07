@@ -1,0 +1,4 @@
+原 告诉 称 原 被告 婚前 了解 不够 感情 基础 薄弱 婚后 被告 家庭 没有 责任心 打骂 原告
+O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 特 诉至法院 请求 判 令 1 解除 原 被告 婚姻 关系
+B_Person O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O

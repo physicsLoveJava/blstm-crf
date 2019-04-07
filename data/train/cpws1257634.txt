@@ -1,0 +1,4 @@
+原告 张某 诉称 被告 2008年 经人介绍 认识 2008年 11月 定陶县 民政局 登记 结婚 均 属 再婚 2009年 农历 9月 初 10 生 男孩 杨 某某 现在 被告 爷爷 生活
+O O O O B_Time O B_Know B_Time I_Time O O B_Marry I_Marry O O B_Remarry B_Time I_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O O
+2013年 4月份 被告 被捕 入狱 二 人 分居 今
+B_Time I_Time O O O O O B_Separation O

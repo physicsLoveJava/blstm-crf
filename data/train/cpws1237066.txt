@@ -1,0 +1,4 @@
+原告 闫 某某 诉称 原 被告 2010年 7月 经人介绍 相识 2010年 10月 19日 登记 结婚 2011年 7月 17日 生育 男孩 取名 杨某甲
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚后 双方 家庭 琐事 发生 纠纷 导致 夫妻 感情 发生 变化 为此 要求 被告 离婚 依法 分割 财产 男孩 杨某 甲 原告 抚养 被告 支付 抚养费
+O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O

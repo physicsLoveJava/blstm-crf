@@ -1,0 +1,22 @@
+原告 杜 某某 诉称 原 被告 经人介绍 相识 1991年 11月 8日 民政部门 办理 结婚 登记 手续 原告 1993年 5月 生育 2004年 9月 生育 次女
+O O O O O O O O B_Time I_Time I_Time O O B_Marry O O O B_Time I_Time B_Bear B_Time I_Time B_Bear B_Gender
+婚后 被告 不尽 夫妻 义务 上网 异性 聊天 导致 夫妻 感情 恶化
+O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 还 原告 孩子 进行 打骂 实施 家庭 暴力
+B_Person O B_Person I_Person O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 曾 2011年 10月 24日 起诉 原告 离婚 后 法院 判决 不准 原 被告 离婚
+O O B_Time I_Time I_Time O O B_DivorceLawsuit O B_Court B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+现原 被告 无法 一起 共同 生活 原告 起诉 法院 请求 判决 解除 原 被告 婚姻 关系
+O O O O O O O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+依法 分割 夫妻 共同 财产 位于 张汪镇田 陈 生活 小区 51 号 楼 3 单 元 510 室 房产 处 价值 100000 元
+O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O B_Price I_Price
+被告 购买 价值 80000 元 轿车 辆
+O O O B_Price I_Price B_Wealth I_Wealth
+被告 住房 积金 具体 金额 不 清楚
+O B_Wealth I_Wealth O O O O
+被告 邢 某某 辩称 原告 陈述 原、被告 婚姻 构成 婚后 生育 子女 情况 属实
+O O O O O O O B_Marry I_Marry O B_Bear O B_Negated I_Negated
+婚后 购买 长城 牌鲁 D78Q72 轿车 辆 事实 被告 贷款 买 现在 还 欠 银行 两 年 三 月 利息
+O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O B_Debt B_Person B_Price I_Price I_Price I_Price I_Price
+认可 共同 房产 价值 100000 元 住房 公积金 被告 所在 单位 被告 工薪 中 月月 扣除 具体 数额 被告 不 清楚
+B_Negated B_CommonProperty B_Wealth O B_Price I_Price O O O O O O O O O O O O O O O

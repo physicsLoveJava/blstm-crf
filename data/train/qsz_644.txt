@@ -1,0 +1,6 @@
+原告 被告 经人介绍 相识 2002年 8月 27日 登记 结婚 婚后 生育 子 单宇
+O O O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name
+被告 酗酒
+B_Person B_BadHabit
+打骂 原告
+B_DomesticViolence B_Person

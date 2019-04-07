@@ -1,0 +1,6 @@
+原 被告 自由 恋爱 2010年 3月 2日 生长子 周晋雄 2011年 2月 14日 补 办 结婚 登记 手续
+O O B_BeInLove I_BeInLove B_Time I_Time I_Time B_Bear B_Name B_Time I_Time I_Time B_Marry I_Marry I_Marry I_Marry O
+共同 生活 中 性格 差异 大 家庭 琐事 纠纷 不断 打架 生气 致使 夫妻 感情 彻底 破裂 实在 无法 维持 共同 生活 无奈
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O
+原告 8月 初 搬 出 住地 过分 居 生活
+O B_Time I_Time O O O B_Separation I_Separation O

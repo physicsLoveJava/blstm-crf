@@ -1,0 +1,12 @@
+原告 姜某 起诉 称 原被告 1995年 上半年 相识 恋爱 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time B_Know B_BeInLove B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 生育 子 方某 乙 现年 十七 岁 在校 读书
+O B_Bear B_Gender B_Name I_Name O B_Age I_Age O O
+婚后 原被告 无 共同语言 争吵 被告 常 去 赌博 家庭 孩子 生活费 均 不 承担 全 原告 打工 度日
+O O O O B_FamilyConflict O O O O O O O O O O O O O O
+2010年 3月 26日 原告 法院 起诉 要求 离婚 后 考虑 孩子 读书 原因 撤诉 原被告 夫妻 关系 无 好 发展 被告 恶习 不 改 子女 抚养费 不 承担 全部 原告 承担 夫妻 关系 进一步 恶化
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment O O O O O O O O O O O O O O O O O O O O O
+2013年 2月 18日 原告 法院 起诉 离婚 后 撤诉 原被告 根本 无 好 希望 2008年 离家 被告 分居 今
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit O B_Judgment O O O O O B_Time O O B_Separation O
+被告方 某甲 答辩 称 原告 姜某 陈述 登记 结婚 生育 小孩 情况 事实
+O O O O O O O B_Marry I_Marry B_Bear O O O

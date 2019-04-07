@@ -1,0 +1,10 @@
+原告 被告 1984年 柑识 1985年 11月 15门 F 天津市 武清区 登记 结婚
+O O O B_Know O O O O O O B_Marry I_Marry
+1986年 双方 生疗 子 刘德水 现 32 岁
+B_Time O B_Bear I_Gender B_Name O B_Age I_Age
+双方 婚前 感情 基础 般 婚后 家庭 矛盾 不 断 被告 殴打 原告 原告 考虑 孩子 年幼 隐忍
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_Person B_DomesticViolence B_Person O O O O O
+2017年 8月 29日 被告 家庭 琐事 原告 大打出手 导致 原告 右肩 左侧 肋骨 受伤 后 双方 正式 分居 今
+B_Time I_Time I_Time B_Person O O B_Person B_DomesticViolence O O O O O O O O O B_Separation I_Time
+2017年 10月 初 被告 欲 殴打 原告
+B_Time I_Time I_Time B_Person B_DomesticViolence I_DomesticViolence B_Person

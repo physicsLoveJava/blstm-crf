@@ -1,0 +1,10 @@
+原告 韦某 诉称 2000年 冬 原 被告 经人介绍 认识 恋爱 2001年 2月 20日 登记 结婚 生育 韦某 韦某 二 二 孩子
+O O O B_Time I_Time O O O B_Know B_BeInLove B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Name B_Name I_Name O O
+2006年 被告 参与 赌博 家庭 积蓄 用于 赌博 为此 双方 争吵
+O B_Person O B_BadHabit O O O O O O I_FamilyConflict
+2013年 被告 欠 十 万 债务 原告 帮 还 五万 元
+O O O O O B_Debt O O O O O
+被告 长 时间 不 回家 夫妻 之间 感情 已 破裂 请求 判决 原 被告 离婚 二 小孩 原告 抚养 被告 每月 支付 抚养费 1000 元
+O O O O O O O O O O O O O O B_DivorceLawsuit O O O O O O O O O O
+2 被告 确 赌博 恶习 已 改正 现 被告 黎塘镇 上 茶楼 打工 原告 认为 被告 第三者 不 事实 被告 没有 做 对不起 原告 事情
+O O B_Negated O O O O O O O O O O O O O O O O O O O O O O

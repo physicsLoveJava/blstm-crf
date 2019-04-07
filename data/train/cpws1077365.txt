@@ -1,0 +1,4 @@
+原告 易 某某 诉称 2008年 1月 7日 原 被告 经人介绍 隆回县 民政局 登记 结婚 婚前 缺乏 了解 婚后 无法 建立 感情 吵架 闹 离婚 至今 没有 生育 小孩
+O O O O B_Time I_Time I_Time O O O O O B_Marry I_Marry O O O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+减轻 双方 痛苦 原告 2012年 10月 隆回县 人民法院 起诉 离婚 法院 判决 不 准 离婚 后 两 人 继续 分居 今
+O O O O O O O O O O O O O O O O O O O B_Separation O

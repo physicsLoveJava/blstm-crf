@@ -1,0 +1,14 @@
+原告 被告 2013年 人 相识 确立 恋爱 关系
+O O B_Time O B_Know B_BeInLove I_BeInLove I_BeInLove
+双方 2014年 10月 12日 登记 结婚
+O B_Time I_Time I_Time B_Marry I_Marry
+夫妻 2014年 9月 10日 生育 女
+O B_Time I_Time I_Time B_Bear B_Gender
+取名 代俊熙
+O B_Name
+导致 夫妻 感情 裂痕 进一步 加剧 夫妻 打架 事 越发 频繁
+O O O O O O O B_FamilyConflict O O O
+被告 脾气 暴躁
+B_Person O O
+不止 次 原告 拳脚 相加
+O O B_Person B_DomesticViolence I_DomesticViolence

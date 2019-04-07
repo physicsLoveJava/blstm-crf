@@ -1,0 +1,12 @@
+原告 被告 2004年 相识 确立 恋爱 关系
+O O B_Time O O B_BeInLove O
+双方 思 2009年 8月 12日 登记 结婚
+O O B_Time I_Time I_Time B_Marry I_Marry
+X 方 2006年 11月 21日 生育 子
+O O B_Time I_Time I_Time B_Bear B_Gender
+取名 杨锐
+O B_Name
+婚后 夫妻 感情
+O O B_FamilyConflict
+被告 2017年 1月份 外出 旅游 为由 人 高开家
+O B_Time I_Time O O O I_Separation I_Separation

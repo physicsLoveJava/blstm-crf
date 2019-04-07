@@ -1,0 +1,4 @@
+原告 赵 某某 诉称 原 被告 西安 打工 时 认识 相互 了解 甚 少 情况 下 草率 结婚
+O O O O O O O O O B_Know O O O O O O O O
+综 上 原 被告 婚前 缺乏 了解 婚后 未 建立 夫妻 感情 被告 骗婚 使 原告 经济 上 精神 上 受到 莫大 损失 使 原告 合法 权益 不 受 侵犯 特诉 贵院 请求 判决 离婚 请求 被告 返还 彩礼 五万 元 首饰
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O B_Person O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O

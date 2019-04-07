@@ -1,0 +1,2 @@
+原告 王 某某 诉称 婚前 被告 了解 不够 草率 结婚 后 发现 被告 不务正业 参加 赌博 规劝 仍 不 悔改 被告 婚姻 不忠 长期 保持 不 正当 关系
+O O O O O O O O O B_Marry O O O O O B_BadHabit O O O O O O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed

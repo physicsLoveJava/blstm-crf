@@ -1,0 +1,4 @@
+原告 姚某 诉称 原 被告 2009年 登记 结婚 婚后 被告 原告 漠不关心 不尽 家庭 义务 夜 不 宿 无 生育 能力
+O O O O O B_Time B_Marry I_Marry O O O O O O O O O O O O O
+双方 感情 已经 破裂 请求 被告 离婚 分割 婚后 共同 财产
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O

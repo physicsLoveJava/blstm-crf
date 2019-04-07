@@ -1,0 +1,4 @@
+原告 陶 风格 诉称 原被告 经人介绍 2010年 10月 25日 登记 结婚 婚生 儿子 张纪泽 2011年 阴历 5月 23日 出生
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time O
+婚前 双方 缺乏 了解 没有 感情 基础 未 建立 真正 夫妻 感情 2012年 3月 8日 范县 人民法院 起诉 离婚 2012年 3月 10日 申请 撤诉 裁定 准许
+O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O

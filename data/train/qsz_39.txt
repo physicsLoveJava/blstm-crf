@@ -1,0 +1,6 @@
+原被告 2012年 8月 28日 登记 结婚 婚后 生育 子 名 段承焘 现 4 岁
+O B_Time I_Time I_Time O B_Marry O B_Bear B_Gender O B_Name O B_Age I_Age
+原被告 婚前 感情 基础 薄弱 婚后 被告 长期 酗酒 原告 家人 实施 家庭 暴力 数次 伤 原告 更为甚者 原告 父母 痛下狠手 造成 原告 母亲 骨折
+O O O O O O B_Person O B_BadHabit O O O O O O I_DomesticViolence B_Person O O O O O B_Person I_Person B_DomesticViolence
+原告 不堪 忍受 躲避 被告 搬 回 娘家 居住 现 双方 分居 已 两 年 有余
+O O O O O O O O O O O B_Separation O B_Duration I_Duration I_Duration

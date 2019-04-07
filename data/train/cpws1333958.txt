@@ -1,0 +1,6 @@
+原告 张 某某 诉称 1994年 底 原被告 经人介绍 相识 1996年 1月 3日 领取 结婚 证书
+O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Marry
+原被告 共同 生活 后 感情 不合 生气 吵架
+O O O O O O I_FamilyConflict I_FamilyConflict
+2013年 3月份 原告 诉至法院 请求 被告 离婚 被告 不 同意 离婚 原告 张 某某 原被告 好为由 法院 申请 撤诉 原被告 仍 无法 共同 生活
+B_Time I_Time B_Person O O O B_DivorceLawsuit O O O O O O O O O O B_Judgment I_Judgment O O O O O

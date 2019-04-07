@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2003年 高中 同学 认识 当年 2004年 自由 恋爱 被告 曾 2007年 怀孕 未 登记 结婚 堕胎
+O O O O O B_Time O O B_Know O O O O O O O O O O O O
+交往 5 年 双方 仍 缺乏 完整 了解 原告 责任 于×××× 年×× 月××日 被告 登记 结婚
+O O O O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry
+双方 ×××× 年×× 月×× 日 生育 女儿 王某 乙
+O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name

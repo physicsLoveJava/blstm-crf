@@ -1,0 +1,4 @@
+原 被告 2011年 6月 网络 相识 相恋 原告 受 被告 欺骗 双方 居 2013年 1月 30日 生育 子 毛迎雨 后 孩子 2016年 1月 29日 蓟州区 民政局 补办 结婚 登记 手续 领取 结婚证
+O O B_Time I_Time O B_Know O O O O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name O O B_Time I_Time I_Time O O O B_Marry O O O O
+婚前 受 被告 欺骗 被告 原告 说 全 胡编乱造 婚后 原告 才 逐渐 发现 双方 感情 不 投 被告 说 全部 虚假 编造 双方 生活 琐事 生气 吵架 被告 游手好闲 不务正业
+O O O O O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict O O O

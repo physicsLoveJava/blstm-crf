@@ -1,0 +1,4 @@
+原告 陈 某某 诉称 被告 经人介绍 2012年 12月 13日 结婚 婚后 被告 生气 2013年 4月 回到 娘家 居住 去 不
+B_Person O O O O O B_Time I_Time I_Time B_Marry O O B_FamilyConflict B_Time I_Time B_Separation I_Separation I_Separation O O
+被告 之间 已 无 夫妻 感情 起诉 要求 被告 离婚
+O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

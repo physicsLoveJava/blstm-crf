@@ -1,0 +1,2 @@
+原告 魏某 诉称 被告 经人介绍 订婚 婚前 缺乏 了解 婚后 关系 不好 常 生气 吵架 婚后 生 子 女
+O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O

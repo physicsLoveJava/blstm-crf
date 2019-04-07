@@ -1,0 +1,10 @@
+原被告 双方 1997年 初 经人介绍 相识 1997年 12月 18日 领取 结婚证 双方 均 系 二婚
+O O B_Time O O B_Know B_Time I_Time I_Time O B_Marry B_Person O O B_Remarry
+2017年 3月 28日 原告 曾经 起诉 离婚
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit O
+被告 不 同意 离婚 蓟州区 人民法院 2017年 4月 25日 2017 津0119 民 初 4145 号 民事 判决书 驳回 原告 诉讼 请求
+O O O O O O B_Time I_Time I_Time O O O O O O O O B_Judgment O O O
+2017年 11月 3日 原告 起诉 离婚 依然 没有 叛离
+B_Time I_Time I_Time B_Person B_DivorceLawsuit O O O O
+原告 提出 撤诉 申请 蓟州区 人民法院 2017年 11月 29日 2017 津0119 民 初 11974 号 民事 裁定书 裁定 撤回 起诉
+O O O O O O O O O O O O O O O O O O B_Judgment I_Judgment

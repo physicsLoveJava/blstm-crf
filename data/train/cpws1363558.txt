@@ -1,0 +1,14 @@
+原 告诉 称 原 被告 2008年 11月 下旬 经人介绍 认识 2009年 1月 18日 登记 结婚
+O O O O O B_Time I_Time I_Time O B_Know B_Time I_Time I_Time O B_Marry
+2009年 10月 16日 生育 子
+B_Time I_Time I_Time B_Bear B_Gender
+被告 暴躁 脾气 恶毒 语言 攻击 厮扯 两 次 刀 企图 行凶 行为 已 严重 伤害 原告 身心健康 人身 安全
+O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O
+共同 生活 期间 被告 不 尊敬 老人 孝敬 原告 父母 恶语 中伤 原告 父母 动手 殴打 原告 年 六旬 父母
+O O O B_Person I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DomesticViolence I_DomesticViolence O O I_Person I_Person
+2013年 5月 1日 原告 回家 休假 被告 无事生非 原告 发生 争执 动手 殴打 原告 原告 父母 前来 劝解 被告 不但 不 听 口 出 不 逊 辱骂 原告 父母 手机 狠狠 砸 原告 父亲 头部 致使 晕倒 厮打 过程 中 掉 原告 母亲 牙齿
+O O O O O O B_Person O O O O O B_DomesticViolence B_Person O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5月 2日 19时 左右 被告唆 使 兄弟 原告 父母 家 啤酒瓶 原告 61 岁 母亲 胳膊 骨折 原告 年 65 岁 父亲 头部 伤 致 轻微 脑震荡 此事 中山街 派出所 已 调查 立案 被告 兄弟 答应 医疗 费用 拒 不 支付 原告 年迈 父母 至今 还 医院 治疗
+O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence O O O O O O O O O O O O O O O O O O O O O
+原告 2011年 11月 汉台区 人民法院 提起 离婚 诉讼 后 法院 调解 考虑 年幼 儿子 原告 撤诉
+B_Person B_Time I_Time B_Court I_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

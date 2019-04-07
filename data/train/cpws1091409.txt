@@ -1,0 +1,10 @@
+原告 杨某 诉称 原 被告 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+被告 婚后 1997年 从事 服装 来料加工 期间 利用 空余 时间 赌博 夫妻 双方 积蓄 赌空 后 关闭 服装 加工 店 至今 沉迷 赌博
+B_Person O O O O O O B_BadHabit I_BadHabit I_BadHabit I_BadHabit O O O O O O O O O O O O
+原告 为此 曾 2007年 被告 小兄 家中 被告 协商 被告 保证 不再 赌博 原告 归还 赌债 7万 元
+O O O O O O O O O B_Person O O O O O B_Debt B_Price I_Price
+2009年 原告 诉请 法院 被告 离婚 法院 调解 后 归还 赌债 24万 元
+O O O O B_Person O O O O O B_Debt B_Price I_Price
+后 被告 欠 下 赌债 23万 元 原告 被告 立 下 书面 保证 后 归还 赌债 15．75万 元 被告 利用 原告 归还 赌债 钱 继续 赌博 欠 下 赌债 约 16万 元
+O O O O B_Debt B_Price I_Price O O O O O O O O B_Debt B_Price I_Price O O O O O O O O O O B_Debt B_Price I_Price I_Price

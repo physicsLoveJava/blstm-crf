@@ -1,0 +1,2 @@
+原告 彭 某某 诉称 原 被告 婚姻 基础 不 牢 婚后 被告 原告 实施 家庭 暴力
+B_Person I_Person I_Person B_DivorceLawsuit O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O B_Person B_Person O B_DomesticViolence I_DomesticViolence

@@ -1,0 +1,8 @@
+原告 周某 杰诉 称 原告 周某杰 被告 周某 云 2011年 10月份 介绍 相识 恋爱 双方 2012年 4月 23日 登记 结婚
+O O O O O O O O O B_Time I_Time O B_Know O O B_Time I_Time I_Time B_Marry I_Marry
+婚后 双方 性格 各异 思想 观念 不同 无法 建立 真正 夫妻 感情 常 生活 琐事 发生 争吵
+O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+被告 婚后 前 男友 保持 不 正当 男女 关系 被告 前 男友 2012年 7月 14日 蹿 原告 家中 寻衅滋事 原告 面 毫不 知耻 大 说 被告 之间 种种 丑恶 行为 内容 不堪入耳 气焰 十分 嚣张
+O O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed O O O O O O O O O O O O O O O O O O O O O O O O O O
+原 被告 关系 急剧 恶化 难以 共同 生活 下去 被告 便 离开 原告 回 娘家 居住 今 致 夫妻 感情 矛盾 越 积 越
+O O O O O O O O O O O O O B_Separation I_Separation I_Separation O O O O O O O O

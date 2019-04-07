@@ -1,0 +1,8 @@
+原告 丘 某某 诉称 原 被告 2002年 经人介绍 相识 谈婚 被告 不大 了解 情况 下 仓促 2003年 2月 12日 办理 结婚 登记 手续
+O O O O O O B_Time O B_Know O O O O O O O B_Time I_Time I_Time O B_Marry I_Marry O
+婚后 夫妻 感情 被告 脾气 暴躁 赌博成性 钱 被告 曾 想 家里 块 田地 卖 原告 制止 后 还 大 闹 原告 失去 理智 殴打 原告 被告 母亲 偏袒 被告 助长 被告 气焰
+O O O O O O B_BadHabit O O O O O O O O O O O O O O O O O O O O O O O O O O
+2010年 3月 17日 被告 原告 作出 保证书 不 履行 原告 身心 受到 严重 伤害 夫妻 之间 感情 已 破裂 2012年 12月 17日 人民法院 提诉 要求 被告 离婚 人民法院 判决 不 准 离婚 后 夫妻 关 仍 不能 和好 夫妻 之间 互不 履行 义务 现 人民法院 提起 离婚 诉讼
+O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+婚生 四 孩子 庞某甲 女 庞某乙 男 庞某丙 男 庞某丁 女 大 女 庞某 甲 原告 抚养 三 孩子 被告 抚养 抚养 孩子 费用 承担
+B_Bear O O B_Name B_Gender B_Name B_Gender B_Name B_Gender B_Name B_Gender O O O O O O O O O O O O O O

@@ -1,0 +1,4 @@
+原告 李 某某 诉称 原 被告 经人介绍 认识 2010年 6月 8日 登记 结婚 婚后 生育 女 李某甲
+O O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name
+婚前 双方 缺乏 了解 草率 办理 结婚 手续 婚后 琐事 发生 争执 矛盾 不断 升级 导致 感情 彻底 破裂 再 无 和好 起诉 法院 要求 依法 判决 原 被告 离婚
+O O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O

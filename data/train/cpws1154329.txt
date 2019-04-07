@@ -1,0 +1,8 @@
+原告 李某 诉称 原 被告 经人介绍 认识 1993年 3月 15日 登记 结婚 同年 生育 子 取名 李 某某
+O O O O O O B_Know B_Time I_Time I_Time B_Marry I_Marry B_Time B_Bear B_Gender O B_Name I_Name
+婚后 夫妻 感情 尚 后 双方 脾气 不 合 家庭 琐事 争吵 导致 夫妻 感情 破裂
+O O O O O O O O O O O B_FamilyConflict O O O O
+原告 2011年 3月 12月 二 次 起诉 法院 离婚 法院 证据 不足 为由 判决 驳回 原告 诉讼 请求
+B_Person B_Time I_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O B_Judgment I_Judgment I_Judgment I_Judgment
+判决 后 双方 关系 没有 改善 双方 分居 至今 已 4 年 目前 夫妻 感情 彻底 破裂 夫妻 关系 名存实亡
+O O O O O O O B_Separation B_Time O O O O O O O O O O O

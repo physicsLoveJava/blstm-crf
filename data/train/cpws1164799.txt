@@ -1,0 +1,4 @@
+原告 陈 某某 诉称 原 被告 2004年 10月 21日 登记 结婚 婚后 二 人 夫妻 感情 2006年 农历 12月 28日 生育 长子 熊明旭 2011年 农历 1月 27日 生育 次子 熊 浩明
+O O O O O O B_Time I_Time I_Time O B_Marry O O O O O B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+被告 外 务工 期间 女人 勾搭 成奸 自此 夫妻 感情 出现 裂痕 被告 家人 发现 后 规劝 不但 不 改正 越来越 疏远 不再 寄 钱 不 娘们 为此 起诉 离婚
+O O O O O B_Derailed I_Derailed O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O O O

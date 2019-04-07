@@ -1,0 +1,10 @@
+原被告 2000年 春节 后 人 介绍 相识 2001年 11月 15日 自愿 领取 结婚 证书 2001年 10月 农历 举行 婚礼 后 共同 生活 2004年 3月 3日 生育 儿子 苗 鑫琦
+O B_Time I_Time I_Time O O B_Know B_Time I_Time I_Time O B_Marry I_Marry I_Marry B_Time I_Time I_Time B_Marry I_Marry O O O B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+原被告 夫妻 感情 婚前 了解 不够 导致 婚后 出现 无法 沟通 情况
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O
+2016年 被告 曾经 离开 原告 住所 单独 居住
+B_Time O O B_Separation I_Separation I_Separation I_Separation I_Separation
+直到 2017年 6月 暑假 被告 才 回到 原告 家里 原告 共同 居住 生活 被告 原告 原告 家人 无 语言 沟通
+O B_Time I_Time O O O O O O O O O O O O O O O O O
+2017年 6月份 慕 原告 离开 被告 外 租房 居住
+B_Time I_Time O B_Separation I_Separation I_Separation I_Separation I_Separation I_Separation

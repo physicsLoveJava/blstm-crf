@@ -1,0 +1,2 @@
+婚后 双方 没有 共同语言 双方 性格 脾气 不 合 发生 争吵
+O O O O O O O O O B_FamilyConflict I_FamilyConflict

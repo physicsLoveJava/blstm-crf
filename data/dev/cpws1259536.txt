@@ -1,0 +1,10 @@
+原告 韦谭莉诉 称 2009年 8月 原告 经人介绍 被告 结婚 2010年 7月 共同 生育 男孩 取名 廖 X 杰
+O O O B_Time I_Time O O O B_Marry B_Time I_Time O B_Bear B_Gender O B_Name I_Name I_Name
+婚后 被告 无端 怀疑 原告 外遇 毒打 原告 2011年 7月 原告 被告 毒打 拉 出门 外 法院 起诉 要求 被告 离婚 法院 调解 下 双方 好
+O O O O O O B_DomesticViolence O B_Time I_Time B_Person O O O O O I_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment
+事后 被告 仍 怀疑 原告 外遇 更 凶狠 毒打 原告
+O O O O O O O O B_DomesticViolence O
+2012年 5月 初 2 原告 去 喷 农药 造成 根 红薯 藤枯死 被告 母亲 骂 原告 被告 旁边 辱骂 原告 原告 拉 出门 外 不准 原告 进屋 原告 为此 回 娘家 居住 今
+B_Time I_Time I_Time I_Time O O O O O O O O O O O O O O O O O O O O O O O O B_Separation I_Separation I_Separation I_Separation O
+财产 原告 依法 占有 份 原告 被告 离婚 时 原告 愿 份额 付给 廖 X 杰 生活费 廖 X 杰年 满 18 周岁
+B_Wealth O O O O O O O O O O O O O O O O O O O O O O

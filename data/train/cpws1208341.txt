@@ -1,0 +1,6 @@
+原告 隋某 甲诉 称 2010年 12月 16日 原 被告 招远市 民政局 登记 结婚
+O O O O B_Time I_Time I_Time O O O O B_Marry I_Marry
+婚后 生 女孩 隋某 乙 现 原告 生活
+O B_Bear B_Gender B_Name I_Name O O O
+婚后 不久 被告 原告 吵架 家庭 不尽 义务
+O O O O O I_FamilyConflict I_FamilyConflict I_FamilyConflict

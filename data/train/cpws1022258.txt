@@ -1,0 +1,2 @@
+原告 杨 某某 诉称 原 被告 2004年 经人介绍 相识 恋爱 2005年 5月 登记 结婚 婚后 先后 生育 两 女儿 双方 性格 不和 生活 小事 吵架 2011年 原告 小产 后 不 关心 不 钱 家里 有事 联系 不 上 见 不 人 曾 协商 离婚 未果 现 已 无法 共同 生活 下去
+O O O O O O B_Time O B_Know B_BeInLove B_Time I_Time O B_Marry O O B_Bear O B_Gender O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O O O O O O O

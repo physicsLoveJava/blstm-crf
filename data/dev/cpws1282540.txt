@@ -1,0 +1,10 @@
+原告 李某 甲诉 称 原 被告 1996年 底 经人介绍 相识 1997年 1月 26日 邵阳县 郦家坪镇 人民政府 登记 结婚 1997年 10月 20日 生育 男孩 李某 乙 2001年 11月 10日 生育 女孩 李某 丙
+O O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+后 被告 家庭 子女 不 责任 义务 打牌 赌博 屡教不改 有时 被告 还 别的 男人 保持 不 正当 男女 关系
+O B_Person O O O O O B_BadHabit I_BadHabit O O B_Person O I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed I_Derailed
+被告 所作所为 伤害 原告 子女 原告 2013年 3月 法院 提起 离婚 诉讼
+O O O O O O B_Time I_Time O O B_DivorceLawsuit I_DivorceLawsuit
+判 不予 离婚 后 被告 依然 没有 悔改 双方 夫妻 感情 已经 完全 破裂
+I_Judgment I_Judgment I_Judgment O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+特 法院 起诉 请求 依法 判决 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit O O O O O O

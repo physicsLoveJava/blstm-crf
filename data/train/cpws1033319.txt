@@ -1,0 +1,10 @@
+原告 胡某 起诉 称 2011年 8月 9月 期间 原告 经人介绍 被告 相识 恋爱
+O O O O B_Time I_Time I_Time O O O O B_Know B_BeInLove
+2011年 12月 14日 双方 宁海县 民政局 登记 结婚
+B_Time I_Time I_Time O O O O O
+原告 治疗 期间 外 举债 11000 元 被告 母亲 原告 产生 矛盾
+O O O O O B_Debt B_Price I_Price O O O O
+2013年 2月 23日 原告 回 娘家 居住 今
+B_Time I_Time I_Time I_Time I_Time O O I_Separation
+期间 原告 母亲 回 被告 处 衣服 生活 用品 被告 父母 发生 吵 后 大 佳何 派出所 制止
+B_Time O O O O O O O O O O O O O O O O O

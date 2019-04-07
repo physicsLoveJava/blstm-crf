@@ -1,0 +1,14 @@
+原告 占某 诉称 2008年 原告 被告 广州 制衣厂 工作 相识 两 年 2009年 1月 24日 结婚 同年 8月 26日 补办 结婚 登记 手续 同年 9月 11日 生育 子 名 裴宇轩
+O O O O O O O O O O O O B_Time I_Time I_Time B_Marry O O O O O O O O B_Time I_Time B_Bear B_Gender O B_Name
+注 被告 属于 二婚 前 妻 系 黄梅人 2000年 结婚 未 办 结婚证 生 女 裴苗 夫妻 间 家庭 琐事 打架 感情 不和 女方 离家 出走 女儿 裴苗随 被告 抚养
+O O O O O O O O B_Time B_Marry O O O B_Bear B_Gender B_Name O O O O B_DomesticViolence O O O O O O O O O
+被告 婚前 感情 婚后 没有 共同语言 家庭 小事 争吵 打闹
+O O O O O O O O B_FamilyConflict I_FamilyConflict
+被告 裴某 2012年 6月 29日 晚 娘家 家庭 纠纷 吵闹 掀翻 桌椅 损坏 家具 出言 不 逊 辱骂 父母 被告 外出 分居 今
+O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O
+2013年 1月 16日 被告 娘家 家庭 纠纷 争吵 大打出手 致 受伤 晕倒 母亲 在场 劝架 时 遭受 不同 程度 受伤 浠水县 公安局 清泉 派出所 接处警 登记表 司法 鉴定 法医 鉴定 意见书 证
+O O O O O O O O B_DomesticViolence O O O O O O O O O O O O O O O O O O O O O O O
+原告 认为 被告 年龄 上 相差 十几 岁 不 正常 交流 思想 沟通 家庭 小事 受到 殴打 被告 家庭 暴力 行为 夫妻 感情 确 已 破裂 无 好
+O O O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence O O O O O O O O
+被告 家庭 暴力 行为 导致 夫妻 关系 不 造成 夫妻 感情 破裂 应 结束 婚姻
+O B_DomesticViolence I_DomesticViolence O O O O O O O O O O O O

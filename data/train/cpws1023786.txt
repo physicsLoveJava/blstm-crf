@@ -1,0 +1,4 @@
+原告 韩 某某 诉称 原 被告 1989年 7月 21日 珲春市 人民政府 登记 结婚
+O O O O O O O O O O O O B_Marry
+原 被告 性格 不合 被告 酗酒 闹事 导致 夫妻 感情 完全 破裂
+O O B_FamilyConflict I_FamilyConflict O B_BadHabit I_BadHabit O O O O O

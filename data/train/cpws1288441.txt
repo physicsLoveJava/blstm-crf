@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 双方 2006年 12月 12日 登记 结婚 婚后 夫妻 感情 琐事 争吵 2013年 2月份 双方 分居 直至 现在
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry O O O O O B_Time I_Time O B_Separation B_Time I_Time
+为此 原告 法院 提起 诉讼 请求 判 令 准予 原 被告 离婚
+O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+被告 辩称 原 被告 均 系 再婚 2006年 12月 12日 办理 结婚 登记 手续 后 夫妻 感情 好
+O O B_Person I_Person O O B_Remarry B_Time I_Time I_Time O B_Marry I_Marry O O O O O

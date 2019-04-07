@@ -1,0 +1,6 @@
+原被告 经人介绍 相识 相处
+O O B_Know O
+2013年 5月 9日 蓟州区 民政局 婚姻 登记 管理科 办理 结婚 登记 手续
+B_Time I_Time I_Time O O O O O O B_Marry I_Marry O
+婚后 性格 不合 家庭 琐事 争吵 致使 感情 每况愈下 现 完全 破裂
+O B_FamilyConflict I_FamilyConflict O O B_FamilyConflict O O O O O O

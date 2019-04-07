@@ -1,0 +1,8 @@
+原告 谢仲伦 诉称 原 被告 2008年 经人介绍 相识 不久 便 同居 生活 2009年 7月 2日 生育 女孩 谢柔杰 2010年 1月 13日 登记 结婚
+O O O O O B_Time O B_Know O O O O B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Marry I_Marry
+婚后 被告 性格 暴躁 原告 家人 相处 不好 常 怀疑 原告 外遇
+O O O O O O O O O O B_Person I_Derailed
+为此 原 被告 发生 争吵 导致 夫妻 感情 破裂
+O O O B_FamilyConflict I_FamilyConflict O O O O
+被告 王跃花 辩称 原告 诉 相识 结婚 生育 小孩 事实 不 事实
+O O O O O B_Know B_Marry B_Bear O B_Negated B_Negated I_Negated

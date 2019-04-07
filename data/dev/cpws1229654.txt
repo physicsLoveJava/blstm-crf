@@ -1,0 +1,14 @@
+原告 郑某 诉称 原告 被告 经人介绍 认识 于×××× 年×× 月××日 婚姻 登记 机关 登记 结婚
+O O O O O O O B_Time I_Time I_Time O O O B_Marry I_Marry
+×××× 年×× 月×× 日 生育 儿子 李某 乙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 原告 发现 被告 脾气 粗暴 被告 家庭 生活 琐事 找 借口 原告 争吵 原告 常常 忍气吞声
+O O O B_Person B_BadHabit I_BadHabit O O O O O O O B_FamilyConflict O O O
+被告 无端 怀疑 原告 婚外情 被告 言行 伤 原告 自尊心
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+2010年 2月 原 被告 分居 生活 分居 期间 互不 履行 夫妻 义务 分居 已 三 年 时间
+B_Time I_Time O O B_Separation O O O O O O O O O B_Duration I_Duration O
+请求 法院 判决 原告 被告 离婚 婚生 儿子 李某 乙 被告 李某 甲 抚养 18 周岁 夫妻 共同 财产 房屋 栋 价值 160000 元 原 被告 平均 分割
+O O O O O B_DivorceLawsuit O O O O O O O O O O O B_CommonProperty I_CommonProperty B_Wealth I_Wealth O B_Price I_Price O O O O
+原告 诉状 称 双方 已经 分居 三 年 时间 不 事实
+O O O O O O O O O B_Negated I_Negated

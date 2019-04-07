@@ -1,0 +1,8 @@
+原告 肖某 诉称 原 被告 均 系 再婚
+B_Person O O O B_Person O O B_Remarry
+2012年 双方 经人介绍 相识 确立 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚 ×××× 年×× 月×× 日婚生 子 取名 肖某甲
+B_Time O O B_Know O B_BeInLove O B_Time I_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear B_Gender O B_Name
+2014年 6月 24日 被告 张某 曾 人民法院 提起 离婚 诉讼 原告 不 同意 离婚 遂 人民法院 判令 不准 离婚
+B_Time I_Time I_Time B_Person O O B_Court O B_DivorceLawsuit I_DivorceLawsuit O O O O O O B_Judgment I_Judgment I_Judgment
+原告 收到 判决书 后 考虑 双方 确 已 无 和好 段 痛苦 婚姻 中 解脱 现 请求 判决 准予 原 被告 离婚
+O O B_Document O O O O O O O O O O O O O O O O O O O

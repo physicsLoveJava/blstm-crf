@@ -1,0 +1,18 @@
+原被告 2010年 相识
+O B_Time B_Know
+2016年 8月 双方 确立 恋爱 关系
+B_Time I_Time O O B_BeInLove O
+同年 9月 14日 双方 办理 结婚 登记 手续
+B_Time I_Time I_Time O B_Marry I_Marry I_Marry I_Marry
+双方 均 系 再婚 无 共同 子女
+B_Person O O B_Remarry O O O
+当晚 财产 问题 发生 争吵 原被告 夫妻 感情 受到 严重 影响
+O O O O B_FamilyConflict O O O O O O
+双方 长期 分居
+O O B_Separation
+2017年 5月 24日 原告 提起 离婚 诉讼
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit
+天津市 宝坻区 人民法院 审理 后 2017年 6月 20日 作出 2017 津0115 民 初 4636 号 民事 判决书
+O O O O O B_Time I_Time I_Time O O O O O O O O O
+判决 驳回 原告 离婚 请求
+O B_Judgment I_Judgment I_Judgment I_Judgment

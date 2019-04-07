@@ -1,0 +1,12 @@
+原告 贾某 诉称 1999年 上半年 原 被告 经人介绍 相识
+O O O B_Time I_Time O O O B_Know
+后 媒人 家人 催促 下 双方 ×××× 年××月 12月 29日 登记 结婚
+O O O O O O B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚后 争吵
+B_FamilyConflict I_FamilyConflict
+2002年 农历 9月 10日 生育 子 杨某乙 ×××× 年×× 月×× 日 生育 女 杨某丙
+B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time I_Time B_Bear B_Gender B_Name
+2011年 5月份 生气 回 娘家 居住 今
+B_Time I_Time O B_Separation I_Separation I_Separation O
+2012年 9月份 法院 起诉 离婚 被告 保证 2012年 11月 12日 撤诉
+B_Time I_Time B_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O

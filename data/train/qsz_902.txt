@@ -1,0 +1,10 @@
+2005年 4月 1日 生育 女 康雨萱
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2016年 6月 16日 蓟州区 蓟县 民政局 补办 结婚 登记 手续
+B_Time I_Time I_Time O O O O B_Marry O O
+婚前 缺少 了解 婚后 原、被告 双方 发现 感情 不合 家庭 琐事 生气 吵架
+O O O O O O O O O O O O B_FamilyConflict
+2017年 3月 2日 被告 好逸恶劳 分文 不 挣 家庭 孩子 不 负 责任 原被告 发生 争吵 原生利 休租良 早 住 双方 千始分 男 积 土妻 感情 已 绑庄 砂烈 原告 曾 2017年 5月 8日 起诉 天津市 蓟州区 人民法院 贵院 出具 2017 津0119 民 初 5647 号 民事 裁定书 裁定 准许 康玉凤 撤回 起诉
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B_Person O B_Time I_Time I_Time B_DivorceLawsuit B_Court I_Court I_Court O O O O O O O O O O O O O B_Judgment I_Judgment
+现在 已 半 年 久 被告 仍 不 悔改 原 被告 双方 至今 仍 分居 至今 被告 双方 已 无 合好
+O O O O O O O O O O O O O O B_Separation O O O O O O

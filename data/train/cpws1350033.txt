@@ -1,0 +1,6 @@
+原告 徐某 甲 起诉 称 原 被告 2002年 上半年 经人介绍 相识 后于 ×××× 年×× 月××日 办理 结婚 登记 手续
+O O O O O O O B_Time I_Time O B_Know O B_Time I_Time I_Time O B_Marry O O
+×××× 年×× 月×× 日 双方 生育 子 取名 徐某乙 现年 九 岁
+B_Time I_Time I_Time I_Time O B_Bear B_Gender O B_Name O B_Age I_Age
+现 原告 无奈 特 法院 起诉 请求 判决 1 原 被告 离婚
+O B_Person O O O B_DivorceLawsuit O O O O O O

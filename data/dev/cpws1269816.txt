@@ -1,0 +1,10 @@
+原告 游 某某 诉称 被告 1998年 相识 自由 恋爱 后 2002年 4月 16日 登记 结婚 2007年 6月 11日 生育 子 游 甲
+O O O O O B_Time B_Know O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name I_Name
+婚后 双方 性格 不和 家庭 琐事 争吵 曾 协议 离婚 事宜
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+被告 外 不 回家 居住 双方 矛盾 加深
+B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+双方 目前 处于 分居 状态 互不 履行 夫妻 义务
+O O O B_Separation O O O O O
+2013年 3月 26日 被告 回家 后 拿刀 威胁 原告 要求 离婚 否则 实施 伤害 行为 原告 父亲 被告 进行 劝阻 过程 中 持 刀具 划伤 左手
+O O O O O O O O O O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence

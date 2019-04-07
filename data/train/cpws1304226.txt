@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 经人介绍 2012年 6月 20日 登记 结婚
+O O O O O O B_Time I_Time I_Time B_Marry I_Marry
+2013年 4月 6日 生 男孩
+B_Time I_Time I_Time B_Bear B_Gender
+双方 家庭 琐事 发生 矛盾 导致 夫妻 感情 彻底 破裂 现 起诉 法院 请求 法院 判决 原被告 离婚
+O O O B_FamilyConflict I_FamilyConflict O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O B_Court B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

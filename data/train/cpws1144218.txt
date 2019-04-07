@@ -1,0 +1,8 @@
+原 金某 起诉 称 原 2012年 3月 人 介绍 被告 认识 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time I_Time O O O B_Know B_Time I_Time I_Time I_Time B_Marry I_Marry
+婚前 双方 缺乏 了解 感情 基础 薄弱 难以 共同 生活 婚后 不久 便 分居 今
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O I_Separation
+2 被告 退还 结婚 前 原某 支付 彩礼 90000 元
+O O O O O B_Person O O O O
+被告 邵某 答 辩称 原 述 事实 不符 夫妻 感情 未 破裂 不 存在 分居 事实 不 同意 离婚
+B_Price I_Price O O O O O O O O O O O O O O O O O

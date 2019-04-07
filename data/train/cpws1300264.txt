@@ -1,0 +1,6 @@
+原告 符 某某 诉称 原 被告 2006年 1月 相识 2008年 7月 20日 办理 结婚 登记
+O O O O O O B_Time I_Time B_Know B_Time I_Time I_Time O B_Marry O
+2009年 4月 29日 生育 儿子 肖 某某
+O O O B_Bear O B_Name I_Name
+婚初 原 被告 夫妻 感情 后 家庭 生活 琐事 争吵 打闹 导致 夫妻 感情 破裂
+O O O O O O O O O O B_FamilyConflict O O O O

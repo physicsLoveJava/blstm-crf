@@ -1,0 +1,8 @@
+原 被告 2003年 夏 经人介绍 相识 确立 恋爱 关系 2004年 11月 14日 举行 仪式 后 同居 生活
+O O B_Time O O B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O O O O
+2006年 10月 5日 生育 子 赵明轩 2007年 10月 23日 补办 结婚 登记
+B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Marry I_Marry
+2008年 2月 8口 生育 女 赵明慧
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+家中 口常 开销 全部 山 原告 负担 为此 双方 发生 争吵 特别 2015年 被告 无故 找事 殴打 原告 现 原 被告 夫妻 感情 已经 彻底 破裂
+O O O O O O O O O O B_FamilyConflict O B_Time B_Person B_FamilyConflict I_FamilyConflict B_DomesticViolence B_Person O O O O O O O O

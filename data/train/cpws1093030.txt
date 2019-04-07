@@ -1,0 +1,6 @@
+原告 朱某 甲诉 称 原 被告 经人介绍 相识 恋爱 结婚 生育 两 小孩
+O O O O O O O B_Know O O B_Bear O O
+婚后 被告 缺乏 家庭 责任 常 原告 实施 家庭 暴力 家庭 重担 原告 人 支撑
+O B_Person O O O O B_Person O B_DomesticViolence I_DomesticViolence O O O O O
+原告 非 离婚 潇湘 学院 边上 指标 房 被告 所有 煤炭 处 西山 12 栋 2 单元 1 楼 房产 被告 弟弟 原告 居住 被告 弟弟 同意
+O O O O O O O O O O B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O O O

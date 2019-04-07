@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 1988年 8月 人 介绍 相识 恋爱 1990年 3月 夫妻 名义 同居 生活 1991年 3月 17日 生育 子
+O O O O O B_Time I_Time O O O B_BeInLove O O O O O O B_Time I_Time I_Time B_Bear I_Gender
+结婚 初期 原 被告 夫妻 关系 比较 融洽 时间 长 双方 性格 暴露 常 家庭 琐事 发生 纠纷 导致 夫妻 感情 彻底 破裂
+O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+现 原告 我院 提起 诉讼 请求 判决 原 被告 离婚 诉讼 费用 被告 承担
+O B_Person O B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

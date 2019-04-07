@@ -1,0 +1,6 @@
+原 告诉 称 原 被告 2012年 6月 24日 结婚 婚后 夫妻 感情 尚 好 恋爱 时间 短 相互 了解 不 深 生活 段 时间 后 发现 被告 心胸 狭窄 疑神 疑鬼 不准 原告 正常 交往 原告 情感 伤害 大
+O O O O O B_Time I_Time I_Time B_Marry O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2013年 3月 以来 被告 不 回家 居住 原告 回 娘家 串门 期间 共同 存款 50000 元 转移 更换 房门 钥匙 使 原告 长期 无法 回家 居住 更换 衣物 被告 父母 外 蓄意 毁 损 原告 名誉
+B_Time I_Time O O B_Separation I_Separation I_Separation O O O O O B_Wealth I_Wealth B_CommonProperty I_CommonProperty O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 所述 被告 50000 元 存款 转移 说法 错误 50000 元 被告 结婚 时 收 礼钱 被告 已 用于 家庭 生活 花销
+O O O B_Price I_Price B_Wealth O O O B_Price I_Price O O O O B_Wealth O O O O O O

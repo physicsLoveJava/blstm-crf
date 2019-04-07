@@ -1,0 +1,4 @@
+原 被告 2004年 经人介绍 相识 建立 恋爱 关系 双方 2005年 2月 21日 登记 结婚 2010年 9月 26日 双方 婚生 女孩 李子鑫 2015年 5月 22日 双方 婚生 男孩 李子恩
+O O B_Time O B_Know O O O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time O B_Bear B_Gender B_Name B_Time I_Time I_Time O B_Bear B_Gender B_Name
+双方 婚后 家务 琐事 争吵 打闹 导致 双方 感情 出现 裂痕 之后 双方 矛盾 越 米 越 激化 导致 双方 感情 彻底 破裂
+O O O O B_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict

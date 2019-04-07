@@ -1,0 +1,4 @@
+原告 吴某 诉称 原 被告 1998年 8月 人 介绍 相识 1999年 4月 20日 登记 结婚 2000年 7月 19日 生 女
+O O O O O B_Time I_Time O O B_Know B_Time I_Time I_Time B_Marry I_Marry I_Time I_Time I_Time B_Bear B_Gender
+现 双方 夫妻 感情 不合 已经 分居 年 久 夫妻 感情 确 已 破裂 请求 法院 判决 原 被告 离婚 婚生 女 原告 生活 抚养费 半 承担
+O O O O O O B_Separation I_Duration O O O O O O O O O O O B_DivorceLawsuit O O O O O O O

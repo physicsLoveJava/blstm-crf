@@ -1,0 +1,2 @@
+原 被告 经人介绍 相识 1999年 2月 26日 蓟州区 民政局 机关 办理 结婚 登记 手续 共同 生活 婚前 了解 少 婚后 双方 聚 少 分 被告 塘沽 筷子厂 上班 没有 孩子 原告 2006年 起诉 离婚 当时 被告 强烈 不 同意 离婚 双方 父母 反对 原告 撤诉 双方 共同 生活 段 时间 发现 感情 还 不 投
+O O O O B_Time I_Time I_Time O O O O B_Marry O O O O O O O O O O O O O O O O O O B_Person B_Time B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O O B_Judgment O O O O O O O O O O

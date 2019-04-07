@@ -1,0 +1,8 @@
+原告 王 某某 诉称 2010年 3月份 经人介绍 被告 相识 同年 9月 2日 登记 结婚 9月 12日 举行 婚礼 2011年 3月 2日 婚生 女 郭某孩 孩子 出生 抚养
+B_Person O O O B_Time I_Time O B_Person B_Know B_Time I_Time I_Time O B_Marry O O O O B_Time I_Time I_Time B_Bear I_Gender B_Name O O O
+被告 结合 前 隐瞒 真实 年龄 住房 情况 被告 了解 不够 婚姻 基础 差
+O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+2012年 7月 被告 妹子 挑唆 参与 下 次 被告 双方 互 不 理睬 形 陌路 其间 协商 离婚 无 果
+B_Time I_Time O O O O O I_DomesticViolence O O O O O O O O O O O O
+被告 郭某 辩称 不 同意 离婚 婚前 没有 隐瞒 年龄
+O O O O O O O B_Negated B_FamilyConflict I_FamilyConflict

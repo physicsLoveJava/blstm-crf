@@ -1,0 +1,4 @@
+原告 被告 1995年 11月 15日 登记 结婚 婚后 育 子 董宝玉 现 已 成年
+O O B_Time I_Time I_Time B_Marry I_Marry O B_Bear B_Gender B_Name O O B_Age
+导致 婚后 矛盾 不 断 被告 一言不合 辱骂 殴打 原告 原告 孩子 家庭 一再 忍让 被告 不知 悔改 无故 辱骂 殴打 原告 为此 原告 曾经 2017年 12月 4日 宁河区 人民法院 起诉 离婚 被告 无理 坚持 法院 未 予 判决 离婚
+O O O O O B_Person O B_DomesticViolence I_DomesticViolence B_Person O O O O O O O O O O O O O B_Person O B_Time I_Time I_Time B_Court I_Court B_DivorceLawsuit I_DivorceLawsuit O O O O O O O O

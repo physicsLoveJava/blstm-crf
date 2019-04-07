@@ -1,0 +1,8 @@
+原 被告 2015年 12月 22日 登记 结婚 2016年 11月 13日 生育 子 张斯宇 现 周 零八 月 婚前 了解 不够
+O O B_Time I_Time I_Time B_Marry I_Marry B_Time I_Time I_Time B_Bear I_Gender B_Name O I_Age I_Age I_Age O O O
+草率 成婚 导致 婚后 发生 矛盾
+O O O O O B_FamilyConflict
+被告 外面 找 小姐 孩子 都 漠不关心 对手
+B_Person O B_Derailed I_Derailed O O O O
+2018年 4月 10日 左右 分居 生活 已经 五 月 双方 感情 不好 被告 孩子 送 回 老家
+B_Time I_Time I_Time O B_Separation O O B_Duration I_Duration O O O O O O O O

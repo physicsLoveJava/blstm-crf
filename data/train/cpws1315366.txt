@@ -1,0 +1,8 @@
+原 告诉 称 原 被告 经人介绍 1991年 登记 结婚 1994年 6月 5日 生 女王 女 2000年 4月 1日 生 子 王男
+O O O O O O B_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 没有 共同语言 被告 动不动 大打出手 夫妻 感情 已经 破裂 要求 离婚
+O O O O B_Person O B_DomesticViolence B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict B_DivorceLawsuit I_DivorceLawsuit
+被告 家中 原告 陪嫁品 组合 家具 1 套 牡丹 缝纫机 1 台 圆桌 1 张 应 原告
+O O B_PersonalProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O
+共同 财产 彩电 1 台 洗衣机 1 台 存款 50000 元 被告 保管 应 平均 分割
+B_CommonProperty I_CommonProperty B_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth I_Wealth O O O O O

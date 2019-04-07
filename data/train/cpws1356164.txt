@@ -1,0 +1,10 @@
+原告 某某 诉称 被告 经人介绍 相识 后 仅 见面 次 父母 催促 下 草率 结婚 婚后 未 生育 子女
+O O O O O B_Know O O O O O O O O B_Marry O B_Negated B_Bear I_Bear
+被告 患 家庭 遗传性 精神病 婚后 愈来愈 严重 致 双方 根本 无法 沟通
+O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O
+2006年 处于 分居 状态 夫妻 关系 早已 名存实亡
+B_Time O B_Separation O O O O O
+现在 夫妻 感情 已 完全 破裂 请求 人民法院 判决 准予 被告 离婚
+O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O
+婚后 原、被告 夫妻 关系 好 被告 患 精神 分裂症 原 被告 共同 生活 期间 所得 不 遗传
+O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O

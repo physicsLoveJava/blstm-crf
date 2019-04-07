@@ -1,0 +1,8 @@
+原告 高 某某 诉称 2006年 5月 原告 东营 打工 时 被告 相识 当时 原告 年 仅 19 岁 受到 被告 欺骗 无奈 之下 被告 进行 交往
+O O O O B_Time I_Time O O O O O B_Know O O O O O O O O O O O O O B_BeInLove
+2007年 7月 14日 生育 女 席某 甲 后 后 当年 11月 8日 领取 结婚证
+B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name O O O B_Time I_Time B_Marry I_Marry
+婚前 骗 两 人 年龄 悬殊 9 岁 双方 没有 共同语言 特别 被告 脾气 暴躁 原告 进行 打骂
+O O O O O O O O O O O O B_Person O O B_Person O B_DomesticViolence
+现 原告 认为 双方 感情 已经 破裂 婚姻 无 维持 诉至法院 要求 被告席 某某 离婚
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O

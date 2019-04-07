@@ -1,0 +1,14 @@
+原告候 某某 诉称 原 被告 2000年 初 经人介绍 认识 2001年 6月 26日 原 被告 湖南省 沅陵县 原 沙金滩乡 民政所 办理 结婚 登记 手续
+O O O O O B_Time I_Time O B_Know B_Time I_Time I_Time O O O O O O O O B_Marry I_Marry O
+2002年 1月 1日 生育 子 候某
+B_Time I_Time I_Time B_Bear B_Gender B_Name
+2005年 7月 2日 共同 生育 女 候某甲
+B_Time I_Time I_Time O B_Bear B_Gender B_Name
+后 双方 性格 不合 家务 琐事 吵闹 致使 夫妻 关系 恶化
+O O I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+2010年 原告 外出 打工 被告 分居 生活
+B_Time O O O O B_Separation O
+原告 维持 挽救 家庭 先后 寄 回 20 余 万 元 沅陵县 沅陵镇 修建 房屋 栋
+O O O O O O O B_Price I_Price I_Price I_Price O O O B_Wealth I_Wealth
+2013年 3月 1日 原告 人民法院 起诉 离婚 同年 4月 22日 人民法院 判决 不 准 离婚 后 双方 处于 分居 状态 仍 未能 改善 关系
+B_Time I_Time I_Time B_Person O B_DivorceLawsuit I_DivorceLawsuit B_Time I_Time I_Time O O B_Judgment I_Judgment I_Judgment O O O O O O O O O

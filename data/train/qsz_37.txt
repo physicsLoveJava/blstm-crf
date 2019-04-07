@@ -1,0 +1,6 @@
+原被告 现 夫妻 关系 相识 1993年 6月 原 自由 恋爱 产生 感情 基础 一定 感情 后 双方 生活 一起 当时 原告 未 法定 年龄 未 领取 结婚证 今
+O O O O O B_Time I_Time O O B_BeInLove O O O O O O O O O O O O O O O O O O
+2017年 原告 发现 被告 附近 村 夫 妇 产生 爱 暖 关系
+O O O B_Person O O O O O B_Derailed I_Derailed O
+原告 发现 后 曾 质询 被告 被告 行为 予以 承认 声称 朋友 关系 继续 保持 非正当 关系
+O O O O O O O O O B_Negated O O O O O O O

@@ -1,0 +1,4 @@
+原告 刘 某某 诉称 被告 婚后 赌博 屡教不改 不尽 家庭 责任 原告 实施 家庭 暴力
+O O O O B_Person O I_BadHabit O O O O B_Person O B_DomesticViolence I_DomesticViolence
+被告 赖 某某 辩称 原 告诉 称 赌博 不尽 家庭 责任 原告 实施 家庭 暴力 均 不 事实
+O O O O O O O O O O O O O O O B_Negated I_Negated I_Negated

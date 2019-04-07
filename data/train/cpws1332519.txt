@@ -1,0 +1,4 @@
+原告 王某 诉称 原告 被告 1992年 3月 25日 登记 结婚 婚生子步 某甲 已 成年 婚生 女 步某 乙 现年 4 岁
+O O O O O B_Time I_Time I_Time B_Marry I_Marry B_Bear B_Name O O B_Bear B_Gender B_Name I_Name O O O
+婚前 仓促 结婚 双方 了解 不 婚后 发现 被告 脾气 暴躁 无故 打骂 原告
+O O O O O O O O B_Person O O B_DomesticViolence I_DomesticViolence B_Person

@@ -1,0 +1,10 @@
+原 被告 1987年 底 自由 恋爱 相识 1989年 7月 15日 原 被告 民政部门 办理 结婚 登记
+O O B_Time I_Time B_BeInLove I_BeInLove B_Know B_Time I_Time I_Time O O O O B_Marry I_Marry
+1990年 1月 13日 生 女 取名 耿洋 1997年 5月 8日 生 子 取名 耿旭
+B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time B_Bear B_Gender O B_Name
+婚初 原 被告 便 常 发生 争吵 后 争吵 愈演愈烈
+O O O O O O B_FamilyConflict O O O
+被告 脾气 暴躁 偶 暴力 殴打 原告 行为
+B_Person O O O O B_DomesticViolence B_Person O
+被告 女子 不 关系
+B_Person O I_Derailed I_Derailed

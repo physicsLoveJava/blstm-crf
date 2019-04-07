@@ -1,0 +1,6 @@
+原被告丁 201亭年 6月 相识 建立 恋爱 关系 2015年 7月 双方 同居 生活 2016年 3月 3II 双方 登记 结婚 原被告 均 系 再婚 原被告 结婚 以后 家务 琐事 发 矛盾 尤其 被告 不务正业 不 关 做 心 照顾 原告 还 争吵 打闹
+O B_Time I_Time B_Know B_BeInLove I_BeInLove I_BeInLove O O O O O B_Time I_Time I_Time O B_Marry I_Marry B_Person O O B_Remarry O O O O O O O O B_Person B_BadHabit O O O O O O O B_FamilyConflict I_FamilyConflict
+2016年 5月 中旬 原被告 琐事 发生 矛盾 原告 世娘家 居住
+B_Time I_Time I_Time O O O O O B_Separation I_Separation
+被告 却 不闻不问 直 没有 原告 联系 被告 行为 原告 身心 造成 伤害 造成 双方 感情 彻底 破裂 双方 分居 生活 举 今
+O O O O O O O O O O O O O O O O O O O O O B_Time I_Time

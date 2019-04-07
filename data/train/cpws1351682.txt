@@ -1,0 +1,6 @@
+原告 马某 诉称 原 被告 2008年 自由 恋爱 2009年 11月 15日 生 男孩 取名 马甲 ×××× 年×× 月×× 日 登记 结婚
+B_Person I_Person O O O B_Time O B_BeInLove B_Time I_Time I_Time B_Bear B_Gender O B_Name B_Time I_Time I_Time I_Time O B_Marry
+婚后 家庭 琐事 吵闹 无法 继续 共同 生活
+O O O B_FamilyConflict O O O O
+请求 依法 判 令 原 被告 离婚
+B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit

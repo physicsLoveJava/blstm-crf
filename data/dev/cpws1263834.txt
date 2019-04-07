@@ -1,0 +1,8 @@
+原告 张某 诉称 原 被告 1999年 2月 21日 登记 结婚 2000年 4月 30日 生育 小孩 蒙子豪
+O O O O O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear O B_Name
+婚前 缺乏 了解 婚后 原告 才 发现 被告 性格 狭隘 偏激 原告 疑神 疑鬼 毫无 信任 原告 稍 争辩 招 被告 殴打
+O O O O O O O B_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence I_DomesticViolence
+被告 粗暴 行为 致使 双方 感情 已 破裂 请求 人民法院 判决 原 被告 离婚
+O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit
+离婚 后 蒙子豪 2000年 4月 30日 出生 现 已 年 满 十三 周岁 属 法律 规定 一定 认知 能力 范围 表示 原 被告 离婚 愿意 跟随 原告 生活 人民法院 应当 尊重 意愿 判决 蒙子豪 原告 抚养
+O O B_Name B_Time I_Time I_Time B_Bear O O O O O O O O O O O O O O O O O O O O O O O O O O O O O

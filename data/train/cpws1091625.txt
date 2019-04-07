@@ -1,0 +1,2 @@
+原告 邓某 诉称 原 被告 ×××× 年×× 月×× 日 结婚 同年 8月 生 女孩 婚后 性格 不合 尚未 完全 建立 夫妻 感情 被告 长期 丢 下 原告 母女 生活
+O O O O O B_Time I_Time I_Time I_Time B_Marry B_Time I_Time B_Bear B_Gender O O O O O O O O O O O O O O O

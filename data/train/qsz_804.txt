@@ -1,0 +1,4 @@
+原被告 2004年 11月 24日 天津市 蓟州区 婚姻 登记 机关 登记 结婚
+O B_Time I_Time I_Time O O O O O B_Marry I_Marry
+2005年 08月 21日 生育 长子 刘子鸣
+B_Time I_Time I_Time B_Bear B_Gender B_Name

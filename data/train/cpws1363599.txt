@@ -1,0 +1,6 @@
+原告 刘某 诉称 原被告 经人介绍 2006年 相识 后 一起 共同 生活 2007年 6月 生 女 刘雨润 2010年 3月 9日 生 子 杜 坤峻
+O O O O O B_Time B_Know O O O O B_Time I_Time B_Bear B_Gender B_Name B_Time I_Time I_Time B_Bear B_Gender B_Name I_Name
+婚后 双方 性格 不合 再 被告 酗酒 双方 生活 琐事 吵架 打架 原告 无奈 夫妻 感情 破裂 为由 诉至法院 丰县 法院 2012 丰民 初字 第0325 号 民事 判决书 判决 不 准 离婚
+O O O O O O O O O O O O B_Person O O O O O B_DivorceLawsuit B_Court I_Court O B_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment I_Judgment
+原告 认为 双方 夫妻 感情 确 已 破裂 符合 离婚 法定 条件 请求 法院 判决 原被告 离婚 婚生 子女 原告 抚养 被告 负担 抚养费
+B_Person O O O O O O O O O O O B_DivorceLawsuit I_DivorceLawsuit I_DivorceLawsuit O O O O O O O O O

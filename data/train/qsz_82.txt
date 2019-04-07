@@ -1,0 +1,4 @@
+原 被告 2015年 经人介绍 相识 2015年 7月 31口 登记 离婚 婚后 无 子女
+O O B_Time O B_Know O O O O O O O O
+双方 性格各异 感情 不 已 2017年 7月 分开 居住 现 已 无 共同 生活 希望 原告 依据 我国 法律 规定 诉 人民法院
+O O O O O B_Time I_Time B_Separation I_Separation O O O O O O O O O O O O O

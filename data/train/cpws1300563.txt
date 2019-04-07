@@ -1,0 +1,4 @@
+原告 白×诉 称 被告 桓× 2005年 7月 相亲会 上 相识 相处 三 月 后 闪电 结婚 造成 目前 婚姻 悲剧
+O O O O O B_Time I_Time O O B_Know O O O O O B_Marry O O O O
+婚初 夫妻 感情 尚 发现 被告 家庭 没有 责任心 常常 喝酒 酒后 人 怀孕 时 仍 不 体贴 关心 父母 不 尊重 孩子 不 关心 现 夫妻 感情 已经 破裂
+O O O O O O O O O O O O I_DomesticViolence O O O O O O O O O O O O O O O O O

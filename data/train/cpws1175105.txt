@@ -1,0 +1,8 @@
+原告 李某 诉称 原 被告 2008年 经人介绍 相识 2011年 4月 29 登记 结婚 婚后 夫妻 感情 家庭 小事 争吵 被告 不 上班 在家 喝酒 找事
+O O O O O B_Time O B_Know B_Time I_Time I_Time B_Marry I_Marry O O O O O B_FamilyConflict O O O O O O
+双方 性格 不和 夫妻 分居 已 久 夫妻 关系 已 名存实亡
+O B_FamilyConflict I_FamilyConflict O B_Separation O O O O O O
+夫妻 关系 存续 期间 没有 夫妻 共同 财产 住 公房 被告 所有
+O O O O O O O O I_Wealth I_Wealth B_Person O
+被告 张 某某 辩称 原告 所述 事实 不符 原 被告 2005年 9月 经人介绍 相识 相识 结婚 段 时间 感情 挺 好
+O O O O O O O O O O B_Time I_Time O B_Know O O O O O O O

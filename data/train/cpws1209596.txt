@@ -1,0 +1,8 @@
+原告 吴某 起诉 称 原 被告 2011年 下半年 经人介绍 相识 被告系 离婚 ×××× 年×× 月××日 办理 结婚 登记 手续
+O O O O O O B_Time I_Time B_Know I_Know O O B_Time I_Time I_Time O B_Marry I_Marry O
+×××× 年×× 月×× 日 生育 子 取名 屠某 乙 现年 1 岁
+B_Time I_Time I_Time I_Time B_Bear B_Gender O B_Name I_Name O B_Age I_Age
+婚后 原告 怀孕 需 办理 生育 手续 怀孕 四 月 双方 发生 争吵 原告 回 娘家 居住 被告 分居 今
+O O O O O O O O O O O O O O O O O O B_Separation O
+原告 回 娘家 儿子 出生 今 段 期间 内 被告 探望 原告 儿子 次数 屈指可数 被告 丈夫 父亲 没有 应 义务 现 原告 解除 段 无 感情 婚姻 特诉 诸贵院 请求 法院 判 令 1 原被告 离婚
+O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O O O O O O O O O O O O O

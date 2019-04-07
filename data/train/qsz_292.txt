@@ -1,0 +1,6 @@
+后 2008年 1月 22日 登记 结婚 2007年 6月 12日 生育长 女王 湘尧
+O B_Time I_Time I_Time O B_Marry B_Time I_Time I_Time B_Bear B_Gender B_Name
+婚后 双方 感情 琐事 争吵 后 白 2017年 初 双方 矛盾 进一步 升级
+O O O O B_FamilyConflict O O O O O O O O
+长期 争吵 闹 矛盾 原告 2017年 2月份 被告 分居 至今
+O O O O O B_Time I_Time O B_Separation O

@@ -1,0 +1,8 @@
+原告 2015年 经人介绍 被告 相识 谈婚 双方 2015年 5月 12日 履行 结婚 登记 手续
+O B_Time O O B_Know O O B_Time I_Time I_Time O B_Marry I_Marry O
+2016年 8月 19日 生 女 名 韩依桐 周 零 11 月 婚前 原告 缺乏 被告 了解 相识 不久 双方 草率 结婚 婚后 二 人 感情 基础 差 再 双方 性格 不 投 没有 共同语言 无法 沟通
+B_Time I_Time I_Time B_Bear B_Gender O B_Name O O O O O O O O O O O O O O O O O O O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict O O O O
+双方 常 家庭 琐事 争吵 被告 回 娘家 居住 原告 接 回家 拒绝
+O O O O B_FamilyConflict O O O O O O O O
+原 被告 结婚 至今 三 年 有余 被告 娘家 居住 原告 分居 已 两 年 久
+O O O O O O O O O O O B_Separation O O O O

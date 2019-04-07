@@ -1,0 +1,6 @@
+原告 吴某 诉称 原 被告 媒人 介绍 相识 1990年 3月 21日 南宫市 民政局 办理 结婚 登记 婚后 生 女孩 刘某 甲 现年 18 周岁
+O O O O O O O O B_Time I_Time I_Time O O B_Marry I_Marry I_Marry O B_Bear B_Gender B_Name I_Name O B_Age I_Age
+婚后 发觉 性格 不和 没有 共同语言 家务 琐事 夫妻 发生 矛盾 特别 被告 成天 无所事事 游手好闲 不尽 家庭 义务 容 不 原告 句 劝说 稍 不 其意 原告 大打出手 为此 夫妻 争吵 原被告 感情 不 已 分居 近 年 时间 结婚 十几 年 原 被告 争吵 中 度过 原告 认为 夫妻 感情 确 已 破裂 无 和好
+O O O O O O O O O B_FamilyConflict I_FamilyConflict O B_Person O O O O O O O O B_Person O O O O O O B_DomesticViolence O O I_FamilyConflict O O O O B_Separation B_Duration I_Duration O O O O O O O O O O O O O O O O O O
+依法 分割 婚后 夫妻 共同 财产 25000 元
+O O O O B_Wealth I_Wealth B_Price I_Price

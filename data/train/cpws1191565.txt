@@ -1,0 +1,12 @@
+原告 陈某 诉称 原 被告 2007年 认识 2008年 7月 双方 确定 恋爱 关系 ×××× 年×× 月×× 日 登记 结婚
+O O O O O B_Time B_Know B_Time I_Time O O B_BeInLove O O O O O O B_Marry
+×××× 年×× 月×× 日 生育 子 李某 乙
+O O O O B_Bear B_Gender B_Name I_Name
+双方 性格 不合 导致 双方 感情 不合
+O O O O B_FamilyConflict I_FamilyConflict I_FamilyConflict
+原告 伤心欲绝 带 幼儿 2012年 12月 回 娘家 暂住
+O O O O B_Time I_Time B_Separation I_Separation I_Separation
+原告 回 娘家 至今 半 年 久 被告 原告 儿子 更 置之不理 变本加厉 实施 冷 暴力 儿子 生日 过年 过节 没有 问候 未 支付 生活 费用
+O O O O B_Duration I_Duration I_Duration O O O O O O O O O O O O O O O O O O O
+被告 李某 甲 辩称 原 告诉 称 事实 不符 原 被告 自由 恋爱 结合 婚后 生活 中 原告 逐渐 显露 公主 小姐 脾气 家务 能力 差 做事 拖拉 长辈 没 礼貌
+O O O O O O O O O O O O B_BeInLove I_BeInLove O O O O O O O O O O O O O O O O O

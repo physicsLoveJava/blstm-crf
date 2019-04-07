@@ -1,0 +1,4 @@
+原告 周 某某 诉称 原 被告 经人介绍 相识 2012年 3月 22日 登记 结婚 婚后 育 子 周禹鑫
+O O O O O O O B_Know B_Time I_Time I_Time O O O B_Bear B_Gender B_Name
+原 被告 婚前 了解 少 婚后 吵架 现 夫妻 感情 破裂 无法 继续 共同 生活
+O O O O O O B_FamilyConflict O O O O O O O O

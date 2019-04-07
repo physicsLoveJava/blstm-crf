@@ -1,0 +1,2 @@
+原 告诉 称 被告 婚后 家庭 生活 琐事 常 生气 吵架 现 夫妻 感情 已 完全 破裂 现 要求 被告 离婚 婚生 女儿 原告 抚养 被告 每月 支付 抚养费 300 元 共同 房产 套 原 被告 婚生 儿子 周景 所有 原 被告 均 居住权 共同 债务 原 被告 共同 承担
+O O O O O O O O O O B_FamilyConflict O O O O O O O O O O O O O O O O O O O O B_CommonProperty B_Wealth O O O O O O O O O O O O B_Debt O O O O
