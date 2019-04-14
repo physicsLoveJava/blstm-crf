@@ -5,7 +5,7 @@ import numpy as np
 model, (vocab, chunk_tags) = bilsm_crf_model.create_model(train=False)
 # predict_text = '中华人民共和国国务院总理周恩来在外交部长陈毅的陪同下，连续访问了埃塞俄比亚等非洲10国以及阿尔巴尼亚'
 # predict_text = '美国总统特朗普访问了韩国、日本等亚洲5国'
-predict_text = '狼佳子彧或许喜欢爱上了韩国、日本等亚洲5国'
+predict_text = '原告王某某诉称1986年12月26日原告被告登记结婚婚后生育子女均已成年'
 str, length = process_data.process_data(predict_text, vocab)
 model.load_weights('model/crf.h5')
 raw = model.predict(str)[0][-length:]

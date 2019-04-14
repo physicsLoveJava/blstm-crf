@@ -146,5 +146,57 @@ def process_data(data, vocab, maxlen=100):
     return x, length
 
 
-# if __name__ == '__main__':
-#     train = _parse_data(train_path)
+def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=None, onehot=False):
+    if maxlen is None:
+        maxlen = max(len(s) for s in data)
+    word2idx = dict((w, i) for i, w in enumerate(vocab))
+    chars2idx = dict((w, (i + 1)) for i, w in enumerate(chars_vocab))
+
+    x = [[word2idx.get(w[0].lower(), 1) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
+    chars_x = [[chars2idx.get(ws, 1) for w in s for ws in w[0]] for s in data]
+
+    char_maxlen = numpy.percentile(numpy.array([len(s) for s in chars_x]), 95)
+    y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
+
+    x = pad_sequences(x, maxlen)  # left padding
+    chars_x = pad_sequences(chars_x, int(char_maxlen))
+
+    y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
+
+    if onehot:
+        y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
+    else:
+        y_chunk = numpy.expand_dims(y_chunk, 2)
+    return x, chars_x, y_chunk
+
+
+def load_cnn_data():
+    word_vec = get_word2vec()
+    train = _parse_data(train_path)
+    test = _parse_data(test_path)
+
+    vocab = [w for (w, i) in word_vec.vocab.items()]
+    chunk_tags = list(set([row[1] for sample in train for row in sample]))
+
+    embedding_weights = create_embedding(vocab, word_vec)
+
+    chars_vocab = set([ws for w in vocab for ws in w])
+
+    # save initial config data
+    with open('model/chars_vocab-config.pkl', 'wb') as outp:
+        pickle.dump((vocab, chars_vocab, chunk_tags, embedding_weights), outp)
+
+    train = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
+    test = _process_cnn_data(test, word_vec, vocab, chars_vocab, chunk_tags)
+    return train, test, (vocab, chars_vocab, chunk_tags, embedding_weights)
+
+
+if __name__ == '__main__':
+    load_data()
+    train = _parse_data(train_path)
+    test = _parse_data(test_path)
+    dev = _parse_data(dev_path)
+    print(len(train))
+    print(len(test))
+    print(len(dev))
+    print(len(train) + len(test) + len(dev))

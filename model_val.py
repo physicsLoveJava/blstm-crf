@@ -9,3 +9,5 @@ with open('model/history.pkl', 'rb') as wd:
     hist.loc[:, ['val_crf_viterbi_accuracy']].plot(kind='line')
     hist.loc[:, ['loss']].plot(kind='line')
     hist.loc[:, ['val_loss']].plot(kind='line')
+
+
