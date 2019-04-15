@@ -7,7 +7,7 @@ from sklearn.model_selection import GridSearchCV
 
 import bilsm_crf_model
 
-EPOCHS = 10
+EPOCHS = 30
 model, (train_x, train_y), (test_x, test_y) = bilsm_crf_model.create_model()
 # train model
 split = 7000
