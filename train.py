@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 import bilsm_crf_model
 
-EPOCHS = 20
+EPOCHS = 10
 model, (train_x, train_y), (test_x, test_y) = bilsm_crf_model.create_model()
 # train model
 split = 7000
@@ -21,7 +21,7 @@ with open('model/history.pkl', 'wb') as wd:
     pickle.dump(history.history, wd)
     wd.close()
 
-plt.plot(history.history['crf_viterbi_accuracy'], 'b--')
-plt.plot(history.history['val_crf_viterbi_accuracy'], 'y-')
-plt.savefig('results/result_acc.png')
-plt.show()
+# plt.plot(history.history['crf_viterbi_accuracy'], 'b--')
+# plt.plot(history.history['val_crf_viterbi_accuracy'], 'y-')
+# plt.savefig('results/result_acc.png')
+# plt.show()
