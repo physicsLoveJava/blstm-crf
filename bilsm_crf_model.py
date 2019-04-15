@@ -1,6 +1,7 @@
 from keras.models import Sequential
 from keras.layers import Embedding, Bidirectional, LSTM, Dropout
 from keras_contrib.layers import CRF
+import keras
 import process_data
 import pickle
 
@@ -19,10 +20,11 @@ def create_model(train=True):
     model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
     # model.add(Dropout(0.1))
     model.add(Bidirectional(LSTM(BiRNN_UNITS // 2, recurrent_dropout=0.2, return_sequences=True)))
-    model.add(Dropout(0.3))
+    model.add(Dropout(0.5))
     crf = CRF(len(chunk_tags), sparse_target=True)
     model.add(crf)
     model.summary()
+    # model.compile('adam', loss=keras.losses.categorical_crossentropy, metrics=[keras.metrics.categorical_crossentropy])
     model.compile('adam', loss=crf.loss_function, metrics=[crf.accuracy])
     if train:
         return model, (train_x, train_y), (test_x, test_y)
