@@ -5,7 +5,7 @@ import process_data
 import pickle
 
 EMBED_DIM = 300
-BiRNN_UNITS = 300
+BiRNN_UNITS = 200
 
 
 def create_model(train=True):
