@@ -42,7 +42,7 @@ print(report)
 model.save('model/crf.h5')
 
 with open('model/report.pkl', 'wb') as wd:
-    pickle.dump(history.history, wd)
+    pickle.dump(report, wd)
     wd.close()
 
 # plt.plot(history.history['crf_viterbi_accuracy'], 'b--')
