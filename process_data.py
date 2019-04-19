@@ -71,6 +71,13 @@ def create_embedding(vocab, word_vec):
         idx = idx + 1
     return embedding_weights
 
+def load_dev_data():
+    dev = _parse_data(dev_path)
+    with open('model/config.pkl', 'rb') as inp:
+        (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
+    dev = _process_data(dev, [], vocab, chunk_tags)
+    return dev
+
 
 def load_data():
     word_vec = get_word2vec()
@@ -123,7 +130,7 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     # idx2word = word_vec.index2word
     # word2idx = {w: i for i, w in enumerate(idx2word)}
     word2idx = dict((w, i) for i, w in enumerate(vocab))
-    x = [[word2idx.get(w[0].lower(), 1) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
+    x,length = zip(*[([word2idx.get(w[0].lower(), 1) for w in s],len(s)) for s in data])  # set to <unk> (index 1) if not in sentences
 
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 
@@ -135,7 +142,7 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
         y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
     else:
         y_chunk = numpy.expand_dims(y_chunk, 2)
-    return x, y_chunk
+    return x, y_chunk, length
 
 
 def process_data(data, vocab, maxlen=100):
