@@ -1,10 +1,10 @@
 import pickle
 
 import keras
-import matplotlib.pyplot as plt
 import numpy as np
-import cnn_bilsm_crf_model
 from sklearn_crfsuite.metrics import flat_classification_report
+
+import cnn_bilsm_crf_model
 
 EPOCHS = 1
 model, (train_x, chars_x, train_y, word_len), (test_x, test_y) = cnn_bilsm_crf_model.create_model()

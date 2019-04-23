@@ -44,6 +44,6 @@ def create_model(train=True):
     model.summary()
     model.compile('adam', loss=crf.loss_function, metrics=[crf.accuracy])
     if train:
-        return model, (train_x, chars_x, train_y), (test_x, test_y)
+        return model, (train_x, chars_x, train_y, word_len), (test_x, test_y)
     else:
         return model, (vocab, chunk_tags)
