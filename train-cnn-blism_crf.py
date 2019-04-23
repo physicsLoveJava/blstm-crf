@@ -6,10 +6,10 @@ from sklearn_crfsuite.metrics import flat_classification_report
 
 import cnn_bilsm_crf_model
 
-EPOCHS = 1
+EPOCHS = 10
 model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y) = cnn_bilsm_crf_model.create_model()
 # train model
-split = 100
+split = 7000
 
 chars_x = np.array([[[ch] for ch in s] for s in chars_x])
 test_chars_x = np.array([[[ch] for ch in s] for s in test_chars_x])
