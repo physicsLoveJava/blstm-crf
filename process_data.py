@@ -153,7 +153,7 @@ def process_data(data, vocab, maxlen=100):
     return x, length
 
 
-def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=None, onehot=False):
+def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=None, charLen=None, onehot=False):
     if maxlen is None:
         maxlen = max(len(s) for s in data)
     word2idx = dict((w, i) for i, w in enumerate(vocab))
@@ -162,11 +162,13 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
     x = [[word2idx.get(w[0].lower(), 1) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
     chars_x = [[chars2idx.get(ws, 1) for w in s for ws in w[0]] for s in data]
 
-    char_maxlen = numpy.percentile(numpy.array([len(s) for s in chars_x]), 95)
+    if charLen is None:
+        charLen = numpy.percentile(numpy.array([len(s) for s in chars_x]), 95).astype(numpy.int32)
+
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 
     x = pad_sequences(x, maxlen)  # left padding
-    chars_x = pad_sequences(chars_x, int(char_maxlen))
+    chars_x = pad_sequences(chars_x, int(maxlen))
 
     y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
 
@@ -174,7 +176,7 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
         y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
     else:
         y_chunk = numpy.expand_dims(y_chunk, 2)
-    return x, chars_x, y_chunk
+    return x, chars_x, y_chunk, maxlen, charLen
 
 
 def load_cnn_data():
@@ -190,12 +192,13 @@ def load_cnn_data():
     chars_vocab = set([ws for w in vocab for ws in w])
 
     # save initial config data
-    with open('model/chars_vocab-config.pkl', 'wb') as outp:
-        pickle.dump((vocab, chars_vocab, chunk_tags, embedding_weights), outp)
+    x, chars_x, y_chunk, word_len, char_len = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
+    test = _process_cnn_data(test, word_vec, vocab, chars_vocab, chunk_tags, maxlen=word_len, charLen=char_len)
 
-    train = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
-    test = _process_cnn_data(test, word_vec, vocab, chars_vocab, chunk_tags)
-    return train, test, (vocab, chars_vocab, chunk_tags, embedding_weights)
+    with open('model/chars_vocab-config.pkl', 'wb') as outp:
+        pickle.dump((word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights), outp)
+    return (x, chars_x, y_chunk, word_len, char_len), test,\
+           (word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights)
 
 
 if __name__ == '__main__':
