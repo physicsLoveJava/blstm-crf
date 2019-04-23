@@ -34,6 +34,6 @@ report = flat_classification_report(y_pred=pred_id, y_true=dev_id)
 print(report)
 model.save('model/crf.h5')
 
-with open('model/report.pkl', 'wb') as wd:
+with open('model/report-cnn-blstm.pkl', 'wb') as wd:
     pickle.dump(report, wd)
     wd.close()
