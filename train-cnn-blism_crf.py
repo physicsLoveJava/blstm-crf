@@ -7,11 +7,13 @@ from sklearn_crfsuite.metrics import flat_classification_report
 import cnn_bilsm_crf_model
 
 EPOCHS = 1
-model, (train_x, chars_x, train_y, word_len), (test_x, test_y) = cnn_bilsm_crf_model.create_model()
+model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y) = cnn_bilsm_crf_model.create_model()
 # train model
-split = 6000
+split = 100
 
 chars_x = np.array([[[ch] for ch in s] for s in chars_x])
+test_chars_x = np.array([[[ch] for ch in s] for s in test_chars_x])
+
 history = model.fit([train_x[:split], chars_x[:split]], train_y[:split], batch_size=16, epochs=EPOCHS,
                     validation_data=[[train_x[split:], chars_x[split:]], train_y[split:]],
                     callbacks=[
@@ -19,7 +21,7 @@ history = model.fit([train_x[:split], chars_x[:split]], train_y[:split], batch_s
                         keras.callbacks.TensorBoard(log_dir='./cnn-logs', histogram_freq=1, batch_size=128)
                     ])
 
-pred_y = model.predict(test_x)
+pred_y = model.predict([test_x, test_chars_x])
 print(pred_y)
 pred_id = []
 dev_id = []
