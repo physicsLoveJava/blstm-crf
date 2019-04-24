@@ -7,7 +7,7 @@ from sklearn_crfsuite.metrics import flat_classification_report
 import cnn_bilsm_crf_model
 
 EPOCHS = 10
-model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y) = cnn_bilsm_crf_model.create_model()
+model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y, length) = cnn_bilsm_crf_model.create_model()
 # train model
 split = 7000
 
@@ -25,7 +25,7 @@ pred_y = model.predict([test_x, test_chars_x])
 print(pred_y)
 pred_id = []
 dev_id = []
-for pred_one_y, one_length, y in zip(pred_y, word_len, test_y):
+for pred_one_y, one_length, y in zip(pred_y, length, test_y):
     pred_id.append([np.argmax(x) for x in pred_one_y[-one_length:]])
     dev_id.append([yy[0] for yy in y[-one_length:]])
 

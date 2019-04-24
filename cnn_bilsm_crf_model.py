@@ -13,7 +13,7 @@ BiRNN_UNITS = 300
 
 def create_model(train=True):
     if train:
-        (train_x, chars_x, train_y, word_maxlen, char_maxlen), (test_x, test_chars_x, test_y, word_maxlen, char_maxlen), \
+        (train_x, chars_x, train_y, word_maxlen, char_maxlen), (test_x, test_chars_x, test_y, word_maxlen, char_maxlen, length), \
         (word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights) = process_data.load_cnn_data()
     else:
         with open('model/chars-config.pkl', 'rb') as inp:
@@ -44,6 +44,6 @@ def create_model(train=True):
     model.summary()
     model.compile('adam', loss=crf.loss_function, metrics=[crf.accuracy])
     if train:
-        return model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y)
+        return model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y, length)
     else:
         return model, (vocab, chunk_tags)

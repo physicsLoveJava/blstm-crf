@@ -160,6 +160,7 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
     chars2idx = dict((w, (i + 1)) for i, w in enumerate(chars_vocab))
 
     x = [[word2idx.get(w[0].lower(), 1) for w in s] for s in data]  # set to <unk> (index 1) if not in sentences
+    length = [len(s) for s in data]
     chars_x = [[chars2idx.get(ws, 1) for w in s for ws in w[0]] for s in data]
 
     if charLen is None:
@@ -176,7 +177,7 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
         y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
     else:
         y_chunk = numpy.expand_dims(y_chunk, 2)
-    return x, chars_x, y_chunk, maxlen, charLen
+    return x, chars_x, y_chunk, maxlen, charLen, length
 
 
 def load_cnn_data():
