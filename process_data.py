@@ -193,12 +193,12 @@ def load_cnn_data():
     chars_vocab = set([ws for w in vocab for ws in w])
 
     # save initial config data
-    x, chars_x, y_chunk, word_len, char_len = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
+    x, chars_x, y_chunk, word_len, char_len, x_length = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
     test = _process_cnn_data(test, word_vec, vocab, chars_vocab, chunk_tags, maxlen=word_len, charLen=char_len)
 
     with open('model/chars_vocab-config.pkl', 'wb') as outp:
         pickle.dump((word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights), outp)
-    return (x, chars_x, y_chunk, word_len, char_len), test,\
+    return (x, chars_x, y_chunk, word_len, char_len, x_length), test,\
            (word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights)
 
 
