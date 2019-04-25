@@ -31,9 +31,9 @@ for pred_one_y, one_length, y in zip(pred_y, length, dev_y):
     dev_id.append([yy[0] for yy in y[-one_length:]])
 
 labels = [[i] for tag, i in enumerate(chunk_tags) if tag is not 'O']
-tag_names = [[i] for tag, i in enumerate(chunk_tags) if tag is not 'O']
+tag_names = [[tag] for tag, i in enumerate(chunk_tags) if tag is not 'O']
 
-report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, tag_names=tag_names)
+report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, target_names=tag_names)
 
 print(report)
 model.save('model/crf.h5')
