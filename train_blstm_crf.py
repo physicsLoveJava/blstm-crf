@@ -38,8 +38,8 @@ for pred_one_y, one_length, y in zip(pred_y, dev_length, dev_y):
     pred_id.append([np.argmax(x) for x in pred_one_y[-one_length:]])
     dev_id.append([yy[0] for yy in y[-one_length:]])
 
-labels = [[i] for tag, i in enumerate(chunk_tags) if tag is not 'O']
-tag_names = [[tag] for tag, i in enumerate(chunk_tags) if tag is not 'O']
+labels = [i for i, tag in enumerate(chunk_tags) if tag is not 'O']
+tag_names = [tag for i, tag in enumerate(chunk_tags) if tag is not 'O']
 
 report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, target_names=tag_names)
 

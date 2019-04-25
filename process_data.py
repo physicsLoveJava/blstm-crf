@@ -36,7 +36,7 @@ def get_tags():
                 lines = fd.readlines()
                 first = [lines[i] for i in range(1, len(lines), 2)]
                 for line in first:
-                    tags.update(line.split(' '))
+                    tags.update(line.replace("\n", "").split(' '))
                 fd.close()
     return list(tags)
 
