@@ -9,7 +9,7 @@ import cnn_bilsm_crf_model
 EPOCHS = 10
 model, (train_x, chars_x, train_y, word_len), (
     test_x, test_chars_x, test_y, length), (vocab, chunk_tags) = cnn_bilsm_crf_model.create_model()
-dev_x, dev_chars_x, dev_y, dev_length = process_data.load_cnn_data(use_dev=True)
+dev_x, dev_chars_x, dev_y, _, _, dev_length = process_data.load_cnn_data(use_dev=True)
 # train model
 # split = 7000
 
