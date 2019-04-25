@@ -1,6 +1,6 @@
 import pickle
 
-from keras.layers import Embedding, Bidirectional, LSTM, Dropout,  \
+from keras.layers import Embedding, Bidirectional, LSTM, Dropout, \
     Input, TimeDistributed, Conv1D, MaxPooling1D, Flatten, concatenate
 from keras.models import Model
 from keras_contrib.layers import CRF
@@ -13,7 +13,8 @@ BiRNN_UNITS = 300
 
 def create_model(train=True):
     if train:
-        (train_x, chars_x, train_y, word_maxlen, char_maxlen, x_length), (test_x, test_chars_x, test_y, word_maxlen, char_maxlen, y_length), \
+        (train_x, chars_x, train_y, word_maxlen, char_maxlen, x_length), (
+            test_x, test_chars_x, test_y, word_maxlen, char_maxlen, y_length), \
         (word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights) = process_data.load_cnn_data()
     else:
         with open('model/chars-config.pkl', 'rb') as inp:
@@ -30,7 +31,8 @@ def create_model(train=True):
                                             100, mask_zero=False, name='char_embedding'))(char_in)
     # char_enc = TimeDistributed(LSTM(units=20, return_sequences=False, recurrent_dropout=0.5))(embed_chars)
     dropout = Dropout(0.5, name='char_dropout')(embed_chars)
-    conv1d_out = TimeDistributed(Conv1D(kernel_size=3, filters=100, padding='same', activation='tanh', strides=1, name='cov1d'))(
+    conv1d_out = TimeDistributed(
+        Conv1D(kernel_size=3, filters=100, padding='same', activation='tanh', strides=1, name='cov1d'))(
         dropout)
     maxpool_out = TimeDistributed(MaxPooling1D(1, name='max_pooling'))(conv1d_out)
     char = TimeDistributed(Flatten(name='flatten'))(maxpool_out)
@@ -44,6 +46,7 @@ def create_model(train=True):
     model.summary()
     model.compile('adam', loss=crf.loss_function, metrics=[crf.accuracy])
     if train:
-        return model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y, y_length)
+        return model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y, y_length), (
+            vocab, chunk_tags)
     else:
         return model, (vocab, chunk_tags)

@@ -1,7 +1,7 @@
 import os
 import pickle
 
-import numpy
+import numpy as np
 from gensim.models import KeyedVectors
 from gensim.models import word2vec
 from keras.preprocessing.sequence import pad_sequences
@@ -13,6 +13,32 @@ dev_path = 'data/dev'
 sentences_path = 'data/sentences/'
 padding_letter = '<pad>'
 embedding_size = 200
+
+
+def get_tags():
+    tuples = [
+        (train_path, 'train.txt'),
+        (test_path, 'test.txt'),
+        (dev_path, 'dev.txt'),
+    ]
+    tags = set([])
+
+    for (path, name) in tuples:
+        path = os.path.normpath(path)
+        files = os.listdir(path)
+        file_list = []
+        for f in files:
+            if os.path.isfile(os.path.join(path, f)):
+                file_list.append(os.path.join(path, f))
+
+        for f in file_list:
+            with open(f, encoding='utf-8') as fd:
+                lines = fd.readlines()
+                first = [lines[i] for i in range(1, len(lines), 2)]
+                for line in first:
+                    tags.update(line.split(' '))
+                fd.close()
+    return list(tags)
 
 
 def transform_only_sentences(path, name):
@@ -46,7 +72,7 @@ def build_word2vec():
     sentences = word2vec.PathLineSentences(sentences_path)
     model = word2vec.Word2Vec(sentences, size=embedding_size, hs=1, min_count=5)
     print(len(model.wv.vocab))
-    model.wv.add(padding_letter, numpy.zeros(model.wv.vector_size))
+    model.wv.add(padding_letter, np.zeros(model.wv.vector_size))
     print(len(model.wv.vocab))
     model.wv.save_word2vec_format(word2vec_path)
     return model.wv
@@ -61,15 +87,16 @@ def get_word2vec(rebuild=False):
 
 
 def create_embedding(vocab, word_vec):
-    embedding_weights = numpy.zeros((len(vocab) + 1, embedding_size))
+    embedding_weights = np.zeros((len(vocab) + 1, embedding_size))
     idx = 1
     for word in word_vec.vocab.items():
         if word in word_vec:
             embedding_weights[idx] = word_vec[word]
         else:
-            embedding_weights[idx] = numpy.random.uniform(-0.25, 0.25, word_vec.vector_size)
+            embedding_weights[idx] = np.random.uniform(-0.25, 0.25, word_vec.vector_size)
         idx = idx + 1
     return embedding_weights
+
 
 def load_dev_data():
     dev = _parse_data(dev_path)
@@ -79,13 +106,13 @@ def load_dev_data():
     return dev
 
 
-def load_data():
+def load_data(use_dev=None):
     word_vec = get_word2vec()
     train = _parse_data(train_path)
     test = _parse_data(test_path)
 
     vocab = [w for (w, i) in word_vec.vocab.items()]
-    chunk_tags = list(set([row[1] for sample in train for row in sample]))
+    chunk_tags = get_tags()
 
     embedding_weights = create_embedding(vocab, word_vec)
 
@@ -95,6 +122,10 @@ def load_data():
 
     train = _process_data(train, word_vec, vocab, chunk_tags)
     test = _process_data(test, word_vec, vocab, chunk_tags)
+    if use_dev is True:
+        dev = _parse_data(dev_path)
+        dev = _process_data(dev, word_vec, vocab, chunk_tags)
+        return dev
     return train, test, (vocab, chunk_tags, embedding_weights)
 
 
@@ -121,6 +152,7 @@ def _parse_data(path):
                     data.append([[first[i], second[i]] for i, w in enumerate(second)])
                 idx = idx + 1
             fd.close()
+    np.random.shuffle(data)
     return data
 
 
@@ -130,7 +162,8 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     # idx2word = word_vec.index2word
     # word2idx = {w: i for i, w in enumerate(idx2word)}
     word2idx = dict((w, i) for i, w in enumerate(vocab))
-    x,length = zip(*[([word2idx.get(w[0].lower(), 1) for w in s],len(s)) for s in data])  # set to <unk> (index 1) if not in sentences
+    x, length = zip(*[([word2idx.get(w[0].lower(), 1) for w in s], len(s)) for s in
+                      data])  # set to <unk> (index 1) if not in sentences
 
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 
@@ -139,9 +172,9 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
 
     if onehot:
-        y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
+        y_chunk = np.eye(len(chunk_tags), dtype='float32')[y_chunk]
     else:
-        y_chunk = numpy.expand_dims(y_chunk, 2)
+        y_chunk = np.expand_dims(y_chunk, 2)
     return x, y_chunk, length
 
 
@@ -164,7 +197,7 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
     chars_x = [[chars2idx.get(ws, 1) for w in s for ws in w[0]] for s in data]
 
     if charLen is None:
-        charLen = numpy.percentile(numpy.array([len(s) for s in chars_x]), 95).astype(numpy.int32)
+        charLen = np.percentile(np.array([len(s) for s in chars_x]), 95).astype(np.int32)
 
     y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
 
@@ -174,31 +207,35 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
     y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
 
     if onehot:
-        y_chunk = numpy.eye(len(chunk_tags), dtype='float32')[y_chunk]
+        y_chunk = np.eye(len(chunk_tags), dtype='float32')[y_chunk]
     else:
-        y_chunk = numpy.expand_dims(y_chunk, 2)
+        y_chunk = np.expand_dims(y_chunk, 2)
     return x, chars_x, y_chunk, maxlen, charLen, length
 
 
-def load_cnn_data():
+def load_cnn_data(use_dev=None):
     word_vec = get_word2vec()
+    vocab = [w for (w, i) in word_vec.vocab.items()]
+    chunk_tags = get_tags()
+    embedding_weights = create_embedding(vocab, word_vec)
+    chars_vocab = set([ws for w in vocab for ws in w])
+
     train = _parse_data(train_path)
     test = _parse_data(test_path)
 
-    vocab = [w for (w, i) in word_vec.vocab.items()]
-    chunk_tags = list(set([row[1] for sample in train for row in sample]))
-
-    embedding_weights = create_embedding(vocab, word_vec)
-
-    chars_vocab = set([ws for w in vocab for ws in w])
-
     # save initial config data
-    x, chars_x, y_chunk, word_len, char_len, x_length = _process_cnn_data(train, word_vec, vocab, chars_vocab, chunk_tags)
+    x, chars_x, y_chunk, word_len, char_len, x_length = _process_cnn_data(train, word_vec, vocab, chars_vocab,
+                                                                          chunk_tags)
     test = _process_cnn_data(test, word_vec, vocab, chars_vocab, chunk_tags, maxlen=word_len, charLen=char_len)
 
     with open('model/chars_vocab-config.pkl', 'wb') as outp:
         pickle.dump((word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights), outp)
-    return (x, chars_x, y_chunk, word_len, char_len, x_length), test,\
+
+    if use_dev is True:
+        dev = _parse_data(dev_path)
+        dev = _process_cnn_data(dev, word_vec, vocab, chars_vocab, chunk_tags, maxlen=word_len, charLen=char_len)
+        return dev
+    return (x, chars_x, y_chunk, word_len, char_len, x_length), test, \
            (word_len, char_len, vocab, chars_vocab, chunk_tags, embedding_weights)
 
 

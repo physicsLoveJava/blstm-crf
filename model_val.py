@@ -12,7 +12,7 @@ import pandas as pd
 #     hist.loc[:end, ['val_loss']].plot(kind='line')
 #     # hist.loc[:end, ['loss', 'val_loss']].plot(kind='line')
 
-with open('model/report-cnn-blstm.pkl', 'rb') as wd:
+with open('model/report.pkl', 'rb') as wd:
     report = pickle.load(wd)
     print(report)
 

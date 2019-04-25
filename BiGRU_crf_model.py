@@ -11,7 +11,8 @@ BiRNN_UNITS = 200
 
 def create_model(train=True):
     if train:
-        (train_x, train_y,train_length), (test_x, test_y,test_length), (vocab, chunk_tags, embedding_weights) = process_data.load_data()
+        (train_x, train_y, train_length), (test_x, test_y, test_length), (
+        vocab, chunk_tags, embedding_weights) = process_data.load_data()
     else:
         with open('model/config.pkl', 'rb') as inp:
             (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
@@ -27,6 +28,6 @@ def create_model(train=True):
     # model.compile('adam', loss=keras.losses.categorical_crossentropy, metrics=[keras.metrics.categorical_crossentropy])
     model.compile('adam', loss=crf.loss_function, metrics=[crf.accuracy])
     if train:
-        return model, (train_x, train_y,train_length), (test_x, test_y,test_length)
+        return model, (train_x, train_y, train_length), (test_x, test_y, test_length), (vocab, chunk_tags)
     else:
         return model, (vocab, chunk_tags)

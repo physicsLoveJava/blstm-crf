@@ -3,33 +3,39 @@ import pickle
 import keras
 import numpy as np
 from sklearn_crfsuite.metrics import flat_classification_report
-
+import process_data
 import cnn_bilsm_crf_model
 
 EPOCHS = 10
-model, (train_x, chars_x, train_y, word_len), (test_x, test_chars_x, test_y, length) = cnn_bilsm_crf_model.create_model()
+model, (train_x, chars_x, train_y, word_len), (
+    test_x, test_chars_x, test_y, length), (vocab, chunk_tags) = cnn_bilsm_crf_model.create_model()
+dev_x, dev_chars_x, dev_y, dev_length = process_data.load_cnn_data(use_dev=True)
 # train model
-split = 7000
+# split = 7000
 
 chars_x = np.array([[[ch] for ch in s] for s in chars_x])
 test_chars_x = np.array([[[ch] for ch in s] for s in test_chars_x])
 
-history = model.fit([train_x[:split], chars_x[:split]], train_y[:split], batch_size=16, epochs=EPOCHS,
-                    validation_data=[[train_x[split:], chars_x[split:]], train_y[split:]],
+history = model.fit([train_x, chars_x], train_y, batch_size=16, epochs=EPOCHS,
+                    validation_data=[[test_x, test_chars_x], test_y],
                     callbacks=[
                         # keras.callbacks.EarlyStopping(monitor='val_loss', patience=3, mode='auto'),
                         keras.callbacks.TensorBoard(log_dir='./cnn-logs', histogram_freq=1, batch_size=128)
                     ])
 
-pred_y = model.predict([test_x, test_chars_x])
-print(pred_y)
+# predict
+
+pred_y = model.predict([dev_x, dev_chars_x])
 pred_id = []
 dev_id = []
-for pred_one_y, one_length, y in zip(pred_y, length, test_y):
+for pred_one_y, one_length, y in zip(pred_y, length, dev_y):
     pred_id.append([np.argmax(x) for x in pred_one_y[-one_length:]])
     dev_id.append([yy[0] for yy in y[-one_length:]])
 
-report = flat_classification_report(y_pred=pred_id, y_true=dev_id)
+labels = [[i] for tag, i in enumerate(chunk_tags) if tag is not 'O']
+tag_names = [[i] for tag, i in enumerate(chunk_tags) if tag is not 'O']
+
+report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, tag_names=tag_names)
 
 print(report)
 model.save('model/crf.h5')
@@ -37,3 +43,4 @@ model.save('model/crf.h5')
 with open('model/report-cnn-blstm.pkl', 'wb') as wd:
     pickle.dump(report, wd)
     wd.close()
+
