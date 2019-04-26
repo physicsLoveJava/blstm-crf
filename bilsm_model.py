@@ -21,7 +21,7 @@ def create_model(train=True):
     model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
     # model.add(Dropout(0.1))
     model.add(Bidirectional(LSTM(BiRNN_UNITS // 2, recurrent_dropout=0.2, return_sequences=True)))
-    model.add(Dropout(0.5))
+    model.add(Dropout(0.7))
     model.add(TimeDistributed(Dense(len(chunk_tags) + 1, activation="softmax")))
     model.summary()
     model.compile('adam', loss="sparse_categorical_crossentropy", metrics=["acc"])

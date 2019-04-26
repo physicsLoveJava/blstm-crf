@@ -30,16 +30,17 @@ def create_model(train=True):
     embed_chars = TimeDistributed(Embedding(len(chars_vocab) + 2,
                                             100, mask_zero=False, name='char_embedding'))(char_in)
     # char_enc = TimeDistributed(LSTM(units=20, return_sequences=False, recurrent_dropout=0.5))(embed_chars)
-    dropout = Dropout(0.5, name='char_dropout')(embed_chars)
+    dropout = Dropout(0.3, name='char_dropout')(embed_chars)
     conv1d_out = TimeDistributed(
         Conv1D(kernel_size=3, filters=100, padding='same', activation='tanh', strides=1, name='cov1d'))(
         dropout)
     maxpool_out = TimeDistributed(MaxPooling1D(1, name='max_pooling'))(conv1d_out)
     char = TimeDistributed(Flatten(name='flatten'))(maxpool_out)
-    char = Dropout(0.5)(char)
+    char = Dropout(0.3)(char)
 
     x = concatenate([embed_words, char])
     x = Bidirectional(LSTM(BiRNN_UNITS // 2, recurrent_dropout=0.1, return_sequences=True, name='LSTM'))(x)
+    x = Dropout(0.7)(x)
     crf = CRF(len(chunk_tags), sparse_target=True)
     out = crf(x)
     model = Model([word_in, char_in], out)
