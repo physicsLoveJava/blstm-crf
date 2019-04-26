@@ -248,3 +248,33 @@ if __name__ == '__main__':
     print(len(test))
     print(len(dev))
     print(len(train) + len(test) + len(dev))
+
+
+def get_labels_tags(chunk_tags):
+    permit_tag = [
+        "B_Bear",
+        "B_Time",
+        "B_Name",
+        "I_Time",
+        "I_Document",
+        "B_Know",
+        "B_Gender",
+        "B_Remarry",
+        "I_Name",
+        "B_Separation",
+        "I_Court",
+        "I_Judgment",
+        "I_Duration",
+        "B_Age",
+        "B_Court",
+        "I_Marry",
+        "I_Age",
+        "I_Price",
+        "B_Price",
+        "B_BeInLove",
+        "B_Marry",
+    ]
+    labels = [i for i, tag in enumerate(chunk_tags) if tag in permit_tag]
+    tag_names = [tag for i, tag in enumerate(chunk_tags) if tag in permit_tag]
+    return labels, tag_names
+
