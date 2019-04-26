@@ -13,7 +13,29 @@ dev_path = 'data/dev'
 sentences_path = 'data/sentences/'
 padding_letter = '<pad>'
 embedding_size = 200
-
+permit_tag = [
+        "B_Bear",
+        "B_Time",
+        "B_Name",
+        "I_Time",
+        "I_Document",
+        "B_Know",
+        "B_Gender",
+        "B_Remarry",
+        "I_Name",
+        "B_Separation",
+        "I_Court",
+        "I_Judgment",
+        "I_Duration",
+        "B_Age",
+        "B_Court",
+        "I_Marry",
+        "I_Age",
+        "I_Price",
+        "B_Price",
+        "B_BeInLove",
+        "B_Marry",
+]
 
 def get_tags():
     tuples = [
@@ -129,6 +151,13 @@ def load_data(use_dev=None):
     return train, test, (vocab, chunk_tags, embedding_weights)
 
 
+def has_pertmit_tag(second):
+    for w in second:
+        if w in permit_tag:
+            return True
+    return False
+
+
 def _parse_data(path):
     #  in windows the new line is '\r\n\r\n' the space is '\r\n' . so if you use windows system,
     #  you have to use recorsponding instructions
@@ -149,7 +178,8 @@ def _parse_data(path):
                     first = line.split()
                 else:
                     second = line.split()
-                    data.append([[first[i], second[i]] for i, w in enumerate(second)])
+                    if has_pertmit_tag(second):
+                        data.append([[first[i], second[i]] for i, w in enumerate(second)])
                 idx = idx + 1
             fd.close()
     np.random.shuffle(data)
@@ -251,29 +281,6 @@ if __name__ == '__main__':
 
 
 def get_labels_tags(chunk_tags):
-    permit_tag = [
-        "B_Bear",
-        "B_Time",
-        "B_Name",
-        "I_Time",
-        "I_Document",
-        "B_Know",
-        "B_Gender",
-        "B_Remarry",
-        "I_Name",
-        "B_Separation",
-        "I_Court",
-        "I_Judgment",
-        "I_Duration",
-        "B_Age",
-        "B_Court",
-        "I_Marry",
-        "I_Age",
-        "I_Price",
-        "B_Price",
-        "B_BeInLove",
-        "B_Marry",
-    ]
     labels = [i for i, tag in enumerate(chunk_tags) if tag in permit_tag]
     tag_names = [tag for i, tag in enumerate(chunk_tags) if tag in permit_tag]
     return labels, tag_names
