@@ -44,7 +44,7 @@ for pred_one_y, one_length, y in zip(pred_y, length, dev_y):
 
 labels, tag_names = process_data.get_labels_tags(chunk_tags)
 
-report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, target_names=tag_names)
+report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels, target_names=tag_names, digits=4)
 
 print(report)
 model.save('model/crf.h5')
