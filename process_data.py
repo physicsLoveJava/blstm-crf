@@ -195,11 +195,11 @@ def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     x, length = zip(*[([word2idx.get(w[0].lower(), 1) for w in s], len(s)) for s in
                       data])  # set to <unk> (index 1) if not in sentences
 
-    y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
+    y_chunk = [[(chunk_tags.index(w[1]) + 1) for w in s] for s in data]
 
     x = pad_sequences(x, maxlen)  # left padding
 
-    y_chunk = pad_sequences(y_chunk, maxlen, value=-1)
+    y_chunk = pad_sequences(y_chunk, maxlen, value=0)
 
     if onehot:
         y_chunk = np.eye(len(chunk_tags), dtype='float32')[y_chunk]
@@ -229,7 +229,7 @@ def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=Non
     if charLen is None:
         charLen = np.percentile(np.array([len(s) for s in chars_x]), 95).astype(np.int32)
 
-    y_chunk = [[chunk_tags.index(w[1]) for w in s] for s in data]
+    y_chunk = [[(chunk_tags.index(w[1]) + 1) for w in s] for s in data]
 
     x = pad_sequences(x, maxlen)  # left padding
     chars_x = pad_sequences(chars_x, int(maxlen))
@@ -281,7 +281,7 @@ if __name__ == '__main__':
 
 
 def get_labels_tags(chunk_tags):
-    labels = [i for i, tag in enumerate(chunk_tags) if tag in permit_tag]
+    labels = [(i + 1) for i, tag in enumerate(chunk_tags) if tag in permit_tag]
     tag_names = [tag for i, tag in enumerate(chunk_tags) if tag in permit_tag]
     return labels, tag_names
 
