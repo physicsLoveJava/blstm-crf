@@ -13,10 +13,14 @@ import pandas as pd
 #     # hist.loc[:end, ['loss', 'val_loss']].plot(kind='line')
 
 # base = "去掉O的模型参数"
+# base = "25个参数"
+base = "25个参数dropout0.7"
 # base = "20个参数"
-base = "20个参数dropout0.7"
+# base = "20个参数dropout0.7"
 # base = "15个参数"
 # base = "15个参数dropout0.7"
+# base = "10个参数"
+# base = "10个参数dropout0.7"
 
 
 def parse_report():

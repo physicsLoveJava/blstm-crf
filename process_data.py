@@ -274,7 +274,7 @@ def _parse_data(path):
                         data.append([[first[i], second[i]] for i, w in enumerate(second)])
                 idx = idx + 1
             fd.close()
-    np.random.shuffle(data)
+    # np.random.shuffle(data)
     return data
 
 
