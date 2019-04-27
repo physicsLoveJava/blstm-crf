@@ -15,32 +15,58 @@ padding_letter = '<pad>'
 embedding_size = 200
 
 # 25
+permit_tag = [
+    "B_Bear",
+    "B_Time",
+    "B_Name",
+    "I_Time",
+    "I_Document",
+    "B_Know",
+    "B_Gender",
+    "B_Remarry",
+    "I_Name",
+    "B_Separation",
+    "I_Court",
+    "I_Judgment",
+    "I_Duration",
+    "B_Age",
+    "B_Court",
+    "I_Marry",
+    "I_Age",
+    "I_Price",
+    "B_Price",
+    "B_BeInLove",
+    "B_Marry",
+    "B_Judgment",
+    "B_DivorceLawsuit",
+    "B_DomesticViolence",
+]
 
 
 # 20
-permit_tag = [
-        "B_Bear",
-        "B_Time",
-        "B_Name",
-        "I_Time",
-        "I_Document",
-        "B_Know",
-        "B_Gender",
-        "B_Remarry",
-        "I_Name",
-        "B_Separation",
-        "I_Court",
-        "I_Judgment",
-        "I_Duration",
-        "B_Age",
-        "B_Court",
-        "I_Marry",
-        "I_Age",
-        "I_Price",
-        "B_Price",
-        "B_BeInLove",
-        "B_Marry",
-]
+# permit_tag = [
+#         "B_Bear",
+#         "B_Time",
+#         "B_Name",
+#         "I_Time",
+#         "I_Document",
+#         "B_Know",
+#         "B_Gender",
+#         "B_Remarry",
+#         "I_Name",
+#         "B_Separation",
+#         "I_Court",
+#         "I_Judgment",
+#         "I_Duration",
+#         "B_Age",
+#         "B_Court",
+#         "I_Marry",
+#         "I_Age",
+#         "I_Price",
+#         "B_Price",
+#         "B_BeInLove",
+#         "B_Marry",
+# ]
 
 # 15
 # permit_tag = [
@@ -58,6 +84,36 @@ permit_tag = [
 #     "I_Name",
 #     "B_Remarry",
 # ]
+
+
+def get_tags_count():
+    tuples = [
+        (train_path, 'train.txt'),
+        (test_path, 'test.txt'),
+        (dev_path, 'dev.txt'),
+    ]
+    tag_dicts = {}
+
+    for (path, name) in tuples:
+        path = os.path.normpath(path)
+        files = os.listdir(path)
+        file_list = []
+        for f in files:
+            if os.path.isfile(os.path.join(path, f)):
+                file_list.append(os.path.join(path, f))
+
+        tag_dict = {}
+        for f in file_list:
+            with open(f, encoding='utf-8') as fd:
+                lines = fd.readlines()
+                first = [lines[i] for i in range(1, len(lines), 2)]
+                for line in first:
+                    for tag in line.replace("\n", "").split(' '):
+                        count = tag_dict.get(tag, 0)
+                        tag_dict[tag] = count + 1
+                fd.close()
+        tag_dicts[name] = tag_dict
+    return tag_dicts
 
 
 def get_tags():
