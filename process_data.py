@@ -15,33 +15,32 @@ padding_letter = '<pad>'
 embedding_size = 200
 
 # 25
-permit_tag = [
-    "B_Bear",
-    "B_Time",
-    "B_Name",
-    "I_Time",
-    "I_Document",
-    "B_Know",
-    "B_Gender",
-    "B_Remarry",
-    "I_Name",
-    "B_Separation",
-    "I_Court",
-    "I_Judgment",
-    "I_Duration",
-    "B_Age",
-    "B_Court",
-    "I_Marry",
-    "I_Age",
-    "I_Price",
-    "B_Price",
-    "B_BeInLove",
-    "B_Marry",
-    "B_Judgment",
-    "B_DivorceLawsuit",
-    "B_DomesticViolence",
-]
-
+# permit_tag = [
+#     "B_Bear",
+#     "B_Time",
+#     "B_Name",
+#     "I_Time",
+#     "I_Document",
+#     "B_Know",
+#     "B_Gender",
+#     "B_Remarry",
+#     "I_Name",
+#     "B_Separation",
+#     "I_Court",
+#     "I_Judgment",
+#     "I_Duration",
+#     "B_Age",
+#     "B_Court",
+#     "I_Marry",
+#     "I_Age",
+#     "I_Price",
+#     "B_Price",
+#     "B_BeInLove",
+#     "B_Marry",
+#     "B_Judgment",
+#     "B_DivorceLawsuit",
+#     "B_DomesticViolence",
+# ]
 
 # 20
 # permit_tag = [
@@ -84,6 +83,20 @@ permit_tag = [
 #     "I_Name",
 #     "B_Remarry",
 # ]
+
+# 10
+permit_tag = [
+    "B_Bear",
+    "B_Time",
+    "B_Name",
+    "I_Time",
+    "I_Document",
+    "B_Know",
+    "B_Gender",
+    "B_Remarry",
+    "I_Name",
+    "B_Separation",
+]
 
 
 def get_tags_count():
