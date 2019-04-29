@@ -4,11 +4,11 @@ import keras
 import numpy as np
 from sklearn_crfsuite.metrics import flat_classification_report
 
-import bilsm_model
+import lstm_model
 import process_data
 
 EPOCHS = 10
-model, (train_x, train_y, _), (test_x, test_y, length), (vocab, chunk_tags) = bilsm_model.create_model()
+model, (train_x, train_y, _), (test_x, test_y, length), (vocab, chunk_tags) = lstm_model.create_model()
 dev_x, dev_y, dev_maxLen, dev_length = process_data.load_lstm_data(use_dev=True)
 # train model
 # split = 7000
@@ -50,7 +50,7 @@ report = flat_classification_report(y_pred=pred_id, y_true=dev_id, labels=labels
 print(report)
 model.save('model/crf.h5')
 
-with open('model/report-blstm.pkl', 'wb') as wd:
+with open('model/report-lstm.pkl', 'wb') as wd:
     pickle.dump(report, wd)
     wd.close()
 

@@ -22,7 +22,7 @@ def create_model(train=True):
     input = Input(shape=(train_max_len,))
     model = Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True)(input)
     model = Dropout(0.1)(model)
-    model = Bidirectional(LSTM(units=200, return_sequences=True, recurrent_dropout=0.1))(model)
+    model = LSTM(units=200, return_sequences=True, recurrent_dropout=0.1)(model)
     model = Dropout(0.7)(model)
     out = TimeDistributed(Dense(len(chunk_tags) + 1, activation="softmax"))(model)
     model = Model(input, out)
