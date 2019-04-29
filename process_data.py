@@ -246,7 +246,8 @@ def load_lstm_data(use_dev=None):
 
 def _process_lstm_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     if maxlen is None:
-        maxlen = max(len(s) for s in data)
+        # maxlen = max(len(s) for s in data)
+        maxlen = np.percentile(np.array([len(s) for s in data]), 95).astype(np.int32)
     # idx2word = word_vec.index2word
     # word2idx = {w: i for i, w in enumerate(idx2word)}
     word2idx = dict((w, i) for i, w in enumerate(vocab))
@@ -360,7 +361,8 @@ def process_data(data, vocab, maxlen=100):
 
 def _process_cnn_data(data, word_vec, vocab, chars_vocab, chunk_tags, maxlen=None, charLen=None, onehot=False):
     if maxlen is None:
-        maxlen = max(len(s) for s in data)
+        # maxlen = max(len(s) for s in data)
+        maxlen = np.percentile(np.array([len(s) for s in data]), 95).astype(np.int32)
     word2idx = dict((w, i) for i, w in enumerate(vocab))
     chars2idx = dict((w, (i + 1)) for i, w in enumerate(chars_vocab))
 
