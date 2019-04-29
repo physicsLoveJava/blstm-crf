@@ -5,6 +5,7 @@ import numpy as np
 from gensim.models import KeyedVectors
 from gensim.models import word2vec
 from keras.preprocessing.sequence import pad_sequences
+from keras.utils import to_categorical
 
 word2vec_path = 'model/word2vec.w2v'
 train_path = 'data/train'
@@ -218,6 +219,54 @@ def load_dev_data():
         (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
     dev = _process_data(dev, [], vocab, chunk_tags)
     return dev
+
+
+def load_lstm_data(use_dev=None):
+    word_vec = get_word2vec()
+    train = _parse_data(train_path)
+    test = _parse_data(test_path)
+
+    vocab = [w for (w, i) in word_vec.vocab.items()]
+    chunk_tags = get_tags()
+
+    embedding_weights = create_embedding(vocab, word_vec)
+
+    # save initial config data
+    with open('model/config.pkl', 'wb') as outp:
+        pickle.dump((vocab, chunk_tags, embedding_weights), outp)
+
+    train_x, train_y, maxlen, train_length = _process_lstm_data(train, word_vec, vocab, chunk_tags)
+    test = _process_lstm_data(test, word_vec, vocab, chunk_tags, maxlen=maxlen)
+    if use_dev is True:
+        dev = _parse_data(dev_path)
+        dev = _process_lstm_data(dev, word_vec, vocab, chunk_tags, maxlen=maxlen)
+        return dev
+    return (train_x, train_y, maxlen, train_length), test, (vocab, maxlen, chunk_tags, embedding_weights)
+
+
+def _process_lstm_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
+    if maxlen is None:
+        maxlen = max(len(s) for s in data)
+    # idx2word = word_vec.index2word
+    # word2idx = {w: i for i, w in enumerate(idx2word)}
+    word2idx = dict((w, i) for i, w in enumerate(vocab))
+    x, length = zip(*[([word2idx.get(w[0].lower(), 1) for w in s], len(s)) for s in
+                      data])  # set to <unk> (index 1) if not in sentences
+
+    y_chunk = [[(chunk_tags.index(w[1]) + 1) for w in s] for s in data]
+
+    x = pad_sequences(x, maxlen)  # left padding
+
+    y_chunk = pad_sequences(y_chunk, maxlen, value=0)
+
+    if onehot:
+        y_chunk = np.eye(len(chunk_tags), dtype='float32')[y_chunk]
+    else:
+        # y_chunk = np.expand_dims(y_chunk, 2)
+        y_chunk = np.array([[to_categorical(i, num_classes=len(chunk_tags) + 1) for i in s] for s in y_chunk])
+    # y = np.array([to_categorical(i, num_classes=len(chunk_tags) + 1) for s in y_chunk for i in s])
+    print(y_chunk.shape)
+    return x, y_chunk, maxlen, length
 
 
 def load_data(use_dev=None):

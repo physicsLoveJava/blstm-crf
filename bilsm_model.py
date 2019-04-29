@@ -1,3 +1,4 @@
+from keras import Input, Model
 from keras.models import Sequential
 from keras.layers import Embedding, Bidirectional, LSTM, Dropout, Dense, TimeDistributed
 from keras_contrib.layers import CRF
@@ -11,21 +12,23 @@ BiRNN_UNITS = 200
 
 def create_model(train=True):
     if train:
-        (train_x, train_y, train_length), (test_x, test_y, test_length), (
-            vocab, chunk_tags, embedding_weights) = process_data.load_data()
+        (train_x, train_y, train_max_len, train_length), (
+            test_x, test_y, test_max_len, test_length), \
+            (vocab, maxlen, chunk_tags, embedding_weights) = process_data.load_lstm_data()
     else:
-        with open('model/config.pkl', 'rb') as inp:
+        with open('model/chars-config.pkl', 'rb') as inp:
             (vocab, chunk_tags, embedding_weights) = pickle.load(inp)
-    model = Sequential()
-    # model.add(Embedding(len(vocab) + 1, EMBED_DIM, weights=[embedding_weights], mask_zero=True))  # Random embedding
-    model.add(Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True))  # Random embedding
-    # model.add(Dropout(0.1))
-    model.add(Bidirectional(LSTM(BiRNN_UNITS // 2, recurrent_dropout=0.2, return_sequences=True)))
-    model.add(Dropout(0.7))
-    model.add(TimeDistributed(Dense(len(chunk_tags) + 1, activation="softmax")))
+
+    input = Input(shape=(train_max_len,))
+    model = Embedding(len(vocab) + 1, EMBED_DIM, mask_zero=True)(input)
+    model = Dropout(0.1)(model)
+    model = Bidirectional(LSTM(units=100, return_sequences=True, recurrent_dropout=0.1))(model)
+    model = Dropout(0.7)(model)
+    out = TimeDistributed(Dense(len(chunk_tags) + 1, activation="softmax"))(model)
+    model = Model(input, out)
     model.summary()
-    model.compile('adam', loss="sparse_categorical_crossentropy", metrics=["acc"])
+    model.compile('adam', loss="categorical_crossentropy", metrics=["accuracy"])
     if train:
-        return model, (train_x, train_y, train_length), (test_x, test_y, test_length), (vocab, chunk_tags)
+        return model, (train_x, train_y, train_max_len), (test_x, test_y, test_max_len), (vocab, chunk_tags)
     else:
         return model, (vocab, chunk_tags)
