@@ -69,35 +69,35 @@ embedding_size = 200
 # ]
 
 # 15
-# permit_tag = [
-#     "I_Time",
-#     "B_Time",
-#     "B_Marry",
-#     "I_Marry",
-#     "B_Bear",
-#     "I_Judgment",
-#     "B_Name",
-#     "I_Document",
-#     "B_Gender",
-#     "B_Separation",
-#     "B_Know",
-#     "I_Name",
-#     "B_Remarry",
-# ]
+permit_tag = [
+    "I_Time",
+    "B_Time",
+    "B_Marry",
+    "I_Marry",
+    "B_Bear",
+    "I_Judgment",
+    "B_Name",
+    "I_Document",
+    "B_Gender",
+    "B_Separation",
+    "B_Know",
+    "I_Name",
+    "B_Remarry",
+]
 
 # 10
-permit_tag = [
-    "B_Bear",
-    "B_Time",
-    "B_Name",
-    "I_Time",
-    "I_Document",
-    "B_Know",
-    "B_Gender",
-    "B_Remarry",
-    "I_Name",
-    "B_Separation",
-]
+# permit_tag = [
+#     "B_Bear",
+#     "B_Time",
+#     "B_Name",
+#     "I_Time",
+#     "I_Document",
+#     "B_Know",
+#     "B_Gender",
+#     "B_Remarry",
+#     "I_Name",
+#     "B_Separation",
+# ]
 
 
 def get_tags_count():
@@ -329,7 +329,8 @@ def _parse_data(path):
 
 def _process_data(data, word_vec, vocab, chunk_tags, maxlen=None, onehot=False):
     if maxlen is None:
-        maxlen = max(len(s) for s in data)
+        # maxlen = max(len(s) for s in data)
+        maxlen = np.percentile(np.array([len(s) for s in data]), 95).astype(np.int32)
     # idx2word = word_vec.index2word
     # word2idx = {w: i for i, w in enumerate(idx2word)}
     word2idx = dict((w, i) for i, w in enumerate(vocab))
